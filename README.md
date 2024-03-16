@@ -32,4 +32,7 @@ dry sort of way.  Tyler looks at his watch.
          you only speak in vowels.
 
 Jack tongues the barrel to the side of his mouth.
+
+                     JACK
+               (still distorted)
 </pre>
