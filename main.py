@@ -18,7 +18,7 @@ def main():
 
 def build_commit_time_list():
     for hour in range(11):
-        c.commit_time_list.append(datetime.time(hour=23, minute=15 + hour, second=0))
+        c.commit_time_list.append(datetime.time(hour=2 * hour, minute=0, second=0))
 
 
 def schedule_job():
