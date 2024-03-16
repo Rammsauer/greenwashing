@@ -18,4 +18,5 @@ is blond, handsome; and Jack, brunette, is appealing in a
 dry sort of way.  Tyler looks at his watch.
 
                      TYLER
+         One minute.
 </pre>
