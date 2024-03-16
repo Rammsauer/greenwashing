@@ -35,4 +35,5 @@ Jack tongues the barrel to the side of his mouth.
 
                      JACK
                (still distorted)
+         I can't think of anything.
 </pre>
