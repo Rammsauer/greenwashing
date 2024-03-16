@@ -33,7 +33,7 @@ def write_nextline():
         output_string = f.readlines()
 
     file = open('outputFile', 'a')
-    readme = open('README.md', 'w')
+    readme = open('../README.md', 'w')
 
     file.write(f'{input_string[len(output_string)]}')
     file.close()
