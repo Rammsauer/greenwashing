@@ -1,3 +1,0 @@
-<pre>
-SCREEN BLACK
-</pre>
