@@ -34,10 +34,10 @@ def git_login():
 
 
 def create_commit():
-    system("git fetch")
-    system("git add README.md")
+    system("git add README.md")    
     system("git add outputFile")
     system(f"git commit -m \"Quasimoto - Greenery\"")
+    system("git pull")
     system("git push")
 
 
