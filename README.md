@@ -6,4 +6,6 @@ SCREEN BLACK
     know Tyler Durden.
 
 FADE IN:
+
+INT.  SOCIAL ROOM - TOP FLOOR OF HIGH RISE -- NIGHT
 </pre>
