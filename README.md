@@ -19,4 +19,5 @@ dry sort of way.  Tyler looks at his watch.
 
                 TYLER
     One minute.
+        (looking out window)
 </pre>
