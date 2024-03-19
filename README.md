@@ -14,4 +14,5 @@ holds a HANDGUN with the barrel lodged in JACK'S MOUTH.
 Tyler is sitting in Jack's lap.
 
 They are both sweating and disheveled, both around 30; Tyler
+is blond, handsome; and Jack, brunette, is appealing in a
 </pre>
