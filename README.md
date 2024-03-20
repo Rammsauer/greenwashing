@@ -26,4 +26,6 @@ dry sort of way.  Tyler looks at his watch.
 
                 JACK
     ... i... ann....iinn.. ff....nnyin...
+
+                JACK (V.O.)
 </pre>
