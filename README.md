@@ -25,4 +25,5 @@ dry sort of way.  Tyler looks at his watch.
     few words, to mark the occasion.
 
                 JACK
+    ... i... ann....iinn.. ff....nnyin...
 </pre>
