@@ -20,4 +20,5 @@ dry sort of way.  Tyler looks at his watch.
                 TYLER
     One minute.
         (looking out window)
+    This is the beginning.  We're at
 </pre>
