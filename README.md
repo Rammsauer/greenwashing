@@ -30,4 +30,6 @@ dry sort of way.  Tyler looks at his watch.
                 JACK (V.O.)
     With a gun barrel between your teeth,
     you only speak in vowels.
+
+Jack tongues the barrel to the side of his mouth.
 </pre>
