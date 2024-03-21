@@ -34,4 +34,5 @@ dry sort of way.  Tyler looks at his watch.
 Jack tongues the barrel to the side of his mouth.
 
                 JACK
+        (still distorted)
 </pre>
