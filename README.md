@@ -28,4 +28,5 @@ dry sort of way.  Tyler looks at his watch.
     ... i... ann....iinn.. ff....nnyin...
 
                 JACK (V.O.)
+    With a gun barrel between your teeth,
 </pre>
