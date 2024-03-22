@@ -38,4 +38,5 @@ Jack tongues the barrel to the side of his mouth.
     I can't think of anything.
 
                 JACK (V.O.)
+    With my tongue, I can feel the
 </pre>
