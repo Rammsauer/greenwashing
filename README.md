@@ -39,4 +39,5 @@ Jack tongues the barrel to the side of his mouth.
 
                 JACK (V.O.)
     With my tongue, I can feel the
+    rifling in the barrel.  For a second,
 </pre>
