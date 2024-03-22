@@ -42,4 +42,5 @@ Jack tongues the barrel to the side of his mouth.
     rifling in the barrel.  For a second,
     I totally forgot about Tyler's whole
     controlled demolition thing and I
+    wondered how clean this gun is.
 </pre>
