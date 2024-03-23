@@ -50,4 +50,5 @@ Tyler checks his watch.
     It's getting exciting now.
 
                 JACK (V.O.)
+    That old saying, how you always hurt
 </pre>
