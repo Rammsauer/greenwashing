@@ -51,4 +51,5 @@ Tyler checks his watch.
 
                 JACK (V.O.)
     That old saying, how you always hurt
+    the one you love, well, it works both
 </pre>
