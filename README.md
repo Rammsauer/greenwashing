@@ -47,4 +47,5 @@ Jack tongues the barrel to the side of his mouth.
 Tyler checks his watch.
 
                 TYLER
+    It's getting exciting now.
 </pre>
