@@ -43,4 +43,6 @@ Jack tongues the barrel to the side of his mouth.
     I totally forgot about Tyler's whole
     controlled demolition thing and I
     wondered how clean this gun is.
+
+Tyler checks his watch.
 </pre>
