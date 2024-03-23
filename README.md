@@ -45,4 +45,6 @@ Jack tongues the barrel to the side of his mouth.
     wondered how clean this gun is.
 
 Tyler checks his watch.
+
+                TYLER
 </pre>
