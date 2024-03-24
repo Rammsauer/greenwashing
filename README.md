@@ -57,4 +57,5 @@ Tyler checks his watch.
 Jack turns so that he can see down -- 31 STORIES.
 
                 JACK (V.O.)
+    We have front row seats for this
 </pre>
