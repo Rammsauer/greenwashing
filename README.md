@@ -55,4 +55,6 @@ Tyler checks his watch.
     way.
 
 Jack turns so that he can see down -- 31 STORIES.
+
+                JACK (V.O.)
 </pre>
