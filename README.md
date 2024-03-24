@@ -53,4 +53,6 @@ Tyler checks his watch.
     That old saying, how you always hurt
     the one you love, well, it works both
     way.
+
+Jack turns so that he can see down -- 31 STORIES.
 </pre>
