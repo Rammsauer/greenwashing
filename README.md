@@ -66,4 +66,5 @@ Jack turns so that he can see down -- 31 STORIES.
     charges will blow base charges, and
     those buildings will be reduced to
     smoldering rubble.  I know this
+    because Tyler knows this.
 </pre>
