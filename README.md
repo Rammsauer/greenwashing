@@ -64,4 +64,5 @@ Jack turns so that he can see down -- 31 STORIES.
     of ten buildings with blasting
     gelatin.  In two minutes, primary
     charges will blow base charges, and
+    those buildings will be reduced to
 </pre>
