@@ -63,4 +63,5 @@ Jack turns so that he can see down -- 31 STORIES.
     Mayhem wrapped the foundation columns
     of ten buildings with blasting
     gelatin.  In two minutes, primary
+    charges will blow base charges, and
 </pre>
