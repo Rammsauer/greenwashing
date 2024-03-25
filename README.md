@@ -62,4 +62,5 @@ Jack turns so that he can see down -- 31 STORIES.
     Demolitions Committee of Project
     Mayhem wrapped the foundation columns
     of ten buildings with blasting
+    gelatin.  In two minutes, primary
 </pre>
