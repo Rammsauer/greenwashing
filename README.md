@@ -65,4 +65,5 @@ Jack turns so that he can see down -- 31 STORIES.
     gelatin.  In two minutes, primary
     charges will blow base charges, and
     those buildings will be reduced to
+    smoldering rubble.  I know this
 </pre>
