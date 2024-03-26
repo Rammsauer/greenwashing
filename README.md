@@ -71,4 +71,5 @@ Jack turns so that he can see down -- 31 STORIES.
                 TYLER
     Look what we've accomplised.
         (checks watch)
+    Thirty seconds.
 </pre>
