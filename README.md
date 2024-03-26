@@ -67,4 +67,6 @@ Jack turns so that he can see down -- 31 STORIES.
     those buildings will be reduced to
     smoldering rubble.  I know this
     because Tyler knows this.
+
+                TYLER
 </pre>
