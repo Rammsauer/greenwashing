@@ -80,4 +80,5 @@ Jack turns so that he can see down -- 31 STORIES.
 
 PULL BACK from Jack's face.  It's pressed against TWO LARGE
 BREASTS that belong to...BOB, 45, a moose of a man.  Jack is
+engulfed by Bob in an intense embrace.  Bob weeps openly.
 </pre>
