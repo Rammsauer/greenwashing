@@ -76,4 +76,5 @@ Jack turns so that he can see down -- 31 STORIES.
                 JACK (V.O.)
     Somehow, I realize all of this -- the
     gun, the bombs, the revolution -- is
+    really about Marla Singer.
 </pre>
