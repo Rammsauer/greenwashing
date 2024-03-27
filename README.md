@@ -83,4 +83,5 @@ BREASTS that belong to...BOB, 45, a moose of a man.  Jack is
 engulfed by Bob in an intense embrace.  Bob weeps openly.
 
                 JACK (V.O.)
+    Bob had bitch tits.
 </pre>
