@@ -84,4 +84,6 @@ engulfed by Bob in an intense embrace.  Bob weeps openly.
 
                 JACK (V.O.)
     Bob had bitch tits.
+
+PULL BACK to wide on...
 </pre>
