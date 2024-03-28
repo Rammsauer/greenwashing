@@ -86,4 +86,6 @@ engulfed by Bob in an intense embrace.  Bob weeps openly.
     Bob had bitch tits.
 
 PULL BACK to wide on...
+
+INT. CHURCH MEETING ROOM - NIGHT
 </pre>
