@@ -88,4 +88,6 @@ engulfed by Bob in an intense embrace.  Bob weeps openly.
 PULL BACK to wide on...
 
 INT. CHURCH MEETING ROOM - NIGHT
+
+Men are paired off, hugging, talking in emotional tones.
 </pre>
