@@ -90,4 +90,5 @@ PULL BACK to wide on...
 INT. CHURCH MEETING ROOM - NIGHT
 
 Men are paired off, hugging, talking in emotional tones.
+Near the door, a SIGN on a stand: "REMAINING MEN TOGETHER."
 </pre>
