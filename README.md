@@ -98,4 +98,5 @@ Near the door, a SIGN on a stand: "REMAINING MEN TOGETHER."
     slobbering all over me was Bob.
 
                 BOB
+    We're still men.
 </pre>
