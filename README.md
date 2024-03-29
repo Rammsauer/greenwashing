@@ -93,4 +93,5 @@ Men are paired off, hugging, talking in emotional tones.
 Near the door, a SIGN on a stand: "REMAINING MEN TOGETHER."
 
                 JACK (V.O.)
+    This was a support group for men with
 </pre>
