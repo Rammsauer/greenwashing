@@ -104,4 +104,5 @@ Near the door, a SIGN on a stand: "REMAINING MEN TOGETHER."
     Yes.  We're men.  Men is what we are.
 
                 JACK (V.O.)
+    Six months ago, Bob's testicles were
 </pre>
