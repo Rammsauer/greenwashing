@@ -101,4 +101,5 @@ Near the door, a SIGN on a stand: "REMAINING MEN TOGETHER."
     We're still men.
 
                 JACK
+    Yes.  We're men.  Men is what we are.
 </pre>
