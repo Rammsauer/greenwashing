@@ -105,4 +105,5 @@ Near the door, a SIGN on a stand: "REMAINING MEN TOGETHER."
 
                 JACK (V.O.)
     Six months ago, Bob's testicles were
+    removed.  Then hormone therapy.  He
 </pre>
