@@ -99,4 +99,6 @@ Near the door, a SIGN on a stand: "REMAINING MEN TOGETHER."
 
                 BOB
     We're still men.
+
+                JACK
 </pre>
