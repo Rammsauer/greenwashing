@@ -115,4 +115,5 @@ Near the door, a SIGN on a stand: "REMAINING MEN TOGETHER."
 
                 BOB
     They're gonna have to open my pec's
+    again to drain the fluid.
 </pre>
