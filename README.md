@@ -109,4 +109,5 @@ Near the door, a SIGN on a stand: "REMAINING MEN TOGETHER."
     developed bitch tits because his
     testosterone was too high and his
     body upped the estrogen.  That was
+    where my head fit -- into his huge,
 </pre>
