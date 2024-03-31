@@ -110,4 +110,5 @@ Near the door, a SIGN on a stand: "REMAINING MEN TOGETHER."
     testosterone was too high and his
     body upped the estrogen.  That was
     where my head fit -- into his huge,
+    sweating tits that hung enormous, the
 </pre>
