@@ -120,4 +120,5 @@ Near the door, a SIGN on a stand: "REMAINING MEN TOGETHER."
 Bob hugs tighter; then looks with empathy into Jack's eyes.
 
                 BOB
+    Okay.  You cry now.
 </pre>
