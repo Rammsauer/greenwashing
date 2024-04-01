@@ -123,4 +123,6 @@ Bob hugs tighter; then looks with empathy into Jack's eyes.
     Okay.  You cry now.
 
 Jack looks at Bob.
+
+                JACK (V.O.)
 </pre>
