@@ -128,4 +128,6 @@ Jack looks at Bob.
     Wait.  Back up.  Let me start earlier.
 
 INT. JACK'S BEDROOM - NIGHT
+
+Jack lies in bed, staring at the ceiling.
 </pre>
