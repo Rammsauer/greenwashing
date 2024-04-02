@@ -126,4 +126,6 @@ Jack looks at Bob.
 
                 JACK (V.O.)
     Wait.  Back up.  Let me start earlier.
+
+INT. JACK'S BEDROOM - NIGHT
 </pre>
