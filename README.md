@@ -130,4 +130,6 @@ Jack looks at Bob.
 INT. JACK'S BEDROOM - NIGHT
 
 Jack lies in bed, staring at the ceiling.
+
+                JACK (V.O.)
 </pre>
