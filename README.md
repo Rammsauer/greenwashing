@@ -125,4 +125,5 @@ Bob hugs tighter; then looks with empathy into Jack's eyes.
 Jack looks at Bob.
 
                 JACK (V.O.)
+    Wait.  Back up.  Let me start earlier.
 </pre>
