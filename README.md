@@ -138,4 +138,6 @@ INT. COPY ROOM - DAY
 
 Jack, sleepy, stands over a copy machine.  His Starbucks cup
 sits on the lid, moving back and forth as the machine copies.
+
+                JACK (V.O.)
 </pre>
