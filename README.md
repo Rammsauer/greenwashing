@@ -135,4 +135,6 @@ Jack lies in bed, staring at the ceiling.
     For six months.  I could not sleep.
 
 INT. COPY ROOM - DAY
+
+Jack, sleepy, stands over a copy machine.  His Starbucks cup
 </pre>
