@@ -143,4 +143,6 @@ sits on the lid, moving back and forth as the machine copies.
     With insomnia, nothing is real.
     Everything is far away.  Everything
     is a copy of a copy of a copy.
+
+Other people make copies, all with Starbucks cups, sipping.
 </pre>
