@@ -141,4 +141,5 @@ sits on the lid, moving back and forth as the machine copies.
 
                 JACK (V.O.)
     With insomnia, nothing is real.
+    Everything is far away.  Everything
 </pre>
