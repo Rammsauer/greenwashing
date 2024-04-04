@@ -145,4 +145,5 @@ sits on the lid, moving back and forth as the machine copies.
     is a copy of a copy of a copy.
 
 Other people make copies, all with Starbucks cups, sipping.
+Jack picks up his cup and his copies and leaves.
 </pre>
