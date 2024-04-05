@@ -156,4 +156,5 @@ floor, full of newspapers and FAST FOOD GARBAGE.
     When deep space exploration ramps up,
     it will be corporations that name
     everything.  The IBM Stellar Sphere.
+    The Philip Morris Galaxy.  Planet
 </pre>
