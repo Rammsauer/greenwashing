@@ -150,4 +150,5 @@ Jack picks up his cup and his copies and leaves.
 INT. JACK'S OFFICE - SAME
 
 Jack, sipping, stares blankly at a Starbucks bag on the
+floor, full of newspapers and FAST FOOD GARBAGE.
 </pre>
