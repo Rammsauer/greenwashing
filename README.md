@@ -151,4 +151,6 @@ INT. JACK'S OFFICE - SAME
 
 Jack, sipping, stares blankly at a Starbucks bag on the
 floor, full of newspapers and FAST FOOD GARBAGE.
+
+                JACK (V.O.)
 </pre>
