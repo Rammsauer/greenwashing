@@ -148,4 +148,6 @@ Other people make copies, all with Starbucks cups, sipping.
 Jack picks up his cup and his copies and leaves.
 
 INT. JACK'S OFFICE - SAME
+
+Jack, sipping, stares blankly at a Starbucks bag on the
 </pre>
