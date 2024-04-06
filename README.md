@@ -158,4 +158,6 @@ floor, full of newspapers and FAST FOOD GARBAGE.
     everything.  The IBM Stellar Sphere.
     The Philip Morris Galaxy.  Planet
     Starbucks.
+
+Jack looks up as a pudgy man, Jack's BOSS, enters, Starbucks
 </pre>
