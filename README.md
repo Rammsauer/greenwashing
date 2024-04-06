@@ -157,4 +157,5 @@ floor, full of newspapers and FAST FOOD GARBAGE.
     it will be corporations that name
     everything.  The IBM Stellar Sphere.
     The Philip Morris Galaxy.  Planet
+    Starbucks.
 </pre>
