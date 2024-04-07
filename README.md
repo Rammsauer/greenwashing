@@ -168,4 +168,5 @@ cup in hand, and slides a stack of reports on Jack's desk.
     some "red-flags" to cover.
 
                 JACK (V.O.)
+    It must've been Tuesday.  he was
 </pre>
