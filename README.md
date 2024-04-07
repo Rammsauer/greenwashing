@@ -172,4 +172,5 @@ cup in hand, and slides a stack of reports on Jack's desk.
     wearing his "cornflower-blue" tie.
 
                 JACK
+        (listless management speak)
 </pre>
