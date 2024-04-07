@@ -165,4 +165,5 @@ cup in hand, and slides a stack of reports on Jack's desk.
                 BOSS
     I'm going to need you out-of-town a
     little more this week.  We've got
+    some "red-flags" to cover.
 </pre>
