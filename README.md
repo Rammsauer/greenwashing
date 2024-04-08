@@ -178,4 +178,5 @@ cup in hand, and slides a stack of reports on Jack's desk.
     a status upgrade?
 
                 BOSS
+    You need to make these your primary
 </pre>
