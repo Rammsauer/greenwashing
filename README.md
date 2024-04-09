@@ -183,4 +183,5 @@ cup in hand, and slides a stack of reports on Jack's desk.
 
                 JACK (V.O.)
     He was full of pep.  Must've had his
+    grande latte enema.
 </pre>
