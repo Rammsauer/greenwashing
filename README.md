@@ -186,4 +186,5 @@ cup in hand, and slides a stack of reports on Jack's desk.
     grande latte enema.
 
                 BOSS
+    Here are your flight coupons.  Call
 </pre>
