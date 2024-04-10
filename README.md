@@ -193,4 +193,6 @@ cup in hand, and slides a stack of reports on Jack's desk.
 Jack hides a yawn, pretends to listen.
 
 INT. BATHROOM - JACK'S CONDO - NIGHT
+
+Jack sits on the toilet, CORDLESS PHONE to his ear, flips
 </pre>
