@@ -195,4 +195,5 @@ Jack hides a yawn, pretends to listen.
 INT. BATHROOM - JACK'S CONDO - NIGHT
 
 Jack sits on the toilet, CORDLESS PHONE to his ear, flips
+through an IKEA catalog.  There's a stack of old Playboy
 </pre>
