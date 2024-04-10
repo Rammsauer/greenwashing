@@ -191,4 +191,6 @@ cup in hand, and slides a stack of reports on Jack's desk.
     snags.  Your itinerary...
 
 Jack hides a yawn, pretends to listen.
+
+INT. BATHROOM - JACK'S CONDO - NIGHT
 </pre>
