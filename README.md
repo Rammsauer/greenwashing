@@ -196,4 +196,5 @@ INT. BATHROOM - JACK'S CONDO - NIGHT
 
 Jack sits on the toilet, CORDLESS PHONE to his ear, flips
 through an IKEA catalog.  There's a stack of old Playboy
+magazines and other catalogs nearby.
 </pre>
