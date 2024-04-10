@@ -189,4 +189,6 @@ cup in hand, and slides a stack of reports on Jack's desk.
     Here are your flight coupons.  Call
     me from the road if there are any
     snags.  Your itinerary...
+
+Jack hides a yawn, pretends to listen.
 </pre>
