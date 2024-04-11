@@ -199,4 +199,5 @@ through an IKEA catalog.  There's a stack of old Playboy
 magazines and other catalogs nearby.
 
                 JACK (V.O.)
+    Like everyone else, I had become a
 </pre>
