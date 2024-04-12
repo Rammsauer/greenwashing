@@ -208,4 +208,6 @@ magazines and other catalogs nearby.
     Pekkari slip covers.
 
 Jack drops the open catalog on the floor.
+
+MOVE IN ON CATALOG -- ON PHOTO of COFFEETABLE SET...
 </pre>
