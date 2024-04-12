@@ -212,4 +212,5 @@ Jack drops the open catalog on the floor.
 MOVE IN ON CATALOG -- ON PHOTO of COFFEETABLE SET...
 
                 JACK (V.O.)
+    If I saw something like clever coffee
 </pre>
