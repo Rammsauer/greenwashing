@@ -206,4 +206,6 @@ magazines and other catalogs nearby.
         (into phone)
     Yes.  I'd like to order the Erika
     Pekkari slip covers.
+
+Jack drops the open catalog on the floor.
 </pre>
