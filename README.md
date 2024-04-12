@@ -205,4 +205,5 @@ magazines and other catalogs nearby.
                 JACK
         (into phone)
     Yes.  I'd like to order the Erika
+    Pekkari slip covers.
 </pre>
