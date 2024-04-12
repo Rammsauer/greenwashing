@@ -210,4 +210,6 @@ magazines and other catalogs nearby.
 Jack drops the open catalog on the floor.
 
 MOVE IN ON CATALOG -- ON PHOTO of COFFEETABLE SET...
+
+                JACK (V.O.)
 </pre>
