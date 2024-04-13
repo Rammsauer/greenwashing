@@ -214,4 +214,5 @@ MOVE IN ON CATALOG -- ON PHOTO of COFFEETABLE SET...
                 JACK (V.O.)
     If I saw something like clever coffee
     table sin the shape of a yin and
+    yang, I had to have it.
 </pre>
