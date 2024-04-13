@@ -215,4 +215,6 @@ MOVE IN ON CATALOG -- ON PHOTO of COFFEETABLE SET...
     If I saw something like clever coffee
     table sin the shape of a yin and
     yang, I had to have it.
+
+PAN TO PHOTO of ARMCHAIR...
 </pre>
