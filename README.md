@@ -217,4 +217,6 @@ MOVE IN ON CATALOG -- ON PHOTO of COFFEETABLE SET...
     yang, I had to have it.
 
 PAN TO PHOTO of ARMCHAIR...
+
+                JACK (V.O.)
 </pre>
