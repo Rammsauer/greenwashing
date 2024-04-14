@@ -221,4 +221,6 @@ PAN TO PHOTO of ARMCHAIR...
                 JACK (V.O.)
     Like the Johanneshov armchair in the
     Strinne green stripe pattern...
+
+INT. LIVING ROOM/DINING AREA/KITCHEN
 </pre>
