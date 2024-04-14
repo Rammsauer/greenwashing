@@ -225,4 +225,6 @@ PAN TO PHOTO of ARMCHAIR...
 INT. LIVING ROOM/DINING AREA/KITCHEN
 
 The armchair APPEARS.  PAN OVER next to armchair...
+
+                JACK (V.O.)
 </pre>
