@@ -235,4 +235,5 @@ The lamps APPEAR.  PAN OVER to wall...
 
                 JACK (V.O.)
     Even the Vild hall clock of
+    galvanized steel, resting on the
 </pre>
