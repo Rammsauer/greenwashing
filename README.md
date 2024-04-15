@@ -232,4 +232,6 @@ The armchair APPEARS.  PAN OVER next to armchair...
     paper.
 
 The lamps APPEAR.  PAN OVER to wall...
+
+                JACK (V.O.)
 </pre>
