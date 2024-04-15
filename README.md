@@ -229,4 +229,5 @@ The armchair APPEARS.  PAN OVER next to armchair...
                 JACK (V.O.)
     Or the Rislampa wire lamps of
     environmentally-friendly unbleached
+    paper.
 </pre>
