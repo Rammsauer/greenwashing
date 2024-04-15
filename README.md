@@ -230,4 +230,6 @@ The armchair APPEARS.  PAN OVER next to armchair...
     Or the Rislampa wire lamps of
     environmentally-friendly unbleached
     paper.
+
+The lamps APPEAR.  PAN OVER to wall...
 </pre>
