@@ -243,4 +243,5 @@ The clock APPEARS as the shelving unit APPEARS on the wall.
                 JACK (V.O.)
     I would flip through catalogs and
     wonder, "What kind of dining set
+    defines me as a person?"  We used to
 </pre>
