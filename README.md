@@ -239,4 +239,6 @@ The lamps APPEAR.  PAN OVER to wall...
     Klipsk shelving unit.
 
 The clock APPEARS as the shelving unit APPEARS on the wall.
+
+                JACK (V.O.)
 </pre>
