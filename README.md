@@ -237,4 +237,6 @@ The lamps APPEAR.  PAN OVER to wall...
     Even the Vild hall clock of
     galvanized steel, resting on the
     Klipsk shelving unit.
+
+The clock APPEARS as the shelving unit APPEARS on the wall.
 </pre>
