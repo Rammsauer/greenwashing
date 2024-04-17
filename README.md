@@ -251,4 +251,5 @@ A dining room set APPEARS.  Jack, the cordless phone still
 glued to his ear, walks INTO FRAME and continues.
 
                 JACK
+    No, I don't want Cobalt.  Oh, that
 </pre>
