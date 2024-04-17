@@ -252,4 +252,5 @@ glued to his ear, walks INTO FRAME and continues.
 
                 JACK
     No, I don't want Cobalt.  Oh, that
+    sounds nice.  Apricot.
 </pre>
