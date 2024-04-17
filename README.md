@@ -246,4 +246,6 @@ The clock APPEARS as the shelving unit APPEARS on the wall.
     defines me as a person?"  We used to
     read pornography.  Now it was the
     Horchow Collection.
+
+A dining room set APPEARS.  Jack, the cordless phone still
 </pre>
