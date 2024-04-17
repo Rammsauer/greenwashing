@@ -249,4 +249,6 @@ The clock APPEARS as the shelving unit APPEARS on the wall.
 
 A dining room set APPEARS.  Jack, the cordless phone still
 glued to his ear, walks INTO FRAME and continues.
+
+                JACK
 </pre>
