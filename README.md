@@ -248,4 +248,5 @@ The clock APPEARS as the shelving unit APPEARS on the wall.
     Horchow Collection.
 
 A dining room set APPEARS.  Jack, the cordless phone still
+glued to his ear, walks INTO FRAME and continues.
 </pre>
