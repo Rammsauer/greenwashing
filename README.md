@@ -259,4 +259,5 @@ Jack opens a cabinet, takes out a plate.
                 JACK (V.O.)
     I had it all.  Even the glass dishes
     with tiny bubbles and imperfections,
+    proof they were crafted by the
 </pre>
