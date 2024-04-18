@@ -257,4 +257,5 @@ glued to his ear, walks INTO FRAME and continues.
 Jack opens a cabinet, takes out a plate.
 
                 JACK (V.O.)
+    I had it all.  Even the glass dishes
 </pre>
