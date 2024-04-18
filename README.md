@@ -255,4 +255,6 @@ glued to his ear, walks INTO FRAME and continues.
     sounds nice.  Apricot.
 
 Jack opens a cabinet, takes out a plate.
+
+                JACK (V.O.)
 </pre>
