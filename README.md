@@ -262,4 +262,6 @@ Jack opens a cabinet, takes out a plate.
     proof they were crafted by the
     honest, simple, hard-working
     indigenous peoples of wherever.
+
+He rummages through the refrigerator.  It's practically
 </pre>
