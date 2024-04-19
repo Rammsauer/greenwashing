@@ -261,4 +261,5 @@ Jack opens a cabinet, takes out a plate.
     with tiny bubbles and imperfections,
     proof they were crafted by the
     honest, simple, hard-working
+    indigenous peoples of wherever.
 </pre>
