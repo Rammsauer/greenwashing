@@ -264,4 +264,5 @@ Jack opens a cabinet, takes out a plate.
     indigenous peoples of wherever.
 
 He rummages through the refrigerator.  It's practically
+empty.  Jack takes out a jar of mustard, opens it and uses
 </pre>
