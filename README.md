@@ -266,4 +266,6 @@ Jack opens a cabinet, takes out a plate.
 He rummages through the refrigerator.  It's practically
 empty.  Jack takes out a jar of mustard, opens it and uses
 a butter knife to eat it.
+
+INT. DOCTOR'S OFFICE - DAY
 </pre>
