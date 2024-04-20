@@ -276,4 +276,5 @@ studies him with bemusement.
     No, you can't die of insomnia.
 
                 JACK
+    Maybe I died already.  Look at my
 </pre>
