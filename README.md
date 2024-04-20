@@ -268,4 +268,6 @@ empty.  Jack takes out a jar of mustard, opens it and uses
 a butter knife to eat it.
 
 INT. DOCTOR'S OFFICE - DAY
+
+Jack, eyes puffy, face pale, sits before an INTERN, who
 </pre>
