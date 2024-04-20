@@ -274,4 +274,6 @@ studies him with bemusement.
 
                 INTERN
     No, you can't die of insomnia.
+
+                JACK
 </pre>
