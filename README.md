@@ -273,4 +273,5 @@ Jack, eyes puffy, face pale, sits before an INTERN, who
 studies him with bemusement.
 
                 INTERN
+    No, you can't die of insomnia.
 </pre>
