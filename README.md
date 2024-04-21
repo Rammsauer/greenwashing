@@ -281,4 +281,6 @@ studies him with bemusement.
 
                 INTERN
     You need to lighten up.
+
+                JACK
 </pre>
