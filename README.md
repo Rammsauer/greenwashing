@@ -280,4 +280,5 @@ studies him with bemusement.
     face.
 
                 INTERN
+    You need to lighten up.
 </pre>
