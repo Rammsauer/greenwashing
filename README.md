@@ -288,4 +288,6 @@ studies him with bemusement.
                 JACK (V.O.)
     Red-and-blue Tuinal, lipstick-red
     Seconals.
+
+                INTERN
 </pre>
