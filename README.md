@@ -290,4 +290,5 @@ studies him with bemusement.
     Seconals.
 
                 INTERN
+        (overlapping w/ above)
 </pre>
