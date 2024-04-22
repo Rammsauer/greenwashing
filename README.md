@@ -286,4 +286,5 @@ studies him with bemusement.
     Can't you give me something?
 
                 JACK (V.O.)
+    Red-and-blue Tuinal, lipstick-red
 </pre>
