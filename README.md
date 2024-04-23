@@ -298,4 +298,6 @@ studies him with bemusement.
 The Intern ushes Jack to the door.  They step into the...
 
 INT. HALLWAY
+
+The Intern walks away from Jack, picks up a chart.
 </pre>
