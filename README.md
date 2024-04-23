@@ -296,4 +296,6 @@ studies him with bemusement.
     exercise.
 
 The Intern ushes Jack to the door.  They step into the...
+
+INT. HALLWAY
 </pre>
