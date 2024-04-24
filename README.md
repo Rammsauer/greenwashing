@@ -307,4 +307,5 @@ The Intern walks away from Jack, picks up a chart.
                 INTERN
         (facetious)
     You want to see pain?  Swing by First
+    Methodist Tuesday nights.  See the
 </pre>
