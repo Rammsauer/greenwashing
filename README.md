@@ -303,4 +303,6 @@ The Intern walks away from Jack, picks up a chart.
 
                 JACK
     I'm in pain.
+
+                INTERN
 </pre>
