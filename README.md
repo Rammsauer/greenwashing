@@ -305,4 +305,5 @@ The Intern walks away from Jack, picks up a chart.
     I'm in pain.
 
                 INTERN
+        (facetious)
 </pre>
