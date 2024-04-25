@@ -310,4 +310,6 @@ The Intern walks away from Jack, picks up a chart.
     Methodist Tuesday nights.  See the
     guys with testicular cancer.  That's
     pain.
+
+The Intern moves into the other room.  Jack stares after him.
 </pre>
