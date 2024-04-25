@@ -314,4 +314,6 @@ The Intern walks away from Jack, picks up a chart.
 The Intern moves into the other room.  Jack stares after him.
 
 EXT. FIRST METHODIST CHURCH - NIGHT
+
+Jack heads for the front door.
 </pre>
