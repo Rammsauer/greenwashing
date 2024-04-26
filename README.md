@@ -318,4 +318,6 @@ EXT. FIRST METHODIST CHURCH - NIGHT
 Jack heads for the front door.
 
 INT. FIRST METHODIST CHURCH MEETING ROOM - NIGHT
+
+Jack stares at a group of men, including Bob, who are all
 </pre>
