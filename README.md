@@ -322,4 +322,6 @@ INT. FIRST METHODIST CHURCH MEETING ROOM - NIGHT
 Jack stares at a group of men, including Bob, who are all
 listening to a group member speak at a lectern.  The SPEAKER
 has pale skin and sunken eyes -- he's clearly dying.
+
+                SPEAKER
 </pre>
