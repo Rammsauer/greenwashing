@@ -316,4 +316,6 @@ The Intern moves into the other room.  Jack stares after him.
 EXT. FIRST METHODIST CHURCH - NIGHT
 
 Jack heads for the front door.
+
+INT. FIRST METHODIST CHURCH MEETING ROOM - NIGHT
 </pre>
