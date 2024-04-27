@@ -331,4 +331,6 @@ has pale skin and sunken eyes -- he's clearly dying.
 
 The Speaker cracks a sad smile.  Some men chuckle, happy to
 lighten the mood.
+
+                SPEAKER
 </pre>
