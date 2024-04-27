@@ -328,4 +328,6 @@ has pale skin and sunken eyes -- he's clearly dying.
     a girl.  Mindy wanted two girls and
     one boy.  We never could agree on
     anything.
+
+The Speaker cracks a sad smile.  Some men chuckle, happy to
 </pre>
