@@ -325,4 +325,5 @@ has pale skin and sunken eyes -- he's clearly dying.
 
                 SPEAKER
     I... wanted three kids.  Two boys and
+    a girl.  Mindy wanted two girls and
 </pre>
