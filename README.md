@@ -335,4 +335,5 @@ lighten the mood.
                 SPEAKER
     Well, she had her first child a month
     ago, a girl, with her new husband...
+    And, Thank God.  I'm glad for her,
 </pre>
