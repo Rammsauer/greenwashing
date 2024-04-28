@@ -337,4 +337,6 @@ lighten the mood.
     ago, a girl, with her new husband...
     And, Thank God.  I'm glad for her,
     because she deserves...
+
+The speaker breaks down, WEEPS UNCONTROLLABLY.
 </pre>
