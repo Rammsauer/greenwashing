@@ -334,4 +334,5 @@ lighten the mood.
 
                 SPEAKER
     Well, she had her first child a month
+    ago, a girl, with her new husband...
 </pre>
