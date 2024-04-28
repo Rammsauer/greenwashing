@@ -339,4 +339,6 @@ lighten the mood.
     because she deserves...
 
 The speaker breaks down, WEEPS UNCONTROLLABLY.
+
+Jack watches.  A couple of the men go up to the speaker,
 </pre>
