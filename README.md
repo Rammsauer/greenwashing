@@ -346,4 +346,6 @@ comforting him, leading him away.  A LEADER takes the stand.
                 LEADER
     Everyone, let's thank Thomas for
     sharing himself with us.
+
+Jack, uncomfortable, joins EVERYONE ELSE:
 </pre>
