@@ -341,4 +341,5 @@ lighten the mood.
 The speaker breaks down, WEEPS UNCONTROLLABLY.
 
 Jack watches.  A couple of the men go up to the speaker,
+comforting him, leading him away.  A LEADER takes the stand.
 </pre>
