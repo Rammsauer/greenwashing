@@ -344,4 +344,5 @@ Jack watches.  A couple of the men go up to the speaker,
 comforting him, leading him away.  A LEADER takes the stand.
 
                 LEADER
+    Everyone, let's thank Thomas for
 </pre>
