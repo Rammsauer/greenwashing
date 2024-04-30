@@ -351,4 +351,5 @@ Jack, uncomfortable, joins EVERYONE ELSE:
 
                 EVERYONE
         (in unison)
+    Thank you, Thomas.
 </pre>
