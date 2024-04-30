@@ -350,4 +350,5 @@ comforting him, leading him away.  A LEADER takes the stand.
 Jack, uncomfortable, joins EVERYONE ELSE:
 
                 EVERYONE
+        (in unison)
 </pre>
