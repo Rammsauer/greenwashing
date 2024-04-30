@@ -354,4 +354,5 @@ Jack, uncomfortable, joins EVERYONE ELSE:
     Thank you, Thomas.
 
                 LEADER
+    I look around this room and I see a
 </pre>
