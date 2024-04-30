@@ -348,4 +348,6 @@ comforting him, leading him away.  A LEADER takes the stand.
     sharing himself with us.
 
 Jack, uncomfortable, joins EVERYONE ELSE:
+
+                EVERYONE
 </pre>
