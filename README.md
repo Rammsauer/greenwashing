@@ -355,4 +355,5 @@ Jack, uncomfortable, joins EVERYONE ELSE:
 
                 LEADER
     I look around this room and I see a
+    lot of courage.  And it gives me
 </pre>
