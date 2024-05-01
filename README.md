@@ -361,4 +361,6 @@ Jack, uncomfortable, joins EVERYONE ELSE:
 
 Jack looks around.  Many of the men are sniffling, sobbing.
 Jack squirms in his seat.
+
+                LEADER
 </pre>
