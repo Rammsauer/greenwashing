@@ -358,4 +358,6 @@ Jack, uncomfortable, joins EVERYONE ELSE:
     lot of courage.  And it gives me
     strength.  We give each other
     strength.
+
+Jack looks around.  Many of the men are sniffling, sobbing.
 </pre>
