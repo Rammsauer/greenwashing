@@ -371,4 +371,5 @@ Everyone gets out of their chairs and begins pairing-off.
 Jack stands, uncomfortable.
 
                 LEADER
+    Can everyone find a partner?
 </pre>
