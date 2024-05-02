@@ -366,4 +366,6 @@ Jack squirms in his seat.
     It's time for the one-on-one.  Let's
     follow Thomas's example and open
     ourselves.
+
+Everyone gets out of their chairs and begins pairing-off.
 </pre>
