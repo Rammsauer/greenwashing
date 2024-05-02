@@ -369,4 +369,6 @@ Jack squirms in his seat.
 
 Everyone gets out of their chairs and begins pairing-off.
 Jack stands, uncomfortable.
+
+                LEADER
 </pre>
