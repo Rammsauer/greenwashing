@@ -368,4 +368,5 @@ Jack squirms in his seat.
     ourselves.
 
 Everyone gets out of their chairs and begins pairing-off.
+Jack stands, uncomfortable.
 </pre>
