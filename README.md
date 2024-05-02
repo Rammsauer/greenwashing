@@ -365,4 +365,5 @@ Jack squirms in his seat.
                 LEADER
     It's time for the one-on-one.  Let's
     follow Thomas's example and open
+    ourselves.
 </pre>
