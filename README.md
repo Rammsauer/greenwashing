@@ -375,4 +375,6 @@ Jack stands, uncomfortable.
 
 Bob, his chin down on his chest, starts toward Jack,
 shuffling his feet.
+
+                JACK (V.O.)
 </pre>
