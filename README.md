@@ -379,4 +379,5 @@ shuffling his feet.
                 JACK (V.O.)
     The big moosie, his eyes already
     shrink-wrapped in tears.  Knees
+    together, invisible steps.
 </pre>
