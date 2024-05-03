@@ -377,4 +377,5 @@ Bob, his chin down on his chest, starts toward Jack,
 shuffling his feet.
 
                 JACK (V.O.)
+    The big moosie, his eyes already
 </pre>
