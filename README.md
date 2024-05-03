@@ -374,4 +374,5 @@ Jack stands, uncomfortable.
     Can everyone find a partner?
 
 Bob, his chin down on his chest, starts toward Jack,
+shuffling his feet.
 </pre>
