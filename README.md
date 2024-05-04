@@ -382,4 +382,6 @@ shuffling his feet.
     together, invisible steps.
 
 Bob takes Jack into an embrace.
+
+                JACK (V.O.)
 </pre>
