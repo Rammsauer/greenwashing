@@ -384,4 +384,5 @@ shuffling his feet.
 Bob takes Jack into an embrace.
 
                 JACK (V.O.)
+    Bob was a champion bodybuilder.  You
 </pre>
