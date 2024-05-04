@@ -380,4 +380,6 @@ shuffling his feet.
     The big moosie, his eyes already
     shrink-wrapped in tears.  Knees
     together, invisible steps.
+
+Bob takes Jack into an embrace.
 </pre>
