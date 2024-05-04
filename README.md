@@ -387,4 +387,6 @@ Bob takes Jack into an embrace.
     Bob was a champion bodybuilder.  You
     know that chest expansion program you
     see on TV?  That was his idea.
+
+                BOB
 </pre>
