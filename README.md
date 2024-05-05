@@ -396,4 +396,5 @@ Bob takes Jack into an embrace.
     won't return my calls...
 
                 JACK (V.O.)
+    Strangers with this kind of honesty
 </pre>
