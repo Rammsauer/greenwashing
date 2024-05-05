@@ -392,4 +392,5 @@ Bob takes Jack into an embrace.
     ...using steroids.  I was a juicer.
     Diabonol, then, Wisterol -- it's for
     racehorses, for Christsake.  Now I'm
+    bankrupt, divorced, my two grown kids
 </pre>
