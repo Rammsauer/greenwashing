@@ -394,4 +394,6 @@ Bob takes Jack into an embrace.
     racehorses, for Christsake.  Now I'm
     bankrupt, divorced, my two grown kids
     won't return my calls...
+
+                JACK (V.O.)
 </pre>
