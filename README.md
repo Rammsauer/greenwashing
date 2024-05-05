@@ -389,4 +389,5 @@ Bob takes Jack into an embrace.
     see on TV?  That was his idea.
 
                 BOB
+    ...using steroids.  I was a juicer.
 </pre>
