@@ -398,4 +398,6 @@ Bob takes Jack into an embrace.
                 JACK (V.O.)
     Strangers with this kind of honesty
     make me go a big rubbery one.
+
+Bob breaks into sobbing, putting his head on Jack's shoulder
 </pre>
