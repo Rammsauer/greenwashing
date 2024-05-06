@@ -400,4 +400,5 @@ Bob takes Jack into an embrace.
     make me go a big rubbery one.
 
 Bob breaks into sobbing, putting his head on Jack's shoulder
+and completely covering Jack's face.  After a long beat of
 </pre>
