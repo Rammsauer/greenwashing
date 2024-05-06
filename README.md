@@ -401,4 +401,5 @@ Bob takes Jack into an embrace.
 
 Bob breaks into sobbing, putting his head on Jack's shoulder
 and completely covering Jack's face.  After a long beat of
+crying, Bob raises up his head, looks at Jack's NAMETAG.
 </pre>
