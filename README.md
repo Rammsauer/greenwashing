@@ -404,4 +404,5 @@ and completely covering Jack's face.  After a long beat of
 crying, Bob raises up his head, looks at Jack's NAMETAG.
 
                 BOB
+    Go ahead, Cornelius.  You can cry.
 </pre>
