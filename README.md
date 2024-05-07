@@ -411,4 +411,5 @@ They look at each other.  Slowly, Jack's eyes grow wet.
                 JACK (V.O.)
     Then... something happened.  I was
     lost in oblivion -- dark and silent
+    and complete.
 </pre>
