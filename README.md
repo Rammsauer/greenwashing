@@ -405,4 +405,6 @@ crying, Bob raises up his head, looks at Jack's NAMETAG.
 
                 BOB
     Go ahead, Cornelius.  You can cry.
+
+They look at each other.  Slowly, Jack's eyes grow wet.
 </pre>
