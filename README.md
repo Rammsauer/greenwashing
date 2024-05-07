@@ -409,4 +409,5 @@ crying, Bob raises up his head, looks at Jack's NAMETAG.
 They look at each other.  Slowly, Jack's eyes grow wet.
 
                 JACK (V.O.)
+    Then... something happened.  I was
 </pre>
