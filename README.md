@@ -418,4 +418,5 @@ his arms around Bob.
 
                 JACK (V.O.)
     I found freedom.  Losing all hope was
+    freedom.
 </pre>
