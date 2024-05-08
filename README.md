@@ -417,4 +417,5 @@ Bob pulls Jack's head back into his chest.  Jack tightens
 his arms around Bob.
 
                 JACK (V.O.)
+    I found freedom.  Losing all hope was
 </pre>
