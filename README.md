@@ -412,4 +412,6 @@ They look at each other.  Slowly, Jack's eyes grow wet.
     Then... something happened.  I was
     lost in oblivion -- dark and silent
     and complete.
+
+Bob pulls Jack's head back into his chest.  Jack tightens
 </pre>
