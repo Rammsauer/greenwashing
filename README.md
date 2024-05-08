@@ -419,4 +419,6 @@ his arms around Bob.
                 JACK (V.O.)
     I found freedom.  Losing all hope was
     freedom.
+
+Jack pulls away from Bob.  On Bob's chest, there's a WET
 </pre>
