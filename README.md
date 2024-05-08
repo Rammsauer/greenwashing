@@ -415,4 +415,6 @@ They look at each other.  Slowly, Jack's eyes grow wet.
 
 Bob pulls Jack's head back into his chest.  Jack tightens
 his arms around Bob.
+
+                JACK (V.O.)
 </pre>
