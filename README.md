@@ -425,4 +425,6 @@ MASK of Jack's face from how he looks weeping.
 
                 JACK (V.O.)
     Babies don't sleep this well.
+
+INT. JACK'S BEDROOM - NIGHT
 </pre>
