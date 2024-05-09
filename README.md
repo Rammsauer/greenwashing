@@ -422,4 +422,6 @@ his arms around Bob.
 
 Jack pulls away from Bob.  On Bob's chest, there's a WET
 MASK of Jack's face from how he looks weeping.
+
+                JACK (V.O.)
 </pre>
