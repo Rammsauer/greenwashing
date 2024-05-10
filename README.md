@@ -434,4 +434,6 @@ Jack lies sound asleep.
     I became addicted.
 
 INT. SMALL PROTESTANT CHURCH - NIGHT
+
+Jack moves into a "group hug" of sickly people, men and
 </pre>
