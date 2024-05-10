@@ -431,4 +431,5 @@ INT. JACK'S BEDROOM - NIGHT
 Jack lies sound asleep.
 
                 JACK (V.O.)
+    I became addicted.
 </pre>
