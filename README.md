@@ -429,4 +429,6 @@ MASK of Jack's face from how he looks weeping.
 INT. JACK'S BEDROOM - NIGHT
 
 Jack lies sound asleep.
+
+                JACK (V.O.)
 </pre>
