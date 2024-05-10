@@ -432,4 +432,6 @@ Jack lies sound asleep.
 
                 JACK (V.O.)
     I became addicted.
+
+INT. SMALL PROTESTANT CHURCH - NIGHT
 </pre>
