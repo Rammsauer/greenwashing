@@ -441,4 +441,5 @@ women.  In view is a sign by the door "Free and Clear."
 INT. OFFICE BUILDING BASEMENT - NIGHT
 
 Jack stands with a weeping middle-aged WOMAN.  He begins to
+cry along with her.  A sign by the door: "Onward and Upward."
 </pre>
