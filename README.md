@@ -439,4 +439,6 @@ Jack moves into a "group hug" of sickly people, men and
 women.  In view is a sign by the door "Free and Clear."
 
 INT. OFFICE BUILDING BASEMENT - NIGHT
+
+Jack stands with a weeping middle-aged WOMAN.  He begins to
 </pre>
