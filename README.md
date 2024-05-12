@@ -449,4 +449,6 @@ cry along with her.  A sign by the door: "Onward and Upward."
     harder.  I cried harder.
 
 INT. PUBLIC BUILDING CONFERENCE ROOM - NIGHT
+
+Everyone, including Jack, sits back in their seats, EYES
 </pre>
