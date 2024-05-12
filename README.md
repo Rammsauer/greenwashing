@@ -446,4 +446,5 @@ cry along with her.  A sign by the door: "Onward and Upward."
                 JACK (V.O.)
     If I didn't say anything, people
     assumed the worst.  They cried
+    harder.  I cried harder.
 </pre>
