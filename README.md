@@ -459,4 +459,5 @@ CLOSED.  The Leader speaks into a microphone.
 
                 JACK (V.O.)
     I wasn't really dying, I wasn't host
+    to cancer or parasites; I was the
 </pre>
