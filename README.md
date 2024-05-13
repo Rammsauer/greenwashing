@@ -452,4 +452,6 @@ INT. PUBLIC BUILDING CONFERENCE ROOM - NIGHT
 
 Everyone, including Jack, sits back in their seats, EYES
 CLOSED.  The Leader speaks into a microphone.
+
+                LEADER
 </pre>
