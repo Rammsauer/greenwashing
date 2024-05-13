@@ -456,4 +456,6 @@ CLOSED.  The Leader speaks into a microphone.
                 LEADER
     Tonight, we're going to open the
     green door -- the heart chakra...
+
+                JACK (V.O.)
 </pre>
