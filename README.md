@@ -458,4 +458,5 @@ CLOSED.  The Leader speaks into a microphone.
     green door -- the heart chakra...
 
                 JACK (V.O.)
+    I wasn't really dying, I wasn't host
 </pre>
