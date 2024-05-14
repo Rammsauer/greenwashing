@@ -461,4 +461,5 @@ CLOSED.  The Leader speaks into a microphone.
     I wasn't really dying, I wasn't host
     to cancer or parasites; I was the
     warm little center that the life of
+    this world crowded around.
 </pre>
