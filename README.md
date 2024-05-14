@@ -464,4 +464,5 @@ CLOSED.  The Leader speaks into a microphone.
     this world crowded around.
 
                 LEADER
+    ...And you open the door and you
 </pre>
