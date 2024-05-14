@@ -465,4 +465,5 @@ CLOSED.  The Leader speaks into a microphone.
 
                 LEADER
     ...And you open the door and you
+    step inside.  We're inside our
 </pre>
