@@ -462,4 +462,6 @@ CLOSED.  The Leader speaks into a microphone.
     to cancer or parasites; I was the
     warm little center that the life of
     this world crowded around.
+
+                LEADER
 </pre>
