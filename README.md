@@ -467,4 +467,5 @@ CLOSED.  The Leader speaks into a microphone.
     ...And you open the door and you
     step inside.  We're inside our
     hearts.  Now, imaging your pain as a
+    white ball of healing light.  That's
 </pre>
