@@ -468,4 +468,5 @@ CLOSED.  The Leader speaks into a microphone.
     step inside.  We're inside our
     hearts.  Now, imaging your pain as a
     white ball of healing light.  That's
+    right, the pain itself is a ball of
 </pre>
