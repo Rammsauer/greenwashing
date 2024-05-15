@@ -472,4 +472,6 @@ CLOSED.  The Leader speaks into a microphone.
     healing light.
 
 Jack, eyes closed, is silent...
+
+                LEADER
 </pre>
