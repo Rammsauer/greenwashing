@@ -474,4 +474,5 @@ CLOSED.  The Leader speaks into a microphone.
 Jack, eyes closed, is silent...
 
                 LEADER
+    It moves over your body, healing you.
 </pre>
