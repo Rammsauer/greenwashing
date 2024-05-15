@@ -469,4 +469,5 @@ CLOSED.  The Leader speaks into a microphone.
     hearts.  Now, imaging your pain as a
     white ball of healing light.  That's
     right, the pain itself is a ball of
+    healing light.
 </pre>
