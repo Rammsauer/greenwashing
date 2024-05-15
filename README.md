@@ -470,4 +470,6 @@ CLOSED.  The Leader speaks into a microphone.
     white ball of healing light.  That's
     right, the pain itself is a ball of
     healing light.
+
+Jack, eyes closed, is silent...
 </pre>
