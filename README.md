@@ -475,4 +475,5 @@ Jack, eyes closed, is silent...
 
                 LEADER
     It moves over your body, healing you.
+    Keep this going and step forward,
 </pre>
