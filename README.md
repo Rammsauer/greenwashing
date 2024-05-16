@@ -478,4 +478,5 @@ Jack, eyes closed, is silent...
     Keep this going and step forward,
     through the back door of the room.
     Where does it lead?  To your cave.
+    Step forward into your cave.
 </pre>
