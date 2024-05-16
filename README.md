@@ -483,4 +483,6 @@ Jack, eyes closed, is silent...
 INT. CAVE - JACK'S IMAGINATION
 
 Jack walks along, moving through an ICE CAVERN...
+
+                LEADER'S VOICE
 </pre>
