@@ -479,4 +479,6 @@ Jack, eyes closed, is silent...
     through the back door of the room.
     Where does it lead?  To your cave.
     Step forward into your cave.
+
+INT. CAVE - JACK'S IMAGINATION
 </pre>
