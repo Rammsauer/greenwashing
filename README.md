@@ -481,4 +481,6 @@ Jack, eyes closed, is silent...
     Step forward into your cave.
 
 INT. CAVE - JACK'S IMAGINATION
+
+Jack walks along, moving through an ICE CAVERN...
 </pre>
