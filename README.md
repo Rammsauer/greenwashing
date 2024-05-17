@@ -488,4 +488,6 @@ Jack walks along, moving through an ICE CAVERN...
     That's right.  You're going deeper
     into your cave.  And you're going to
     find your power animal...
+
+Jack comes upon a PENGUIN.  The penguin looks at him, cocks
 </pre>
