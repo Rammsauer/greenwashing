@@ -486,4 +486,5 @@ Jack walks along, moving through an ICE CAVERN...
 
                 LEADER'S VOICE
     That's right.  You're going deeper
+    into your cave.  And you're going to
 </pre>
