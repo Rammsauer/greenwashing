@@ -491,4 +491,6 @@ Jack walks along, moving through an ICE CAVERN...
 
 Jack comes upon a PENGUIN.  The penguin looks at him, cocks
 his head to signal Jack forward.
+
+                PENGUIN
 </pre>
