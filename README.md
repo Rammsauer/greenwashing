@@ -496,4 +496,6 @@ his head to signal Jack forward.
     Slide.
 
 The penguin jumps onto a patch of ICE and slides away.
+
+EXT. STREET - NIGHT
 </pre>
