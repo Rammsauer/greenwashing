@@ -494,4 +494,6 @@ his head to signal Jack forward.
 
                 PENGUIN
     Slide.
+
+The penguin jumps onto a patch of ICE and slides away.
 </pre>
