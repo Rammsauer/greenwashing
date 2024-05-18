@@ -498,4 +498,6 @@ his head to signal Jack forward.
 The penguin jumps onto a patch of ICE and slides away.
 
 EXT. STREET - NIGHT
+
+Jack walks out a doorway, saying goodbye to people.  He
 </pre>
