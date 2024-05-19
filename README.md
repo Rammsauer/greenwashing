@@ -501,4 +501,6 @@ EXT. STREET - NIGHT
 
 Jack walks out a doorway, saying goodbye to people.  He
 walks down the sidewalk, shining with peace.
+
+                JACK (V.O.)
 </pre>
