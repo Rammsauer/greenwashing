@@ -505,4 +505,6 @@ walks down the sidewalk, shining with peace.
                 JACK (V.O.)
     Every evening I died and every
     evening I was born again.  Resurrected.
+
+                                        CUT BACK TO:
 </pre>
