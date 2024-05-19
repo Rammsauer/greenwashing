@@ -507,4 +507,6 @@ walks down the sidewalk, shining with peace.
     evening I was born again.  Resurrected.
 
                                         CUT BACK TO:
+
+INT. FIRST METHODIST CHURCH MEETING ROOM - RESUMING
 </pre>
