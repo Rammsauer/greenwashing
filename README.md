@@ -511,4 +511,6 @@ walks down the sidewalk, shining with peace.
 INT. FIRST METHODIST CHURCH MEETING ROOM - RESUMING
 
 Jack's still in an embrace with Bob.
+
+                JACK (V.O.)
 </pre>
