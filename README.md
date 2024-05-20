@@ -513,4 +513,5 @@ INT. FIRST METHODIST CHURCH MEETING ROOM - RESUMING
 Jack's still in an embrace with Bob.
 
                 JACK (V.O.)
+    Bob loved me because he thought my
 </pre>
