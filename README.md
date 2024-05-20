@@ -515,4 +515,5 @@ Jack's still in an embrace with Bob.
                 JACK (V.O.)
     Bob loved me because he thought my
     testicles were removed too.  Being
+    there, my face against his tits,
 </pre>
