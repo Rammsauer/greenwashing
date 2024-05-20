@@ -516,4 +516,5 @@ Jack's still in an embrace with Bob.
     Bob loved me because he thought my
     testicles were removed too.  Being
     there, my face against his tits,
+    ready to cry -- this was my vacation.
 </pre>
