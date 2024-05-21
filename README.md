@@ -520,4 +520,6 @@ Jack's still in an embrace with Bob.
 
 MARLA SINGER enters.  She has short matte black hair and
 big, dark eyes like a character from japanese animation.
+
+                JACK (V.O.)
 </pre>
