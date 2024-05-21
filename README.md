@@ -519,4 +519,5 @@ Jack's still in an embrace with Bob.
     ready to cry -- this was my vacation.
 
 MARLA SINGER enters.  She has short matte black hair and
+big, dark eyes like a character from japanese animation.
 </pre>
