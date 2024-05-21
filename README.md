@@ -517,4 +517,6 @@ Jack's still in an embrace with Bob.
     testicles were removed too.  Being
     there, my face against his tits,
     ready to cry -- this was my vacation.
+
+MARLA SINGER enters.  She has short matte black hair and
 </pre>
