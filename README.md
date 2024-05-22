@@ -528,4 +528,6 @@ Marla looks around, raises a cigarette to her lips.
 
                 MARLA
     This is cancer, right?
+
+Bob and Jack stare, dumbfounded.
 </pre>
