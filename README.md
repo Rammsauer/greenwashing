@@ -527,4 +527,5 @@ big, dark eyes like a character from japanese animation.
 Marla looks around, raises a cigarette to her lips.
 
                 MARLA
+    This is cancer, right?
 </pre>
