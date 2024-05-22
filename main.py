@@ -38,7 +38,7 @@ def create_commit():
     system("git add outputFile")
     system(f"git commit -m \"Quasimoto - Greenery\"")
     system("git pull")
-    system("git push")
+    system("git push -f")
 
 
 while True:
