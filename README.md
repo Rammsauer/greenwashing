@@ -1034,4 +1034,5 @@ Jack hesitates, unsure, then run/walks to catch up to her...
 Jack takes out a business card, writes his number on the
 back, hands it to her.  She takes the pen, grabs his hand
 and writes her number on his palm.  She walks into the
+street, causing more SCREECHING and HONKING.  She turns,
 </pre>
