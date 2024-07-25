@@ -1042,4 +1042,6 @@ holds up the card.
     you?  Cornelius?  Mr. Taylor?  Dr.
     Zaius?  Any of the stupid names you
     give each night?
+
+Jack starts to answer, but the traffic noise is too loud.
 </pre>
