@@ -1040,4 +1040,5 @@ holds up the card.
                 MARLA
     It doesn't have your name.  Who are
     you?  Cornelius?  Mr. Taylor?  Dr.
+    Zaius?  Any of the stupid names you
 </pre>
