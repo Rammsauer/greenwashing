@@ -1045,4 +1045,5 @@ holds up the card.
 
 Jack starts to answer, but the traffic noise is too loud.
 Marla just shakes her head, turns, and keeps moving.  A BUS
+moves into view, obscuring her.
 </pre>
