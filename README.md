@@ -1049,4 +1049,6 @@ moves into view, obscuring her.
 
                 JACK (V.O.)
     This is how I met Marla Singer.
+
+INT. AIRPLANE CABIN - DAY
 </pre>
