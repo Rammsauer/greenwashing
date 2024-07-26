@@ -1048,4 +1048,5 @@ Marla just shakes her head, turns, and keeps moving.  A BUS
 moves into view, obscuring her.
 
                 JACK (V.O.)
+    This is how I met Marla Singer.
 </pre>
