@@ -1056,4 +1056,6 @@ The plane touches down; the cabin BUMPS.  Jack's eyes open.
 
                 JACK (V.O.)
     You wake up at O'Hare.
+
+INT. AIRPLANE CABIN - DAY
 </pre>
