@@ -1058,4 +1058,6 @@ The plane touches down; the cabin BUMPS.  Jack's eyes open.
     You wake up at O'Hare.
 
 INT. AIRPLANE CABIN - DAY
+
+Jack snaps awake again, looking around, disoriented.
 </pre>
