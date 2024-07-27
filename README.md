@@ -1053,4 +1053,6 @@ moves into view, obscuring her.
 INT. AIRPLANE CABIN - DAY
 
 The plane touches down; the cabin BUMPS.  Jack's eyes open.
+
+                JACK (V.O.)
 </pre>
