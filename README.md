@@ -1051,4 +1051,6 @@ moves into view, obscuring her.
     This is how I met Marla Singer.
 
 INT. AIRPLANE CABIN - DAY
+
+The plane touches down; the cabin BUMPS.  Jack's eyes open.
 </pre>
