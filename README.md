@@ -1062,4 +1062,5 @@ INT. AIRPLANE CABIN - DAY
 Jack snaps awake again, looking around, disoriented.
 
                 JACK (V.O.)
+    You wake up at SeaTac.
 </pre>
