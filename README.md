@@ -1065,4 +1065,6 @@ Jack snaps awake again, looking around, disoriented.
     You wake up at SeaTac.
 
 EXT. HIGHWAY - DUSK
+
+The rear of a CRASHED CAR sticks up by the side of the road.
 </pre>
