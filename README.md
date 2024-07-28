@@ -1063,4 +1063,6 @@ Jack snaps awake again, looking around, disoriented.
 
                 JACK (V.O.)
     You wake up at SeaTac.
+
+EXT. HIGHWAY - DUSK
 </pre>
