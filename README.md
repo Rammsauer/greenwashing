@@ -1070,4 +1070,6 @@ The rear of a CRASHED CAR sticks up by the side of the road.
 Jack stands, marking on a clipboard.  The SUN SETS behind.
 
 INT. AIRPORT - NIGHT
+
+Jack stands at a gate counter.  An ATTENDANT smiles at him.
 </pre>
