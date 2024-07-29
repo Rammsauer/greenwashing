@@ -1074,4 +1074,5 @@ INT. AIRPORT - NIGHT
 Jack stands at a gate counter.  An ATTENDANT smiles at him.
 
                 ATTENDANT
+    Check-in for that flight doesn't
 </pre>
