@@ -1079,4 +1079,6 @@ Jack stands at a gate counter.  An ATTENDANT smiles at him.
 
 Jack looks with blearing eyes at his watch, steps away and
 looks at an overhanging CLOCK.
+
+                JACK (V.O.)
 </pre>
