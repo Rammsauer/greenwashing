@@ -1083,4 +1083,5 @@ looks at an overhanging CLOCK.
                 JACK (V.O.)
     Pacific, Mountain, Central.  Lose an
     hour, gain an hour.  This is your
+    life, and it's ending one minute at
 </pre>
