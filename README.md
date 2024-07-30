@@ -1082,4 +1082,5 @@ looks at an overhanging CLOCK.
 
                 JACK (V.O.)
     Pacific, Mountain, Central.  Lose an
+    hour, gain an hour.  This is your
 </pre>
