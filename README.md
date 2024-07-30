@@ -1081,4 +1081,5 @@ Jack looks with blearing eyes at his watch, steps away and
 looks at an overhanging CLOCK.
 
                 JACK (V.O.)
+    Pacific, Mountain, Central.  Lose an
 </pre>
