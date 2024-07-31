@@ -1085,4 +1085,6 @@ looks at an overhanging CLOCK.
     hour, gain an hour.  This is your
     life, and it's ending one minute at
     a time.
+
+INT. AIRPLANE CABIN - DAY
 </pre>
