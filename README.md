@@ -1084,4 +1084,5 @@ looks at an overhanging CLOCK.
     Pacific, Mountain, Central.  Lose an
     hour, gain an hour.  This is your
     life, and it's ending one minute at
+    a time.
 </pre>
