@@ -1087,4 +1087,6 @@ looks at an overhanging CLOCK.
     a time.
 
 INT. AIRPLANE CABIN - DAY
+
+Jack's eyes snap open as the plane LANDS.
 </pre>
