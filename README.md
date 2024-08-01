@@ -1095,4 +1095,6 @@ Jack's eyes snap open as the plane LANDS.
     International.
 
 INT. AIRPORT WALKWAY
+
+Jack stands on a conveyor belt, briefcase at his feet.  He
 </pre>
