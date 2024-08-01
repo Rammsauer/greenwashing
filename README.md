@@ -1097,4 +1097,5 @@ Jack's eyes snap open as the plane LANDS.
 INT. AIRPORT WALKWAY
 
 Jack stands on a conveyor belt, briefcase at his feet.  He
+watches PEOPLE MOVING PAST on the opposite conveyor.
 </pre>
