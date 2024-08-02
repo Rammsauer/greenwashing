@@ -1103,4 +1103,6 @@ watches PEOPLE MOVING PAST on the opposite conveyor.
     If you wake up at a different time
     and in a different place, could you
     wake up as a different person?
+
+Jack misses seeing TYLER on the opposite conveyor belt.
 </pre>
