@@ -1105,4 +1105,5 @@ watches PEOPLE MOVING PAST on the opposite conveyor.
     wake up as a different person?
 
 Jack misses seeing TYLER on the opposite conveyor belt.
+They pass each other.
 </pre>
