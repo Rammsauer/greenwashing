@@ -1106,4 +1106,6 @@ watches PEOPLE MOVING PAST on the opposite conveyor.
 
 Jack misses seeing TYLER on the opposite conveyor belt.
 They pass each other.
+
+INT. AIRPLANE CABIN - IN FLIGHT - NIGHT
 </pre>
