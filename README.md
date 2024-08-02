@@ -1100,4 +1100,5 @@ Jack stands on a conveyor belt, briefcase at his feet.  He
 watches PEOPLE MOVING PAST on the opposite conveyor.
 
                 JACK (V.O.)
+    If you wake up at a different time
 </pre>
