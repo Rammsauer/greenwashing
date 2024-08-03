@@ -1108,4 +1108,6 @@ Jack misses seeing TYLER on the opposite conveyor belt.
 They pass each other.
 
 INT. AIRPLANE CABIN - IN FLIGHT - NIGHT
+
+Jack sits next to a BUSINESSMAN.  As they have idle
 </pre>
