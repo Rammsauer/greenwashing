@@ -1114,4 +1114,5 @@ CONVERSATION, we MOVE IN ON Jack's tray.  An ATTENDANT'S
 HANDS set coffee down with a small container of cream.
 
                 JACK (V.O.)
+    Everywhere I travel -- tiny life.
 </pre>
