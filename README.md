@@ -1110,4 +1110,5 @@ They pass each other.
 INT. AIRPLANE CABIN - IN FLIGHT - NIGHT
 
 Jack sits next to a BUSINESSMAN.  As they have idle
+CONVERSATION, we MOVE IN ON Jack's tray.  An ATTENDANT'S
 </pre>
