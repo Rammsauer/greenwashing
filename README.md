@@ -1119,4 +1119,6 @@ HANDS set coffee down with a small container of cream.
     cream, single pat of butter.
 
                                         CUT TO:
+
+HANDS place a dinner tray down.
 </pre>
