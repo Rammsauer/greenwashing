@@ -1117,4 +1117,6 @@ HANDS set coffee down with a small container of cream.
     Everywhere I travel -- tiny life.
     Single-serving sugar, single-serving
     cream, single pat of butter.
+
+                                        CUT TO:
 </pre>
