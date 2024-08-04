@@ -1121,4 +1121,6 @@ HANDS set coffee down with a small container of cream.
                                         CUT TO:
 
 HANDS place a dinner tray down.
+
+                JACK (V.O.)
 </pre>
