@@ -1123,4 +1123,5 @@ HANDS set coffee down with a small container of cream.
 HANDS place a dinner tray down.
 
                 JACK (V.O.)
+    Microwave Cordon Bleu hobby kit.
 </pre>
