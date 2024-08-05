@@ -1130,4 +1130,5 @@ INT. HOTEL ROOM - BATHROOM - NIGHT
 Jack brushes his teeth in the MIRROR.
 
                 JACK (V.O.)
+    Shampoo/conditioner combo.  Single-
 </pre>
