@@ -1126,4 +1126,6 @@ HANDS place a dinner tray down.
     Microwave Cordon Bleu hobby kit.
 
 INT. HOTEL ROOM - BATHROOM - NIGHT
+
+Jack brushes his teeth in the MIRROR.
 </pre>
