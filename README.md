@@ -1128,4 +1128,6 @@ HANDS place a dinner tray down.
 INT. HOTEL ROOM - BATHROOM - NIGHT
 
 Jack brushes his teeth in the MIRROR.
+
+                JACK (V.O.)
 </pre>
