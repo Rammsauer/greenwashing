@@ -1131,4 +1131,5 @@ Jack brushes his teeth in the MIRROR.
 
                 JACK (V.O.)
     Shampoo/conditioner combo.  Single-
+    serving mouthwash, tiny bar of soap.
 </pre>
