@@ -1124,4 +1124,6 @@ HANDS place a dinner tray down.
 
                 JACK (V.O.)
     Microwave Cordon Bleu hobby kit.
+
+INT. HOTEL ROOM - BATHROOM - NIGHT
 </pre>
