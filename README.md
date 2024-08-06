@@ -1135,4 +1135,6 @@ Jack brushes his teeth in the MIRROR.
 
 Jack picks up an individual, wrapped Q-TIP, looks at it.  He
 moves out of the bathroom into...
+
+MAIN ROOM
 </pre>
