@@ -1137,4 +1137,6 @@ Jack picks up an individual, wrapped Q-TIP, looks at it.  He
 moves out of the bathroom into...
 
 MAIN ROOM
+
+Jack sits on the bed.  He turns on the TV.  It's tuned to
 </pre>
