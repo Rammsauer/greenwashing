@@ -1139,4 +1139,5 @@ moves out of the bathroom into...
 MAIN ROOM
 
 Jack sits on the bed.  He turns on the TV.  It's tuned to
+the "Sheraton Channel," shows WAITERS serving people in a
 </pre>
