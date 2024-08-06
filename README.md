@@ -1134,4 +1134,5 @@ Jack brushes his teeth in the MIRROR.
     serving mouthwash, tiny bar of soap.
 
 Jack picks up an individual, wrapped Q-TIP, looks at it.  He
+moves out of the bathroom into...
 </pre>
