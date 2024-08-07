@@ -1146,4 +1146,5 @@ something on the bed, lifts it -- a small DINNER MINT.
 INT. AIRPLANE CABIN - IN FLIGHT - NIGHT
 
 Jack sits next to a frumpy WOMAN.  They chat.  Jack turns to
+look at his food, takes a bite.  He turns back and it's...
 </pre>
