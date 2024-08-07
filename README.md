@@ -1144,4 +1144,6 @@ large BANQUET ROOM.  Jack stops brushing his teeth, feels
 something on the bed, lifts it -- a small DINNER MINT.
 
 INT. AIRPLANE CABIN - IN FLIGHT - NIGHT
+
+Jack sits next to a frumpy WOMAN.  They chat.  Jack turns to
 </pre>
