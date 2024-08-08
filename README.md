@@ -1150,4 +1150,6 @@ look at his food, takes a bite.  He turns back and it's...
 
 --a BALD MAN next to him, talking.  Jack takes another bite,
 turns back and it's...
+
+--a BUSINESSMAN next to him.  Jack takes another bite, turns
 </pre>
