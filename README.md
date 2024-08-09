@@ -1159,4 +1159,5 @@ back, and it's...
                 JACK (V.O.)
     The people I meet on each flight --
     they're single-serving friends.
+    Between take-off and landing, we have
 </pre>
