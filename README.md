@@ -1157,4 +1157,5 @@ back, and it's...
 --a BUSINESS WOMAN next to him.
 
                 JACK (V.O.)
+    The people I meet on each flight --
 </pre>
