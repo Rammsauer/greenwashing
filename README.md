@@ -1162,4 +1162,6 @@ back, and it's...
     Between take-off and landing, we have
     our time together, but that's all we
     get.
+
+INT. AIRPLANE CABIN - LANDING
 </pre>
