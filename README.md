@@ -1169,4 +1169,6 @@ Jack's eyes snap open.
 
                 JACK (V.O.)
     You wake up at Logan.
+
+INT. WAREHOUSE - CONTINUOUS
 </pre>
