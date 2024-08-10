@@ -1166,4 +1166,6 @@ back, and it's...
 INT. AIRPLANE CABIN - LANDING
 
 Jack's eyes snap open.
+
+                JACK (V.O.)
 </pre>
