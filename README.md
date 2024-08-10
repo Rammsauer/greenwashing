@@ -1168,4 +1168,5 @@ INT. AIRPLANE CABIN - LANDING
 Jack's eyes snap open.
 
                 JACK (V.O.)
+    You wake up at Logan.
 </pre>
