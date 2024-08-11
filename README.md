@@ -1175,4 +1175,5 @@ INT. WAREHOUSE - CONTINUOUS
 A giant corrugated METAL DOOR opens.
 
                 JACK (V.O.)
+    On a long enough time line, the
 </pre>
