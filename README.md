@@ -1171,4 +1171,6 @@ Jack's eyes snap open.
     You wake up at Logan.
 
 INT. WAREHOUSE - CONTINUOUS
+
+A giant corrugated METAL DOOR opens.
 </pre>
