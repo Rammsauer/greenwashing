@@ -1173,4 +1173,6 @@ Jack's eyes snap open.
 INT. WAREHOUSE - CONTINUOUS
 
 A giant corrugated METAL DOOR opens.
+
+                JACK (V.O.)
 </pre>
