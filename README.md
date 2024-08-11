@@ -1178,4 +1178,6 @@ A giant corrugated METAL DOOR opens.
     On a long enough time line, the
     survival rate for everyone drops to
     zero.
+
+Two TECHNICIANS lead Jack to the BURNT-OUT SHELL of a
 </pre>
