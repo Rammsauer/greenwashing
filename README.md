@@ -1182,4 +1182,6 @@ A giant corrugated METAL DOOR opens.
 Two TECHNICIANS lead Jack to the BURNT-OUT SHELL of a
 WRECKED AUTOMOBILE.  Jack sets down his briefcase, opens it
 and starts to make notes on a CLIPBOARDED FORM.
+
+                JACK (V.O.)
 </pre>
