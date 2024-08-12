@@ -1184,4 +1184,5 @@ WRECKED AUTOMOBILE.  Jack sets down his briefcase, opens it
 and starts to make notes on a CLIPBOARDED FORM.
 
                 JACK (V.O.)
+    I'm a recall coordinator.  My job is
 </pre>
