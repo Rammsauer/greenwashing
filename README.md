@@ -1186,4 +1186,5 @@ and starts to make notes on a CLIPBOARDED FORM.
                 JACK (V.O.)
     I'm a recall coordinator.  My job is
     to apply the formula.  It's a story
+    problem.
 </pre>
