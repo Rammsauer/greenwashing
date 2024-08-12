@@ -1180,4 +1180,5 @@ A giant corrugated METAL DOOR opens.
     zero.
 
 Two TECHNICIANS lead Jack to the BURNT-OUT SHELL of a
+WRECKED AUTOMOBILE.  Jack sets down his briefcase, opens it
 </pre>
