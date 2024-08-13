@@ -1193,4 +1193,5 @@ and starts to make notes on a CLIPBOARDED FORM.
     the windshield.  Three points.
 
                 JACK (V.O.)
+    A new car built by my company leaves
 </pre>
