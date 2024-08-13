@@ -1191,4 +1191,6 @@ and starts to make notes on a CLIPBOARDED FORM.
                 TECHNICIAN #1
     Here's where the infant went through
     the windshield.  Three points.
+
+                JACK (V.O.)
 </pre>
