@@ -1194,4 +1194,5 @@ and starts to make notes on a CLIPBOARDED FORM.
 
                 JACK (V.O.)
     A new car built by my company leaves
+    somewhere traveling at 60 miles per
 </pre>
