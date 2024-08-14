@@ -1203,4 +1203,5 @@ and starts to make notes on a CLIPBOARDED FORM.
     "anti-smoking" ad.
 
                 JACK (V.O.)
+    The car crashes and burns with
 </pre>
