@@ -1201,4 +1201,6 @@ and starts to make notes on a CLIPBOARDED FORM.
     The teenager's braces around the
     backseat ashtray would make a good
     "anti-smoking" ad.
+
+                JACK (V.O.)
 </pre>
