@@ -1200,4 +1200,5 @@ and starts to make notes on a CLIPBOARDED FORM.
                 TECHNICIAN #2
     The teenager's braces around the
     backseat ashtray would make a good
+    "anti-smoking" ad.
 </pre>
