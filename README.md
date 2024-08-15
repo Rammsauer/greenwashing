@@ -1204,4 +1204,5 @@ and starts to make notes on a CLIPBOARDED FORM.
 
                 JACK (V.O.)
     The car crashes and burns with
+    everyone trapped inside.  Now: do we
 </pre>
