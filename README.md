@@ -1210,4 +1210,5 @@ and starts to make notes on a CLIPBOARDED FORM.
                 TECHNICIAN #1
     The father must've been huge.  See
     how the fat burnt into the driver's
+    seat with his polyester shirt?  Very
 </pre>
