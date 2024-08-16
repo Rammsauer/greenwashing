@@ -1216,4 +1216,5 @@ and starts to make notes on a CLIPBOARDED FORM.
                 JACK (V.O.)
     Take the number of vehicles in the
     field, (A), and multiply it by the
+    probable rate of failure, (B), then
 </pre>
