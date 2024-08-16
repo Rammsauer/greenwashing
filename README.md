@@ -1218,4 +1218,5 @@ and starts to make notes on a CLIPBOARDED FORM.
     field, (A), and multiply it by the
     probable rate of failure, (B), then
     multiply the result by the average
+    out-of-court settlement, (C).  A
 </pre>
