@@ -1214,4 +1214,5 @@ and starts to make notes on a CLIPBOARDED FORM.
     "modern art."
 
                 JACK (V.O.)
+    Take the number of vehicles in the
 </pre>
