@@ -1217,4 +1217,5 @@ and starts to make notes on a CLIPBOARDED FORM.
     Take the number of vehicles in the
     field, (A), and multiply it by the
     probable rate of failure, (B), then
+    multiply the result by the average
 </pre>
