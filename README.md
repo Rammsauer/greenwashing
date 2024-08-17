@@ -1222,4 +1222,6 @@ and starts to make notes on a CLIPBOARDED FORM.
     times B times C equals X...
 
                                         CUT TO:
+
+INT. AIRPLANE CABIN - MOVING DOWN RUNWAY
 </pre>
