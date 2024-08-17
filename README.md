@@ -1224,4 +1224,6 @@ and starts to make notes on a CLIPBOARDED FORM.
                                         CUT TO:
 
 INT. AIRPLANE CABIN - MOVING DOWN RUNWAY
+
+Jack is speaking to the BUSINESSWOMAN next to him.
 </pre>
