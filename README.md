@@ -1220,4 +1220,6 @@ and starts to make notes on a CLIPBOARDED FORM.
     multiply the result by the average
     out-of-court settlement, (C).  A
     times B times C equals X...
+
+                                        CUT TO:
 </pre>
