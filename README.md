@@ -1226,4 +1226,6 @@ and starts to make notes on a CLIPBOARDED FORM.
 INT. AIRPLANE CABIN - MOVING DOWN RUNWAY
 
 Jack is speaking to the BUSINESSWOMAN next to him.
+
+                JACK
 </pre>
