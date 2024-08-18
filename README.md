@@ -1234,4 +1234,6 @@ Jack is speaking to the BUSINESSWOMAN next to him.
                 BUSISNESS WOMAN
     Are there a lot of these kinds of
     accidents?
+
+                JACK
 </pre>
