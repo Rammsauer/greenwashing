@@ -1228,4 +1228,5 @@ INT. AIRPLANE CABIN - MOVING DOWN RUNWAY
 Jack is speaking to the BUSINESSWOMAN next to him.
 
                 JACK
+    If X is less than the cost of a
 </pre>
