@@ -1232,4 +1232,5 @@ Jack is speaking to the BUSINESSWOMAN next to him.
     recall, we don't do one.
 
                 BUSISNESS WOMAN
+    Are there a lot of these kinds of
 </pre>
