@@ -1244,4 +1244,6 @@ Jack is speaking to the BUSINESSWOMAN next to him.
 
                 JACK
     A major one.
+
+Turgid silence.  Jack turns to the window.  He sees a
 </pre>
