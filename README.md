@@ -1249,4 +1249,5 @@ Turgid silence.  Jack turns to the window.  He sees a
 PELICAN get SUCKED into the TURBINE.
 
                 JACK (V.O.)
+    Every time the plane banked too
 </pre>
