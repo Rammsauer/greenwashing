@@ -1247,4 +1247,6 @@ Jack is speaking to the BUSINESSWOMAN next to him.
 
 Turgid silence.  Jack turns to the window.  He sees a
 PELICAN get SUCKED into the TURBINE.
+
+                JACK (V.O.)
 </pre>
