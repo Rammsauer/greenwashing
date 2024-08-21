@@ -1256,4 +1256,6 @@ PELICAN get SUCKED into the TURBINE.
 
 Jack's face remains bland during the following: the plane
 BUCKLES -- the cabin wobbles.  People panic.  Masks drop.
+
+                JACK (V.O.)
 </pre>
