@@ -1252,4 +1252,5 @@ PELICAN get SUCKED into the TURBINE.
     Every time the plane banked too
     sharply on take-off or landing, I
     prayed for a crash, or a mid-air
+    collision -- anything.
 </pre>
