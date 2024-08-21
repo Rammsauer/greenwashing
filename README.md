@@ -1253,4 +1253,6 @@ PELICAN get SUCKED into the TURBINE.
     sharply on take-off or landing, I
     prayed for a crash, or a mid-air
     collision -- anything.
+
+Jack's face remains bland during the following: the plane
 </pre>
