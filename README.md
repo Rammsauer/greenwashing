@@ -1258,4 +1258,5 @@ Jack's face remains bland during the following: the plane
 BUCKLES -- the cabin wobbles.  People panic.  Masks drop.
 
                 JACK (V.O.)
+    No more haircuts.  Nothing matters,
 </pre>
