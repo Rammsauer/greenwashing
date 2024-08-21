@@ -1259,4 +1259,5 @@ BUCKLES -- the cabin wobbles.  People panic.  Masks drop.
 
                 JACK (V.O.)
     No more haircuts.  Nothing matters,
+    not even bad breath.
 </pre>
