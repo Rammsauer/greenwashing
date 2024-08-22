@@ -1264,4 +1264,6 @@ BUCKLES -- the cabin wobbles.  People panic.  Masks drop.
 The side of the plane SHEARS OFF!  Screaming PASSENGERS are
 sucked out into the night air, flying past the quivering
 wind.  Magazines and other objects fly everywhere.
+
+                JACK (V.O.)
 </pre>
