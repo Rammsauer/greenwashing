@@ -1266,4 +1266,5 @@ sucked out into the night air, flying past the quivering
 wind.  Magazines and other objects fly everywhere.
 
                 JACK (V.O.)
+    Life insurance pays off triple if you
 </pre>
