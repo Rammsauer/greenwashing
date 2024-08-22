@@ -1267,4 +1267,5 @@ wind.  Magazines and other objects fly everywhere.
 
                 JACK (V.O.)
     Life insurance pays off triple if you
+    die on a business trip.
 </pre>
