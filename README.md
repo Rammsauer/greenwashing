@@ -1270,4 +1270,6 @@ wind.  Magazines and other objects fly everywhere.
     die on a business trip.
 
 Jack remains in his same position, same bland expression.
+
+DING! -- the seatbelt light goes OUT.  Jack SNAPS AWAKE.
 </pre>
