@@ -1282,4 +1282,6 @@ seats.  From next to Jack, a VOICE we've heard before...
 
 Jack turns to see TYLER.  Without turned to Jack, Tyler
 continues:
+
+                TYLER
 </pre>
