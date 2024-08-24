@@ -1276,4 +1276,5 @@ EVERYTHING IS NORMAL.  Some passengers get out of their
 seats.  From next to Jack, a VOICE we've heard before...
 
                 VOICE
+    There are three ways to make napalm.
 </pre>
