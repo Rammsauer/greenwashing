@@ -1277,4 +1277,5 @@ seats.  From next to Jack, a VOICE we've heard before...
 
                 VOICE
     There are three ways to make napalm.
+    One, mix equal parts of gasoline and
 </pre>
