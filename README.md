@@ -1279,4 +1279,6 @@ seats.  From next to Jack, a VOICE we've heard before...
     There are three ways to make napalm.
     One, mix equal parts of gasoline and
     frozen orange juice...
+
+Jack turns to see TYLER.  Without turned to Jack, Tyler
 </pre>
