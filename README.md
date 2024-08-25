@@ -1287,4 +1287,5 @@ continues:
     Two, equal parts gasoline and diet
     cola.  Three, dissolve kitty-litter
     in gasoline until the mixture is
+    thick.
 </pre>
