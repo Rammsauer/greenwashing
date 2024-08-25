@@ -1284,4 +1284,5 @@ Jack turns to see TYLER.  Without turned to Jack, Tyler
 continues:
 
                 TYLER
+    Two, equal parts gasoline and diet
 </pre>
