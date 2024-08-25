@@ -1290,4 +1290,5 @@ continues:
     thick.
 
                 JACK
+    Pardon me?
 </pre>
