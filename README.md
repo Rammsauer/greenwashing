@@ -1285,4 +1285,5 @@ continues:
 
                 TYLER
     Two, equal parts gasoline and diet
+    cola.  Three, dissolve kitty-litter
 </pre>
