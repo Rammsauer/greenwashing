@@ -1288,4 +1288,6 @@ continues:
     cola.  Three, dissolve kitty-litter
     in gasoline until the mixture is
     thick.
+
+                JACK
 </pre>
