@@ -1295,4 +1295,5 @@ continues:
 Tyler turns to Jack.
 
                 JACK (V.O.)
+    This is how I met --
 </pre>
