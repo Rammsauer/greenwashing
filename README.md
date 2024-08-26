@@ -1291,4 +1291,6 @@ continues:
 
                 JACK
     Pardon me?
+
+Tyler turns to Jack.
 </pre>
