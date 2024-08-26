@@ -1293,4 +1293,6 @@ continues:
     Pardon me?
 
 Tyler turns to Jack.
+
+                JACK (V.O.)
 </pre>
