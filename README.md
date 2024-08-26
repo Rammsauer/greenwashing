@@ -1298,4 +1298,5 @@ Tyler turns to Jack.
     This is how I met --
 
                 TYLER
+    Tyler Durden.
 </pre>
