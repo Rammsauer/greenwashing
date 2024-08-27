@@ -1304,4 +1304,5 @@ Tyler offers his hand.  Jack takes it.
 
                 TYLER
     You know why they have oxygen masks
+    on planes?
 </pre>
