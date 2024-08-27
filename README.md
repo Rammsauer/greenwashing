@@ -1301,4 +1301,6 @@ Tyler turns to Jack.
     Tyler Durden.
 
 Tyler offers his hand.  Jack takes it.
+
+                TYLER
 </pre>
