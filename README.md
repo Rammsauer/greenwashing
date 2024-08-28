@@ -1310,4 +1310,5 @@ Tyler offers his hand.  Jack takes it.
     No, supply oxygen?
 
                 TYLER
+    Oxygen gets you high.  In a
 </pre>
