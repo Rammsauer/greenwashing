@@ -1313,4 +1313,6 @@ Tyler offers his hand.  Jack takes it.
     Oxygen gets you high.  In a
     catastrophic emergency, we're taking
     giant, panicked breaths...
+
+Tyler grabs a safety instruction CARD from the seatback,
 </pre>
