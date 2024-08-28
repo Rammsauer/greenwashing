@@ -1308,4 +1308,6 @@ Tyler offers his hand.  Jack takes it.
 
                 JACK
     No, supply oxygen?
+
+                TYLER
 </pre>
