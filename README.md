@@ -1311,4 +1311,5 @@ Tyler offers his hand.  Jack takes it.
 
                 TYLER
     Oxygen gets you high.  In a
+    catastrophic emergency, we're taking
 </pre>
