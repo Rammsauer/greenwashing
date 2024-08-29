@@ -1318,4 +1318,5 @@ Tyler grabs a safety instruction CARD from the seatback,
 hands it to Jack.
 
                 TYLER
+    Suddenly, we become euphoic and
 </pre>
