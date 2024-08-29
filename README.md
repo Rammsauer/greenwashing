@@ -1320,4 +1320,6 @@ hands it to Jack.
                 TYLER
     Suddenly, we become euphoic and
     docile.  We accept our fate.
+
+Tyler points to passive faces on the drawn figures.
 </pre>
