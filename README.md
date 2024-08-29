@@ -1319,4 +1319,5 @@ hands it to Jack.
 
                 TYLER
     Suddenly, we become euphoic and
+    docile.  We accept our fate.
 </pre>
