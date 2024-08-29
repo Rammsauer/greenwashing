@@ -1316,4 +1316,6 @@ Tyler offers his hand.  Jack takes it.
 
 Tyler grabs a safety instruction CARD from the seatback,
 hands it to Jack.
+
+                TYLER
 </pre>
