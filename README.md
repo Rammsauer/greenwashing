@@ -1322,4 +1322,6 @@ hands it to Jack.
     docile.  We accept our fate.
 
 Tyler points to passive faces on the drawn figures.
+
+                TYLER
 </pre>
