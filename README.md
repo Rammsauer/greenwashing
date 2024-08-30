@@ -1326,4 +1326,5 @@ Tyler points to passive faces on the drawn figures.
                 TYLER
     Emergency water landing, 600 miles
     per hour.  Blank faces -- calm as
+    Hindu cows.
 </pre>
