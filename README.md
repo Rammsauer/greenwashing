@@ -1327,4 +1327,6 @@ Tyler points to passive faces on the drawn figures.
     Emergency water landing, 600 miles
     per hour.  Blank faces -- calm as
     Hindu cows.
+
+Jack laughs.
 </pre>
