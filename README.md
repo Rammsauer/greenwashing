@@ -1329,4 +1329,6 @@ Tyler points to passive faces on the drawn figures.
     Hindu cows.
 
 Jack laughs.
+
+                JACK
 </pre>
