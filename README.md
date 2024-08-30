@@ -1331,4 +1331,5 @@ Tyler points to passive faces on the drawn figures.
 Jack laughs.
 
                 JACK
+    What do you do, Tyler?
 </pre>
