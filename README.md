@@ -1332,4 +1332,6 @@ Jack laughs.
 
                 JACK
     What do you do, Tyler?
+
+                TYLER
 </pre>
