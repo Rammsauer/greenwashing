@@ -1338,4 +1338,6 @@ Jack laughs.
 
                 JACK
     I mean -- for a living.
+
+                TYLER
 </pre>
