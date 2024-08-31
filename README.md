@@ -1335,4 +1335,6 @@ Jack laughs.
 
                 TYLER
     What do you want me to do?
+
+                JACK
 </pre>
