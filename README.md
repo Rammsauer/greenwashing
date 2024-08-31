@@ -1337,4 +1337,5 @@ Jack laughs.
     What do you want me to do?
 
                 JACK
+    I mean -- for a living.
 </pre>
