@@ -1334,4 +1334,5 @@ Jack laughs.
     What do you do, Tyler?
 
                 TYLER
+    What do you want me to do?
 </pre>
