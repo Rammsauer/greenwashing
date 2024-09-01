@@ -1340,4 +1340,5 @@ Jack laughs.
     I mean -- for a living.
 
                 TYLER
+    Why?  So you can say, "Oh, that's
 </pre>
