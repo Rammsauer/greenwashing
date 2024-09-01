@@ -1345,4 +1345,5 @@ Jack laughs.
     shit about it?
 
 Jack laughs.  Tyler reaches under the seat in front of him
+and lifts a BRIEFCASE.
 </pre>
