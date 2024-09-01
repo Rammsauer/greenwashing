@@ -1342,4 +1342,5 @@ Jack laughs.
                 TYLER
     Why?  So you can say, "Oh, that's
     what you do." -- And be a smug little
+    shit about it?
 </pre>
