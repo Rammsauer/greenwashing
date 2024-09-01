@@ -1343,4 +1343,6 @@ Jack laughs.
     Why?  So you can say, "Oh, that's
     what you do." -- And be a smug little
     shit about it?
+
+Jack laughs.  Tyler reaches under the seat in front of him
 </pre>
