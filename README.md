@@ -1348,4 +1348,5 @@ Jack laughs.  Tyler reaches under the seat in front of him
 and lifts a BRIEFCASE.
 
                 TYLER
+    You have a kind of sick desperation
 </pre>
