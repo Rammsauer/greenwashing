@@ -1352,4 +1352,6 @@ and lifts a BRIEFCASE.
     in your laugh.
 
 Jack points to his own briefcase.
+
+                JACK
 </pre>
