@@ -1354,4 +1354,5 @@ and lifts a BRIEFCASE.
 Jack points to his own briefcase.
 
                 JACK
+    We have the same briefcase.
 </pre>
