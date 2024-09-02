@@ -1349,4 +1349,5 @@ and lifts a BRIEFCASE.
 
                 TYLER
     You have a kind of sick desperation
+    in your laugh.
 </pre>
