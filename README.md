@@ -1362,4 +1362,5 @@ Tyler turns the top of his briefcase toward Jack.
     Open it.
 
 Jack looks at Tyler, then pops the latches and raises the
+lid to reveal quaintly-wrapped bars of SOAP.
 </pre>
