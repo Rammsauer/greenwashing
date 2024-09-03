@@ -1360,4 +1360,6 @@ Tyler turns the top of his briefcase toward Jack.
 
                 TYLER
     Open it.
+
+Jack looks at Tyler, then pops the latches and raises the
 </pre>
