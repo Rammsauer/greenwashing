@@ -1357,4 +1357,6 @@ Jack points to his own briefcase.
     We have the same briefcase.
 
 Tyler turns the top of his briefcase toward Jack.
+
+                TYLER
 </pre>
