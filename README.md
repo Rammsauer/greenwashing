@@ -1359,4 +1359,5 @@ Jack points to his own briefcase.
 Tyler turns the top of his briefcase toward Jack.
 
                 TYLER
+    Open it.
 </pre>
