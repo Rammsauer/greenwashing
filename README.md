@@ -1367,4 +1367,5 @@ lid to reveal quaintly-wrapped bars of SOAP.
                 TYLER
     Soap -- the yardstick of civilization.
         (reaches in his pocket)
+    I make and sell soap...
 </pre>
