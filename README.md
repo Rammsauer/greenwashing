@@ -1370,4 +1370,6 @@ lid to reveal quaintly-wrapped bars of SOAP.
     I make and sell soap...
 
 Tyler hands Jack his card.  "THE PAPER STREET SOAP COMPANY."
+
+                TYLER
 </pre>
