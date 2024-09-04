@@ -1365,4 +1365,5 @@ Jack looks at Tyler, then pops the latches and raises the
 lid to reveal quaintly-wrapped bars of SOAP.
 
                 TYLER
+    Soap -- the yardstick of civilization.
 </pre>
