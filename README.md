@@ -1368,4 +1368,6 @@ lid to reveal quaintly-wrapped bars of SOAP.
     Soap -- the yardstick of civilization.
         (reaches in his pocket)
     I make and sell soap...
+
+Tyler hands Jack his card.  "THE PAPER STREET SOAP COMPANY."
 </pre>
