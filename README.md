@@ -1375,4 +1375,5 @@ Tyler hands Jack his card.  "THE PAPER STREET SOAP COMPANY."
     If you were to add nitric acid to the
     soap-making process, one would get
     nitroglycerin.  With enough soap, one
+    could blow up the world, if one were
 </pre>
