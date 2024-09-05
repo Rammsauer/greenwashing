@@ -1377,4 +1377,6 @@ Tyler hands Jack his card.  "THE PAPER STREET SOAP COMPANY."
     nitroglycerin.  With enough soap, one
     could blow up the world, if one were
     so inclined.
+
+Tyler SNAPS the briefcase shut.  Jack stares.
 </pre>
