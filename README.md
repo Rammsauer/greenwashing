@@ -1372,4 +1372,5 @@ lid to reveal quaintly-wrapped bars of SOAP.
 Tyler hands Jack his card.  "THE PAPER STREET SOAP COMPANY."
 
                 TYLER
+    If you were to add nitric acid to the
 </pre>
