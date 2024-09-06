@@ -1379,4 +1379,6 @@ Tyler hands Jack his card.  "THE PAPER STREET SOAP COMPANY."
     so inclined.
 
 Tyler SNAPS the briefcase shut.  Jack stares.
+
+                JACK
 </pre>
