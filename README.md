@@ -1383,4 +1383,5 @@ Tyler SNAPS the briefcase shut.  Jack stares.
                 JACK
     Tyler, you are by far the most
     interesting "single-serving" friend
+    I've ever met.
 </pre>
