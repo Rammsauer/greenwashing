@@ -1381,4 +1381,5 @@ Tyler hands Jack his card.  "THE PAPER STREET SOAP COMPANY."
 Tyler SNAPS the briefcase shut.  Jack stares.
 
                 JACK
+    Tyler, you are by far the most
 </pre>
