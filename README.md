@@ -1386,4 +1386,5 @@ Tyler SNAPS the briefcase shut.  Jack stares.
     I've ever met.
 
 Tyler stares back.  Jack, enjoying his own chance to be
+witty, leans closer to Tyler.
 </pre>
