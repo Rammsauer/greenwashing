@@ -1390,4 +1390,5 @@ witty, leans closer to Tyler.
 
                 JACK
     You see, when you travel, everything
+    is small, self-contained--
 </pre>
