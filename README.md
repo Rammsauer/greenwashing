@@ -1389,4 +1389,5 @@ Tyler stares back.  Jack, enjoying his own chance to be
 witty, leans closer to Tyler.
 
                 JACK
+    You see, when you travel, everything
 </pre>
