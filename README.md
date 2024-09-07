@@ -1393,4 +1393,5 @@ witty, leans closer to Tyler.
     is small, self-contained--
 
                 TYLER
+    The spork.  I get it.  You're very
 </pre>
