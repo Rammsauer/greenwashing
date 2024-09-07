@@ -1387,4 +1387,6 @@ Tyler SNAPS the briefcase shut.  Jack stares.
 
 Tyler stares back.  Jack, enjoying his own chance to be
 witty, leans closer to Tyler.
+
+                JACK
 </pre>
