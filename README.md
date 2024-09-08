@@ -1395,4 +1395,6 @@ witty, leans closer to Tyler.
                 TYLER
     The spork.  I get it.  You're very
     clever.
+
+                JACK
 </pre>
