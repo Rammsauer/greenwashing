@@ -1397,4 +1397,5 @@ witty, leans closer to Tyler.
     clever.
 
                 JACK
+    Thank you.
 </pre>
