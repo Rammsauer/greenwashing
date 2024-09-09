@@ -1407,4 +1407,6 @@ witty, leans closer to Tyler.
 
                 TYLER
     Being clever.
+
+                JACK
 </pre>
