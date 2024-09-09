@@ -1409,4 +1409,5 @@ witty, leans closer to Tyler.
     Being clever.
 
                 JACK
+        (thrown)
 </pre>
