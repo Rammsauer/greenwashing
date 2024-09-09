@@ -1404,4 +1404,6 @@ witty, leans closer to Tyler.
 
                 JACK
     What?
+
+                TYLER
 </pre>
