@@ -1406,4 +1406,5 @@ witty, leans closer to Tyler.
     What?
 
                 TYLER
+    Being clever.
 </pre>
