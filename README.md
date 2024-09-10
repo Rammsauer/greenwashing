@@ -1418,4 +1418,5 @@ witty, leans closer to Tyler.
 Tyler stands, looks towards the aisle.
 
                 TYLER
+    ... As I squeeze past, do I give you
 </pre>
