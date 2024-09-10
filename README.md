@@ -1414,4 +1414,6 @@ witty, leans closer to Tyler.
 
                 TYLER
     Keep it up, then.  Keep it right up.
+
+Tyler stands, looks towards the aisle.
 </pre>
