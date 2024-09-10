@@ -1413,4 +1413,5 @@ witty, leans closer to Tyler.
     Well, uh... great.
 
                 TYLER
+    Keep it up, then.  Keep it right up.
 </pre>
