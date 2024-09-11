@@ -1425,4 +1425,6 @@ Tyler moves to the aisle, his ass toward jack, walks away...
 
                 TYLER
     We are defined by the choices we make.
+
+Tyler goes to the curtain dividing First Class, slaps the
 </pre>
