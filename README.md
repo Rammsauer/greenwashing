@@ -1424,4 +1424,5 @@ Tyler stands, looks towards the aisle.
 Tyler moves to the aisle, his ass toward jack, walks away...
 
                 TYLER
+    We are defined by the choices we make.
 </pre>
