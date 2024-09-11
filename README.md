@@ -1422,4 +1422,6 @@ Tyler stands, looks towards the aisle.
     the ass or the crotch?
 
 Tyler moves to the aisle, his ass toward jack, walks away...
+
+                TYLER
 </pre>
