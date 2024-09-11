@@ -1420,4 +1420,6 @@ Tyler stands, looks towards the aisle.
                 TYLER
     ... As I squeeze past, do I give you
     the ass or the crotch?
+
+Tyler moves to the aisle, his ass toward jack, walks away...
 </pre>
