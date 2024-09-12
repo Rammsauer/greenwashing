@@ -1433,4 +1433,6 @@ curtain aside and sits in an empty seat.  Jack watches.
     How I came to live with Tyler is:
     airlines have this policy about
     vibrating luggage.
+
+INT. BAGGAGE CLAIM AREA - NIGHT
 </pre>
