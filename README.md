@@ -1430,4 +1430,5 @@ Tyler goes to the curtain dividing First Class, slaps the
 curtain aside and sits in an empty seat.  Jack watches.
 
                 JACK (V.O.)
+    How I came to live with Tyler is:
 </pre>
