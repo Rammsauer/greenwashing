@@ -1432,4 +1432,5 @@ curtain aside and sits in an empty seat.  Jack watches.
                 JACK (V.O.)
     How I came to live with Tyler is:
     airlines have this policy about
+    vibrating luggage.
 </pre>
