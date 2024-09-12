@@ -1428,4 +1428,6 @@ Tyler moves to the aisle, his ass toward jack, walks away...
 
 Tyler goes to the curtain dividing First Class, slaps the
 curtain aside and sits in an empty seat.  Jack watches.
+
+                JACK (V.O.)
 </pre>
