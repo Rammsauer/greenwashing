@@ -1437,4 +1437,5 @@ curtain aside and sits in an empty seat.  Jack watches.
 INT. BAGGAGE CLAIM AREA - NIGHT
 
 Utterly empty of baggage.  No people except for Jack and a
+SECURITY TASK FORCE MAN.  The Security TFM, smirking, holds
 </pre>
