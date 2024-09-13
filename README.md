@@ -1435,4 +1435,6 @@ curtain aside and sits in an empty seat.  Jack watches.
     vibrating luggage.
 
 INT. BAGGAGE CLAIM AREA - NIGHT
+
+Utterly empty of baggage.  No people except for Jack and a
 </pre>
