@@ -1442,4 +1442,5 @@ a receiver to his ear from an official phone on the wall.
 
                 SECURITY TFM
         (to Jack)
+    Throwers don't worry about ticking.
 </pre>
