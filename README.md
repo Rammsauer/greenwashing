@@ -1443,4 +1443,5 @@ a receiver to his ear from an official phone on the wall.
                 SECURITY TFM
         (to Jack)
     Throwers don't worry about ticking.
+    Modern bombs don't tick.
 </pre>
