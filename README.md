@@ -1444,4 +1444,6 @@ a receiver to his ear from an official phone on the wall.
         (to Jack)
     Throwers don't worry about ticking.
     Modern bombs don't tick.
+
+                JACK
 </pre>
