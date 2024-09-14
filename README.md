@@ -1446,4 +1446,5 @@ a receiver to his ear from an official phone on the wall.
     Modern bombs don't tick.
 
                 JACK
+    Excuse me?  "Throwers?"
 </pre>
