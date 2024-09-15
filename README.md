@@ -1452,4 +1452,6 @@ a receiver to his ear from an official phone on the wall.
     Baggage handlers.  But when a
     suitcase vibrates, the throwers have
     to call the police.
+
+                JACK
 </pre>
