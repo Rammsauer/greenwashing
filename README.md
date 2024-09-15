@@ -1454,4 +1454,5 @@ a receiver to his ear from an official phone on the wall.
     to call the police.
 
                 JACK
+    My suitcase was vibrating?
 </pre>
