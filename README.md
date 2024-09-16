@@ -1462,4 +1462,5 @@ a receiver to his ear from an official phone on the wall.
     a while ...
         (whispers)
     ...it's a dildo.  It's airline policy
+    not to imply ownership in the event
 </pre>
