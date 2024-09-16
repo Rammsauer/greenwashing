@@ -1460,4 +1460,5 @@ a receiver to his ear from an official phone on the wall.
     Nine time out of ten, it's an
     electric razor.  But, every once in
     a while ...
+        (whispers)
 </pre>
