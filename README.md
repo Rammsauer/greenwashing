@@ -1466,4 +1466,6 @@ a receiver to his ear from an official phone on the wall.
     of a dildo.  We use the indefinite
     aricle: "A dildo."  Never "Your
     dildo."
+
+Jack sees, through the window, Tyler, at the curb, throwing
 </pre>
