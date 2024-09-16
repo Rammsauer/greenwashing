@@ -1461,4 +1461,5 @@ a receiver to his ear from an official phone on the wall.
     electric razor.  But, every once in
     a while ...
         (whispers)
+    ...it's a dildo.  It's airline policy
 </pre>
