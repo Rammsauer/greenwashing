@@ -1463,4 +1463,5 @@ a receiver to his ear from an official phone on the wall.
         (whispers)
     ...it's a dildo.  It's airline policy
     not to imply ownership in the event
+    of a dildo.  We use the indefinite
 </pre>
