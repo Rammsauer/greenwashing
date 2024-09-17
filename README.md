@@ -1468,4 +1468,5 @@ a receiver to his ear from an official phone on the wall.
     dildo."
 
 Jack sees, through the window, Tyler, at the curb, throwing
+his briefcase into the back of a shiny, red CONVERTIBLE.
 </pre>
