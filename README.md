@@ -1471,4 +1471,6 @@ Jack sees, through the window, Tyler, at the curb, throwing
 his briefcase into the back of a shiny, red CONVERTIBLE.
 Tyler leaps over the door into the driver's seat and PEELS
 OUT.  jack turns away, looks at the Security TFM.
+
+In the background, a HARRIED MAN dashes after Tyler and the
 </pre>
