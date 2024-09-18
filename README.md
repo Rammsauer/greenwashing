@@ -1483,4 +1483,5 @@ convertible, SCREAMING.
                 SECURITY TFM
         (into phone)
     Yeah, uh huh... yeah?
+        (pause, still on phone)
 </pre>
