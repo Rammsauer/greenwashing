@@ -1485,4 +1485,6 @@ convertible, SCREAMING.
     Yeah, uh huh... yeah?
         (pause, still on phone)
     Oh...
+
+EXT. EMPTY RUNWAY
 </pre>
