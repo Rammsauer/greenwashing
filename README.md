@@ -1489,4 +1489,5 @@ convertible, SCREAMING.
 EXT. EMPTY RUNWAY
 
 A lone SUITCASE sits on the concrete.  SECURITY PERSONNEL
+keep their distance.  KABOOM!  The suitcase explodes.
 </pre>
