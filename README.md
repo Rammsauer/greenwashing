@@ -1487,4 +1487,6 @@ convertible, SCREAMING.
     Oh...
 
 EXT. EMPTY RUNWAY
+
+A lone SUITCASE sits on the concrete.  SECURITY PERSONNEL
 </pre>
