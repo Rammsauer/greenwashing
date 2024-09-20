@@ -1499,4 +1499,5 @@ The Security TFM, shakes his head, hangs up.
     I'm terribly sorry.
 
 The Security TFM hands Jack a claim form.  Jack snatches it,
+disgusted, takes out a pen, starts filling out the form.
 </pre>
