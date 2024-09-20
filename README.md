@@ -1497,4 +1497,6 @@ The Security TFM, shakes his head, hangs up.
 
                 SECURITY TFM
     I'm terribly sorry.
+
+The Security TFM hands Jack a claim form.  Jack snatches it,
 </pre>
