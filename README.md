@@ -1492,4 +1492,6 @@ A lone SUITCASE sits on the concrete.  SECURITY PERSONNEL
 keep their distance.  KABOOM!  The suitcase explodes.
 
 INT. BAGGAGE CLAIM AREA - RESUMING
+
+The Security TFM, shakes his head, hangs up.
 </pre>
