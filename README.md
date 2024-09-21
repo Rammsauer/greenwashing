@@ -1506,4 +1506,6 @@ disgusted, takes out a pen, starts filling out the form.
     "Flight Attendant?"  "Air Mattress."
 
 INT. TAXI - MOVING - NIGHT
+
+Along a residential street.  Jack looks ahead, sees a tall,
 </pre>
