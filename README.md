@@ -1511,4 +1511,5 @@ Along a residential street.  Jack looks ahead, sees a tall,
 grey, bland BUILDING on the corner.
 
                 JACK (V.O.)
+    Home was a condo on the fifteenth
 </pre>
