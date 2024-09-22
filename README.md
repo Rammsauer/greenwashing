@@ -1512,4 +1512,5 @@ grey, bland BUILDING on the corner.
 
                 JACK (V.O.)
     Home was a condo on the fifteenth
+    floor of a filing cabinet for widows
 </pre>
