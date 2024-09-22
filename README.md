@@ -1509,4 +1509,6 @@ INT. TAXI - MOVING - NIGHT
 
 Along a residential street.  Jack looks ahead, sees a tall,
 grey, bland BUILDING on the corner.
+
+                JACK (V.O.)
 </pre>
