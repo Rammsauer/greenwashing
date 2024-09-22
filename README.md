@@ -1508,4 +1508,5 @@ disgusted, takes out a pen, starts filling out the form.
 INT. TAXI - MOVING - NIGHT
 
 Along a residential street.  Jack looks ahead, sees a tall,
+grey, bland BUILDING on the corner.
 </pre>
