@@ -1514,4 +1514,5 @@ grey, bland BUILDING on the corner.
     Home was a condo on the fifteenth
     floor of a filing cabinet for widows
     and young professionals.  The walls
+    were solid concrete.  A foot of
 </pre>
