@@ -1519,4 +1519,6 @@ grey, bland BUILDING on the corner.
     door neighbor lets her hearing aid go
     and has to watch game shows at full
     volume...
+
+The taxi turns a corner and Jack sees the front of the
 </pre>
