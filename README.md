@@ -1516,4 +1516,5 @@ grey, bland BUILDING on the corner.
     and young professionals.  The walls
     were solid concrete.  A foot of
     concrete is important when your next-
+    door neighbor lets her hearing aid go
 </pre>
