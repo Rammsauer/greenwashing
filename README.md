@@ -1517,4 +1517,5 @@ grey, bland BUILDING on the corner.
     were solid concrete.  A foot of
     concrete is important when your next-
     door neighbor lets her hearing aid go
+    and has to watch game shows at full
 </pre>
