@@ -1521,4 +1521,5 @@ grey, bland BUILDING on the corner.
     volume...
 
 The taxi turns a corner and Jack sees the front of the
+building.  A diffuse CLOUD of SMOKE wafts away from a BLOWN-
 </pre>
