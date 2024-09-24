@@ -1526,4 +1526,5 @@ OUT SECTION of the fifteenth floor.  FIRETRUCKS, POLICE CARS
 and a MOB are all crowded around the lobby area.
 
                 JACK (V.O.)
+    -- Or when a volcanic blast of debris
 </pre>
