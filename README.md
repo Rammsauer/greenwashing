@@ -1530,4 +1530,5 @@ and a MOB are all crowded around the lobby area.
     that used to be your furniture and
     personal effects blows out your floor-
     to-ceiling windows and sails flaming
+    into the night.
 </pre>
