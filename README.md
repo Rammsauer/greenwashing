@@ -1524,4 +1524,6 @@ The taxi turns a corner and Jack sees the front of the
 building.  A diffuse CLOUD of SMOKE wafts away from a BLOWN-
 OUT SECTION of the fifteenth floor.  FIRETRUCKS, POLICE CARS
 and a MOB are all crowded around the lobby area.
+
+                JACK (V.O.)
 </pre>
