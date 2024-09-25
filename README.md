@@ -1535,4 +1535,5 @@ and a MOB are all crowded around the lobby area.
 EXT. STREET IN FRONT OF BUILDING
 
 Jack, gaping at the sight above him, absently gives the
+Cabbie money.  The taxi pulls away.  Jack starts toward the
 </pre>
