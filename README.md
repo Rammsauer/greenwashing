@@ -1533,4 +1533,6 @@ and a MOB are all crowded around the lobby area.
     into the night.
 
 EXT. STREET IN FRONT OF BUILDING
+
+Jack, gaping at the sight above him, absently gives the
 </pre>
