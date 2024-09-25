@@ -1531,4 +1531,6 @@ and a MOB are all crowded around the lobby area.
     personal effects blows out your floor-
     to-ceiling windows and sails flaming
     into the night.
+
+EXT. STREET IN FRONT OF BUILDING
 </pre>
