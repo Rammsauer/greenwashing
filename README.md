@@ -1537,4 +1537,6 @@ EXT. STREET IN FRONT OF BUILDING
 Jack, gaping at the sight above him, absently gives the
 Cabbie money.  The taxi pulls away.  Jack starts toward the
 building.  He pushes through the fray of people, into the...
+
+INT. LOBBY
 </pre>
