@@ -1541,4 +1541,5 @@ building.  He pushes through the fray of people, into the...
 INT. LOBBY
 
 The DOORMAN sees Jack enter, gives a sad smile, shakes his
+head.  Jack starts for the elevator.
 </pre>
