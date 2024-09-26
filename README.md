@@ -1545,4 +1545,6 @@ head.  Jack starts for the elevator.
 
                 DOORMAN
     There's nothing up there.
+
+Jack presses the button.  The Doorman moves next to him.
 </pre>
