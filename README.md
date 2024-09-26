@@ -1544,4 +1544,5 @@ The DOORMAN sees Jack enter, gives a sad smile, shakes his
 head.  Jack starts for the elevator.
 
                 DOORMAN
+    There's nothing up there.
 </pre>
