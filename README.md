@@ -1539,4 +1539,6 @@ Cabbie money.  The taxi pulls away.  Jack starts toward the
 building.  He pushes through the fray of people, into the...
 
 INT. LOBBY
+
+The DOORMAN sees Jack enter, gives a sad smile, shakes his
 </pre>
