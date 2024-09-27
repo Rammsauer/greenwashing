@@ -1554,4 +1554,6 @@ Jack presses the button.  The Doorman moves next to him.
 
 The elevator doors open.  Jack hesitates.  The doors close.
 Jack heads out the lobby doors.  The Doorman follows...
+
+EXT. CONDO BUILDING - CONTINUOUS
 </pre>
