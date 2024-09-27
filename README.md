@@ -1551,4 +1551,6 @@ Jack presses the button.  The Doorman moves next to him.
                 DOORMAN
     You can't go into the unit.  Police
     orders.
+
+The elevator doors open.  Jack hesitates.  The doors close.
 </pre>
