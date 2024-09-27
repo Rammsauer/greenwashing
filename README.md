@@ -1553,4 +1553,5 @@ Jack presses the button.  The Doorman moves next to him.
     orders.
 
 The elevator doors open.  Jack hesitates.  The doors close.
+Jack heads out the lobby doors.  The Doorman follows...
 </pre>
