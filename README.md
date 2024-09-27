@@ -1549,4 +1549,5 @@ head.  Jack starts for the elevator.
 Jack presses the button.  The Doorman moves next to him.
 
                 DOORMAN
+    You can't go into the unit.  Police
 </pre>
