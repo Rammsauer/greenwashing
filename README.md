@@ -1547,4 +1547,6 @@ head.  Jack starts for the elevator.
     There's nothing up there.
 
 Jack presses the button.  The Doorman moves next to him.
+
+                DOORMAN
 </pre>
