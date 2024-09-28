@@ -1556,4 +1556,6 @@ The elevator doors open.  Jack hesitates.  The doors close.
 Jack heads out the lobby doors.  The Doorman follows...
 
 EXT. CONDO BUILDING - CONTINUOUS
+
+Jack walks past SMOKING, CHARRED DEBRIS -- a flash of ORANGE
 </pre>
