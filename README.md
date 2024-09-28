@@ -1562,4 +1562,5 @@ from the Yang table, a CLOCK FACE from the hall clock, part
 of an arm from the GREEN ARMCHAIR.  His feet CRUNCH glass.
 
                 JACK (V.O.)
+    How embarrassing.
 </pre>
