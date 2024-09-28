@@ -1558,4 +1558,5 @@ Jack heads out the lobby doors.  The Doorman follows...
 EXT. CONDO BUILDING - CONTINUOUS
 
 Jack walks past SMOKING, CHARRED DEBRIS -- a flash of ORANGE
+from the Yang table, a CLOCK FACE from the hall clock, part
 </pre>
