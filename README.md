@@ -1568,4 +1568,5 @@ of an arm from the GREEN ARMCHAIR.  His feet CRUNCH glass.
     Do you have somebody you can call?
 
 Jack comes to his REFRIGERATOR lying on its side.  He
+reaches down and takes a note: "MARLA --" and a phone
 </pre>
