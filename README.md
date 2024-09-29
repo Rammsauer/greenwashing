@@ -1566,4 +1566,6 @@ of an arm from the GREEN ARMCHAIR.  His feet CRUNCH glass.
 
                 DOORMAN
     Do you have somebody you can call?
+
+Jack comes to his REFRIGERATOR lying on its side.  He
 </pre>
