@@ -1570,4 +1570,6 @@ of an arm from the GREEN ARMCHAIR.  His feet CRUNCH glass.
 Jack comes to his REFRIGERATOR lying on its side.  He
 reaches down and takes a note: "MARLA --" and a phone
 number, from under a BANANA MAGNET.
+
+CLOSE SHOT - JACK'S STOVE
 </pre>
