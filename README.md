@@ -1565,4 +1565,5 @@ of an arm from the GREEN ARMCHAIR.  His feet CRUNCH glass.
     How embarrassing.
 
                 DOORMAN
+    Do you have somebody you can call?
 </pre>
