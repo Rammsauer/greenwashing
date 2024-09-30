@@ -1574,4 +1574,6 @@ number, from under a BANANA MAGNET.
 CLOSE SHOT - JACK'S STOVE
 
 Hissing.
+
+                JACK (V.O.)
 </pre>
