@@ -1577,4 +1577,5 @@ Hissing.
 
                 JACK (V.O.)
     The police would later tell me that
+    the pilot light might have gone
 </pre>
