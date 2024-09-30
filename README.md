@@ -1572,4 +1572,6 @@ reaches down and takes a note: "MARLA --" and a phone
 number, from under a BANANA MAGNET.
 
 CLOSE SHOT - JACK'S STOVE
+
+Hissing.
 </pre>
