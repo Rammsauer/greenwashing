@@ -1576,4 +1576,5 @@ CLOSE SHOT - JACK'S STOVE
 Hissing.
 
                 JACK (V.O.)
+    The police would later tell me that
 </pre>
