@@ -1580,4 +1580,6 @@ Hissing.
     the pilot light might have gone
     out... letting out just a little bit
     of gas.
+
+EXT. PAYPHONE - RESUMING
 </pre>
