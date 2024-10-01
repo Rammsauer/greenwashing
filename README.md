@@ -1586,4 +1586,5 @@ EXT. PAYPHONE - RESUMING
 Jack gets to a PAYPHONE.  The Doorman follows, watching him.
 
                 DOORMAN
+    Lots of young people try to impress
 </pre>
