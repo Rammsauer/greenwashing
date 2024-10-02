@@ -1591,4 +1591,6 @@ Jack gets to a PAYPHONE.  The Doorman follows, watching him.
 
 Jack picks up the receiver, puts in a quarter.  He looks at
 Marla's number a long moment.
+
+CLOSE SHOT - JACK'S ENTIRE CONDO - KITCHEN AND LIVING ROOM
 </pre>
