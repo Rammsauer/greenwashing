@@ -1588,4 +1588,6 @@ Jack gets to a PAYPHONE.  The Doorman follows, watching him.
                 DOORMAN
     Lots of young people try to impress
     the world and buy too many things.
+
+Jack picks up the receiver, puts in a quarter.  He looks at
 </pre>
