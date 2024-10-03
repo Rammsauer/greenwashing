@@ -1598,4 +1598,5 @@ The SOUND of the HISS...
 
                 JACK (V.O.)
     The gas could have slowly filled the
+    condo.  Seventeen-hundred square feet
 </pre>
