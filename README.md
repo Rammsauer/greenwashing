@@ -1600,4 +1600,6 @@ The SOUND of the HISS...
     The gas could have slowly filled the
     condo.  Seventeen-hundred square feet
     with high ceilings, for days and days.
+
+EXT. PAYPHONE - RESUMING
 </pre>
