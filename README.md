@@ -1597,4 +1597,5 @@ CLOSE SHOT - JACK'S ENTIRE CONDO - KITCHEN AND LIVING ROOM
 The SOUND of the HISS...
 
                 JACK (V.O.)
+    The gas could have slowly filled the
 </pre>
