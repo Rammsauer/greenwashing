@@ -1602,4 +1602,6 @@ The SOUND of the HISS...
     with high ceilings, for days and days.
 
 EXT. PAYPHONE - RESUMING
+
+Jack replaces the receiver.  He pockets Marla's number, digs
 </pre>
