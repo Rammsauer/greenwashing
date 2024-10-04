@@ -1604,4 +1604,5 @@ The SOUND of the HISS...
 EXT. PAYPHONE - RESUMING
 
 Jack replaces the receiver.  He pockets Marla's number, digs
+out a small FILOFAX.  He flips through the pages for phone
 </pre>
