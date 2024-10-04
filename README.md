@@ -1610,4 +1610,6 @@ numbers and addresses.  Most of the pages are blank.
                 DOORMAN
     Many young people feel trapped and
     desperate.
+
+INSERT - CLOSE ON THE BASE OF JACK'S REFRIGERATOR
 </pre>
