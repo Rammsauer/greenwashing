@@ -1605,4 +1605,5 @@ EXT. PAYPHONE - RESUMING
 
 Jack replaces the receiver.  He pockets Marla's number, digs
 out a small FILOFAX.  He flips through the pages for phone
+numbers and addresses.  Most of the pages are blank.
 </pre>
