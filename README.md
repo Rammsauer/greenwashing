@@ -1608,4 +1608,5 @@ out a small FILOFAX.  He flips through the pages for phone
 numbers and addresses.  Most of the pages are blank.
 
                 DOORMAN
+    Many young people feel trapped and
 </pre>
