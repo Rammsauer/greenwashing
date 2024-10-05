@@ -1615,4 +1615,5 @@ INSERT - CLOSE ON THE BASE OF JACK'S REFRIGERATOR
 
                 JACK (V.O.)
     Then, the refrigerator's compressor
+    could have clicked on...
 </pre>
