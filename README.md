@@ -1614,4 +1614,5 @@ numbers and addresses.  Most of the pages are blank.
 INSERT - CLOSE ON THE BASE OF JACK'S REFRIGERATOR
 
                 JACK (V.O.)
+    Then, the refrigerator's compressor
 </pre>
