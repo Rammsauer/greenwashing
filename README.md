@@ -1612,4 +1612,6 @@ numbers and addresses.  Most of the pages are blank.
     desperate.
 
 INSERT - CLOSE ON THE BASE OF JACK'S REFRIGERATOR
+
+                JACK (V.O.)
 </pre>
