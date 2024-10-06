@@ -1622,4 +1622,5 @@ Click.  KABOOM!  SCREEN GOES WHITE.
 EXT. PAYPHONE - RESUMING
 
 Jack looks at the Doorman.  Tyler's BUSINESS CARD falls from
+the Filofax.  Jack catches it.
 </pre>
