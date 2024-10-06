@@ -1625,4 +1625,5 @@ Jack looks at the Doorman.  Tyler's BUSINESS CARD falls from
 the Filofax.  Jack catches it.
 
                 DOORMAN
+    If you don't know what you want, you
 </pre>
