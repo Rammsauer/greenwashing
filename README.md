@@ -1627,4 +1627,6 @@ the Filofax.  Jack catches it.
                 DOORMAN
     If you don't know what you want, you
     end up with a lot you don't.
+
+The Doorman walks away.  Jack stares at Tyler's card.
 </pre>
