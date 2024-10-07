@@ -1631,4 +1631,5 @@ the Filofax.  Jack catches it.
 The Doorman walks away.  Jack stares at Tyler's card.
 
                 JACK (V.O.)
+    If you asked me now, I couldn't tell
 </pre>
