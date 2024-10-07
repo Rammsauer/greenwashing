@@ -1635,4 +1635,5 @@ The Doorman walks away.  Jack stares at Tyler's card.
     you why I called him.
 
 Jack re-deposits the quarter, dials Tyler's number.  It
+RINGS... and RINGS and RINGS.  Jack sighs and hangs up the
 </pre>
