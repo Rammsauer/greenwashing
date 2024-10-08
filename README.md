@@ -1639,4 +1639,5 @@ RINGS... and RINGS and RINGS.  Jack sighs and hangs up the
 phone.  A moment, then the phone RINGS.
 
                 JACK
+    Hello?
 </pre>
