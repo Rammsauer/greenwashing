@@ -1651,4 +1651,5 @@ phone.  A moment, then the phone RINGS.
     Who's this?
 
                 JACK
+    Uh... I'm sorry.  We met on the
 </pre>
