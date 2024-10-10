@@ -1659,4 +1659,5 @@ phone.  A moment, then the phone RINGS.
     Oh, yeah.
 
                 JACK
+    I just called a second ago.  There
 </pre>
