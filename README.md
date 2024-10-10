@@ -1653,4 +1653,5 @@ phone.  A moment, then the phone RINGS.
                 JACK
     Uh... I'm sorry.  We met on the
     plane.  We had the same briefcase.
+    I'm... you know, the clever guy.
 </pre>
