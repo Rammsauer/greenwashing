@@ -1667,4 +1667,5 @@ phone.  A moment, then the phone RINGS.
     up my phone.  What's up?
 
                 JACK
+    Well... let me see... here's the
 </pre>
