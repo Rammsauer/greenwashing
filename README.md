@@ -1663,4 +1663,5 @@ phone.  A moment, then the phone RINGS.
     was no answer.  I'm at a payphone.
 
                 TYLER'S VOICE
+    I star-sixty-nined you.  I never pick
 </pre>
