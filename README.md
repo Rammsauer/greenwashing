@@ -1673,4 +1673,6 @@ phone.  A moment, then the phone RINGS.
 EXT. LOU'S TAVERN - NIGHT
 
 A small building in the middle of a concrete parking lot.
+
+INT. LOU'S TAVERN - SAME
 </pre>
