@@ -1669,4 +1669,6 @@ phone.  A moment, then the phone RINGS.
                 JACK
     Well... let me see... here's the
     thing...
+
+EXT. LOU'S TAVERN - NIGHT
 </pre>
