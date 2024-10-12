@@ -1668,4 +1668,5 @@ phone.  A moment, then the phone RINGS.
 
                 JACK
     Well... let me see... here's the
+    thing...
 </pre>
