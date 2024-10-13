@@ -1679,4 +1679,5 @@ INT. LOU'S TAVERN - SAME
 Jack and Tyler sit in the back, with a pitcher of BEER.
 
                 JACK
+    You buy furniture.  You tell
 </pre>
