@@ -1682,4 +1682,5 @@ Jack and Tyler sit in the back, with a pitcher of BEER.
     You buy furniture.  You tell
     yourself: this is the last sofa I'll
     ever need.  No matter what else
+    happens, I've got the sofa issue
 </pre>
