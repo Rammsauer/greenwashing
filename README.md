@@ -1680,4 +1680,5 @@ Jack and Tyler sit in the back, with a pitcher of BEER.
 
                 JACK
     You buy furniture.  You tell
+    yourself: this is the last sofa I'll
 </pre>
