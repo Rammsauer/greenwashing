@@ -1675,4 +1675,6 @@ EXT. LOU'S TAVERN - NIGHT
 A small building in the middle of a concrete parking lot.
 
 INT. LOU'S TAVERN - SAME
+
+Jack and Tyler sit in the back, with a pitcher of BEER.
 </pre>
