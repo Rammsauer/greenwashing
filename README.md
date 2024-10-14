@@ -1690,4 +1690,6 @@ Jack and Tyler sit in the back, with a pitcher of BEER.
     This is how we fill up our lives.
 
 Tyler lights a cigarette.
+
+                JACK
 </pre>
