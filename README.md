@@ -1687,4 +1687,5 @@ Jack and Tyler sit in the back, with a pitcher of BEER.
     dishes.  The right dinette.
 
                 TYLER
+    This is how we fill up our lives.
 </pre>
