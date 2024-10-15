@@ -1695,4 +1695,5 @@ Tyler lights a cigarette.
     I guess so.
 
                 TYLER
+    And, now it's gone.
 </pre>
