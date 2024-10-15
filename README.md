@@ -1698,4 +1698,5 @@ Tyler lights a cigarette.
     And, now it's gone.
 
                 JACK
+    All gone.
 </pre>
