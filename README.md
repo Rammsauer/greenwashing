@@ -1696,4 +1696,6 @@ Tyler lights a cigarette.
 
                 TYLER
     And, now it's gone.
+
+                JACK
 </pre>
