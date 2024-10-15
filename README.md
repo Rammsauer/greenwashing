@@ -1692,4 +1692,5 @@ Jack and Tyler sit in the back, with a pitcher of BEER.
 Tyler lights a cigarette.
 
                 JACK
+    I guess so.
 </pre>
