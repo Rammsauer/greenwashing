@@ -1704,4 +1704,5 @@ Tyler offers cigarettes.  Jack declines.
 
                 TYLER
     Could be worse.  A woman could cut
+    off your penis while you're asleep
 </pre>
