@@ -1699,4 +1699,6 @@ Tyler lights a cigarette.
 
                 JACK
     All gone.
+
+Tyler offers cigarettes.  Jack declines.
 </pre>
