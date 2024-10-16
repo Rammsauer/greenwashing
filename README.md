@@ -1706,4 +1706,5 @@ Tyler offers cigarettes.  Jack declines.
     Could be worse.  A woman could cut
     off your penis while you're asleep
     and toss it out the window of a
+    moving car.
 </pre>
