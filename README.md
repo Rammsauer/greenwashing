@@ -1703,4 +1703,5 @@ Tyler lights a cigarette.
 Tyler offers cigarettes.  Jack declines.
 
                 TYLER
+    Could be worse.  A woman could cut
 </pre>
