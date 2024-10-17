@@ -1707,4 +1707,6 @@ Tyler offers cigarettes.  Jack declines.
     off your penis while you're asleep
     and toss it out the window of a
     moving car.
+
+                JACK
 </pre>
