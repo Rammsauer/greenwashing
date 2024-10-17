@@ -1710,4 +1710,6 @@ Tyler offers cigarettes.  Jack declines.
 
                 JACK
     There's always that.
+
+                TYLER
 </pre>
