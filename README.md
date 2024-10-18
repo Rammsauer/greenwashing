@@ -1719,4 +1719,5 @@ Tyler offers cigarettes.  Jack declines.
     ...no ...no ...
 
                 TYLER
+    I mean, you did lose a lot of nice,
 </pre>
