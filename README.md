@@ -1721,4 +1721,5 @@ Tyler offers cigarettes.  Jack declines.
                 TYLER
     I mean, you did lose a lot of nice,
     neat little shit.  The trendy paper
+    lamps, the Euro-trash shelving unit,
 </pre>
