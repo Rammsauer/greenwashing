@@ -1717,4 +1717,6 @@ Tyler offers cigarettes.  Jack declines.
 
                 JACK
     ...no ...no ...
+
+                TYLER
 </pre>
