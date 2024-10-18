@@ -1716,4 +1716,5 @@ Tyler offers cigarettes.  Jack declines.
     it's a terrible tragedy.
 
                 JACK
+    ...no ...no ...
 </pre>
