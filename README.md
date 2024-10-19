@@ -1723,4 +1723,6 @@ Tyler offers cigarettes.  Jack declines.
     neat little shit.  The trendy paper
     lamps, the Euro-trash shelving unit,
     am I right?
+
+Jack laughs, nods.  He shakes his head, drinks.
 </pre>
