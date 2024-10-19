@@ -1728,4 +1728,5 @@ Jack laughs, nods.  He shakes his head, drinks.
 
                 TYLER
     But maybe, just maybe, you've been
+    delivered.
 </pre>
