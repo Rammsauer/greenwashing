@@ -1727,4 +1727,5 @@ Tyler offers cigarettes.  Jack declines.
 Jack laughs, nods.  He shakes his head, drinks.
 
                 TYLER
+    But maybe, just maybe, you've been
 </pre>
