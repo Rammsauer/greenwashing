@@ -1725,4 +1725,6 @@ Tyler offers cigarettes.  Jack declines.
     am I right?
 
 Jack laughs, nods.  He shakes his head, drinks.
+
+                TYLER
 </pre>
