@@ -1732,4 +1732,5 @@ Jack laughs, nods.  He shakes his head, drinks.
 
                 JACK
         (toasts)
+    Delivered from Swedish furniture.
 </pre>
