@@ -1736,4 +1736,5 @@ Jack laughs, nods.  He shakes his head, drinks.
 
                 TYLER
     Delivered from armchairs in obscure
+    green stripe patterns.
 </pre>
