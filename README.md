@@ -1739,4 +1739,5 @@ Jack laughs, nods.  He shakes his head, drinks.
     green stripe patterns.
 
                 JACK
+    Delivered from Martha Stewart.
 </pre>
