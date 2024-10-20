@@ -1735,4 +1735,5 @@ Jack laughs, nods.  He shakes his head, drinks.
     Delivered from Swedish furniture.
 
                 TYLER
+    Delivered from armchairs in obscure
 </pre>
