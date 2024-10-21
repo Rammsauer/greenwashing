@@ -1746,4 +1746,6 @@ Jack laughs, nods.  He shakes his head, drinks.
     "Cobalt," "Ebony," and "Fuchsia."
 
 They laugh together.  Then, silence.  They drink.
+
+                JACK
 </pre>
