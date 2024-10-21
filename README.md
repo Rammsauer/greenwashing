@@ -1742,4 +1742,5 @@ Jack laughs, nods.  He shakes his head, drinks.
     Delivered from Martha Stewart.
 
                 TYLER
+    Delivered from bullshit colors like
 </pre>
