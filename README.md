@@ -1744,4 +1744,6 @@ Jack laughs, nods.  He shakes his head, drinks.
                 TYLER
     Delivered from bullshit colors like
     "Cobalt," "Ebony," and "Fuchsia."
+
+They laugh together.  Then, silence.  They drink.
 </pre>
