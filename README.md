@@ -1751,4 +1751,5 @@ They laugh together.  Then, silence.  They drink.
     Insurance'll cover it.
 
                 TYLER
+    Oh, yeah, you gotta start making the
 </pre>
