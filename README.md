@@ -1748,4 +1748,5 @@ Jack laughs, nods.  He shakes his head, drinks.
 They laugh together.  Then, silence.  They drink.
 
                 JACK
+    Insurance'll cover it.
 </pre>
