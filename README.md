@@ -1755,4 +1755,5 @@ They laugh together.  Then, silence.  They drink.
     list.
 
                 JACK
+    What list?
 </pre>
