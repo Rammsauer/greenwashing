@@ -1763,4 +1763,5 @@ They laugh together.  Then, silence.  They drink.
     list.  That list.
 
                 JACK
+    I don't... think so.
 </pre>
