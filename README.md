@@ -1759,4 +1759,5 @@ They laugh together.  Then, silence.  They drink.
 
                 TYLER
     The "now I get to go out and buy the
+    exact same stuff all over again"
 </pre>
