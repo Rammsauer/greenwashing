@@ -1758,4 +1758,5 @@ They laugh together.  Then, silence.  They drink.
     What list?
 
                 TYLER
+    The "now I get to go out and buy the
 </pre>
