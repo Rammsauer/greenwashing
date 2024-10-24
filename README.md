@@ -1770,4 +1770,5 @@ They laugh together.  Then, silence.  They drink.
     You'll be occupied for weeks.
 
                 JACK
+    Well, I have to file a claim...
 </pre>
