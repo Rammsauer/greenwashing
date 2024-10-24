@@ -1768,4 +1768,6 @@ They laugh together.  Then, silence.  They drink.
                 TYLER
     This time maybe get a widescreen TV.
     You'll be occupied for weeks.
+
+                JACK
 </pre>
