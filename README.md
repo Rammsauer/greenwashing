@@ -1766,4 +1766,5 @@ They laugh together.  Then, silence.  They drink.
     I don't... think so.
 
                 TYLER
+    This time maybe get a widescreen TV.
 </pre>
