@@ -1773,4 +1773,5 @@ They laugh together.  Then, silence.  They drink.
     Well, I have to file a claim...
 
                 TYLER
+    The things you own, they end up
 </pre>
