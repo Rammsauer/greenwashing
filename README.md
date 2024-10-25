@@ -1771,4 +1771,6 @@ They laugh together.  Then, silence.  They drink.
 
                 JACK
     Well, I have to file a claim...
+
+                TYLER
 </pre>
