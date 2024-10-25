@@ -1777,4 +1777,5 @@ They laugh together.  Then, silence.  They drink.
     owning you.
 
                 JACK
+    Don't I?
 </pre>
