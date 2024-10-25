@@ -1775,4 +1775,6 @@ They laugh together.  Then, silence.  They drink.
                 TYLER
     The things you own, they end up
     owning you.
+
+                JACK
 </pre>
