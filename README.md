@@ -1778,4 +1778,6 @@ They laugh together.  Then, silence.  They drink.
 
                 JACK
     Don't I?
+
+                TYLER
 </pre>
