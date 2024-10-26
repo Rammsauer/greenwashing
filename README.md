@@ -1784,4 +1784,5 @@ They laugh together.  Then, silence.  They drink.
 
                 JACK
         (looks at watch)
+    God, it's late.  I should find a
 </pre>
