@@ -1786,4 +1786,6 @@ They laugh together.  Then, silence.  They drink.
         (looks at watch)
     God, it's late.  I should find a
     hotel...
+
+                TYLER
 </pre>
