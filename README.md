@@ -1781,4 +1781,6 @@ They laugh together.  Then, silence.  They drink.
 
                 TYLER
     Do what you like.
+
+                JACK
 </pre>
