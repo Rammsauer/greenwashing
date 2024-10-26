@@ -1780,4 +1780,5 @@ They laugh together.  Then, silence.  They drink.
     Don't I?
 
                 TYLER
+    Do what you like.
 </pre>
