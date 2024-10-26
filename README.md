@@ -1783,4 +1783,5 @@ They laugh together.  Then, silence.  They drink.
     Do what you like.
 
                 JACK
+        (looks at watch)
 </pre>
