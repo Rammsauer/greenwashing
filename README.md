@@ -1795,4 +1795,5 @@ They laugh together.  Then, silence.  They drink.
 
                 TYLER
     So, you called me up, because you
+    just wanted to have a drink before
 </pre>
