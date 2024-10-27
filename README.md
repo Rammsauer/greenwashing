@@ -1789,4 +1789,6 @@ They laugh together.  Then, silence.  They drink.
 
                 TYLER
     A hotel?
+
+                JACK
 </pre>
