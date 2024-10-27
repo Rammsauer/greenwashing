@@ -1791,4 +1791,5 @@ They laugh together.  Then, silence.  They drink.
     A hotel?
 
                 JACK
+    Yeah.
 </pre>
