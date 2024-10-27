@@ -1788,4 +1788,5 @@ They laugh together.  Then, silence.  They drink.
     hotel...
 
                 TYLER
+    A hotel?
 </pre>
