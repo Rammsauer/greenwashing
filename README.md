@@ -1797,4 +1797,6 @@ They laugh together.  Then, silence.  They drink.
     So, you called me up, because you
     just wanted to have a drink before
     you... go find a hotel?
+
+                JACK
 </pre>
