@@ -1799,4 +1799,5 @@ They laugh together.  Then, silence.  They drink.
     you... go find a hotel?
 
                 JACK
+    I don't follow...
 </pre>
