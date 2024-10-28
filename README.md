@@ -1802,4 +1802,5 @@ They laugh together.  Then, silence.  They drink.
     I don't follow...
 
                 TYLER
+    We're on our third pitcher of beer.
 </pre>
