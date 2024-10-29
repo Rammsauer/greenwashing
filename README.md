@@ -1809,4 +1809,5 @@ They laugh together.  Then, silence.  They drink.
     Huh?
 
                 TYLER
+    You called me so you could have a
 </pre>
