@@ -1804,4 +1804,6 @@ They laugh together.  Then, silence.  They drink.
                 TYLER
     We're on our third pitcher of beer.
     Just ask me.
+
+                JACK
 </pre>
