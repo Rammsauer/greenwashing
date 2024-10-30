@@ -1818,4 +1818,6 @@ They laugh together.  Then, silence.  They drink.
                 TYLER
     Why don't you cut the shit and ask if
     you can stay at my place?
+
+                JACK
 </pre>
