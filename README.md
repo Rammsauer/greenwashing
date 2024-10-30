@@ -1813,4 +1813,5 @@ They laugh together.  Then, silence.  They drink.
     place to stay.
 
                 JACK
+    No, I...
 </pre>
