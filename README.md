@@ -1816,4 +1816,5 @@ They laugh together.  Then, silence.  They drink.
     No, I...
 
                 TYLER
+    Why don't you cut the shit and ask if
 </pre>
