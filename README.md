@@ -1826,4 +1826,5 @@ They laugh together.  Then, silence.  They drink.
     Is it a problem for you to ask?
 
                 JACK
+    Can I stay at your place?
 </pre>
