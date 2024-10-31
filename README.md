@@ -1824,4 +1824,6 @@ They laugh together.  Then, silence.  They drink.
 
                 TYLER
     Is it a problem for you to ask?
+
+                JACK
 </pre>
