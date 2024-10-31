@@ -1823,4 +1823,5 @@ They laugh together.  Then, silence.  They drink.
     Would that be a problem?
 
                 TYLER
+    Is it a problem for you to ask?
 </pre>
