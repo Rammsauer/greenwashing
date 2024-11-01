@@ -1827,4 +1827,6 @@ They laugh together.  Then, silence.  They drink.
 
                 JACK
     Can I stay at your place?
+
+                TYLER
 </pre>
