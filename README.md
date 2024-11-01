@@ -1829,4 +1829,5 @@ They laugh together.  Then, silence.  They drink.
     Can I stay at your place?
 
                 TYLER
+    Yes, you can.
 </pre>
