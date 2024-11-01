@@ -1830,4 +1830,6 @@ They laugh together.  Then, silence.  They drink.
 
                 TYLER
     Yes, you can.
+
+                JACK
 </pre>
