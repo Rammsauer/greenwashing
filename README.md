@@ -1835,4 +1835,5 @@ They laugh together.  Then, silence.  They drink.
     Thank you.
 
                 TYLER
+    You're welcome.  But, I want you to
 </pre>
