@@ -1832,4 +1832,5 @@ They laugh together.  Then, silence.  They drink.
     Yes, you can.
 
                 JACK
+    Thank you.
 </pre>
