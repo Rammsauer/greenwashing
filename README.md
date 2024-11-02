@@ -1843,4 +1843,5 @@ They laugh together.  Then, silence.  They drink.
 
                 TYLER
     I want you to hit me as hard as you
+    can.
 </pre>
