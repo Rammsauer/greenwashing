@@ -1849,4 +1849,5 @@ They laugh together.  Then, silence.  They drink.
     What?
 
                 TYLER
+    I want you to hit me as hard as you
 </pre>
