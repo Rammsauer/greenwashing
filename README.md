@@ -1846,4 +1846,5 @@ They laugh together.  Then, silence.  They drink.
     can.
 
                 JACK
+    What?
 </pre>
