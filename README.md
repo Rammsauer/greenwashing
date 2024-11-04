@@ -1855,4 +1855,5 @@ They laugh together.  Then, silence.  They drink.
 Freeze picture.
 
                 JACK (V.O.)
+    Let me tell you a little bit about
 </pre>
