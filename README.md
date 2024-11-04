@@ -1853,4 +1853,6 @@ They laugh together.  Then, silence.  They drink.
     can.
 
 Freeze picture.
+
+                JACK (V.O.)
 </pre>
