@@ -1856,4 +1856,5 @@ Freeze picture.
 
                 JACK (V.O.)
     Let me tell you a little bit about
+    Tyler Durden.
 </pre>
