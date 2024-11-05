@@ -1866,4 +1866,5 @@ INT. PROJECTIONIST ROOM - THEATRE - NIGHT
 
 Jack, in the foreground, FACES CAMERA.  In the BACKGROUND,
 Tyler sits at a bench, looking at individual FRAMES cut from
+movies.  Near him, a PROJECTOR rolls film.
 </pre>
