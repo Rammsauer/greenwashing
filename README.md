@@ -1865,4 +1865,5 @@ EXTREME CLOSE-UP - FILM FRAME
 INT. PROJECTIONIST ROOM - THEATRE - NIGHT
 
 Jack, in the foreground, FACES CAMERA.  In the BACKGROUND,
+Tyler sits at a bench, looking at individual FRAMES cut from
 </pre>
