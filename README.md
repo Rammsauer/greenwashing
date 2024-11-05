@@ -1861,4 +1861,6 @@ Freeze picture.
 EXTREME CLOSE-UP - FILM FRAME
 
 -- And we see it's PORNOGRAPHY.
+
+INT. PROJECTIONIST ROOM - THEATRE - NIGHT
 </pre>
