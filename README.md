@@ -1863,4 +1863,6 @@ EXTREME CLOSE-UP - FILM FRAME
 -- And we see it's PORNOGRAPHY.
 
 INT. PROJECTIONIST ROOM - THEATRE - NIGHT
+
+Jack, in the foreground, FACES CAMERA.  In the BACKGROUND,
 </pre>
