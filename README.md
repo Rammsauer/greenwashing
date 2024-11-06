@@ -1873,4 +1873,5 @@ movies.  Near him, a PROJECTOR rolls film.
     sometimes worked as a projectionist.
     A movie doesn't come in one big reel,
     it's on a few.  In old theaters, two
+    projectors are used, so someone has
 </pre>
