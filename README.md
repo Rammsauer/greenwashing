@@ -1871,4 +1871,5 @@ movies.  Near him, a PROJECTOR rolls film.
                 JACK
     Tyler was a night person.  He
     sometimes worked as a projectionist.
+    A movie doesn't come in one big reel,
 </pre>
