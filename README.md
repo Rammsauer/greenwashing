@@ -1875,4 +1875,5 @@ movies.  Near him, a PROJECTOR rolls film.
     it's on a few.  In old theaters, two
     projectors are used, so someone has
     to change projectors at the exact
+    second when one reel ends and
 </pre>
