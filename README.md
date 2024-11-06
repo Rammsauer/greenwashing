@@ -1869,4 +1869,5 @@ Tyler sits at a bench, looking at individual FRAMES cut from
 movies.  Near him, a PROJECTOR rolls film.
 
                 JACK
+    Tyler was a night person.  He
 </pre>
