@@ -1879,4 +1879,6 @@ movies.  Near him, a PROJECTOR rolls film.
     another reel begins.  Sometimes you
     can see two dots on screen in the
     upper right hand corner...
+
+Tyler points to the side of OUR FRAME and the TWO DOTS
 </pre>
