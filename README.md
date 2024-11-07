@@ -1876,4 +1876,5 @@ movies.  Near him, a PROJECTOR rolls film.
     projectors are used, so someone has
     to change projectors at the exact
     second when one reel ends and
+    another reel begins.  Sometimes you
 </pre>
