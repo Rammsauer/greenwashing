@@ -1877,4 +1877,5 @@ movies.  Near him, a PROJECTOR rolls film.
     to change projectors at the exact
     second when one reel ends and
     another reel begins.  Sometimes you
+    can see two dots on screen in the
 </pre>
