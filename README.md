@@ -1878,4 +1878,5 @@ movies.  Near him, a PROJECTOR rolls film.
     second when one reel ends and
     another reel begins.  Sometimes you
     can see two dots on screen in the
+    upper right hand corner...
 </pre>
