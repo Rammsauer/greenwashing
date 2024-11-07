@@ -1882,4 +1882,6 @@ movies.  Near him, a PROJECTOR rolls film.
 
 Tyler points to the side of OUR FRAME and the TWO DOTS
 briefly APPEAR ONSCREEN.
+
+                TYLER
 </pre>
