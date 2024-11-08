@@ -1888,4 +1888,5 @@ briefly APPEAR ONSCREEN.
 
                 JACK
     It's called a "changeover."  The
+    movie goes on, and nobody in the
 </pre>
