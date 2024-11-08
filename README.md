@@ -1885,4 +1885,6 @@ briefly APPEAR ONSCREEN.
 
                 TYLER
     They're called "cigarette burns."
+
+                JACK
 </pre>
