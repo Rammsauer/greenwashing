@@ -1887,4 +1887,5 @@ briefly APPEAR ONSCREEN.
     They're called "cigarette burns."
 
                 JACK
+    It's called a "changeover."  The
 </pre>
