@@ -1890,4 +1890,6 @@ briefly APPEAR ONSCREEN.
     It's called a "changeover."  The
     movie goes on, and nobody in the
     audience has any idea.
+
+                TYLER
 </pre>
