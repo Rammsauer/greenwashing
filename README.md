@@ -1884,4 +1884,5 @@ Tyler points to the side of OUR FRAME and the TWO DOTS
 briefly APPEAR ONSCREEN.
 
                 TYLER
+    They're called "cigarette burns."
 </pre>
