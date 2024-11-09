@@ -1899,4 +1899,5 @@ briefly APPEAR ONSCREEN.
     opportunities.
 
                 TYLER
+    -- Like splicing single frames from
 </pre>
