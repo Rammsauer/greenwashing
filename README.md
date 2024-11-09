@@ -1893,4 +1893,6 @@ briefly APPEAR ONSCREEN.
 
                 TYLER
     Why would anyone want this shitty job?
+
+                JACK
 </pre>
