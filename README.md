@@ -1896,4 +1896,5 @@ briefly APPEAR ONSCREEN.
 
                 JACK
     It affords him other interesting
+    opportunities.
 </pre>
