@@ -1892,4 +1892,5 @@ briefly APPEAR ONSCREEN.
     audience has any idea.
 
                 TYLER
+    Why would anyone want this shitty job?
 </pre>
