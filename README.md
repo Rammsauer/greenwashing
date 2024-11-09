@@ -1895,4 +1895,5 @@ briefly APPEAR ONSCREEN.
     Why would anyone want this shitty job?
 
                 JACK
+    It affords him other interesting
 </pre>
