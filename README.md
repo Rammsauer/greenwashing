@@ -1905,4 +1905,5 @@ briefly APPEAR ONSCREEN.
                 JACK
     In reel three, right after the
     courageous dog and the snooty cag --
+    who have celebrity voices -- eat out
 </pre>
