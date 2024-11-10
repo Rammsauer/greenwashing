@@ -1903,4 +1903,5 @@ briefly APPEAR ONSCREEN.
     adult movies into family films.
 
                 JACK
+    In reel three, right after the
 </pre>
