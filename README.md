@@ -1907,4 +1907,5 @@ briefly APPEAR ONSCREEN.
     courageous dog and the snooty cag --
     who have celebrity voices -- eat out
     of a garbage can, there's the flash
+    of Tyler's contribution...
 </pre>
