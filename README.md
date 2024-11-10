@@ -1906,4 +1906,5 @@ briefly APPEAR ONSCREEN.
     In reel three, right after the
     courageous dog and the snooty cag --
     who have celebrity voices -- eat out
+    of a garbage can, there's the flash
 </pre>
