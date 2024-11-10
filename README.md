@@ -1900,4 +1900,5 @@ briefly APPEAR ONSCREEN.
 
                 TYLER
     -- Like splicing single frames from
+    adult movies into family films.
 </pre>
