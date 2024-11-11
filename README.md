@@ -1910,4 +1910,5 @@ briefly APPEAR ONSCREEN.
     of Tyler's contribution...
 
 In the AUDIENCE, CHILDREN suddenly start squirming,
+confused, looking at each other.
 </pre>
