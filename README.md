@@ -1914,4 +1914,5 @@ confused, looking at each other.
 
 A WOMAN abruptly stops sucking her soda straw, feeling
 vaguely terrible.  Her uncomfortable HUSBAND slowly leans
+back in his seat.
 </pre>
