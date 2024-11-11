@@ -1911,4 +1911,6 @@ briefly APPEAR ONSCREEN.
 
 In the AUDIENCE, CHILDREN suddenly start squirming,
 confused, looking at each other.
+
+A WOMAN abruptly stops sucking her soda straw, feeling
 </pre>
