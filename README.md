@@ -1919,4 +1919,5 @@ back in his seat.
 Jack and Tyler watch from the projection booth window.
 
                 TYLER
+    One-forty-eighth of a second.  That's
 </pre>
