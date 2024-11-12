@@ -1915,4 +1915,6 @@ confused, looking at each other.
 A WOMAN abruptly stops sucking her soda straw, feeling
 vaguely terrible.  Her uncomfortable HUSBAND slowly leans
 back in his seat.
+
+Jack and Tyler watch from the projection booth window.
 </pre>
