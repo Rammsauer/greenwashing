@@ -1917,4 +1917,6 @@ vaguely terrible.  Her uncomfortable HUSBAND slowly leans
 back in his seat.
 
 Jack and Tyler watch from the projection booth window.
+
+                TYLER
 </pre>
