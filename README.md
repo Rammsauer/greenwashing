@@ -1923,4 +1923,5 @@ Jack and Tyler watch from the projection booth window.
     how long it's up there.
 
                 JACK
+    No one really knows that they've seen it.
 </pre>
