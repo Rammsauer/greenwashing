@@ -1927,4 +1927,5 @@ Jack and Tyler watch from the projection booth window.
     But they did.
 
                 TYLER
+    A nice, big cock.
 </pre>
