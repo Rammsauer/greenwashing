@@ -1928,4 +1928,6 @@ Jack and Tyler watch from the projection booth window.
 
                 TYLER
     A nice, big cock.
+
+                JACK
 </pre>
