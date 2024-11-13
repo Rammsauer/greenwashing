@@ -1924,4 +1924,5 @@ Jack and Tyler watch from the projection booth window.
 
                 JACK
     No one really knows that they've seen it.
+    But they did.
 </pre>
