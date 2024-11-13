@@ -1931,4 +1931,5 @@ Jack and Tyler watch from the projection booth window.
 
                 JACK
     Only a hummingbird could have caught
+    Tyler at work.
 </pre>
