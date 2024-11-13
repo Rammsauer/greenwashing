@@ -1930,4 +1930,5 @@ Jack and Tyler watch from the projection booth window.
     A nice, big cock.
 
                 JACK
+    Only a hummingbird could have caught
 </pre>
