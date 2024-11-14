@@ -1936,4 +1936,5 @@ Jack and Tyler watch from the projection booth window.
 INT. LARGE BANQUET HALL - NIGHT
 
 Tyler moves around one of many tables, setting down SOUP
+BOWLS.  Jack stands in the same position, FACING CAMERA.
 </pre>
