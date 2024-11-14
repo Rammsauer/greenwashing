@@ -1934,4 +1934,6 @@ Jack and Tyler watch from the projection booth window.
     Tyler at work.
 
 INT. LARGE BANQUET HALL - NIGHT
+
+Tyler moves around one of many tables, setting down SOUP
 </pre>
