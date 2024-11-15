@@ -1945,4 +1945,6 @@ BOWLS.  Jack stands in the same position, FACING CAMERA.
 The GUESTS command the WAITERS with snaps of fingers.
 
 INT. SERVICE ELEVATOR - NIGHT
+
+Jack turns and WE PAN to Tyler, standing by a CART with a
 </pre>
