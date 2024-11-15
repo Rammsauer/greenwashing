@@ -1943,4 +1943,6 @@ BOWLS.  Jack stands in the same position, FACING CAMERA.
     at the luxurious Pressman Hotel.
 
 The GUESTS command the WAITERS with snaps of fingers.
+
+INT. SERVICE ELEVATOR - NIGHT
 </pre>
