@@ -1947,4 +1947,5 @@ The GUESTS command the WAITERS with snaps of fingers.
 INT. SERVICE ELEVATOR - NIGHT
 
 Jack turns and WE PAN to Tyler, standing by a CART with a
+giant SOUP TUREEN.  His hands are at his open fly and he's
 </pre>
