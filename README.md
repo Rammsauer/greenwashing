@@ -1940,4 +1940,5 @@ BOWLS.  Jack stands in the same position, FACING CAMERA.
 
                 JACK
     Tyler also worked as a banquet waiter
+    at the luxurious Pressman Hotel.
 </pre>
