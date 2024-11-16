@@ -1951,4 +1951,5 @@ giant SOUP TUREEN.  His hands are at his open fly and he's
 in position to piss into the soup.
 
                 JACK
+    He was the guerrilla terrorist of the
 </pre>
