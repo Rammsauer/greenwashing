@@ -1952,4 +1952,5 @@ in position to piss into the soup.
 
                 JACK
     He was the guerrilla terrorist of the
+    food service industry.
 </pre>
