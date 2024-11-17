@@ -1958,4 +1958,6 @@ in position to piss into the soup.
     Don't watch.  I can't if you watch.
 
 Jack waits.  The SOUND of a STREAM of LIQUID is HEARD.
+
+                TYLER
 </pre>
