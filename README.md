@@ -1960,4 +1960,5 @@ in position to piss into the soup.
 Jack waits.  The SOUND of a STREAM of LIQUID is HEARD.
 
                 TYLER
+    ... Oh, yeah.  Oh, yeah.
 </pre>
