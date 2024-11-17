@@ -1963,4 +1963,5 @@ Jack waits.  The SOUND of a STREAM of LIQUID is HEARD.
     ... Oh, yeah.  Oh, yeah.
 
                 JACK
+    He farted on meringue; he sneezed on
 </pre>
