@@ -1968,4 +1968,5 @@ Jack waits.  The SOUND of a STREAM of LIQUID is HEARD.
     mushroom soup, well...
 
                 TYLER (O.S.)
+    Go ahead.  Say it.
 </pre>
