@@ -1965,4 +1965,5 @@ Jack waits.  The SOUND of a STREAM of LIQUID is HEARD.
                 JACK
     He farted on meringue; he sneezed on
     braised endive; and, with creme of
+    mushroom soup, well...
 </pre>
