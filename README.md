@@ -1969,4 +1969,6 @@ Jack waits.  The SOUND of a STREAM of LIQUID is HEARD.
 
                 TYLER (O.S.)
     Go ahead.  Say it.
+
+                JACK
 </pre>
