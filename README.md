@@ -1971,4 +1971,5 @@ Jack waits.  The SOUND of a STREAM of LIQUID is HEARD.
     Go ahead.  Say it.
 
                 JACK
+    You get the idea.
 </pre>
