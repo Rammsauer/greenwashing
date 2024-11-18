@@ -1966,4 +1966,6 @@ Jack waits.  The SOUND of a STREAM of LIQUID is HEARD.
     He farted on meringue; he sneezed on
     braised endive; and, with creme of
     mushroom soup, well...
+
+                TYLER (O.S.)
 </pre>
