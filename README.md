@@ -1972,4 +1972,6 @@ Jack waits.  The SOUND of a STREAM of LIQUID is HEARD.
 
                 JACK
     You get the idea.
+
+EXT. PARKING LOT OF TAVERN - RESUMING
 </pre>
