@@ -1976,4 +1976,6 @@ Jack waits.  The SOUND of a STREAM of LIQUID is HEARD.
 EXT. PARKING LOT OF TAVERN - RESUMING
 
 Tyler and Jack come out the back door.
+
+                JACK
 </pre>
