@@ -1978,4 +1978,5 @@ EXT. PARKING LOT OF TAVERN - RESUMING
 Tyler and Jack come out the back door.
 
                 JACK
+    I don't know about this.
 </pre>
