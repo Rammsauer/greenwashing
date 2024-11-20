@@ -1979,4 +1979,6 @@ Tyler and Jack come out the back door.
 
                 JACK
     I don't know about this.
+
+                TYLER
 </pre>
