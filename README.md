@@ -1981,4 +1981,5 @@ Tyler and Jack come out the back door.
     I don't know about this.
 
                 TYLER
+    I don't know, either.  I want to find
 </pre>
