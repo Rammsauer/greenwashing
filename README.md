@@ -1985,4 +1985,5 @@ Tyler and Jack come out the back door.
     out.  I've never been hit, have you?
 
                 JACK
+    No.  That's a good thing, isn't it?
 </pre>
