@@ -1986,4 +1986,6 @@ Tyler and Jack come out the back door.
 
                 JACK
     No.  That's a good thing, isn't it?
+
+                TYLER
 </pre>
