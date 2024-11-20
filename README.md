@@ -1983,4 +1983,6 @@ Tyler and Jack come out the back door.
                 TYLER
     I don't know, either.  I want to find
     out.  I've never been hit, have you?
+
+                JACK
 </pre>
