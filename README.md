@@ -1989,4 +1989,5 @@ Tyler and Jack come out the back door.
 
                 TYLER
     I don't want to die without any
+    scars.  How much can you really know
 </pre>
