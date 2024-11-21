@@ -1988,4 +1988,5 @@ Tyler and Jack come out the back door.
     No.  That's a good thing, isn't it?
 
                 TYLER
+    I don't want to die without any
 </pre>
