@@ -1991,4 +1991,5 @@ Tyler and Jack come out the back door.
     I don't want to die without any
     scars.  How much can you really know
     about yourself if you've never been
+    in a fight?  Come on... you're the
 </pre>
