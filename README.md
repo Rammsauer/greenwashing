@@ -2000,4 +2000,5 @@ Tyler and Jack come out the back door.
 Jack stares at him.
 
                 TYLER
+    Why not you?  I'm letting you go
 </pre>
