@@ -2001,4 +2001,5 @@ Jack stares at him.
 
                 TYLER
     Why not you?  I'm letting you go
+    first.  Do it.
 </pre>
