@@ -1996,4 +1996,6 @@ Tyler and Jack come out the back door.
 
                 JACK
     Me?
+
+Jack stares at him.
 </pre>
