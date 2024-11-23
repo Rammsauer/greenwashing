@@ -2008,4 +2008,6 @@ Jack stares at him.
 
                 TYLER
     Alright, go crazy.  Let 'er rip.
+
+                JACK
 </pre>
