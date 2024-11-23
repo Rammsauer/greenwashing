@@ -2004,4 +2004,5 @@ Jack stares at him.
     first.  Do it.
 
                 JACK
+    This is crazy.
 </pre>
