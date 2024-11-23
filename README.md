@@ -2007,4 +2007,5 @@ Jack stares at him.
     This is crazy.
 
                 TYLER
+    Alright, go crazy.  Let 'er rip.
 </pre>
