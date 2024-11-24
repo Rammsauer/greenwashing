@@ -2013,4 +2013,5 @@ Jack stares at him.
     Where do you want it?  In the face?
 
                 TYLER
+    Surprise me.
 </pre>
