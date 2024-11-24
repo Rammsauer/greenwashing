@@ -2014,4 +2014,6 @@ Jack stares at him.
 
                 TYLER
     Surprise me.
+
+Jack swings a wide, clumsy roundhouse -- hits Tyler's
 </pre>
