@@ -2019,4 +2019,5 @@ Jack swings a wide, clumsy roundhouse -- hits Tyler's
 neck -- makes a dull, flat sound.
 
                 JACK
+    Shit.  Sorry.  That didn't count.
 </pre>
