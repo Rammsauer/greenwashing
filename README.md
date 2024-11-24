@@ -2017,4 +2017,6 @@ Jack stares at him.
 
 Jack swings a wide, clumsy roundhouse -- hits Tyler's
 neck -- makes a dull, flat sound.
+
+                JACK
 </pre>
