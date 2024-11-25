@@ -2026,4 +2026,6 @@ neck -- makes a dull, flat sound.
 
 Tyler shoots out a straight punch to Jack's chest.  Jack
 falls back against a car.  His eyes tear up.
+
+                TYLER
 </pre>
