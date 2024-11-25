@@ -2022,4 +2022,5 @@ neck -- makes a dull, flat sound.
     Shit.  Sorry.  That didn't count.
 
                 TYLER
+    Like hell.  That counted.
 </pre>
