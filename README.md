@@ -2023,4 +2023,6 @@ neck -- makes a dull, flat sound.
 
                 TYLER
     Like hell.  That counted.
+
+Tyler shoots out a straight punch to Jack's chest.  Jack
 </pre>
