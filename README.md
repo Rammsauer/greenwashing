@@ -2025,4 +2025,5 @@ neck -- makes a dull, flat sound.
     Like hell.  That counted.
 
 Tyler shoots out a straight punch to Jack's chest.  Jack
+falls back against a car.  His eyes tear up.
 </pre>
