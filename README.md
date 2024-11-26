@@ -2031,4 +2031,5 @@ falls back against a car.  His eyes tear up.
     How do you feel?
 
                 JACK
+    Strange.
 </pre>
