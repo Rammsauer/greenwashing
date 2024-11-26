@@ -2029,4 +2029,6 @@ falls back against a car.  His eyes tear up.
 
                 TYLER
     How do you feel?
+
+                JACK
 </pre>
