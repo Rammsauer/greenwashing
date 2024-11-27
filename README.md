@@ -2040,4 +2040,5 @@ falls back against a car.  His eyes tear up.
     Is it?
 
                 TYLER
+    We've crossed the threshold.  You
 </pre>
