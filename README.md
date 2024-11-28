@@ -2044,4 +2044,5 @@ falls back against a car.  His eyes tear up.
     want to call it off?
 
                 JACK
+    Call what off?
 </pre>
