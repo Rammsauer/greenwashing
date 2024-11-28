@@ -2047,4 +2047,5 @@ falls back against a car.  His eyes tear up.
     Call what off?
 
                 TYLER
+    The fight.
 </pre>
