@@ -2056,4 +2056,5 @@ falls back against a car.  His eyes tear up.
     This fight, pussy.
 
 Jack swings another roundhouse that slams right under
+Tyler's ear.  Tyler punches Jack in the stomach.  Tyler and
 </pre>
