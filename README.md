@@ -2051,4 +2051,6 @@ falls back against a car.  His eyes tear up.
 
                 JACK
     What fight?
+
+                TYLER
 </pre>
