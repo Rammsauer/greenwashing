@@ -2061,4 +2061,6 @@ Jack move clumsily, throwing punches.  They breathe heavier,
 drooling saliva and blood, growing dizzier from every impact.
 
 EXT. CURBSIDE - LATER
+
+Jack and Tyler sit on the curb, watching sparse headlights
 </pre>
