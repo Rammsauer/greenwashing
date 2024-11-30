@@ -2067,4 +2067,5 @@ on the nearby freeway.  Their eyes are glazed with endorphin-
 induced serenity.  They look at each other, laugh.  Look away.
 
                 TYLER
+    If you could fight anyone... one on
 </pre>
