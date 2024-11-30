@@ -2063,4 +2063,5 @@ drooling saliva and blood, growing dizzier from every impact.
 EXT. CURBSIDE - LATER
 
 Jack and Tyler sit on the curb, watching sparse headlights
+on the nearby freeway.  Their eyes are glazed with endorphin-
 </pre>
