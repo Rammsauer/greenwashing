@@ -2064,4 +2064,5 @@ EXT. CURBSIDE - LATER
 
 Jack and Tyler sit on the curb, watching sparse headlights
 on the nearby freeway.  Their eyes are glazed with endorphin-
+induced serenity.  They look at each other, laugh.  Look away.
 </pre>
