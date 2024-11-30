@@ -2059,4 +2059,6 @@ Jack swings another roundhouse that slams right under
 Tyler's ear.  Tyler punches Jack in the stomach.  Tyler and
 Jack move clumsily, throwing punches.  They breathe heavier,
 drooling saliva and blood, growing dizzier from every impact.
+
+EXT. CURBSIDE - LATER
 </pre>
