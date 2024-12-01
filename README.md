@@ -2072,4 +2072,5 @@ induced serenity.  They look at each other, laugh.  Look away.
     you fight?
 
                 JACK
+    Anyone?
 </pre>
