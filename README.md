@@ -2070,4 +2070,6 @@ induced serenity.  They look at each other, laugh.  Look away.
     If you could fight anyone... one on
     one, whoever you wanted, who would
     you fight?
+
+                JACK
 </pre>
