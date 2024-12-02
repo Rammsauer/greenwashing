@@ -2081,4 +2081,5 @@ Jack thinks.
 
                 JACK
     My boss, probably.
+        (pause)
 </pre>
