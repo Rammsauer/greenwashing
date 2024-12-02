@@ -2082,4 +2082,5 @@ Jack thinks.
                 JACK
     My boss, probably.
         (pause)
+    Who would you fight?
 </pre>
