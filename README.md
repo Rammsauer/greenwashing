@@ -2076,4 +2076,6 @@ induced serenity.  They look at each other, laugh.  Look away.
 
                 TYLER
     Anyone.
+
+Jack thinks.
 </pre>
