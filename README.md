@@ -2091,4 +2091,5 @@ A long pause as Jack studies Tyler's face.
 
                 JACK
     Oh, yeah.
+        (nodding)
 </pre>
