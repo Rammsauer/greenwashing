@@ -2086,4 +2086,6 @@ Jack thinks.
 
                 TYLER
     My dad.  No question.
+
+A long pause as Jack studies Tyler's face.
 </pre>
