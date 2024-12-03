@@ -2088,4 +2088,6 @@ Jack thinks.
     My dad.  No question.
 
 A long pause as Jack studies Tyler's face.
+
+                JACK
 </pre>
