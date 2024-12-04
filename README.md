@@ -2092,4 +2092,5 @@ A long pause as Jack studies Tyler's face.
                 JACK
     Oh, yeah.
         (nodding)
+    I didn't know my dad.  Well, I knew
 </pre>
