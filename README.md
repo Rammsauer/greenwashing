@@ -2099,4 +2099,5 @@ A long pause as Jack studies Tyler's face.
     again -- new city, new family.
 
                 TYLER
+    He was setting up franchises.  My
 </pre>
