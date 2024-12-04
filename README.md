@@ -2094,4 +2094,5 @@ A long pause as Jack studies Tyler's face.
         (nodding)
     I didn't know my dad.  Well, I knew
     him, till I was six.  He went and
+    married another woman, had more kids.
 </pre>
