@@ -2104,4 +2104,5 @@ A long pause as Jack studies Tyler's face.
     was really important that I go.
 
                 JACK
+    I know that.
 </pre>
