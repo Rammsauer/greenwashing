@@ -2101,4 +2101,5 @@ A long pause as Jack studies Tyler's face.
                 TYLER
     He was setting up franchises.  My
     father never went to college, so it
+    was really important that I go.
 </pre>
