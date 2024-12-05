@@ -2107,4 +2107,5 @@ A long pause as Jack studies Tyler's face.
     I know that.
 
                 TYLER
+    After I graduated, I called him long
 </pre>
