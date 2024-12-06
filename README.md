@@ -2115,4 +2115,5 @@ A long pause as Jack studies Tyler's face.
     Get married."
 
                 JACK
+    Same here.
 </pre>
