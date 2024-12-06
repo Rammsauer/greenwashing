@@ -2110,4 +2110,5 @@ A long pause as Jack studies Tyler's face.
     After I graduated, I called him long
     distance and asked, "Now what?"  He
     said, "Get a job."  When I turned
+    twenty-five, I called him and asked,
 </pre>
