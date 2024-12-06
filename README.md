@@ -2111,4 +2111,5 @@ A long pause as Jack studies Tyler's face.
     distance and asked, "Now what?"  He
     said, "Get a job."  When I turned
     twenty-five, I called him and asked,
+    "Now what?"  He said, "I don't know.
 </pre>
