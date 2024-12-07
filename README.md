@@ -2116,4 +2116,6 @@ A long pause as Jack studies Tyler's face.
 
                 JACK
     Same here.
+
+                TYLER
 </pre>
