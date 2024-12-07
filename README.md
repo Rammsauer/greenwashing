@@ -2121,4 +2121,6 @@ A long pause as Jack studies Tyler's face.
     A generation of men raised by women.
     I'm wondering if another woman is the
     answer we really need.
+
+Another pause.  Jack feels his bleeding lip, smiles.
 </pre>
