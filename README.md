@@ -2118,4 +2118,5 @@ A long pause as Jack studies Tyler's face.
     Same here.
 
                 TYLER
+    A generation of men raised by women.
 </pre>
