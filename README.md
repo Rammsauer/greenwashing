@@ -2123,4 +2123,6 @@ A long pause as Jack studies Tyler's face.
     answer we really need.
 
 Another pause.  Jack feels his bleeding lip, smiles.
+
+                JACK
 </pre>
