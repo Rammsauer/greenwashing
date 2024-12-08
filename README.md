@@ -2126,4 +2126,6 @@ Another pause.  Jack feels his bleeding lip, smiles.
 
                 JACK
     We should do this again sometime.
+
+Tyler cracks a smile, give a sidelong glance to Jack.
 </pre>
