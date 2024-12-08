@@ -2128,4 +2128,6 @@ Another pause.  Jack feels his bleeding lip, smiles.
     We should do this again sometime.
 
 Tyler cracks a smile, give a sidelong glance to Jack.
+
+EXT. PAPER STREET - NIGHT
 </pre>
