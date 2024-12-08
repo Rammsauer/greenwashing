@@ -2125,4 +2125,5 @@ A long pause as Jack studies Tyler's face.
 Another pause.  Jack feels his bleeding lip, smiles.
 
                 JACK
+    We should do this again sometime.
 </pre>
