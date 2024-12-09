@@ -2133,4 +2133,5 @@ EXT. PAPER STREET - NIGHT
 
 A street sign: "PAPER STREET."  A PAPER MILL stis on one
 side, facing a lone HOUSE on the other.  The rest of the
+land is grass and weeds.  It's a grand, old three-story,
 </pre>
