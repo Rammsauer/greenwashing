@@ -2140,4 +2140,5 @@ long abandoned.  Tyler leads Jack toward it.
     Where's your car?
 
                 TYLER
+    What car?
 </pre>
