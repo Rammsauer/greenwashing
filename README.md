@@ -2143,4 +2143,5 @@ long abandoned.  Tyler leads Jack toward it.
     What car?
 
                 JACK (V.O.)
+    I don't know how Tyler found the
 </pre>
