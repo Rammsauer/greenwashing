@@ -2146,4 +2146,6 @@ long abandoned.  Tyler leads Jack toward it.
     I don't know how Tyler found the
     house, but he'd been there for half
     a year.
+
+INT. PAPER ST. HOUSE - ENTRANCE -- NIGHT
 </pre>
