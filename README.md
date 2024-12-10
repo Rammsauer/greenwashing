@@ -2145,4 +2145,5 @@ long abandoned.  Tyler leads Jack toward it.
                 JACK (V.O.)
     I don't know how Tyler found the
     house, but he'd been there for half
+    a year.
 </pre>
