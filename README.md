@@ -2152,4 +2152,5 @@ INT. PAPER ST. HOUSE - ENTRANCE -- NIGHT
 Tyler leads Jack through the FRONT DOOR...
 
                 JACK (V.O.)
+    It looked like it was waiting to be
 </pre>
