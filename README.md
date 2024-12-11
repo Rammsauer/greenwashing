@@ -2150,4 +2150,6 @@ long abandoned.  Tyler leads Jack toward it.
 INT. PAPER ST. HOUSE - ENTRANCE -- NIGHT
 
 Tyler leads Jack through the FRONT DOOR...
+
+                JACK (V.O.)
 </pre>
