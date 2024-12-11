@@ -2153,4 +2153,5 @@ Tyler leads Jack through the FRONT DOOR...
 
                 JACK (V.O.)
     It looked like it was waiting to be
+    torn down.  Most of the windows were
 </pre>
