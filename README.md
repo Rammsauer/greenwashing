@@ -2157,4 +2157,6 @@ Tyler leads Jack through the FRONT DOOR...
     boarded up.
 
 INT. PAPER ST. HOUSE - LIVING ROOM - MOMENT LATER
+
+Tyler and Jack climb CREAKY STAIRS to the 2ND FLOOR LANDING.
 </pre>
