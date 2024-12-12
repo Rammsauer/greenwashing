@@ -2161,4 +2161,5 @@ INT. PAPER ST. HOUSE - LIVING ROOM - MOMENT LATER
 Tyler and Jack climb CREAKY STAIRS to the 2ND FLOOR LANDING.
 
                 JACK (V.O.)
+    None of the doors locked.  The stairs
 </pre>
