@@ -2159,4 +2159,6 @@ Tyler leads Jack through the FRONT DOOR...
 INT. PAPER ST. HOUSE - LIVING ROOM - MOMENT LATER
 
 Tyler and Jack climb CREAKY STAIRS to the 2ND FLOOR LANDING.
+
+                JACK (V.O.)
 </pre>
