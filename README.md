@@ -2155,4 +2155,6 @@ Tyler leads Jack through the FRONT DOOR...
     It looked like it was waiting to be
     torn down.  Most of the windows were
     boarded up.
+
+INT. PAPER ST. HOUSE - LIVING ROOM - MOMENT LATER
 </pre>
