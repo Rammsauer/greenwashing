@@ -2165,4 +2165,6 @@ Tyler and Jack climb CREAKY STAIRS to the 2ND FLOOR LANDING.
     were ready to collapse.  I didn't
     know if he owned it or he was
     squatting.
+
+Tyler opens the door to a ROOM...
 </pre>
