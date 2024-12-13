@@ -2167,4 +2167,6 @@ Tyler and Jack climb CREAKY STAIRS to the 2ND FLOOR LANDING.
     squatting.
 
 Tyler opens the door to a ROOM...
+
+INT. ROOM - CONTINUOUS
 </pre>
