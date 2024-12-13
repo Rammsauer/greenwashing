@@ -2169,4 +2169,6 @@ Tyler and Jack climb CREAKY STAIRS to the 2ND FLOOR LANDING.
 Tyler opens the door to a ROOM...
 
 INT. ROOM - CONTINUOUS
+
+Jack enters, stis on the creaky BED.  Dust drifts upwards.
 </pre>
