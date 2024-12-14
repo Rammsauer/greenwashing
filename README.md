@@ -2178,4 +2178,5 @@ Jack enters, stis on the creaky BED.  Dust drifts upwards.
 INT. SHOWER - MORNING
 
 Jack turns on the water.  LOUD VIBRATIONS from the walls.
+Water spits in starts.
 </pre>
