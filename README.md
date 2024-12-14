@@ -2171,4 +2171,6 @@ Tyler opens the door to a ROOM...
 INT. ROOM - CONTINUOUS
 
 Jack enters, stis on the creaky BED.  Dust drifts upwards.
+
+                JACK (V.O.)
 </pre>
