@@ -2173,4 +2173,5 @@ INT. ROOM - CONTINUOUS
 Jack enters, stis on the creaky BED.  Dust drifts upwards.
 
                 JACK (V.O.)
+    Neither would have surprised me.
 </pre>
