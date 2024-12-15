@@ -2186,4 +2186,6 @@ Water spits in starts.
     another light in the house went out.
 
 EXT. LOU'S TAVERN PARKING LOT - NIGHT
+
+All the tavern's lights are off.  Tyler and Jack FIGHT.
 </pre>
