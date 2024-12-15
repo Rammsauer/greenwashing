@@ -2184,4 +2184,6 @@ Water spits in starts.
     Nothing worked.  The rusty plumbing
     leaked.  Turning on a light meant
     another light in the house went out.
+
+EXT. LOU'S TAVERN PARKING LOT - NIGHT
 </pre>
