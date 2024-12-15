@@ -2183,4 +2183,5 @@ Water spits in starts.
                 JACK (V.O.)
     Nothing worked.  The rusty plumbing
     leaked.  Turning on a light meant
+    another light in the house went out.
 </pre>
