@@ -2179,4 +2179,6 @@ INT. SHOWER - MORNING
 
 Jack turns on the water.  LOUD VIBRATIONS from the walls.
 Water spits in starts.
+
+                JACK (V.O.)
 </pre>
