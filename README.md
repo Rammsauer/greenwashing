@@ -2189,4 +2189,6 @@ EXT. LOU'S TAVERN PARKING LOT - NIGHT
 
 All the tavern's lights are off.  Tyler and Jack FIGHT.
 FIVE GUYS stand around watching.
+
+INT. PAPER ST. HOUSE - KITCHEN - MORNING
 </pre>
