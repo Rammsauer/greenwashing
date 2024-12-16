@@ -2191,4 +2191,6 @@ All the tavern's lights are off.  Tyler and Jack FIGHT.
 FIVE GUYS stand around watching.
 
 INT. PAPER ST. HOUSE - KITCHEN - MORNING
+
+Jack, his face showing NEW BRUISES AND CUTS, makes coffee
 </pre>
