@@ -2202,4 +2202,6 @@ starts roasting them over a burner.
     warehouses and the paper mill.  The
     fart smell of steam, the hamster cage
     smell of wood chips.
+
+EXT. PAPER ST. HOUSE - NIGHT
 </pre>
