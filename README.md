@@ -2199,4 +2199,5 @@ starts roasting them over a burner.
 
                 JACK (V.O.)
     There were no neighbors.  Just
+    warehouses and the paper mill.  The
 </pre>
