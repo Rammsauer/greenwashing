@@ -2201,4 +2201,5 @@ starts roasting them over a burner.
     There were no neighbors.  Just
     warehouses and the paper mill.  The
     fart smell of steam, the hamster cage
+    smell of wood chips.
 </pre>
