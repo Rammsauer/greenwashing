@@ -2200,4 +2200,5 @@ starts roasting them over a burner.
                 JACK (V.O.)
     There were no neighbors.  Just
     warehouses and the paper mill.  The
+    fart smell of steam, the hamster cage
 </pre>
