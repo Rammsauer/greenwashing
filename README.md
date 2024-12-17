@@ -2196,4 +2196,6 @@ Jack, his face showing NEW BRUISES AND CUTS, makes coffee
 with a wire-mesh strainer.  Tyler shuffles in, wearing a
 flannel bathrobe.  He spears pieces of bread on a fork,
 starts roasting them over a burner.
+
+                JACK (V.O.)
 </pre>
