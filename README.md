@@ -2198,4 +2198,5 @@ flannel bathrobe.  He spears pieces of bread on a fork,
 starts roasting them over a burner.
 
                 JACK (V.O.)
+    There were no neighbors.  Just
 </pre>
