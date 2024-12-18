@@ -2209,4 +2209,5 @@ Jack sits watching as Tyler SWINGS an old GOLF CLUB --
 THWACK -- sends a golf ball soaring down the desolate street.
 
                 JACK (V.O.)
+    At night, Tyler and I were alone for
 </pre>
