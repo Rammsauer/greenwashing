@@ -2210,4 +2210,5 @@ THWACK -- sends a golf ball soaring down the desolate street.
 
                 JACK (V.O.)
     At night, Tyler and I were alone for
+    half a mile in every direction.
 </pre>
