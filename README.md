@@ -2204,4 +2204,6 @@ starts roasting them over a burner.
     smell of wood chips.
 
 EXT. PAPER ST. HOUSE - NIGHT
+
+Jack sits watching as Tyler SWINGS an old GOLF CLUB --
 </pre>
