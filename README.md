@@ -2206,4 +2206,5 @@ starts roasting them over a burner.
 EXT. PAPER ST. HOUSE - NIGHT
 
 Jack sits watching as Tyler SWINGS an old GOLF CLUB --
+THWACK -- sends a golf ball soaring down the desolate street.
 </pre>
