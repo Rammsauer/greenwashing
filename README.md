@@ -2213,4 +2213,6 @@ THWACK -- sends a golf ball soaring down the desolate street.
     half a mile in every direction.
 
 EXT. LOU'S TAVERN PARKING LOT - NIGHT
+
+All the lights are off.  TEN GUYS YELL, standing around Jack
 </pre>
