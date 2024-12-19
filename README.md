@@ -2218,4 +2218,6 @@ All the lights are off.  TEN GUYS YELL, standing around Jack
 and Tyler, who FIGHT.  THREE CARS are parked in the lot.
 
 INT. BASEMENT - DAY
+
+Jack sits on basement stairs, watching as Tyler, knee-deep
 </pre>
