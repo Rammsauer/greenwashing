@@ -2215,4 +2215,5 @@ THWACK -- sends a golf ball soaring down the desolate street.
 EXT. LOU'S TAVERN PARKING LOT - NIGHT
 
 All the lights are off.  TEN GUYS YELL, standing around Jack
+and Tyler, who FIGHT.  THREE CARS are parked in the lot.
 </pre>
