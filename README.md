@@ -2220,4 +2220,5 @@ and Tyler, who FIGHT.  THREE CARS are parked in the lot.
 INT. BASEMENT - DAY
 
 Jack sits on basement stairs, watching as Tyler, knee-deep
+in water, works at an open FUSEBOX, flipping breakers in a
 </pre>
