@@ -2224,4 +2224,5 @@ in water, works at an open FUSEBOX, flipping breakers in a
 certain order, showing Jack how it's done.
 
                 JACK (V.O.)
+    When it rained, we had to kill the
 </pre>
