@@ -2225,4 +2225,5 @@ certain order, showing Jack how it's done.
 
                 JACK (V.O.)
     When it rained, we had to kill the
+    power.  By the end of the first
 </pre>
