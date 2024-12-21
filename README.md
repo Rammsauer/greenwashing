@@ -2233,4 +2233,5 @@ certain order, showing Jack how it's done.
 INT. READING ROOM - NIGHT
 
 CANDLES BURN.  Tyler and Jack are seated across from each
+other on the buckled floor, reading MAGAZINES.  Rain DRIPS
 </pre>
