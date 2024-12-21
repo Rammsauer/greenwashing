@@ -2228,4 +2228,5 @@ certain order, showing Jack how it's done.
     power.  By the end of the first
     month, I didn't care about TV.  I
     didn't mind the warm, stale
+    refrigerator.
 </pre>
