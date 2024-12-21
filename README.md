@@ -2229,4 +2229,6 @@ certain order, showing Jack how it's done.
     month, I didn't care about TV.  I
     didn't mind the warm, stale
     refrigerator.
+
+INT. READING ROOM - NIGHT
 </pre>
