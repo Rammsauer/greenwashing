@@ -2231,4 +2231,6 @@ certain order, showing Jack how it's done.
     refrigerator.
 
 INT. READING ROOM - NIGHT
+
+CANDLES BURN.  Tyler and Jack are seated across from each
 </pre>
