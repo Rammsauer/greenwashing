@@ -2239,4 +2239,6 @@ from the ceiling.  No furniture.  THOUSANDS of MAGAZINES.
                 JACK (V.O.)
     The previous occupant had been a bit
     of a shut-in.
+
+                TYLER
 </pre>
