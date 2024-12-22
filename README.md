@@ -2237,4 +2237,5 @@ other on the buckled floor, reading MAGAZINES.  Rain DRIPS
 from the ceiling.  No furniture.  THOUSANDS of MAGAZINES.
 
                 JACK (V.O.)
+    The previous occupant had been a bit
 </pre>
