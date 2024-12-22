@@ -2235,4 +2235,6 @@ INT. READING ROOM - NIGHT
 CANDLES BURN.  Tyler and Jack are seated across from each
 other on the buckled floor, reading MAGAZINES.  Rain DRIPS
 from the ceiling.  No furniture.  THOUSANDS of MAGAZINES.
+
+                JACK (V.O.)
 </pre>
