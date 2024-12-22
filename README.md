@@ -2241,4 +2241,5 @@ from the ceiling.  No furniture.  THOUSANDS of MAGAZINES.
     of a shut-in.
 
                 TYLER
+        (of magazine)
 </pre>
