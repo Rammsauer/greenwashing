@@ -2250,4 +2250,5 @@ from the ceiling.  No furniture.  THOUSANDS of MAGAZINES.
                 TYLER
     Oh, a new riot control grenade...
         (reading)
+    "...the successful combination of
 </pre>
