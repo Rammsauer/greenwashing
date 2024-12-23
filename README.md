@@ -2246,4 +2246,6 @@ from the ceiling.  No furniture.  THOUSANDS of MAGAZINES.
 
                 JACK
     What?
+
+                TYLER
 </pre>
