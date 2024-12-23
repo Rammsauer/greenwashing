@@ -2248,4 +2248,5 @@ from the ceiling.  No furniture.  THOUSANDS of MAGAZINES.
     What?
 
                 TYLER
+    Oh, a new riot control grenade...
 </pre>
