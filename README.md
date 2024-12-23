@@ -2251,4 +2251,5 @@ from the ceiling.  No furniture.  THOUSANDS of MAGAZINES.
     Oh, a new riot control grenade...
         (reading)
     "...the successful combination of
+    concussive, 3000 foot-candle flash-
 </pre>
