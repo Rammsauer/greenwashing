@@ -2245,4 +2245,5 @@ from the ceiling.  No furniture.  THOUSANDS of MAGAZINES.
     Hum.
 
                 JACK
+    What?
 </pre>
