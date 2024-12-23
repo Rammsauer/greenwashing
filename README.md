@@ -2243,4 +2243,6 @@ from the ceiling.  No furniture.  THOUSANDS of MAGAZINES.
                 TYLER
         (of magazine)
     Hum.
+
+                JACK
 </pre>
