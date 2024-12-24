@@ -2258,4 +2258,5 @@ from the ceiling.  No furniture.  THOUSANDS of MAGAZINES.
 Tyler begins RIPPING the ARTICLE from his magazine.
 
                 JACK
+        ("Reader's Digest")
 </pre>
