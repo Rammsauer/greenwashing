@@ -2254,4 +2254,6 @@ from the ceiling.  No furniture.  THOUSANDS of MAGAZINES.
     concussive, 3000 foot-candle flash-
     blasts and simultaneous high-velocity
     disbursement of...blah, blah, blah..."
+
+Tyler begins RIPPING the ARTICLE from his magazine.
 </pre>
