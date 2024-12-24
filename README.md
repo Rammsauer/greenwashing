@@ -2253,4 +2253,5 @@ from the ceiling.  No furniture.  THOUSANDS of MAGAZINES.
     "...the successful combination of
     concussive, 3000 foot-candle flash-
     blasts and simultaneous high-velocity
+    disbursement of...blah, blah, blah..."
 </pre>
