@@ -2256,4 +2256,6 @@ from the ceiling.  No furniture.  THOUSANDS of MAGAZINES.
     disbursement of...blah, blah, blah..."
 
 Tyler begins RIPPING the ARTICLE from his magazine.
+
+                JACK
 </pre>
