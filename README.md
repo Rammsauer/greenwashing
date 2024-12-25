@@ -2264,4 +2264,6 @@ Tyler begins RIPPING the ARTICLE from his magazine.
     not take in oxygen to feed his red
     blood cells."  There's a whole
     series -- "I am Joe's Prostate."
+
+                TYLER
 </pre>
