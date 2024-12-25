@@ -2261,4 +2261,5 @@ Tyler begins RIPPING the ARTICLE from his magazine.
         ("Reader's Digest")
     "I am Joe's Lungs."  It's written in
     first person.  "Without me, Joe could
+    not take in oxygen to feed his red
 </pre>
