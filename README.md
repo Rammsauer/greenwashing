@@ -2266,4 +2266,5 @@ Tyler begins RIPPING the ARTICLE from his magazine.
     series -- "I am Joe's Prostate."
 
                 TYLER
+    "I get cancer, and I kill Joe."
 </pre>
