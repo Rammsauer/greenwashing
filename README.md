@@ -2270,4 +2270,6 @@ Tyler begins RIPPING the ARTICLE from his magazine.
 
 Tyler tosses his article in a pile of other articles,
 chooses another magazine.
+
+                JACK
 </pre>
