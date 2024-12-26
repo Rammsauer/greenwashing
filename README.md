@@ -2273,4 +2273,6 @@ chooses another magazine.
 
                 JACK
     What are you reading?
+
+                TYLER
 </pre>
