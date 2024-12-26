@@ -2275,4 +2275,5 @@ chooses another magazine.
     What are you reading?
 
                 TYLER
+    Soldier of Fortune.  Business Week.
 </pre>
