@@ -2272,4 +2272,5 @@ Tyler tosses his article in a pile of other articles,
 chooses another magazine.
 
                 JACK
+    What are you reading?
 </pre>
