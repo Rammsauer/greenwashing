@@ -2269,4 +2269,5 @@ Tyler begins RIPPING the ARTICLE from his magazine.
     "I get cancer, and I kill Joe."
 
 Tyler tosses his article in a pile of other articles,
+chooses another magazine.
 </pre>
