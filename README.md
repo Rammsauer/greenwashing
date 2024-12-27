@@ -2280,4 +2280,6 @@ chooses another magazine.
 
                 JACK
     Show-off.
+
+EXT. LOU'S TAVERN PARKING LOT - NIGHT
 </pre>
