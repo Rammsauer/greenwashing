@@ -2279,4 +2279,5 @@ chooses another magazine.
     New Republic.
 
                 JACK
+    Show-off.
 </pre>
