@@ -2276,4 +2276,5 @@ chooses another magazine.
 
                 TYLER
     Soldier of Fortune.  Business Week.
+    New Republic.
 </pre>
