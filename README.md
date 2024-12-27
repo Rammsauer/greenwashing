@@ -2282,4 +2282,6 @@ chooses another magazine.
     Show-off.
 
 EXT. LOU'S TAVERN PARKING LOT - NIGHT
+
+All the lights are off.  Jack and Tyler stand amidst FIFTEEN
 </pre>
