@@ -2288,4 +2288,5 @@ GUYS around TWO GUYS FIGHTING.  The crowd YELLS MORE WILDLY
 than before.  In the background are EIGHT PARKED CARS.
 
                 JACK (V.O.)
+    I should have been haggling with my
 </pre>
