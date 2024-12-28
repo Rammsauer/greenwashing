@@ -2284,4 +2284,5 @@ chooses another magazine.
 EXT. LOU'S TAVERN PARKING LOT - NIGHT
 
 All the lights are off.  Jack and Tyler stand amidst FIFTEEN
+GUYS around TWO GUYS FIGHTING.  The crowd YELLS MORE WILDLY
 </pre>
