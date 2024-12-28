@@ -2290,4 +2290,5 @@ than before.  In the background are EIGHT PARKED CARS.
                 JACK (V.O.)
     I should have been haggling with my
     insurance company.  I should have
+    been looking for a new condo...
 </pre>
