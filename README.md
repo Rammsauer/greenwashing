@@ -2293,4 +2293,6 @@ than before.  In the background are EIGHT PARKED CARS.
     been looking for a new condo...
 
 EXT. STREET - NIGHT
+
+Jack walks along.  He stops, looking at a CHURCH with
 </pre>
