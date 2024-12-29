@@ -2297,4 +2297,6 @@ EXT. STREET - NIGHT
 Jack walks along.  He stops, looking at a CHURCH with
 SUPPORT-GROUP-PEOPLE milling around the entrance, drinking
 coffee and sodas.  Marla's there, amongst them, smoking.
+
+                JACK (V.O.)
 </pre>
