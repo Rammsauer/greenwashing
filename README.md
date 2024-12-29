@@ -2295,4 +2295,5 @@ than before.  In the background are EIGHT PARKED CARS.
 EXT. STREET - NIGHT
 
 Jack walks along.  He stops, looking at a CHURCH with
+SUPPORT-GROUP-PEOPLE milling around the entrance, drinking
 </pre>
