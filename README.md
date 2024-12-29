@@ -2299,4 +2299,5 @@ SUPPORT-GROUP-PEOPLE milling around the entrance, drinking
 coffee and sodas.  Marla's there, amongst them, smoking.
 
                 JACK (V.O.)
+    .... I should have been upset about
 </pre>
