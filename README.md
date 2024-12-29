@@ -2291,4 +2291,6 @@ than before.  In the background are EIGHT PARKED CARS.
     I should have been haggling with my
     insurance company.  I should have
     been looking for a new condo...
+
+EXT. STREET - NIGHT
 </pre>
