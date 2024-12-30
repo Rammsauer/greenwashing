@@ -2300,4 +2300,5 @@ coffee and sodas.  Marla's there, amongst them, smoking.
 
                 JACK (V.O.)
     .... I should have been upset about
+    my nice, neat, flaming little shit.
 </pre>
