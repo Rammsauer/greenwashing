@@ -2305,4 +2305,5 @@ coffee and sodas.  Marla's there, amongst them, smoking.
 Jack's face shows no reaction.  He continues to walk.
 
                 JACK (V.O.)
+    But I wasn't.
 </pre>
