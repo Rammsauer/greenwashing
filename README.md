@@ -2312,4 +2312,6 @@ INT. KITCHEN - MORNING
 Jack, in work clothes, interlocks his fingers and POPS his
 knuckles, picks up a saucepan with coffee and sips.  Tyler,
 in waiter's uniform, comes to have Jack straighten his tie.
+
+                JACK (V.O.)
 </pre>
