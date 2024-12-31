@@ -2308,4 +2308,6 @@ Jack's face shows no reaction.  He continues to walk.
     But I wasn't.
 
 INT. KITCHEN - MORNING
+
+Jack, in work clothes, interlocks his fingers and POPS his
 </pre>
