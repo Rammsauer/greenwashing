@@ -2314,4 +2314,5 @@ knuckles, picks up a saucepan with coffee and sips.  Tyler,
 in waiter's uniform, comes to have Jack straighten his tie.
 
                 JACK (V.O.)
+    Most of the week, we were Ozzie and
 </pre>
