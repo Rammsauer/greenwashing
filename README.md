@@ -2310,4 +2310,5 @@ Jack's face shows no reaction.  He continues to walk.
 INT. KITCHEN - MORNING
 
 Jack, in work clothes, interlocks his fingers and POPS his
+knuckles, picks up a saucepan with coffee and sips.  Tyler,
 </pre>
