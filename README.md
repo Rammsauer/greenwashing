@@ -2322,4 +2322,6 @@ Jack picks up his briefcase and walks out the door.
                 JACK (V.O.)
     But, Wednesday night, ever Wednesday
     night...
+
+EXT. LOU'S TAVERN PARKING LOT - NIGHT
 </pre>
