@@ -2321,4 +2321,5 @@ Jack picks up his briefcase and walks out the door.
 
                 JACK (V.O.)
     But, Wednesday night, ever Wednesday
+    night...
 </pre>
