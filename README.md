@@ -2316,4 +2316,6 @@ in waiter's uniform, comes to have Jack straighten his tie.
                 JACK (V.O.)
     Most of the week, we were Ozzie and
     Harriet.
+
+Jack picks up his briefcase and walks out the door.
 </pre>
