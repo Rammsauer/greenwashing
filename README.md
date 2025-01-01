@@ -2318,4 +2318,6 @@ in waiter's uniform, comes to have Jack straighten his tie.
     Harriet.
 
 Jack picks up his briefcase and walks out the door.
+
+                JACK (V.O.)
 </pre>
