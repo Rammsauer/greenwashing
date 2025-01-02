@@ -2329,4 +2329,5 @@ All the lights are off.  No one around, but there are at
 least TWENTY-FIVE CARS parked in the full lot.
 
                 JACK (V.O.)
+    ... we were finding something out: we
 </pre>
