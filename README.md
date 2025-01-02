@@ -2331,4 +2331,5 @@ least TWENTY-FIVE CARS parked in the full lot.
                 JACK (V.O.)
     ... we were finding something out: we
     were finding out, more and more, that
+    we were not alone.
 </pre>
