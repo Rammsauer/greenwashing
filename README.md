@@ -2327,4 +2327,6 @@ EXT. LOU'S TAVERN PARKING LOT - NIGHT
 
 All the lights are off.  No one around, but there are at
 least TWENTY-FIVE CARS parked in the full lot.
+
+                JACK (V.O.)
 </pre>
