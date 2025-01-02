@@ -2324,4 +2324,6 @@ Jack picks up his briefcase and walks out the door.
     night...
 
 EXT. LOU'S TAVERN PARKING LOT - NIGHT
+
+All the lights are off.  No one around, but there are at
 </pre>
