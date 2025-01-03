@@ -2332,4 +2332,6 @@ least TWENTY-FIVE CARS parked in the full lot.
     ... we were finding something out: we
     were finding out, more and more, that
     we were not alone.
+
+INT. CONFERENCE ROOM - DAY
 </pre>
