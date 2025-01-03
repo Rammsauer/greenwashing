@@ -2339,4 +2339,5 @@ A SLIDE SHOW progresses, run by a chipper salesman, WALTER.
 Jack sits, deadpan, with a PUFFY LIP and a BRUISED cheek.
 
                 JACK (V.O.)
+    Thursday mornings, all I could do was
 </pre>
