@@ -2336,4 +2336,5 @@ least TWENTY-FIVE CARS parked in the full lot.
 INT. CONFERENCE ROOM - DAY
 
 A SLIDE SHOW progresses, run by a chipper salesman, WALTER.
+Jack sits, deadpan, with a PUFFY LIP and a BRUISED cheek.
 </pre>
