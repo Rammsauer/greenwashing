@@ -2334,4 +2334,6 @@ least TWENTY-FIVE CARS parked in the full lot.
     we were not alone.
 
 INT. CONFERENCE ROOM - DAY
+
+A SLIDE SHOW progresses, run by a chipper salesman, WALTER.
 </pre>
