@@ -2341,4 +2341,6 @@ Jack sits, deadpan, with a PUFFY LIP and a BRUISED cheek.
                 JACK (V.O.)
     Thursday mornings, all I could do was
     think about next week.
+
+Boss gives Jack a dubious look.  Walter's next SLIDE: a
 </pre>
