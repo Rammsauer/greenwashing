@@ -2340,4 +2340,5 @@ Jack sits, deadpan, with a PUFFY LIP and a BRUISED cheek.
 
                 JACK (V.O.)
     Thursday mornings, all I could do was
+    think about next week.
 </pre>
