@@ -2343,4 +2343,5 @@ Jack sits, deadpan, with a PUFFY LIP and a BRUISED cheek.
     think about next week.
 
 Boss gives Jack a dubious look.  Walter's next SLIDE: a
+COMPUTER SCREEN.
 </pre>
