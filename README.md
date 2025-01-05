@@ -2354,4 +2354,5 @@ COMPUTER SCREEN.
     Can I get the icon in cornflower blue?
 
                 WALTER
+    Absolutely.
 </pre>
