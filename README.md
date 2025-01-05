@@ -2351,4 +2351,5 @@ COMPUTER SCREEN.
     efficient.
 
                 BOSS
+    Can I get the icon in cornflower blue?
 </pre>
