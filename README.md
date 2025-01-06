@@ -2355,4 +2355,6 @@ COMPUTER SCREEN.
 
                 WALTER
     Absolutely.
+
+Walter continues, his sales pitch drowned out by Jack's V.O.:
 </pre>
