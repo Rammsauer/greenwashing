@@ -2360,4 +2360,5 @@ Walter continues, his sales pitch drowned out by Jack's V.O.:
 
                 JACK (V.O.)
     Walter, the Microsoft account exec.
+    Walter, with his smooth, soft hands.
 </pre>
