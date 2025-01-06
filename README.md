@@ -2357,4 +2357,6 @@ COMPUTER SCREEN.
     Absolutely.
 
 Walter continues, his sales pitch drowned out by Jack's V.O.:
+
+                JACK (V.O.)
 </pre>
