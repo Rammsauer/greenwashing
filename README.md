@@ -2370,4 +2370,5 @@ Walter moves to Jack and slaps him in the shoulder.
 
                 WALTER
     I showed this already to my man here.
+    You liked it, didn't you?
 </pre>
