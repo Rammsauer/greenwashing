@@ -2365,4 +2365,6 @@ Walter continues, his sales pitch drowned out by Jack's V.O.:
     range potluck he'd been to last
     weekend, or his church-group car-wash
     fund-raiser.  Or, probably not.
+
+Walter moves to Jack and slaps him in the shoulder.
 </pre>
