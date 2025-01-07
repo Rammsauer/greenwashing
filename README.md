@@ -2364,4 +2364,5 @@ Walter continues, his sales pitch drowned out by Jack's V.O.:
     Maybe he was thinking about the free-
     range potluck he'd been to last
     weekend, or his church-group car-wash
+    fund-raiser.  Or, probably not.
 </pre>
