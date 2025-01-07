@@ -2367,4 +2367,6 @@ Walter continues, his sales pitch drowned out by Jack's V.O.:
     fund-raiser.  Or, probably not.
 
 Walter moves to Jack and slaps him in the shoulder.
+
+                WALTER
 </pre>
