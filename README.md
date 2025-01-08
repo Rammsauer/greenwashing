@@ -2373,4 +2373,5 @@ Walter moves to Jack and slaps him in the shoulder.
     You liked it, didn't you?
 
 Jack smiles.  His teeth are RED with BLOOD.  They GLOW
+eerily in the dim light.
 </pre>
