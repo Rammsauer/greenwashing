@@ -2378,4 +2378,6 @@ eerily in the dim light.
                 JACK (V.O.)
     You can swallow a pint of blood
     before you get sick.
+
+                WALTER
 </pre>
