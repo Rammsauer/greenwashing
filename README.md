@@ -2376,4 +2376,5 @@ Jack smiles.  His teeth are RED with BLOOD.  They GLOW
 eerily in the dim light.
 
                 JACK (V.O.)
+    You can swallow a pint of blood
 </pre>
