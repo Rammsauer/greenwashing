@@ -2382,4 +2382,6 @@ eerily in the dim light.
                 WALTER
     Jesus, I'd hate to see what happened
     to the other guy.
+
+Jack keeps the smile frozen on his face.
 </pre>
