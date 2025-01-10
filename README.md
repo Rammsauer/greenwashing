@@ -2392,4 +2392,5 @@ Jack keeps the smile frozen on his face.
 EXT. LOU'S TAVERN - NIGHT
 
 Out of silent darkness, HEADLIGHTS appear from all
+directions.  CARS PULL UP and park in the already-packed
 </pre>
