@@ -2388,4 +2388,6 @@ Jack keeps the smile frozen on his face.
                 JACK (V.O.)
     Screw Walter.  His candy-ass wouldn't
     last a second Wednesday night.
+
+EXT. LOU'S TAVERN - NIGHT
 </pre>
