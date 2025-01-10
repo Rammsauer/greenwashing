@@ -2393,4 +2393,5 @@ EXT. LOU'S TAVERN - NIGHT
 
 Out of silent darkness, HEADLIGHTS appear from all
 directions.  CARS PULL UP and park in the already-packed
+lot.  YOUNG MEN get out and march into the tavern...
 </pre>
