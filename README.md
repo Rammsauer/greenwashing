@@ -2396,4 +2396,6 @@ directions.  CARS PULL UP and park in the already-packed
 lot.  YOUNG MEN get out and march into the tavern...
 
 INT. LOU'S TAVERN - SAME
+
+The men, including Jack and Tyler, enter and stand against
 </pre>
