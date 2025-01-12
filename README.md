@@ -2404,4 +2404,5 @@ the back wall, waiting.  The bartender, IRVINE, calls out:
     Drink up people.  We're closing.
 
 Irvine flicks on the LIGHTS.  Drunken customers squint and
+get the message.  They plop down money, leaving.
 </pre>
