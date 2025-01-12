@@ -2409,4 +2409,6 @@ get the message.  They plop down money, leaving.
                 JACK (V.O.)
     It was right in everyone's face.
     Tyler and I just made it visible.
+
+Irvine hits a button and the JUKEBOX loses power.  Members
 </pre>
