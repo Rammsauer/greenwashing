@@ -2407,4 +2407,5 @@ Irvine flicks on the LIGHTS.  Drunken customers squint and
 get the message.  They plop down money, leaving.
 
                 JACK (V.O.)
+    It was right in everyone's face.
 </pre>
