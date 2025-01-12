@@ -2411,4 +2411,5 @@ get the message.  They plop down money, leaving.
     Tyler and I just made it visible.
 
 Irvine hits a button and the JUKEBOX loses power.  Members
+of the waiting army begins to share secret looks.  Finally,
 </pre>
