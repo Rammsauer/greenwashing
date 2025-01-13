@@ -2413,4 +2413,6 @@ get the message.  They plop down money, leaving.
 Irvine hits a button and the JUKEBOX loses power.  Members
 of the waiting army begins to share secret looks.  Finally,
 one buy locks the door.  Two other guys close the blinds.
+
+                JACK (V.O.)
 </pre>
