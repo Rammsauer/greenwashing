@@ -2418,4 +2418,6 @@ one buy locks the door.  Two other guys close the blinds.
     It was on the tip of everyone's
     tongue.  Tyler and I just gave it a
     name.
+
+INT. TAVERN BASEMENT - SAME
 </pre>
