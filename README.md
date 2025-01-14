@@ -2420,4 +2420,6 @@ one buy locks the door.  Two other guys close the blinds.
     name.
 
 INT. TAVERN BASEMENT - SAME
+
+A BOMB-SHELTER.  Concrete walls.  One BARE BULB above, Tyler
 </pre>
