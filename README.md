@@ -2425,4 +2425,5 @@ A BOMB-SHELTER.  Concrete walls.  One BARE BULB above, Tyler
 standing directly beneath it.
 
                 TYLER
+    Welcome to fight club.
 </pre>
