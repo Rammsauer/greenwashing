@@ -2423,4 +2423,6 @@ INT. TAVERN BASEMENT - SAME
 
 A BOMB-SHELTER.  Concrete walls.  One BARE BULB above, Tyler
 standing directly beneath it.
+
+                TYLER
 </pre>
