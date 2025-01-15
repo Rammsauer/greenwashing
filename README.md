@@ -2430,4 +2430,6 @@ standing directly beneath it.
 The guys mill around, finding partners.  Everyone brims with
 eagerness, but tries to act cool.  CHATTER gets LOUDER.
 Everyone spreads out, forming a circle, Tyler at center.
+
+                JACK (V.O.)
 </pre>
