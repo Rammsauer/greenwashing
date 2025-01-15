@@ -2432,4 +2432,5 @@ eagerness, but tries to act cool.  CHATTER gets LOUDER.
 Everyone spreads out, forming a circle, Tyler at center.
 
                 JACK (V.O.)
+    Every week, Tyler gave the rules that
 </pre>
