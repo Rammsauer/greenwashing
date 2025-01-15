@@ -2433,4 +2433,5 @@ Everyone spreads out, forming a circle, Tyler at center.
 
                 JACK (V.O.)
     Every week, Tyler gave the rules that
+    he and I decided.
 </pre>
