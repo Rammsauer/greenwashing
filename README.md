@@ -2428,4 +2428,5 @@ standing directly beneath it.
     Welcome to fight club.
 
 The guys mill around, finding partners.  Everyone brims with
+eagerness, but tries to act cool.  CHATTER gets LOUDER.
 </pre>
