@@ -2439,4 +2439,5 @@ PEAKING CHATTER, till Tyler raises his arms and the CHATTER
 DIES.  A couple of COUGHS, FEET SHUFFLING, then, SILENCE.
 
                 TYLER
+    The first rule of fight club is --
 </pre>
