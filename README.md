@@ -2436,4 +2436,5 @@ Everyone spreads out, forming a circle, Tyler at center.
     he and I decided.
 
 PEAKING CHATTER, till Tyler raises his arms and the CHATTER
+DIES.  A couple of COUGHS, FEET SHUFFLING, then, SILENCE.
 </pre>
