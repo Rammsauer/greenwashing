@@ -2445,4 +2445,5 @@ DIES.  A couple of COUGHS, FEET SHUFFLING, then, SILENCE.
     don't talk about fight club.  The
     third rule of fight club is -- when
     someone says "stop" or goes limp, the
+    fight is over.  Fourth rule is --
 </pre>
