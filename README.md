@@ -2449,4 +2449,5 @@ DIES.  A couple of COUGHS, FEET SHUFFLING, then, SILENCE.
     only two guys to a fight.  Fifth
     rule -- one fight at a time.  Sixth
     rule -- no shirts, no shoes.  Seventh
+    rule -- fights go on as long as they
 </pre>
