@@ -2447,4 +2447,5 @@ DIES.  A couple of COUGHS, FEET SHUFFLING, then, SILENCE.
     someone says "stop" or goes limp, the
     fight is over.  Fourth rule is --
     only two guys to a fight.  Fifth
+    rule -- one fight at a time.  Sixth
 </pre>
