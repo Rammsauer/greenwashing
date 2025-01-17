@@ -2444,4 +2444,5 @@ DIES.  A couple of COUGHS, FEET SHUFFLING, then, SILENCE.
     second rule of fight club is -- you
     don't talk about fight club.  The
     third rule of fight club is -- when
+    someone says "stop" or goes limp, the
 </pre>
