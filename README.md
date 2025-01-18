@@ -2456,4 +2456,6 @@ DIES.  A couple of COUGHS, FEET SHUFFLING, then, SILENCE.
 
 Tyler steps back.  A short guy, RICKY, and a GOATEED MAN
 take off shirts and shoes and step to the center.
+
+                JACK (V.O.)
 </pre>
