@@ -2453,4 +2453,6 @@ DIES.  A couple of COUGHS, FEET SHUFFLING, then, SILENCE.
     have to.  And the eighth and final
     rule -- if this is your first night
     at fight club, you have to fight.
+
+Tyler steps back.  A short guy, RICKY, and a GOATEED MAN
 </pre>
