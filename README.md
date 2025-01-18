@@ -2452,4 +2452,5 @@ DIES.  A couple of COUGHS, FEET SHUFFLING, then, SILENCE.
     rule -- fights go on as long as they
     have to.  And the eighth and final
     rule -- if this is your first night
+    at fight club, you have to fight.
 </pre>
