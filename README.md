@@ -2461,4 +2461,6 @@ take off shirts and shoes and step to the center.
     This kid, Ricky -- supply clerk --
     couldn't remember whether you ordered
     pens with blue ink or black ink ...
+
+The two fighters circle, then begin throwing PUNCHES...
 </pre>
