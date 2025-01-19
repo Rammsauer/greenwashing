@@ -2459,4 +2459,5 @@ take off shirts and shoes and step to the center.
 
                 JACK (V.O.)
     This kid, Ricky -- supply clerk --
+    couldn't remember whether you ordered
 </pre>
