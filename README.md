@@ -2460,4 +2460,5 @@ take off shirts and shoes and step to the center.
                 JACK (V.O.)
     This kid, Ricky -- supply clerk --
     couldn't remember whether you ordered
+    pens with blue ink or black ink ...
 </pre>
