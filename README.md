@@ -2465,4 +2465,5 @@ take off shirts and shoes and step to the center.
 The two fighters circle, then begin throwing PUNCHES...
 
                 JACK (V.O.)
+    But Ricky was a god for ten minutes
 </pre>
