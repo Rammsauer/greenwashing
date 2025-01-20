@@ -2474,4 +2474,5 @@ SHOUTS become DEAFENING.  Ricky's getting the best of
 Goateed Man, POUNDING him...
 
                 JACK (V.O.)
+    Sometimes all you could hear were
 </pre>
