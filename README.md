@@ -2467,4 +2467,5 @@ The two fighters circle, then begin throwing PUNCHES...
                 JACK (V.O.)
     But Ricky was a god for ten minutes
     last week when he trounced an actuary
+    twice his size.
 </pre>
