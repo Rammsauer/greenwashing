@@ -2470,4 +2470,5 @@ The two fighters circle, then begin throwing PUNCHES...
     twice his size.
 
 Harder, faster PUNCHES between the two.  SWEAT flies.
+SHOUTS become DEAFENING.  Ricky's getting the best of
 </pre>
