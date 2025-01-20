@@ -2472,4 +2472,6 @@ The two fighters circle, then begin throwing PUNCHES...
 Harder, faster PUNCHES between the two.  SWEAT flies.
 SHOUTS become DEAFENING.  Ricky's getting the best of
 Goateed Man, POUNDING him...
+
+                JACK (V.O.)
 </pre>
