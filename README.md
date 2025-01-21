@@ -2477,4 +2477,5 @@ Goateed Man, POUNDING him...
     Sometimes all you could hear were
     flat, hard packing sounds over the
     yelling, or the wet choke when
+    someone caught their breath and
 </pre>
