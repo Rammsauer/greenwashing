@@ -2476,4 +2476,5 @@ Goateed Man, POUNDING him...
                 JACK (V.O.)
     Sometimes all you could hear were
     flat, hard packing sounds over the
+    yelling, or the wet choke when
 </pre>
