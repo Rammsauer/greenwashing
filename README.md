@@ -2482,4 +2482,5 @@ Goateed Man, POUNDING him...
 
                 GOATEED MAN
         (spittle-lipped)
+    Ssssstop... !
 </pre>
