@@ -2485,4 +2485,6 @@ Goateed Man, POUNDING him...
     Ssssstop... !
 
 INT. OFFICE PARK RESTAURANT - DAY
+
+Jack, eating lunch, watches the BROKEN-NOSED WAITER with a
 </pre>
