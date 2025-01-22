@@ -2490,4 +2490,5 @@ Jack, eating lunch, watches the BROKEN-NOSED WAITER with a
 GOATEE -- from the above fight -- converse with a MAITRE D'.
 
                 JACK (V.O.)
+    Even if I could tell someone they had
 </pre>
