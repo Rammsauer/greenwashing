@@ -2487,4 +2487,5 @@ Goateed Man, POUNDING him...
 INT. OFFICE PARK RESTAURANT - DAY
 
 Jack, eating lunch, watches the BROKEN-NOSED WAITER with a
+GOATEE -- from the above fight -- converse with a MAITRE D'.
 </pre>
