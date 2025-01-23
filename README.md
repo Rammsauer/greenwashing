@@ -2492,4 +2492,5 @@ GOATEE -- from the above fight -- converse with a MAITRE D'.
                 JACK (V.O.)
     Even if I could tell someone they had
     a good fight, I wouldn't be talking
+    to the same man.
 </pre>
