@@ -2493,4 +2493,6 @@ GOATEE -- from the above fight -- converse with a MAITRE D'.
     Even if I could tell someone they had
     a good fight, I wouldn't be talking
     to the same man.
+
+The Goateed Waiter approaches Jack and sets a refill soda
 </pre>
