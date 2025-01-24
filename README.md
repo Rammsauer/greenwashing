@@ -2502,4 +2502,6 @@ down on the table.  The two of them briefly make eye contact.
     you were in the rest of the world.
 
 INT. PHOTOCOPY ROOM - DAY
+
+Jack stands over a copy machine, hit by flashes of light.
 </pre>
