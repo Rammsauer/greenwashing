@@ -2500,4 +2500,6 @@ down on the table.  The two of them briefly make eye contact.
                 JACK (V.O.)
     Who you were in fight club is not who
     you were in the rest of the world.
+
+INT. PHOTOCOPY ROOM - DAY
 </pre>
