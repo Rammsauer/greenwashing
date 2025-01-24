@@ -2504,4 +2504,5 @@ down on the table.  The two of them briefly make eye contact.
 INT. PHOTOCOPY ROOM - DAY
 
 Jack stands over a copy machine, hit by flashes of light.
+He glances over his shoulder, watches Ricky, wearing an
 </pre>
