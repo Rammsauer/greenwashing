@@ -2508,4 +2508,5 @@ He glances over his shoulder, watches Ricky, wearing an
 apron, push a supply cart.  Ricks nods at Jack.
 
                 JACK (V.O.)
+    You weren't alive anywhere like you
 </pre>
