@@ -2510,4 +2510,5 @@ apron, push a supply cart.  Ricks nods at Jack.
                 JACK (V.O.)
     You weren't alive anywhere like you
     were there.  But fight club only
+    exists in the hours between when
 </pre>
