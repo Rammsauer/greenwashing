@@ -2506,4 +2506,6 @@ INT. PHOTOCOPY ROOM - DAY
 Jack stands over a copy machine, hit by flashes of light.
 He glances over his shoulder, watches Ricky, wearing an
 apron, push a supply cart.  Ricks nods at Jack.
+
+                JACK (V.O.)
 </pre>
