@@ -2511,4 +2511,5 @@ apron, push a supply cart.  Ricks nods at Jack.
     You weren't alive anywhere like you
     were there.  But fight club only
     exists in the hours between when
+    fight club starts and when fight club
 </pre>
