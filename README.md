@@ -2517,4 +2517,5 @@ apron, push a supply cart.  Ricks nods at Jack.
 INT. JACK'S OFFICE - DAY
 
 Jack, playing SOLITAIRE on his computer, daubs blood from
+his mouth with a handkerchief.  Boss, passing by the
 </pre>
