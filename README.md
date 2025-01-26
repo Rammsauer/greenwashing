@@ -2521,4 +2521,5 @@ his mouth with a handkerchief.  Boss, passing by the
 doorway, looks in at Jack, irritated.
 
                 BOSS
+    What are you getting yourself into
 </pre>
