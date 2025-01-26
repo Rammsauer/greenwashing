@@ -2518,4 +2518,5 @@ INT. JACK'S OFFICE - DAY
 
 Jack, playing SOLITAIRE on his computer, daubs blood from
 his mouth with a handkerchief.  Boss, passing by the
+doorway, looks in at Jack, irritated.
 </pre>
