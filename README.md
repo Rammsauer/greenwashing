@@ -2527,4 +2527,5 @@ doorway, looks in at Jack, irritated.
 Jack keeps playing Solitaire.  Boss enters, folds his arms.
 
                 JACK (V.O.)
+    After fight club, everything else in
 </pre>
