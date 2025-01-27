@@ -2523,4 +2523,6 @@ doorway, looks in at Jack, irritated.
                 BOSS
     What are you getting yourself into
     every week?
+
+Jack keeps playing Solitaire.  Boss enters, folds his arms.
 </pre>
