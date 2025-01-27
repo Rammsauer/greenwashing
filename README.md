@@ -2528,4 +2528,5 @@ Jack keeps playing Solitaire.  Boss enters, folds his arms.
 
                 JACK (V.O.)
     After fight club, everything else in
+    your life gets the volume turned
 </pre>
