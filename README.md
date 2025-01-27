@@ -2525,4 +2525,6 @@ doorway, looks in at Jack, irritated.
     every week?
 
 Jack keeps playing Solitaire.  Boss enters, folds his arms.
+
+                JACK (V.O.)
 </pre>
