@@ -2530,4 +2530,6 @@ Jack keeps playing Solitaire.  Boss enters, folds his arms.
     After fight club, everything else in
     your life gets the volume turned
     down.  You can deal with anything.
+
+                BOSS
 </pre>
