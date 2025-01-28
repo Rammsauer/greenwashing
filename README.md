@@ -2537,4 +2537,6 @@ Jack keeps playing Solitaire.  Boss enters, folds his arms.
                 JACK
         (handing him reports)
     Yes.
+
+                JACK (V.O.)
 </pre>
