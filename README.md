@@ -2535,4 +2535,5 @@ Jack keeps playing Solitaire.  Boss enters, folds his arms.
     Have you finished those reports?
 
                 JACK
+        (handing him reports)
 </pre>
