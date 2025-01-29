@@ -2541,4 +2541,6 @@ Jack keeps playing Solitaire.  Boss enters, folds his arms.
                 JACK (V.O.)
     The people who had power over you
     have less and less.
+
+Jack looks at Boss.  Reflexively, Jack's tongue plays with
 </pre>
