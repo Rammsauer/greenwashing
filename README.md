@@ -2540,4 +2540,5 @@ Jack keeps playing Solitaire.  Boss enters, folds his arms.
 
                 JACK (V.O.)
     The people who had power over you
+    have less and less.
 </pre>
