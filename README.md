@@ -2543,4 +2543,5 @@ Jack keeps playing Solitaire.  Boss enters, folds his arms.
     have less and less.
 
 Jack looks at Boss.  Reflexively, Jack's tongue plays with
+his teeth.
 </pre>
