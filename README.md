@@ -2546,4 +2546,5 @@ Jack looks at Boss.  Reflexively, Jack's tongue plays with
 his teeth.
 
                 JACK (V.O.)
+    By this point, I could wiggle most of
 </pre>
