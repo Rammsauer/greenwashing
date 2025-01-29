@@ -2539,4 +2539,5 @@ Jack keeps playing Solitaire.  Boss enters, folds his arms.
     Yes.
 
                 JACK (V.O.)
+    The people who had power over you
 </pre>
