@@ -2552,4 +2552,6 @@ his teeth.
 EXT. STREET - DUSK
 
 Tyler and Jack walk, both smoking cigarettes.
+
+                JACK (V.O.)
 </pre>
