@@ -2550,4 +2550,6 @@ his teeth.
     the teeth in my jaw.
 
 EXT. STREET - DUSK
+
+Tyler and Jack walk, both smoking cigarettes.
 </pre>
