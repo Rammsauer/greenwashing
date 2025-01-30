@@ -2548,4 +2548,6 @@ his teeth.
                 JACK (V.O.)
     By this point, I could wiggle most of
     the teeth in my jaw.
+
+EXT. STREET - DUSK
 </pre>
