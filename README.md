@@ -2561,4 +2561,6 @@ Tyler and Jack walk, both smoking cigarettes.
 
                 JACK
     If you could fight any celebrity?
+
+                TYLER
 </pre>
