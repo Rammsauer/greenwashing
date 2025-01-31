@@ -2555,4 +2555,5 @@ Tyler and Jack walk, both smoking cigarettes.
 
                 JACK (V.O.)
     A guy came to fight club for the
+    first time, his ass was a wad of
 </pre>
