@@ -2560,4 +2560,5 @@ Tyler and Jack walk, both smoking cigarettes.
     was carved out of wood.
 
                 JACK
+    If you could fight any celebrity?
 </pre>
