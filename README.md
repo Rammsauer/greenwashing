@@ -2564,4 +2564,6 @@ Tyler and Jack walk, both smoking cigarettes.
 
                 TYLER
     Alive or dead?
+
+                JACK
 </pre>
