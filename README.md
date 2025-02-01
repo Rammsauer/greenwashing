@@ -2563,4 +2563,5 @@ Tyler and Jack walk, both smoking cigarettes.
     If you could fight any celebrity?
 
                 TYLER
+    Alive or dead?
 </pre>
