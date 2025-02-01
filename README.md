@@ -2567,4 +2567,6 @@ Tyler and Jack walk, both smoking cigarettes.
 
                 JACK
     Doesn't matter.
+
+                TYLER
 </pre>
