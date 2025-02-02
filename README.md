@@ -2576,4 +2576,6 @@ Tyler and Jack walk, both smoking cigarettes.
 
 They reach a BUS STOP as a BUS arrives, tossing their
 cigarettes, getting on board...
+
+INT. BUS - DUSK
 </pre>
