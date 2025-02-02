@@ -2570,4 +2570,6 @@ Tyler and Jack walk, both smoking cigarettes.
 
                 TYLER
     Hemingway.  You?
+
+                JACK
 </pre>
