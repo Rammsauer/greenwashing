@@ -2572,4 +2572,5 @@ Tyler and Jack walk, both smoking cigarettes.
     Hemingway.  You?
 
                 JACK
+    Shatner.  William Shatner.
 </pre>
