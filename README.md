@@ -2573,4 +2573,6 @@ Tyler and Jack walk, both smoking cigarettes.
 
                 JACK
     Shatner.  William Shatner.
+
+They reach a BUS STOP as a BUS arrives, tossing their
 </pre>
