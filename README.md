@@ -2583,4 +2583,5 @@ The bus is crowded.  As Tyler and Jack walk toward the back,
 Jack studies the faces of OTHER PASSENGERS...
 
                 JACK (V.O.)
+    We all started seeing things
 </pre>
