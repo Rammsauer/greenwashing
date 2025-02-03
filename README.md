@@ -2585,4 +2585,6 @@ Jack studies the faces of OTHER PASSENGERS...
                 JACK (V.O.)
     We all started seeing things
     differently.  Wherever we went.
+
+They hold hand grips.  Jack looks up at an ADVERTISEMENT; a
 </pre>
