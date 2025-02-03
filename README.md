@@ -2584,4 +2584,5 @@ Jack studies the faces of OTHER PASSENGERS...
 
                 JACK (V.O.)
     We all started seeing things
+    differently.  Wherever we went.
 </pre>
