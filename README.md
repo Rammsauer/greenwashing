@@ -2578,4 +2578,6 @@ They reach a BUS STOP as a BUS arrives, tossing their
 cigarettes, getting on board...
 
 INT. BUS - DUSK
+
+The bus is crowded.  As Tyler and Jack walk toward the back,
 </pre>
