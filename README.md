@@ -2592,4 +2592,5 @@ CALVIN KLEIN ad featuring a tan, bare-chested MUSCLE STUD.
                 JACK (V.O.)
     I felt sorry for all the guys packing
     into gyms, trying to look like what
+    Calvin Klein and Tommy Hilfiger said
 </pre>
