@@ -2587,4 +2587,5 @@ Jack studies the faces of OTHER PASSENGERS...
     differently.  Wherever we went.
 
 They hold hand grips.  Jack looks up at an ADVERTISEMENT; a
+CALVIN KLEIN ad featuring a tan, bare-chested MUSCLE STUD.
 </pre>
