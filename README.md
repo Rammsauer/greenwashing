@@ -2590,4 +2590,5 @@ They hold hand grips.  Jack looks up at an ADVERTISEMENT; a
 CALVIN KLEIN ad featuring a tan, bare-chested MUSCLE STUD.
 
                 JACK (V.O.)
+    I felt sorry for all the guys packing
 </pre>
