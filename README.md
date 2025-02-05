@@ -2596,4 +2596,6 @@ CALVIN KLEIN ad featuring a tan, bare-chested MUSCLE STUD.
     they should.
 
 Tyler looks at Jack, looks at the C.K. advertisement.
+
+                TYLER
 </pre>
