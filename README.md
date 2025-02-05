@@ -2599,4 +2599,5 @@ Tyler looks at Jack, looks at the C.K. advertisement.
 
                 TYLER
     Self-improvement is masturbation.
+    Self-destruction is the answer.
 </pre>
