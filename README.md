@@ -2598,4 +2598,5 @@ CALVIN KLEIN ad featuring a tan, bare-chested MUSCLE STUD.
 Tyler looks at Jack, looks at the C.K. advertisement.
 
                 TYLER
+    Self-improvement is masturbation.
 </pre>
