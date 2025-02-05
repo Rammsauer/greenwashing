@@ -2594,4 +2594,6 @@ CALVIN KLEIN ad featuring a tan, bare-chested MUSCLE STUD.
     into gyms, trying to look like what
     Calvin Klein and Tommy Hilfiger said
     they should.
+
+Tyler looks at Jack, looks at the C.K. advertisement.
 </pre>
