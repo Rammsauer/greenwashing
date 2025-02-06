@@ -2606,4 +2606,5 @@ Man takes a handle, close by.  Jack's pissed, staring at the
 man, who stares back.
 
                 JACK
+        (to Tyler, so the
 </pre>
