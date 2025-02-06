@@ -2608,4 +2608,5 @@ man, who stares back.
                 JACK
         (to Tyler, so the
         Man can hear)
+    You could take him.
 </pre>
