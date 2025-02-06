@@ -2609,4 +2609,6 @@ man, who stares back.
         (to Tyler, so the
         Man can hear)
     You could take him.
+
+Tyler looks to Jack, glances over his shoulder at the Man.
 </pre>
