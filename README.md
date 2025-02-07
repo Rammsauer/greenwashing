@@ -2617,4 +2617,6 @@ Tyler casually picks a small scab off Jack's nostril.
     The trick is not to care.
 
 Tyler stares forward.
+
+INT. TAVERN BASEMENT - NIGHT
 </pre>
