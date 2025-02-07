@@ -2611,4 +2611,5 @@ man, who stares back.
     You could take him.
 
 Tyler looks to Jack, glances over his shoulder at the Man.
+Tyler casually picks a small scab off Jack's nostril.
 </pre>
