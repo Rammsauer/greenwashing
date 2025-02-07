@@ -2615,4 +2615,6 @@ Tyler casually picks a small scab off Jack's nostril.
 
                 TYLER
     The trick is not to care.
+
+Tyler stares forward.
 </pre>
