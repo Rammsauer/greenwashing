@@ -2623,4 +2623,6 @@ INT. TAVERN BASEMENT - NIGHT
 Tyler HITS the floor, stomach first.  HIS OPPONENT lands on
 top of him, grappling, trying for a CHOKE HOLD.  The
 surrounding CROWD, Jack included, SCREAMS at them...
+
+Tyler and the Opponent wrestle desperately, and Tyler flips
 </pre>
