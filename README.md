@@ -2621,4 +2621,5 @@ Tyler stares forward.
 INT. TAVERN BASEMENT - NIGHT
 
 Tyler HITS the floor, stomach first.  HIS OPPONENT lands on
+top of him, grappling, trying for a CHOKE HOLD.  The
 </pre>
