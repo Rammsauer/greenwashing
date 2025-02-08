@@ -2619,4 +2619,6 @@ Tyler casually picks a small scab off Jack's nostril.
 Tyler stares forward.
 
 INT. TAVERN BASEMENT - NIGHT
+
+Tyler HITS the floor, stomach first.  HIS OPPONENT lands on
 </pre>
