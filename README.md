@@ -2627,4 +2627,6 @@ surrounding CROWD, Jack included, SCREAMS at them...
 Tyler and the Opponent wrestle desperately, and Tyler flips
 his attacker, gets on top, sprawling to pin him.  Tyler
 turns -- starts reining PUNCHES into the Opponent's GROIN...
+
+                                        CUT TO:
 </pre>
