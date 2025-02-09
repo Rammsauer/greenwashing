@@ -2631,4 +2631,5 @@ turns -- starts reining PUNCHES into the Opponent's GROIN...
                                         CUT TO:
 
 Jack lands a couple of BLOWS to HIS OPPONENT'S stomach --
+brings up a left uppercut that smashes the Opponent's jaw.
 </pre>
