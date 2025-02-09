@@ -2632,4 +2632,5 @@ turns -- starts reining PUNCHES into the Opponent's GROIN...
 
 Jack lands a couple of BLOWS to HIS OPPONENT'S stomach --
 brings up a left uppercut that smashes the Opponent's jaw.
+Tiny spatters of BLOOD adorn the walls, along with sweat.
 </pre>
