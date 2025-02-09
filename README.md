@@ -2629,4 +2629,6 @@ his attacker, gets on top, sprawling to pin him.  Tyler
 turns -- starts reining PUNCHES into the Opponent's GROIN...
 
                                         CUT TO:
+
+Jack lands a couple of BLOWS to HIS OPPONENT'S stomach --
 </pre>
