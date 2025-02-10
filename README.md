@@ -2640,4 +2640,6 @@ appreciatively, a smile growing slowly on his face.
                 JACK (V.O.)
     Fight club wasn't about winning or
     losing.  It wasn't about words.
+
+The Opponent recovers, throws a headlock on Jack.  Jack
 </pre>
