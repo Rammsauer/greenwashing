@@ -2642,4 +2642,5 @@ appreciatively, a smile growing slowly on his face.
     losing.  It wasn't about words.
 
 The Opponent recovers, throws a headlock on Jack.  Jack
+snakes his arm into a counter headlock.  They wrestle like
 </pre>
