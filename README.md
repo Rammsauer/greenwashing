@@ -2636,4 +2636,6 @@ Tiny spatters of BLOOD adorn the walls, along with sweat.
 
 Jack catches sight of a swollen-faced Tyler, watching
 appreciatively, a smile growing slowly on his face.
+
+                JACK (V.O.)
 </pre>
