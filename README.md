@@ -2638,4 +2638,5 @@ Jack catches sight of a swollen-faced Tyler, watching
 appreciatively, a smile growing slowly on his face.
 
                 JACK (V.O.)
+    Fight club wasn't about winning or
 </pre>
