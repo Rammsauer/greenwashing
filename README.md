@@ -2648,4 +2648,6 @@ wild animals.  The crowd CHEERS maniacally.
                 JACK (V.O.)
     They hysterical shouting was in
     tongues, like at a Pentecostal church.
+
+Onlookers kneel to stay with the fight, cheering LOUDER.
 </pre>
