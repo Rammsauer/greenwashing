@@ -2646,4 +2646,5 @@ snakes his arm into a counter headlock.  They wrestle like
 wild animals.  The crowd CHEERS maniacally.
 
                 JACK (V.O.)
+    They hysterical shouting was in
 </pre>
