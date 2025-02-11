@@ -2650,4 +2650,5 @@ wild animals.  The crowd CHEERS maniacally.
     tongues, like at a Pentecostal church.
 
 Onlookers kneel to stay with the fight, cheering LOUDER.
+The Opponent SMASHES Jack's head to the floor, over and over.
 </pre>
