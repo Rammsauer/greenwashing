@@ -2643,4 +2643,5 @@ appreciatively, a smile growing slowly on his face.
 
 The Opponent recovers, throws a headlock on Jack.  Jack
 snakes his arm into a counter headlock.  They wrestle like
+wild animals.  The crowd CHEERS maniacally.
 </pre>
