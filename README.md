@@ -2654,4 +2654,6 @@ The Opponent SMASHES Jack's head to the floor, over and over.
 
                 JACK
     ... stop...
+
+                JACK (V.O.)
 </pre>
