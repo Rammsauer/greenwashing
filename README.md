@@ -2665,4 +2665,5 @@ attention to the floor, to a BLOOD MASK of Jack's face --
 similar to the TEAR MASK on BOB'S SHIRT.
 
                 TYLER
+    Cool.
 </pre>
