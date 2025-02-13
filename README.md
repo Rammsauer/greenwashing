@@ -2662,4 +2662,5 @@ The Opponent SMASHES Jack's head to the floor, over and over.
 Everyone moves in as the Opponent steps away.  Tyler pushes
 through the crowd.  Others lift Jack up.  They turn their
 attention to the floor, to a BLOOD MASK of Jack's face --
+similar to the TEAR MASK on BOB'S SHIRT.
 </pre>
