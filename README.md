@@ -2670,4 +2670,5 @@ similar to the TEAR MASK on BOB'S SHIRT.
 Jack limply shakes his Opponent's hand.
 
                 OPPONENT
+    How about next week?
 </pre>
