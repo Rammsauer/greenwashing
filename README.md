@@ -2668,4 +2668,6 @@ similar to the TEAR MASK on BOB'S SHIRT.
     Cool.
 
 Jack limply shakes his Opponent's hand.
+
+                OPPONENT
 </pre>
