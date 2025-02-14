@@ -2673,4 +2673,5 @@ Jack limply shakes his Opponent's hand.
     How about next week?
 
                 JACK
+    Look at me.  How about next month?
 </pre>
