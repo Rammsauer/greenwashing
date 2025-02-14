@@ -2666,4 +2666,6 @@ similar to the TEAR MASK on BOB'S SHIRT.
 
                 TYLER
     Cool.
+
+Jack limply shakes his Opponent's hand.
 </pre>
