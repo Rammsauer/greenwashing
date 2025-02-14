@@ -2671,4 +2671,6 @@ Jack limply shakes his Opponent's hand.
 
                 OPPONENT
     How about next week?
+
+                JACK
 </pre>
