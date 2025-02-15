@@ -2674,4 +2674,6 @@ Jack limply shakes his Opponent's hand.
 
                 JACK
     Look at me.  How about next month?
+
+Everyone helps Jack walk.  He's sweating, bleeding, smiling.
 </pre>
