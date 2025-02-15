@@ -2679,4 +2679,6 @@ Everyone helps Jack walk.  He's sweating, bleeding, smiling.
 
                 JACK (V.O.)
     Afterwards, we all felt saved.
+
+INT. HOSPITAL EMERGENCY ROOM - NIGHT
 </pre>
