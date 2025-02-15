@@ -2681,4 +2681,6 @@ Everyone helps Jack walk.  He's sweating, bleeding, smiling.
     Afterwards, we all felt saved.
 
 INT. HOSPITAL EMERGENCY ROOM - NIGHT
+
+A NURSE tends to Jack while Tyler watches.
 </pre>
