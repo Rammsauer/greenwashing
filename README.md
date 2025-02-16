@@ -2685,4 +2685,5 @@ INT. HOSPITAL EMERGENCY ROOM - NIGHT
 A NURSE tends to Jack while Tyler watches.
 
                 TYLER
+    He fell down some stairs.
 </pre>
