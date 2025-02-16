@@ -2690,4 +2690,5 @@ A NURSE tends to Jack while Tyler watches.
 The Nurse doesn't look at Tyler, just keeps tending to Jack.
 
                 JACK
+    I fell down some stairs.
 </pre>
