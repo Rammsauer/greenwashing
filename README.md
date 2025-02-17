@@ -2698,4 +2698,5 @@ The Nurse doesn't look at Tyler, just keeps tending to Jack.
 INT. PAPER ST. HOUSE - BATHROOM - MORNING
 
 Tyler and Jack share the cracked MIRROR.  Tyler's clipping
+at his hair with blunt, ill-suited SCISSORS.  Jack's
 </pre>
