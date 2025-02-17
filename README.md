@@ -2696,4 +2696,6 @@ The Nurse doesn't look at Tyler, just keeps tending to Jack.
     Sometimes Tyler spoke for me.
 
 INT. PAPER ST. HOUSE - BATHROOM - MORNING
+
+Tyler and Jack share the cracked MIRROR.  Tyler's clipping
 </pre>
