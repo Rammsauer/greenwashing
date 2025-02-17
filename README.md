@@ -2694,4 +2694,6 @@ The Nurse doesn't look at Tyler, just keeps tending to Jack.
 
                 JACK (V.O.)
     Sometimes Tyler spoke for me.
+
+INT. PAPER ST. HOUSE - BATHROOM - MORNING
 </pre>
