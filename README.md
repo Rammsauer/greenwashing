@@ -2693,4 +2693,5 @@ The Nurse doesn't look at Tyler, just keeps tending to Jack.
     I fell down some stairs.
 
                 JACK (V.O.)
+    Sometimes Tyler spoke for me.
 </pre>
