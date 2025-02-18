@@ -2704,4 +2704,5 @@ brushing his teeth, spitting out pink foam.
                 JACK (V.O.)
     Fight club became the reason to cut
     your hair short and trim your
+    fingernails.
 </pre>
