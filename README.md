@@ -2702,4 +2702,5 @@ at his hair with blunt, ill-suited SCISSORS.  Jack's
 brushing his teeth, spitting out pink foam.
 
                 JACK (V.O.)
+    Fight club became the reason to cut
 </pre>
