@@ -2700,4 +2700,6 @@ INT. PAPER ST. HOUSE - BATHROOM - MORNING
 Tyler and Jack share the cracked MIRROR.  Tyler's clipping
 at his hair with blunt, ill-suited SCISSORS.  Jack's
 brushing his teeth, spitting out pink foam.
+
+                JACK (V.O.)
 </pre>
