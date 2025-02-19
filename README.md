@@ -2708,4 +2708,6 @@ brushing his teeth, spitting out pink foam.
 
                 TYLER
     Any historical figure.
+
+                JACK
 </pre>
