@@ -2707,4 +2707,5 @@ brushing his teeth, spitting out pink foam.
     fingernails.
 
                 TYLER
+    Any historical figure.
 </pre>
