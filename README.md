@@ -2710,4 +2710,5 @@ brushing his teeth, spitting out pink foam.
     Any historical figure.
 
                 JACK
+    Okay... Ghandi.
 </pre>
