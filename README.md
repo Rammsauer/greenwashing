@@ -2714,4 +2714,6 @@ brushing his teeth, spitting out pink foam.
 
                 TYLER
     Good answer.
+
+                JACK
 </pre>
