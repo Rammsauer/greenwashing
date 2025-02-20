@@ -2719,4 +2719,5 @@ brushing his teeth, spitting out pink foam.
     You?
 
                 TYLER
+    Abe Lincoln.  Big reach.  Skinny guys
 </pre>
