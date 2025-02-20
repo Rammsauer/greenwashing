@@ -2721,4 +2721,6 @@ brushing his teeth, spitting out pink foam.
                 TYLER
     Abe Lincoln.  Big reach.  Skinny guys
     fight till they're burger.
+
+Jack reaches in his mouth, exploring, pulls -- yanks a
 </pre>
