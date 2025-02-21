@@ -2727,4 +2727,5 @@ TOOTH.  Jack looks at it.  Tyler puts scissors down, done.
 
                 TYLER
     Remember, even the Mona Lisa's
+    falling apart.
 </pre>
