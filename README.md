@@ -2723,4 +2723,5 @@ brushing his teeth, spitting out pink foam.
     fight till they're burger.
 
 Jack reaches in his mouth, exploring, pulls -- yanks a
+TOOTH.  Jack looks at it.  Tyler puts scissors down, done.
 </pre>
