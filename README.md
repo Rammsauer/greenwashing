@@ -2736,4 +2736,5 @@ INT. PAPER ST. HOUSE - KITCHEN - LATE AFTERNOON
 Jack enters, buttoning his shirt.  The PHONE RINGS.
 
                 JACK
+    Hello?
 </pre>
