@@ -2730,4 +2730,6 @@ TOOTH.  Jack looks at it.  Tyler puts scissors down, done.
     falling apart.
 
 Jack drops the tooth in the sink with Tyler's hair.
+
+INT. PAPER ST. HOUSE - KITCHEN - LATE AFTERNOON
 </pre>
