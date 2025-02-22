@@ -2734,4 +2734,6 @@ Jack drops the tooth in the sink with Tyler's hair.
 INT. PAPER ST. HOUSE - KITCHEN - LATE AFTERNOON
 
 Jack enters, buttoning his shirt.  The PHONE RINGS.
+
+                JACK
 </pre>
