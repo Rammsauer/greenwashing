@@ -2737,4 +2737,6 @@ Jack enters, buttoning his shirt.  The PHONE RINGS.
 
                 JACK
     Hello?
+
+INTERCUT WITH...
 </pre>
