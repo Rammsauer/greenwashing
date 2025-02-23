@@ -2741,4 +2741,6 @@ Jack enters, buttoning his shirt.  The PHONE RINGS.
 INTERCUT WITH...
 
 INT. MARLA'S BUILDING, HALLWAY - SAME
+
+Marla's in the HALL, on the PAYPHONE, twisting the phone
 </pre>
