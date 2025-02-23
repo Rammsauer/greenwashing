@@ -2743,4 +2743,5 @@ INTERCUT WITH...
 INT. MARLA'S BUILDING, HALLWAY - SAME
 
 Marla's in the HALL, on the PAYPHONE, twisting the phone
+cord around her neck.
 </pre>
