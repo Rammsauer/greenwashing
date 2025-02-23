@@ -2739,4 +2739,6 @@ Jack enters, buttoning his shirt.  The PHONE RINGS.
     Hello?
 
 INTERCUT WITH...
+
+INT. MARLA'S BUILDING, HALLWAY - SAME
 </pre>
