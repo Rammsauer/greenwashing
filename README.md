@@ -2753,4 +2753,5 @@ cord around her neck.
     Marla?
 
 Jack looks through the archway and sees Tyler, in his gummy
+flannel bathrobe, doing sit-ups.  Jack leans, cups the phone.
 </pre>
