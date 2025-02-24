@@ -2751,4 +2751,6 @@ cord around her neck.
 
                 JACK
     Marla?
+
+Jack looks through the archway and sees Tyler, in his gummy
 </pre>
