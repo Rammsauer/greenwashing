@@ -2764,4 +2764,5 @@ flannel bathrobe, doing sit-ups.  Jack leans, cups the phone.
     seen you at any support groups.
 
                 JACK
+    That's the idea -- we split them.
 </pre>
