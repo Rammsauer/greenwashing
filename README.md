@@ -2776,4 +2776,5 @@ flannel bathrobe, doing sit-ups.  Jack leans, cups the phone.
     Really?
 
                 JACK
+    It's for men.
 </pre>
