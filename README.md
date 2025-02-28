@@ -2779,4 +2779,5 @@ flannel bathrobe, doing sit-ups.  Jack leans, cups the phone.
     It's for men.
 
                 MARLA
+    Like testicular cancer?
 </pre>
