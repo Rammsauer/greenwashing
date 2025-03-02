@@ -2796,4 +2796,6 @@ flannel bathrobe, doing sit-ups.  Jack leans, cups the phone.
     Me too.  I got a stomach full of
     Xanax.  I took what was left of a
     bottle.  Might've been too much.
+
+Jack looks exasperated, turns TO LOOK INTO THE CAMERA.
 </pre>
