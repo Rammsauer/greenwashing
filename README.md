@@ -2800,4 +2800,5 @@ flannel bathrobe, doing sit-ups.  Jack leans, cups the phone.
 Jack looks exasperated, turns TO LOOK INTO THE CAMERA.
 
                 JACK (V.O.)
+    Picture yourself watching Marla
 </pre>
