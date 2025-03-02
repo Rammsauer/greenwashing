@@ -2798,4 +2798,6 @@ flannel bathrobe, doing sit-ups.  Jack leans, cups the phone.
     bottle.  Might've been too much.
 
 Jack looks exasperated, turns TO LOOK INTO THE CAMERA.
+
+                JACK (V.O.)
 </pre>
