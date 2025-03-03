@@ -2808,4 +2808,6 @@ Jack looks exasperated, turns TO LOOK INTO THE CAMERA.
     This isn't a for-real suicide thing.
     This is probably one of those cry-for-
     help things.
+
+                JACK (V.O.)
 </pre>
