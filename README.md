@@ -2816,4 +2816,5 @@ Jack looks exasperated, turns TO LOOK INTO THE CAMERA.
     So you're staying in tonight?
 
                 MARLA
+    Do you want to wait to hear me
 </pre>
