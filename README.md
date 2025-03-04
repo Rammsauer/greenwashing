@@ -2811,4 +2811,6 @@ Jack looks exasperated, turns TO LOOK INTO THE CAMERA.
 
                 JACK (V.O.)
     This could go on for hours.
+
+                JACK
 </pre>
