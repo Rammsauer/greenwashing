@@ -2813,4 +2813,5 @@ Jack looks exasperated, turns TO LOOK INTO THE CAMERA.
     This could go on for hours.
 
                 JACK
+    So you're staying in tonight?
 </pre>
