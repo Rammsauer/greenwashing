@@ -2824,4 +2824,5 @@ hook, walks out the back door.
 
                 MARLA'S VOICE
     Do you want to listen and see if my
+    spirit can use the telephone?
 </pre>
