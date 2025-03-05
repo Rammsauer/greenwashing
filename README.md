@@ -2820,4 +2820,5 @@ Jack looks exasperated, turns TO LOOK INTO THE CAMERA.
     describe death?
 
 Jack puts the handset on top of the phone, still off the
+hook, walks out the back door.
 </pre>
