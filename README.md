@@ -2818,4 +2818,6 @@ Jack looks exasperated, turns TO LOOK INTO THE CAMERA.
                 MARLA
     Do you want to wait to hear me
     describe death?
+
+Jack puts the handset on top of the phone, still off the
 </pre>
