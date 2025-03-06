@@ -2829,4 +2829,6 @@ hook, walks out the back door.
 Thru the archway: Tyler leans to look in, curious.
 
 INT. BEDROOM - LATE NIGHT
+
+GRUNTS of PLEASURE and EXERTION.  Glimpses of TORSOS, ASSES,
 </pre>
