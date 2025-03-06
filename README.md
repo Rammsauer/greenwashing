@@ -2827,4 +2827,6 @@ hook, walks out the back door.
     spirit can use the telephone?
 
 Thru the archway: Tyler leans to look in, curious.
+
+INT. BEDROOM - LATE NIGHT
 </pre>
