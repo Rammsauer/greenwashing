@@ -2840,4 +2840,6 @@ LAUGHING.  A flash of MARLA'S FACE.
 INT. JACK'S BEDROOM - SUNRISE
 
 Jack sits up in bed, looks around the room.
+
+INT. 2ND FLOOR LANDING
 </pre>
