@@ -2838,4 +2838,6 @@ LAUGHING.  A flash of MARLA'S FACE.
                                         CUT TO:
 
 INT. JACK'S BEDROOM - SUNRISE
+
+Jack sits up in bed, looks around the room.
 </pre>
