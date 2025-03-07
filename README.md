@@ -2836,4 +2836,6 @@ Sheets RIP.  Bodies hit the FLOOR.  Insane GRUNTING and
 LAUGHING.  A flash of MARLA'S FACE.
 
                                         CUT TO:
+
+INT. JACK'S BEDROOM - SUNRISE
 </pre>
