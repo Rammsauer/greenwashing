@@ -2846,4 +2846,5 @@ INT. 2ND FLOOR LANDING
 Jack steps out of his room.  The neighboring door is closed.
 
                 JACK (V.O.)
+    Tyler's door was closed.  I'd been
 </pre>
