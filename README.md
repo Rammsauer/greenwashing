@@ -2844,4 +2844,6 @@ Jack sits up in bed, looks around the room.
 INT. 2ND FLOOR LANDING
 
 Jack steps out of his room.  The neighboring door is closed.
+
+                JACK (V.O.)
 </pre>
