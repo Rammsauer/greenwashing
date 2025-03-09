@@ -2857,4 +2857,5 @@ Jack stares into the TOILER, looking at SIX USED CONDOMS.
 INT. KITCHEN - MORNING
 
 Jack sits at the table, sips coffee, read Reader's Digest.
+He hears FOOTSTEPS approaching.
 </pre>
