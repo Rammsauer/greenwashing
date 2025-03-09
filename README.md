@@ -2853,4 +2853,6 @@ Jack steps out of his room.  The neighboring door is closed.
 INT. BATHROOM - SAME
 
 Jack stares into the TOILER, looking at SIX USED CONDOMS.
+
+INT. KITCHEN - MORNING
 </pre>
