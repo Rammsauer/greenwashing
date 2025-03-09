@@ -2851,4 +2851,6 @@ Jack steps out of his room.  The neighboring door is closed.
     door was never closed.
 
 INT. BATHROOM - SAME
+
+Jack stares into the TOILER, looking at SIX USED CONDOMS.
 </pre>
