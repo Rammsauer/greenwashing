@@ -2860,4 +2860,5 @@ Jack sits at the table, sips coffee, read Reader's Digest.
 He hears FOOTSTEPS approaching.
 
                 JACK
+    You're not going to believe what I
 </pre>
