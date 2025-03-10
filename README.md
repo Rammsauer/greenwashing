@@ -2862,4 +2862,6 @@ He hears FOOTSTEPS approaching.
                 JACK
     You're not going to believe what I
     dreamt last night.
+
+Marla walks in, straightening her dress, looks like she's
 </pre>
