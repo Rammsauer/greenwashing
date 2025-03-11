@@ -2872,4 +2872,6 @@ been raped by a hurricane.  Jack's jaw drops.
 
 Marla goes to pour coffee.  She takes a swig, GARGLES and
 SPITS it in the sink.  She gives Jack a lascivious smile.
+
+                JACK
 </pre>
