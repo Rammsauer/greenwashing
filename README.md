@@ -2874,4 +2874,5 @@ Marla goes to pour coffee.  She takes a swig, GARGLES and
 SPITS it in the sink.  She gives Jack a lascivious smile.
 
                 JACK
+    What are you doing here?
 </pre>
