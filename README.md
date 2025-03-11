@@ -2869,4 +2869,6 @@ been raped by a hurricane.  Jack's jaw drops.
                 MARLA
     I can hardly believe anything about
     last night.
+
+Marla goes to pour coffee.  She takes a swig, GARGLES and
 </pre>
