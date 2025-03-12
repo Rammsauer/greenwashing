@@ -2880,4 +2880,5 @@ SPITS it in the sink.  She gives Jack a lascivious smile.
     What... ?
 
                 JACK
+    What the hell are you doing here?
 </pre>
