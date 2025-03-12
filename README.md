@@ -2878,4 +2878,6 @@ SPITS it in the sink.  She gives Jack a lascivious smile.
 
                 MARLA
     What... ?
+
+                JACK
 </pre>
