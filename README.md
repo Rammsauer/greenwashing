@@ -2885,4 +2885,5 @@ SPITS it in the sink.  She gives Jack a lascivious smile.
 Marla stares at him a beat, then drops the cup in the sink.
 
                 MARLA
+    Fuck you.
 </pre>
