@@ -2886,4 +2886,6 @@ Marla stares at him a beat, then drops the cup in the sink.
 
                 MARLA
     Fuck you.
+
+Marla shoves open the door to the backyard and walks out.
 </pre>
