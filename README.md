@@ -2891,4 +2891,5 @@ Marla shoves open the door to the backyard and walks out.
 Jack gets up, watches her stomp away.
 
 Jack turns and -- Tyler is at his shoulder, staring after
+Marla.  He's in his usual sweatpants.  He grins at Jack,
 </pre>
