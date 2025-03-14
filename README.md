@@ -2893,4 +2893,5 @@ Jack gets up, watches her stomp away.
 Jack turns and -- Tyler is at his shoulder, staring after
 Marla.  He's in his usual sweatpants.  He grins at Jack,
 then moves away, pours himself coffee.  Jack, smoldering,
+slumps at the table and picks up Reader's Digest.  Tyler
 </pre>
