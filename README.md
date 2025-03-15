@@ -2900,4 +2900,6 @@ puts his foot on a countertop, does stretching exercises.
     She's a piece of work.  Get this --
     I come in here last night, the
     phone's off the hook...
+
+Jack pretends to read, quickly glances at Tyler.  TYLER'S
 </pre>
