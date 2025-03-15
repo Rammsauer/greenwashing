@@ -2906,4 +2906,5 @@ VOICE FADES...
 
                 JACK (V.O.)
     I already knew the story before he
+    told it to me.
 </pre>
