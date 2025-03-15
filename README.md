@@ -2905,4 +2905,5 @@ Jack pretends to read, quickly glances at Tyler.  TYLER'S
 VOICE FADES...
 
                 JACK (V.O.)
+    I already knew the story before he
 </pre>
