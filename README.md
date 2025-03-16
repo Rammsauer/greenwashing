@@ -2907,4 +2907,6 @@ VOICE FADES...
                 JACK (V.O.)
     I already knew the story before he
     told it to me.
+
+INT. KITCHEN - LATE AFTERNOON (FLASHBACK)
 </pre>
