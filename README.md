@@ -2909,4 +2909,6 @@ VOICE FADES...
     told it to me.
 
 INT. KITCHEN - LATE AFTERNOON (FLASHBACK)
+
+Tyler enters, gently lifts the handset and listens.
 </pre>
