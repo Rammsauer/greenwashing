@@ -2916,4 +2916,6 @@ Tyler enters, gently lifts the handset and listens.
         (from handset)
     I'll tell you when I'm floating out
     of my body.
+
+Tyler smiles.
 </pre>
