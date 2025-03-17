@@ -2920,4 +2920,5 @@ Tyler enters, gently lifts the handset and listens.
 Tyler smiles.
 
                 JACK (V.O.)
+    How could Tyler, off all people, think
 </pre>
