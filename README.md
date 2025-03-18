@@ -2928,4 +2928,5 @@ INT. MARLA'S - 8TH FLOOR LANDING - LATE AFTERNOON (FLASHBACK)
 
 Tyler, a wry smile on his face, ambles up the stiars,
 looking at the rotting walls.  He reaches the top of the
+stairs and heads for Marla's room.  Before he can knock,
 </pre>
