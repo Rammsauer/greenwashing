@@ -2923,4 +2923,6 @@ Tyler smiles.
     How could Tyler, off all people, think
     it was a bad thing that Marla Singer
     was about to die?
+
+INT. MARLA'S - 8TH FLOOR LANDING - LATE AFTERNOON (FLASHBACK)
 </pre>
