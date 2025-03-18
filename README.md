@@ -2925,4 +2925,6 @@ Tyler smiles.
     was about to die?
 
 INT. MARLA'S - 8TH FLOOR LANDING - LATE AFTERNOON (FLASHBACK)
+
+Tyler, a wry smile on his face, ambles up the stiars,
 </pre>
