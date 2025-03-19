@@ -2930,4 +2930,6 @@ Tyler, a wry smile on his face, ambles up the stiars,
 looking at the rotting walls.  He reaches the top of the
 stairs and heads for Marla's room.  Before he can knock,
 Marla's hand shoots out and grabs him...
+
+INT. MARLA'S ROOM - CONTINUOUS (FLASHBACK)
 </pre>
