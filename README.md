@@ -2932,4 +2932,6 @@ stairs and heads for Marla's room.  Before he can knock,
 Marla's hand shoots out and grabs him...
 
 INT. MARLA'S ROOM - CONTINUOUS (FLASHBACK)
+
+Marla pulls Tyler inside and shuts the door.  Her drugged
 </pre>
