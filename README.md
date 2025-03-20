@@ -2938,4 +2938,6 @@ eyes look him over.
 
                 MARLA
     You got here fast.
+
+She staggers and sits on the bed.  She slides off, along
 </pre>
