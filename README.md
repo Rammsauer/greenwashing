@@ -2940,4 +2940,5 @@ eyes look him over.
     You got here fast.
 
 She staggers and sits on the bed.  She slides off, along
+with the blanket and sheets, to the floor.
 </pre>
