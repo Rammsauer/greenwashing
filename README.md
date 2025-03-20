@@ -2943,4 +2943,5 @@ She staggers and sits on the bed.  She slides off, along
 with the blanket and sheets, to the floor.
 
                 MARLA
+    The mattresses are all sealed in
 </pre>
