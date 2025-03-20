@@ -2945,4 +2945,6 @@ with the blanket and sheets, to the floor.
                 MARLA
     The mattresses are all sealed in
     slippery plastic.
+
+She tries to focus her eyes on Tyler.
 </pre>
