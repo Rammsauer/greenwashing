@@ -2944,4 +2944,5 @@ with the blanket and sheets, to the floor.
 
                 MARLA
     The mattresses are all sealed in
+    slippery plastic.
 </pre>
