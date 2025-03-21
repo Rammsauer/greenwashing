@@ -2950,4 +2950,6 @@ She tries to focus her eyes on Tyler.
 
                 MARLA
     Did I call you?
+
+Tyler studies her with cynical curiosity, looks at a DILDO
 </pre>
