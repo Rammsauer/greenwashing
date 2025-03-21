@@ -2952,4 +2952,5 @@ She tries to focus her eyes on Tyler.
     Did I call you?
 
 Tyler studies her with cynical curiosity, looks at a DILDO
+lying atop a dresser.  Marla follows his gaze.
 </pre>
