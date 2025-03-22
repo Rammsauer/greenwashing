@@ -2955,4 +2955,5 @@ Tyler studies her with cynical curiosity, looks at a DILDO
 lying atop a dresser.  Marla follows his gaze.
 
                 MARLA
+    Don't worry.  It's not a threat to you.
 </pre>
