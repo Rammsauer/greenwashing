@@ -2956,4 +2956,6 @@ lying atop a dresser.  Marla follows his gaze.
 
                 MARLA
     Don't worry.  It's not a threat to you.
+
+SIRENS and vehicles SCREECHING outside can be HEARD; doors
 </pre>
