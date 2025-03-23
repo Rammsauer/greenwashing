@@ -2962,4 +2962,6 @@ opening and SLAMMING; running FOOTFALLS.
 
                 MARLA
     Oh, no!  Somebody called the cops...
+
+She gets to her feet, grabs Tyler, pulls him out the door.
 </pre>
