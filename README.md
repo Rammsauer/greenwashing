@@ -2969,4 +2969,5 @@ INT. HALLWAY (FLASHBACK)
 
 Marla LOCKS her door, then pulls Tyler toward the STAIRCASE.
 COPS and PARAMEDICS charge up with oxygen and medical kits.
+Marla and Tyler flatten against the wall to let them pass.
 </pre>
