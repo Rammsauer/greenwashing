@@ -2966,4 +2966,6 @@ opening and SLAMMING; running FOOTFALLS.
 She gets to her feet, grabs Tyler, pulls him out the door.
 
 INT. HALLWAY (FLASHBACK)
+
+Marla LOCKS her door, then pulls Tyler toward the STAIRCASE.
 </pre>
