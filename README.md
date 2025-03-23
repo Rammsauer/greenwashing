@@ -2964,4 +2964,6 @@ opening and SLAMMING; running FOOTFALLS.
     Oh, no!  Somebody called the cops...
 
 She gets to her feet, grabs Tyler, pulls him out the door.
+
+INT. HALLWAY (FLASHBACK)
 </pre>
