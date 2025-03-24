@@ -2977,4 +2977,6 @@ Marla and Tyler flatten against the wall to let them pass.
                 MARLA
         (pointing)
     End of the hall.
+
+The rescuers keep running.
 </pre>
