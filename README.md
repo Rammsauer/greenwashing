@@ -2982,4 +2982,5 @@ The rescuers keep running.
 
                 MARLA
         (calling after)
+    The girl who lives there used to be
 </pre>
