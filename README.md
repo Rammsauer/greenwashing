@@ -2985,4 +2985,6 @@ The rescuers keep running.
     The girl who lives there used to be
     a charming, lovely girl, but she's
     lost faith in herself...
+
+                COP
 </pre>
