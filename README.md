@@ -2989,4 +2989,6 @@ The rescuers keep running.
                 COP
     Miss Singer, let us help you!  You
     have every reason to live!
+
+Marla yanks Tyler's arm, heading down the stairs.
 </pre>
