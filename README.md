@@ -2987,4 +2987,5 @@ The rescuers keep running.
     lost faith in herself...
 
                 COP
+    Miss Singer, let us help you!  You
 </pre>
