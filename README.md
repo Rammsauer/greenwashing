@@ -2988,4 +2988,5 @@ The rescuers keep running.
 
                 COP
     Miss Singer, let us help you!  You
+    have every reason to live!
 </pre>
