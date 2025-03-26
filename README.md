@@ -2993,4 +2993,5 @@ The rescuers keep running.
 Marla yanks Tyler's arm, heading down the stairs.
 
                 MARLA
+    She's a monster!  Infectious human
 </pre>
