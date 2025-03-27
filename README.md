@@ -2995,4 +2995,6 @@ Marla yanks Tyler's arm, heading down the stairs.
                 MARLA
     She's a monster!  Infectious human
     waste!  Good luck trying to save her!
+
+INT. KITCHEN - NIGHT (FLASHBACK)
 </pre>
