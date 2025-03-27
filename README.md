@@ -2997,4 +2997,6 @@ Marla yanks Tyler's arm, heading down the stairs.
     waste!  Good luck trying to save her!
 
 INT. KITCHEN - NIGHT (FLASHBACK)
+
+Tyler makes coffee.  Marla slouches against the refrigerator.
 </pre>
