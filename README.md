@@ -3001,4 +3001,5 @@ INT. KITCHEN - NIGHT (FLASHBACK)
 Tyler makes coffee.  Marla slouches against the refrigerator.
 
                 MARLA
+    If I fall asleep, I'm done for.
 </pre>
