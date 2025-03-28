@@ -3006,4 +3006,6 @@ Tyler makes coffee.  Marla slouches against the refrigerator.
     night.
 
 INT. KITCHEN - MORNING (RESUMING)
+
+Tyler chuckles, shakes his head.
 </pre>
