@@ -3004,4 +3004,6 @@ Tyler makes coffee.  Marla slouches against the refrigerator.
     If I fall asleep, I'm done for.
     You're gonna have to keep me up all
     night.
+
+INT. KITCHEN - MORNING (RESUMING)
 </pre>
