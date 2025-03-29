@@ -3018,4 +3018,5 @@ Tyler chuckles, shakes his head.
 Tyler stands across from Jack, gets a cigarette from a pack.
 
                 TYLER
+    I mean, this girl... uh, you're not
 </pre>
