@@ -3014,4 +3014,6 @@ Tyler chuckles, shakes his head.
 
                 JACK (V.O.)
     He was obviously able to handle it.
+
+Tyler stands across from Jack, gets a cigarette from a pack.
 </pre>
