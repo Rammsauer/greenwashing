@@ -3011,4 +3011,6 @@ Tyler chuckles, shakes his head.
 
                 TYLER
     Unbelievable, huh?
+
+                JACK (V.O.)
 </pre>
