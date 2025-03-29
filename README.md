@@ -3013,4 +3013,5 @@ Tyler chuckles, shakes his head.
     Unbelievable, huh?
 
                 JACK (V.O.)
+    He was obviously able to handle it.
 </pre>
