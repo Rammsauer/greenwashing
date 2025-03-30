@@ -3020,4 +3020,6 @@ Tyler stands across from Jack, gets a cigarette from a pack.
                 TYLER
     I mean, this girl... uh, you're not
     into her or anything... ?
+
+                JACK
 </pre>
