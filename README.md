@@ -3023,4 +3023,6 @@ Tyler stands across from Jack, gets a cigarette from a pack.
 
                 JACK
     No.  Not at all.
+
+                JACK (V.O.)
 </pre>
