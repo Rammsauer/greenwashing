@@ -3022,4 +3022,5 @@ Tyler stands across from Jack, gets a cigarette from a pack.
     into her or anything... ?
 
                 JACK
+    No.  Not at all.
 </pre>
