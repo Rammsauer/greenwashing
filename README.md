@@ -3030,4 +3030,5 @@ Tyler stands across from Jack, gets a cigarette from a pack.
 Tyler lights his cigarette.
 
                 TYLER
+    You're sure?
 </pre>
