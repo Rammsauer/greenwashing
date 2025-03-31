@@ -3026,4 +3026,6 @@ Tyler stands across from Jack, gets a cigarette from a pack.
 
                 JACK (V.O.)
     I am Jack's Raging Bile Duct.
+
+Tyler lights his cigarette.
 </pre>
