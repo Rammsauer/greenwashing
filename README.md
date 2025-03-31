@@ -3028,4 +3028,6 @@ Tyler stands across from Jack, gets a cigarette from a pack.
     I am Jack's Raging Bile Duct.
 
 Tyler lights his cigarette.
+
+                TYLER
 </pre>
