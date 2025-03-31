@@ -3033,4 +3033,5 @@ Tyler lights his cigarette.
     You're sure?
 
                 JACK
+    Yeah, I'm sure.
 </pre>
