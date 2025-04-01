@@ -3036,4 +3036,5 @@ Tyler lights his cigarette.
     Yeah, I'm sure.
 
                 TYLER
+    Good.  This chick was up on the table
 </pre>
