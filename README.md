@@ -3039,4 +3039,5 @@ Tyler lights his cigarette.
     Good.  This chick was up on the table
     with her legs in the stirrups before
     the doctor even walked in the room.
+    The things that she said... I've
 </pre>
