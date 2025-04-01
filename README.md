@@ -3041,4 +3041,6 @@ Tyler lights his cigarette.
     the doctor even walked in the room.
     The things that she said... I've
     never heard a woman talk like that...
+
+INT. TYLER'S ROOM - NIGHT (FLASHBACK)
 </pre>
