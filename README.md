@@ -3038,4 +3038,5 @@ Tyler lights his cigarette.
                 TYLER
     Good.  This chick was up on the table
     with her legs in the stirrups before
+    the doctor even walked in the room.
 </pre>
