@@ -3034,4 +3034,6 @@ Tyler lights his cigarette.
 
                 JACK
     Yeah, I'm sure.
+
+                TYLER
 </pre>
