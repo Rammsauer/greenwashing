@@ -3043,4 +3043,6 @@ Tyler lights his cigarette.
     never heard a woman talk like that...
 
 INT. TYLER'S ROOM - NIGHT (FLASHBACK)
+
+Tyler smokes, post-coital.  Marla puts her lips to his ear.
 </pre>
