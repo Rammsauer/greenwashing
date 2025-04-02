@@ -3049,4 +3049,6 @@ Tyler smokes, post-coital.  Marla puts her lips to his ear.
                 MARLA
         (whispering)
     I want to have your abortion.
+
+INT. KITCHEN - MORNING (RESUMING)
 </pre>
