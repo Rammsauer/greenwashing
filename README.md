@@ -3047,4 +3047,5 @@ INT. TYLER'S ROOM - NIGHT (FLASHBACK)
 Tyler smokes, post-coital.  Marla puts her lips to his ear.
 
                 MARLA
+        (whispering)
 </pre>
