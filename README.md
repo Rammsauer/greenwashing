@@ -3057,4 +3057,5 @@ Digest just a little too tight.
 
                 JACK (V.O.)
     How could Tyler not go for that?
+    Night before last, he was splicing
 </pre>
