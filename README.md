@@ -3053,4 +3053,5 @@ Tyler smokes, post-coital.  Marla puts her lips to his ear.
 INT. KITCHEN - MORNING (RESUMING)
 
 Tyler laughs, shakes his head.  Jack's gripping his Reader's
+Digest just a little too tight.
 </pre>
