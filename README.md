@@ -3054,4 +3054,6 @@ INT. KITCHEN - MORNING (RESUMING)
 
 Tyler laughs, shakes his head.  Jack's gripping his Reader's
 Digest just a little too tight.
+
+                JACK (V.O.)
 </pre>
