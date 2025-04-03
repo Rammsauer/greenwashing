@@ -3051,4 +3051,6 @@ Tyler smokes, post-coital.  Marla puts her lips to his ear.
     I want to have your abortion.
 
 INT. KITCHEN - MORNING (RESUMING)
+
+Tyler laughs, shakes his head.  Jack's gripping his Reader's
 </pre>
