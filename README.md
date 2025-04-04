@@ -3064,4 +3064,6 @@ Tyler sits, studies Jack's face.
 
                 TYLER
     You're okay with this?
+
+                JACK
 </pre>
