@@ -3059,4 +3059,6 @@ Digest just a little too tight.
     How could Tyler not go for that?
     Night before last, he was splicing
     sex organs into "Little Mermaid."
+
+Tyler sits, studies Jack's face.
 </pre>
