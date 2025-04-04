@@ -3063,4 +3063,5 @@ Digest just a little too tight.
 Tyler sits, studies Jack's face.
 
                 TYLER
+    You're okay with this?
 </pre>
