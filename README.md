@@ -3070,4 +3070,5 @@ Tyler sits, studies Jack's face.
 
                 JACK (V.O.)
     Put a gun to my head and paint the
+    wall with my brains.
 </pre>
