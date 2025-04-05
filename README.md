@@ -3067,4 +3067,6 @@ Tyler sits, studies Jack's face.
 
                 JACK
     I'm fine.
+
+                JACK (V.O.)
 </pre>
