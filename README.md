@@ -3069,4 +3069,5 @@ Tyler sits, studies Jack's face.
     I'm fine.
 
                 JACK (V.O.)
+    Put a gun to my head and paint the
 </pre>
