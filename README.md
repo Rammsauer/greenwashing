@@ -3073,4 +3073,6 @@ Tyler sits, studies Jack's face.
     wall with my brains.
 
 Tyler smokes.
+
+                TYLER
 </pre>
