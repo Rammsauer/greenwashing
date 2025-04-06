@@ -3082,4 +3082,5 @@ Tyler smokes.
     Oh, and my pace is more librarians.
 
                 TYLER
+    Hey... don't knock librarians.
 </pre>
