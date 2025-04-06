@@ -3075,4 +3075,5 @@ Tyler sits, studies Jack's face.
 Tyler smokes.
 
                 TYLER
+    She is a wild, twisted bitch.  Stay
 </pre>
