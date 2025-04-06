@@ -3077,4 +3077,6 @@ Tyler smokes.
                 TYLER
     She is a wild, twisted bitch.  Stay
     away from that one.
+
+                JACK
 </pre>
