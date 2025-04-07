@@ -3090,4 +3090,5 @@ Tyler smokes.
 
                 TYLER
     She needs an exorcist.  This isn't
+    love.  This is sport-fucking.
 </pre>
