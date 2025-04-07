@@ -3086,4 +3086,5 @@ Tyler smokes.
 
                 JACK
     Marla doesn't need a lover.  She
+    needs a case worker.
 </pre>
