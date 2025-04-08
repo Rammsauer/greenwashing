@@ -3095,4 +3095,6 @@ Tyler smokes.
                 JACK (V.O.)
     She'd invaded my support groups, now
     she's invading my home.
+
+                TYLER
 </pre>
