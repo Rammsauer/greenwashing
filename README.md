@@ -3098,4 +3098,5 @@ Tyler smokes.
 
                 TYLER
     Listen... do me a favor... sit here
+    a minute...
 </pre>
