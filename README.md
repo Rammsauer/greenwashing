@@ -3097,4 +3097,5 @@ Tyler smokes.
     she's invading my home.
 
                 TYLER
+    Listen... do me a favor... sit here
 </pre>
