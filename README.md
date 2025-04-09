@@ -3099,4 +3099,6 @@ Tyler smokes.
                 TYLER
     Listen... do me a favor... sit here
     a minute...
+
+Tyler pulls out a closer chair, motions to it.  Jack puts
 </pre>
