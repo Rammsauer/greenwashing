@@ -3101,4 +3101,5 @@ Tyler smokes.
     a minute...
 
 Tyler pulls out a closer chair, motions to it.  Jack puts
+down his Reader's Digest and moves to that chair.
 </pre>
