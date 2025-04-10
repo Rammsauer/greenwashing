@@ -3108,4 +3108,5 @@ down his Reader's Digest and moves to that chair.
 
                 TYLER
     You've gotta understand something
+    about me.  I have a little rule,
 </pre>
