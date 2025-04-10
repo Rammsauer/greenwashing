@@ -3107,4 +3107,5 @@ down his Reader's Digest and moves to that chair.
     What?
 
                 TYLER
+    You've gotta understand something
 </pre>
