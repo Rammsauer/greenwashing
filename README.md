@@ -3112,4 +3112,6 @@ down his Reader's Digest and moves to that chair.
     okay?  Don't ever talk to her about
     me.  Ever.  I can't stand that kind
     of shit.
+
+Tyler fixes Jack with a friendly, but firm stare.
 </pre>
