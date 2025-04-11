@@ -3121,4 +3121,6 @@ Tyler fixes Jack with a friendly, but firm stare.
     house, to her or anyone -- I will
     find out.  And you'll never see me
     again.  Promise me.
+
+                JACK
 </pre>
