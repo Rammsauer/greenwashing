@@ -3118,4 +3118,5 @@ Tyler fixes Jack with a friendly, but firm stare.
                 TYLER
     If you ever say anything about me or
     about what happens here in this
+    house, to her or anyone -- I will
 </pre>
