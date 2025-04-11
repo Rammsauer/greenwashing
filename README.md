@@ -3114,4 +3114,6 @@ down his Reader's Digest and moves to that chair.
     of shit.
 
 Tyler fixes Jack with a friendly, but firm stare.
+
+                TYLER
 </pre>
