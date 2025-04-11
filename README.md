@@ -3116,4 +3116,5 @@ down his Reader's Digest and moves to that chair.
 Tyler fixes Jack with a friendly, but firm stare.
 
                 TYLER
+    If you ever say anything about me or
 </pre>
