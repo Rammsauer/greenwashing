@@ -3124,4 +3124,6 @@ Tyler fixes Jack with a friendly, but firm stare.
 
                 JACK
     Okay.
+
+                TYLER
 </pre>
