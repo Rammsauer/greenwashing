@@ -3123,4 +3123,5 @@ Tyler fixes Jack with a friendly, but firm stare.
     again.  Promise me.
 
                 JACK
+    Okay.
 </pre>
