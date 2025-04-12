@@ -3129,4 +3129,5 @@ Tyler fixes Jack with a friendly, but firm stare.
     Promise you won't.
 
                 JACK
+    Yes, I promise.
 </pre>
