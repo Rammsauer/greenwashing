@@ -3133,4 +3133,6 @@ Tyler fixes Jack with a friendly, but firm stare.
 
                 TYLER
     Promise?
+
+                JACK
 </pre>
