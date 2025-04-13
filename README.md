@@ -3138,4 +3138,5 @@ Tyler fixes Jack with a friendly, but firm stare.
     I said I promise!
 
                 TYLER
+    That was three times you promised.
 </pre>
