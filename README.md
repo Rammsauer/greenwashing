@@ -3139,4 +3139,6 @@ Tyler fixes Jack with a friendly, but firm stare.
 
                 TYLER
     That was three times you promised.
+
+Tyler smiles, gets up and leaves.  Jack sits smoldering.
 </pre>
