@@ -3143,4 +3143,5 @@ Tyler fixes Jack with a friendly, but firm stare.
 Tyler smiles, gets up and leaves.  Jack sits smoldering.
 
                 JACK (V.O.)
+    If only I had wasted a couple of
 </pre>
