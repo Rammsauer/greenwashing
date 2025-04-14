@@ -3144,4 +3144,5 @@ Tyler smiles, gets up and leaves.  Jack sits smoldering.
 
                 JACK (V.O.)
     If only I had wasted a couple of
+    minutes and gone to watch Marla die,
 </pre>
