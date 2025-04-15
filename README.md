@@ -3150,4 +3150,6 @@ Tyler smiles, gets up and leaves.  Jack sits smoldering.
 INT. LIVING ROOM - NIGHT
 
 Jack watches TV at HIGH VOLUME.  SOUNDS of SEX from upstairs.
+
+INT. JACK'S BEDROOM - NIGHT
 </pre>
