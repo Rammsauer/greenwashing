@@ -3154,4 +3154,5 @@ Jack watches TV at HIGH VOLUME.  SOUNDS of SEX from upstairs.
 INT. JACK'S BEDROOM - NIGHT
 
 Jack lies calmly on his bed, staring at the ceiling.  Sounds
+of THUMPS and CRASHES from beyond the wall.
 </pre>
