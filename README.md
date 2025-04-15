@@ -3148,4 +3148,6 @@ Tyler smiles, gets up and leaves.  Jack sits smoldering.
     none of this would have happened.
 
 INT. LIVING ROOM - NIGHT
+
+Jack watches TV at HIGH VOLUME.  SOUNDS of SEX from upstairs.
 </pre>
