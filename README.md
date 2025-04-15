@@ -3146,4 +3146,6 @@ Tyler smiles, gets up and leaves.  Jack sits smoldering.
     If only I had wasted a couple of
     minutes and gone to watch Marla die,
     none of this would have happened.
+
+INT. LIVING ROOM - NIGHT
 </pre>
