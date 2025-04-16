@@ -3161,4 +3161,5 @@ of THUMPS and CRASHES from beyond the wall.
     Miserable fucking discharge!
 
                 JACK (V.O.)
+    I could've moved to another room, one
 </pre>
