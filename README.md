@@ -3158,4 +3158,5 @@ of THUMPS and CRASHES from beyond the wall.
 
                 MARLA'S VOICE
         (muffled through wall)
+    Miserable fucking discharge!
 </pre>
