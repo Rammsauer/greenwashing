@@ -3162,4 +3162,5 @@ of THUMPS and CRASHES from beyond the wall.
 
                 JACK (V.O.)
     I could've moved to another room, one
+    on the third floor -- so I wouldn't
 </pre>
