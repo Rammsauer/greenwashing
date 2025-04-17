@@ -3166,4 +3166,6 @@ of THUMPS and CRASHES from beyond the wall.
     have heard them.  But I didn't.
 
 INT. BASEMENT - NIGHT
+
+SOUNDS of RAIN.  Jack flips FUSES off, then walks upstairs.
 </pre>
