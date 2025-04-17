@@ -3164,4 +3164,6 @@ of THUMPS and CRASHES from beyond the wall.
     I could've moved to another room, one
     on the third floor -- so I wouldn't
     have heard them.  But I didn't.
+
+INT. BASEMENT - NIGHT
 </pre>
