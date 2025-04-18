@@ -3176,4 +3176,6 @@ landing.  Tyler's door is ajar.  Jack peeks in...
 
 Marla's legs are sprawled on the bed.  The door PUSHES OPEN
 WIDER -- Tyler, naked, stands CLOSE TO CAMERA.
+
+                TYLER
 </pre>
