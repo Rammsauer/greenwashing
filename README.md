@@ -3175,4 +3175,5 @@ Jack walks, HEARS Marla SCREAM in orgasm.  He reaches the
 landing.  Tyler's door is ajar.  Jack peeks in...
 
 Marla's legs are sprawled on the bed.  The door PUSHES OPEN
+WIDER -- Tyler, naked, stands CLOSE TO CAMERA.
 </pre>
