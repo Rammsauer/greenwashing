@@ -3178,4 +3178,5 @@ Marla's legs are sprawled on the bed.  The door PUSHES OPEN
 WIDER -- Tyler, naked, stands CLOSE TO CAMERA.
 
                 TYLER
+    What are you doing?
 </pre>
