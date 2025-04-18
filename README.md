@@ -3170,4 +3170,6 @@ INT. BASEMENT - NIGHT
 SOUNDS of RAIN.  Jack flips FUSES off, then walks upstairs.
 
 INT. 2ND FLOOR LANDING - SAME
+
+Jack walks, HEARS Marla SCREAM in orgasm.  He reaches the
 </pre>
