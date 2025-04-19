@@ -3184,4 +3184,6 @@ Jack steps back.
 
                 JACK
     I... uh... just going to bed.
+
+Tyler scratches his head, wears a RUBBER GLOVE.
 </pre>
