@@ -3183,4 +3183,5 @@ WIDER -- Tyler, naked, stands CLOSE TO CAMERA.
 Jack steps back.
 
                 JACK
+    I... uh... just going to bed.
 </pre>
