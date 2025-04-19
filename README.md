@@ -3181,4 +3181,6 @@ WIDER -- Tyler, naked, stands CLOSE TO CAMERA.
     What are you doing?
 
 Jack steps back.
+
+                JACK
 </pre>
