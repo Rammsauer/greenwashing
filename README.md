@@ -3188,4 +3188,5 @@ Jack steps back.
 Tyler scratches his head, wears a RUBBER GLOVE.
 
                 TYLER
+    You want to finish her off?
 </pre>
