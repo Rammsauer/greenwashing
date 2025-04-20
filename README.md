@@ -3191,4 +3191,5 @@ Tyler scratches his head, wears a RUBBER GLOVE.
     You want to finish her off?
 
                 JACK
+    Uh... nah...
 </pre>
