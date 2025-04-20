@@ -3192,4 +3192,6 @@ Tyler scratches his head, wears a RUBBER GLOVE.
 
                 JACK
     Uh... nah...
+
+Jack continues toward his room.
 </pre>
