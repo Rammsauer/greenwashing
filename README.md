@@ -3198,4 +3198,6 @@ Jack continues toward his room.
 INT. BATHROOM - NIGHT
 
 Jack brushes his teeth.
+
+                JACK (V.O.)
 </pre>
