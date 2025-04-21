@@ -3200,4 +3200,5 @@ INT. BATHROOM - NIGHT
 Jack brushes his teeth.
 
                 JACK (V.O.)
+    I became the calm, little center of
 </pre>
