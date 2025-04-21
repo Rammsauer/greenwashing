@@ -3196,4 +3196,6 @@ Tyler scratches his head, wears a RUBBER GLOVE.
 Jack continues toward his room.
 
 INT. BATHROOM - NIGHT
+
+Jack brushes his teeth.
 </pre>
