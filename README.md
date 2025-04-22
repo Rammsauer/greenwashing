@@ -3202,4 +3202,6 @@ Jack brushes his teeth.
                 JACK (V.O.)
     I became the calm, little center of
     the world.  I was the Zen master.
+
+CLOSE UP - COMPUTER MONITOR
 </pre>
