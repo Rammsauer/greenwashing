@@ -3209,4 +3209,5 @@ Haiku is BEING TYPED in a trendy, italicized font.
 
                 "Worker bees can leave
                 Even drones can fly away
+                The queen is their slave"
 </pre>
