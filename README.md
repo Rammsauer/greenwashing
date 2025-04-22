@@ -3204,4 +3204,6 @@ Jack brushes his teeth.
     the world.  I was the Zen master.
 
 CLOSE UP - COMPUTER MONITOR
+
+Haiku is BEING TYPED in a trendy, italicized font.
 </pre>
