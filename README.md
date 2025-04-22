@@ -3206,4 +3206,6 @@ Jack brushes his teeth.
 CLOSE UP - COMPUTER MONITOR
 
 Haiku is BEING TYPED in a trendy, italicized font.
+
+                "Worker bees can leave
 </pre>
