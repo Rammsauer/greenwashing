@@ -3217,4 +3217,5 @@ Haiku is BEING TYPED in a trendy, italicized font.
 INT. JACK'S OFFICE - DAY
 
 Jack's clothes are PERMANENTLY STAINED with BLOOD.  He sits
+in Zen pose, cigarette in mouth, finishes typing Haiku.
 </pre>
