@@ -3215,4 +3215,6 @@ Haiku is BEING TYPED in a trendy, italicized font.
     I wrote little haiku poems.
 
 INT. JACK'S OFFICE - DAY
+
+Jack's clothes are PERMANENTLY STAINED with BLOOD.  He sits
 </pre>
