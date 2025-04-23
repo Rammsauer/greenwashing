@@ -3212,4 +3212,5 @@ Haiku is BEING TYPED in a trendy, italicized font.
                 The queen is their slave"
 
                 JACK (V.O.)
+    I wrote little haiku poems.
 </pre>
