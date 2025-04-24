@@ -3226,4 +3226,5 @@ He hits "SEND," gets the "ERROR CHIME" SOUND.  He presses
 this key over and over.  Boss enters.
 
                 BOSS
+    Is that your blood?
 </pre>
