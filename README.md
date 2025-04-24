@@ -3224,4 +3224,6 @@ in Zen pose, cigarette in mouth, finishes typing Haiku.
 
 He hits "SEND," gets the "ERROR CHIME" SOUND.  He presses
 this key over and over.  Boss enters.
+
+                BOSS
 </pre>
