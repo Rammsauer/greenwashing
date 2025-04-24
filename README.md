@@ -3220,4 +3220,5 @@ Jack's clothes are PERMANENTLY STAINED with BLOOD.  He sits
 in Zen pose, cigarette in mouth, finishes typing Haiku.
 
                 JACK (V.O.)
+    I faxed them around to everyone.
 </pre>
