@@ -3218,4 +3218,6 @@ INT. JACK'S OFFICE - DAY
 
 Jack's clothes are PERMANENTLY STAINED with BLOOD.  He sits
 in Zen pose, cigarette in mouth, finishes typing Haiku.
+
+                JACK (V.O.)
 </pre>
