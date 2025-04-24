@@ -3221,4 +3221,6 @@ in Zen pose, cigarette in mouth, finishes typing Haiku.
 
                 JACK (V.O.)
     I faxed them around to everyone.
+
+He hits "SEND," gets the "ERROR CHIME" SOUND.  He presses
 </pre>
