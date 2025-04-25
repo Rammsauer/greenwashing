@@ -3230,4 +3230,6 @@ this key over and over.  Boss enters.
 
                 JACK
     Some of it, yes.
+
+Boss stares at Jack like he's from Mars.
 </pre>
