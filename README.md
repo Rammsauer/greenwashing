@@ -3229,4 +3229,5 @@ this key over and over.  Boss enters.
     Is that your blood?
 
                 JACK
+    Some of it, yes.
 </pre>
