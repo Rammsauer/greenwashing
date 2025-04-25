@@ -3234,4 +3234,5 @@ this key over and over.  Boss enters.
 Boss stares at Jack like he's from Mars.
 
                 BOSS
+    Take the rest of the day off.  Come
 </pre>
