@@ -3239,4 +3239,6 @@ Boss stares at Jack like he's from Mars.
     Get yourself together.
 
 INT. HALLWAY - SAME
+
+Jack's leaving, looks like a war casualty, passing COWORKERS
 </pre>
