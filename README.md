@@ -3241,4 +3241,5 @@ Boss stares at Jack like he's from Mars.
 INT. HALLWAY - SAME
 
 Jack's leaving, looks like a war casualty, passing COWORKERS
+who coldly stare at him.  His face is totally passive.
 </pre>
