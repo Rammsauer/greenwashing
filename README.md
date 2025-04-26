@@ -3237,4 +3237,6 @@ Boss stares at Jack like he's from Mars.
     Take the rest of the day off.  Come
     back tomorrow with clean clothes.
     Get yourself together.
+
+INT. HALLWAY - SAME
 </pre>
