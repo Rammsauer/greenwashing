@@ -3236,4 +3236,5 @@ Boss stares at Jack like he's from Mars.
                 BOSS
     Take the rest of the day off.  Come
     back tomorrow with clean clothes.
+    Get yourself together.
 </pre>
