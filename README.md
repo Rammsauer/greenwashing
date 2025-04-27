@@ -3245,4 +3245,5 @@ who coldly stare at him.  His face is totally passive.
 
                 JACK (V.O.)
     I got right in everyone's hostile
+    little face.  Yes, these are bruises
 </pre>
