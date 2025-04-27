@@ -3247,4 +3247,5 @@ who coldly stare at him.  His face is totally passive.
     I got right in everyone's hostile
     little face.  Yes, these are bruises
     from fighting.  I'm comfortable with
+    them.  I am enlightened.
 </pre>
