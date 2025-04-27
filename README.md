@@ -3248,4 +3248,6 @@ who coldly stare at him.  His face is totally passive.
     little face.  Yes, these are bruises
     from fighting.  I'm comfortable with
     them.  I am enlightened.
+
+EXT. PAPER STREET - SUNSET
 </pre>
