@@ -3257,4 +3257,5 @@ Jack walks toward the HOUSE.
     You give up the condo life, give up
     all your flaming worldly possessions,
     go live in a dilapidated house in the
+    toxic waste part of town...
 </pre>
