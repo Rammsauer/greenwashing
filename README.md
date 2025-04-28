@@ -3252,4 +3252,6 @@ who coldly stare at him.  His face is totally passive.
 EXT. PAPER STREET - SUNSET
 
 Jack walks toward the HOUSE.
+
+                JACK (V.O.)
 </pre>
