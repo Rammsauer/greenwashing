@@ -3254,4 +3254,5 @@ EXT. PAPER STREET - SUNSET
 Jack walks toward the HOUSE.
 
                 JACK (V.O.)
+    You give up the condo life, give up
 </pre>
