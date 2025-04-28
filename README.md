@@ -3250,4 +3250,6 @@ who coldly stare at him.  His face is totally passive.
     them.  I am enlightened.
 
 EXT. PAPER STREET - SUNSET
+
+Jack walks toward the HOUSE.
 </pre>
