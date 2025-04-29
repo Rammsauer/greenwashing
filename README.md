@@ -3260,4 +3260,6 @@ Jack walks toward the HOUSE.
     toxic waste part of town...
 
 INT. TYLER'S KITCHEN - SUNSET
+
+Jack walks in.  SOUNDS of VIOLENT SEX and a POLAROID CAMERA
 </pre>
