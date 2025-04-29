@@ -3263,4 +3263,6 @@ INT. TYLER'S KITCHEN - SUNSET
 
 Jack walks in.  SOUNDS of VIOLENT SEX and a POLAROID CAMERA
 from upstairs.  Pieces of PLASTER fall from the ceiling.
+
+                JACK (V.O.)
 </pre>
