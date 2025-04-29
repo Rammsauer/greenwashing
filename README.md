@@ -3258,4 +3258,6 @@ Jack walks toward the HOUSE.
     all your flaming worldly possessions,
     go live in a dilapidated house in the
     toxic waste part of town...
+
+INT. TYLER'S KITCHEN - SUNSET
 </pre>
