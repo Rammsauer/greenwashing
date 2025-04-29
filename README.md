@@ -3262,4 +3262,5 @@ Jack walks toward the HOUSE.
 INT. TYLER'S KITCHEN - SUNSET
 
 Jack walks in.  SOUNDS of VIOLENT SEX and a POLAROID CAMERA
+from upstairs.  Pieces of PLASTER fall from the ceiling.
 </pre>
