@@ -3268,4 +3268,5 @@ from upstairs.  Pieces of PLASTER fall from the ceiling.
     ... and you come home to this.
 
                 TYLER'S VOICE
+        (laughing)
 </pre>
