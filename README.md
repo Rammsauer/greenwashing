@@ -3266,4 +3266,6 @@ from upstairs.  Pieces of PLASTER fall from the ceiling.
 
                 JACK (V.O.)
     ... and you come home to this.
+
+                TYLER'S VOICE
 </pre>
