@@ -3281,4 +3281,6 @@ stains.  The PHONE RINGS.  He answers it.
 
                 JACK
     Yeah.  Speaking.
+
+INTERCUT WITH...
 </pre>
