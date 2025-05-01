@@ -3280,4 +3280,5 @@ the sink, finds a tiny bit of SOAP and scrubs at the blood
 stains.  The PHONE RINGS.  He answers it.
 
                 JACK
+    Yeah.  Speaking.
 </pre>
