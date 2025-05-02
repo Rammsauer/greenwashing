@@ -3287,4 +3287,6 @@ INTERCUT WITH...
 INT. POLICE STATION - OFFICE
 
 A cop, DETECTIVE STERN, refers to a file.
+
+                DETECTIVE STERN
 </pre>
