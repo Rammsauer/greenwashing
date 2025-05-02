@@ -3289,4 +3289,5 @@ INT. POLICE STATION - OFFICE
 A cop, DETECTIVE STERN, refers to a file.
 
                 DETECTIVE STERN
+    This is Detective Stern with the
 </pre>
