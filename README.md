@@ -3285,4 +3285,6 @@ stains.  The PHONE RINGS.  He answers it.
 INTERCUT WITH...
 
 INT. POLICE STATION - OFFICE
+
+A cop, DETECTIVE STERN, refers to a file.
 </pre>
