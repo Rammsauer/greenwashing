@@ -3290,4 +3290,5 @@ A cop, DETECTIVE STERN, refers to a file.
 
                 DETECTIVE STERN
     This is Detective Stern with the
+    arson unit.  We have some new
 </pre>
