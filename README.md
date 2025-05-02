@@ -3283,4 +3283,6 @@ stains.  The PHONE RINGS.  He answers it.
     Yeah.  Speaking.
 
 INTERCUT WITH...
+
+INT. POLICE STATION - OFFICE
 </pre>
