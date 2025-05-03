@@ -3295,4 +3295,5 @@ A cop, DETECTIVE STERN, refers to a file.
     your condo.
 
                 JACK
+    Yes?
 </pre>
