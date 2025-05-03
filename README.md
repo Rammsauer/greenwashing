@@ -3296,4 +3296,6 @@ A cop, DETECTIVE STERN, refers to a file.
 
                 JACK
     Yes?
+
+                DETECTIVE STERN
 </pre>
