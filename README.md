@@ -3298,4 +3298,5 @@ A cop, DETECTIVE STERN, refers to a file.
     Yes?
 
                 DETECTIVE STERN
+    I don't know if you're aware... your
 </pre>
