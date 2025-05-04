@@ -3303,4 +3303,6 @@ A cop, DETECTIVE STERN, refers to a file.
     sprayed freon into the lock, then
     tapped it with a chisel to shatter
     the cylinder.
+
+                JACK
 </pre>
