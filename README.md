@@ -3302,4 +3302,5 @@ A cop, DETECTIVE STERN, refers to a file.
     front door -- it seems someone
     sprayed freon into the lock, then
     tapped it with a chisel to shatter
+    the cylinder.
 </pre>
