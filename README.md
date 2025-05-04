@@ -3299,4 +3299,5 @@ A cop, DETECTIVE STERN, refers to a file.
 
                 DETECTIVE STERN
     I don't know if you're aware... your
+    front door -- it seems someone
 </pre>
