@@ -3305,4 +3305,5 @@ A cop, DETECTIVE STERN, refers to a file.
     the cylinder.
 
                 JACK
+    No, I wasn't aware...
 </pre>
