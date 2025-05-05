@@ -3311,4 +3311,5 @@ A cop, DETECTIVE STERN, refers to a file.
     I am Jack's Cold Sweat.
 
                 DETECTIVE STERN
+    Does this sound strange to you?
 </pre>
