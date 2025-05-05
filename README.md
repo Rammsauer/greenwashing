@@ -3308,4 +3308,5 @@ A cop, DETECTIVE STERN, refers to a file.
     No, I wasn't aware...
 
                 JACK (V.O.)
+    I am Jack's Cold Sweat.
 </pre>
