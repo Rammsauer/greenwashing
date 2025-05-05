@@ -3306,4 +3306,6 @@ A cop, DETECTIVE STERN, refers to a file.
 
                 JACK
     No, I wasn't aware...
+
+                JACK (V.O.)
 </pre>
