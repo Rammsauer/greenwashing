@@ -3319,4 +3319,5 @@ A cop, DETECTIVE STERN, refers to a file.
 Jack starts to sweat, scrubs his pants obsessively.
 
                 DETECTIVE STERN
+    The dynamite...
 </pre>
