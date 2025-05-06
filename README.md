@@ -3317,4 +3317,6 @@ A cop, DETECTIVE STERN, refers to a file.
     Yes, sire, strange.  Very strange.
 
 Jack starts to sweat, scrubs his pants obsessively.
+
+                DETECTIVE STERN
 </pre>
