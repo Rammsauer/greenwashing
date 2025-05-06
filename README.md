@@ -3322,4 +3322,5 @@ Jack starts to sweat, scrubs his pants obsessively.
     The dynamite...
 
                 JACK
+    Dynamite?
 </pre>
