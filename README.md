@@ -3328,4 +3328,6 @@ Jack starts to sweat, scrubs his pants obsessively.
     Yes.  It left a residue of ammonium
     oxalate and potassium perchloride.
     Do you know what that means?
+
+                JACK
 </pre>
