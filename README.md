@@ -3330,4 +3330,5 @@ Jack starts to sweat, scrubs his pants obsessively.
     Do you know what that means?
 
                 JACK
+    What does that mean?
 </pre>
