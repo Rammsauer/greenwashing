@@ -3325,4 +3325,5 @@ Jack starts to sweat, scrubs his pants obsessively.
     Dynamite?
 
                 DETECTIVE STERN
+    Yes.  It left a residue of ammonium
 </pre>
