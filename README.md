@@ -3323,4 +3323,6 @@ Jack starts to sweat, scrubs his pants obsessively.
 
                 JACK
     Dynamite?
+
+                DETECTIVE STERN
 </pre>
