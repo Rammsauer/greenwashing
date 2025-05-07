@@ -3327,4 +3327,5 @@ Jack starts to sweat, scrubs his pants obsessively.
                 DETECTIVE STERN
     Yes.  It left a residue of ammonium
     oxalate and potassium perchloride.
+    Do you know what that means?
 </pre>
