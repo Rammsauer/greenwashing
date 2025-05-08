@@ -3333,4 +3333,5 @@ Jack starts to sweat, scrubs his pants obsessively.
     What does that mean?
 
                 DETECTIVE STERN
+    It means it was homemade.
 </pre>
