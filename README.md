@@ -3331,4 +3331,6 @@ Jack starts to sweat, scrubs his pants obsessively.
 
                 JACK
     What does that mean?
+
+                DETECTIVE STERN
 </pre>
