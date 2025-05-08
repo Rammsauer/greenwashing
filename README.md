@@ -3337,4 +3337,6 @@ Jack starts to sweat, scrubs his pants obsessively.
 
                 JACK
     This is... really a shock...
+
+                DETECTIVE STERN
 </pre>
