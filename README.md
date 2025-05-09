@@ -3339,4 +3339,5 @@ Jack starts to sweat, scrubs his pants obsessively.
     This is... really a shock...
 
                 DETECTIVE STERN
+    Whoever set this homemade dynamite
 </pre>
