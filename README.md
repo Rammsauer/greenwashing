@@ -3345,4 +3345,5 @@ Jack starts to sweat, scrubs his pants obsessively.
     it seems, was just a detonator.
 
                 JACK
+    Who do you think could've done this?
 </pre>
