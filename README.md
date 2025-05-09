@@ -3342,4 +3342,5 @@ Jack starts to sweat, scrubs his pants obsessively.
     Whoever set this homemade dynamite
     could've blown out the pilot light
     days before the explosion.  The gas,
+    it seems, was just a detonator.
 </pre>
