@@ -3343,4 +3343,6 @@ Jack starts to sweat, scrubs his pants obsessively.
     could've blown out the pilot light
     days before the explosion.  The gas,
     it seems, was just a detonator.
+
+                JACK
 </pre>
