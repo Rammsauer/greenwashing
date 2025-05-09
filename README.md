@@ -3340,4 +3340,5 @@ Jack starts to sweat, scrubs his pants obsessively.
 
                 DETECTIVE STERN
     Whoever set this homemade dynamite
+    could've blown out the pilot light
 </pre>
