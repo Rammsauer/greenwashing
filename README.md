@@ -3352,4 +3352,5 @@ Jack starts to sweat, scrubs his pants obsessively.
 
                 TYLER
         (whispering in Jack's ear)
+    Tell him...
 </pre>
