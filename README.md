@@ -3351,4 +3351,5 @@ Jack starts to sweat, scrubs his pants obsessively.
     I'll ask the questions, son.
 
                 TYLER
+        (whispering in Jack's ear)
 </pre>
