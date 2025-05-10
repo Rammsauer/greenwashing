@@ -3346,4 +3346,6 @@ Jack starts to sweat, scrubs his pants obsessively.
 
                 JACK
     Who do you think could've done this?
+
+                DETECTIVE STERN
 </pre>
