@@ -3348,4 +3348,5 @@ Jack starts to sweat, scrubs his pants obsessively.
     Who do you think could've done this?
 
                 DETECTIVE STERN
+    I'll ask the questions, son.
 </pre>
