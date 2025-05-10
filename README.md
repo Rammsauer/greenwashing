@@ -3349,4 +3349,6 @@ Jack starts to sweat, scrubs his pants obsessively.
 
                 DETECTIVE STERN
     I'll ask the questions, son.
+
+                TYLER
 </pre>
