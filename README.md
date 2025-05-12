@@ -3364,4 +3364,5 @@ standing right next to him.
         (overlap w/below)
     "The liberator who destroyed my
     property has re-aligned my paradigm
+    of perception."
 </pre>
