@@ -3368,4 +3368,5 @@ standing right next to him.
 
                 JACK
     Shhhhhh!
+        (into phone,
 </pre>
