@@ -3367,4 +3367,5 @@ standing right next to him.
     of perception."
 
                 JACK
+    Shhhhhh!
 </pre>
