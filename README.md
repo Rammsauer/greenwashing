@@ -3365,4 +3365,6 @@ standing right next to him.
     "The liberator who destroyed my
     property has re-aligned my paradigm
     of perception."
+
+                JACK
 </pre>
