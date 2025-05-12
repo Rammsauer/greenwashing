@@ -3369,4 +3369,5 @@ standing right next to him.
                 JACK
     Shhhhhh!
         (into phone,
+        overlap w/above)
 </pre>
