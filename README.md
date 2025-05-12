@@ -3363,4 +3363,5 @@ standing right next to him.
                 TYLER
         (overlap w/below)
     "The liberator who destroyed my
+    property has re-aligned my paradigm
 </pre>
