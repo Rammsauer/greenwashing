@@ -3372,4 +3372,6 @@ standing right next to him.
         overlap w/above)
     I don't know what to make of this,
     sir, I really don't...
+
+                DETECTIVE STERN
 </pre>
