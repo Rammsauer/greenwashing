@@ -3375,4 +3375,5 @@ standing right next to him.
 
                 DETECTIVE STERN
     Do you know anyone who'd have the
+    expertise or motive to do something
 </pre>
