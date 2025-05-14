@@ -3382,4 +3382,6 @@ standing right next to him.
     "I reject the basic assumptions of
     civilization, including material
     possession."
+
+Jack pushes Tyler away, cups the receiving.
 </pre>
