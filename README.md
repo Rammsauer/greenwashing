@@ -3379,4 +3379,5 @@ standing right next to him.
     like this?
 
                 TYLER
+    "I reject the basic assumptions of
 </pre>
