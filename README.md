@@ -3380,4 +3380,5 @@ standing right next to him.
 
                 TYLER
     "I reject the basic assumptions of
+    civilization, including material
 </pre>
