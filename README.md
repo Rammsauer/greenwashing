@@ -3388,4 +3388,5 @@ Jack pushes Tyler away, cups the receiving.
                 JACK
         (into phone)
     No.  No, sir.  I loved that condo.
+    I loved every stick of furniture.
 </pre>
