@@ -3391,4 +3391,5 @@ Jack pushes Tyler away, cups the receiving.
     I loved every stick of furniture.
     The lamps, the chairs, the rugs, were
     me.  The dishes were me.  The plants
+    were...
 </pre>
