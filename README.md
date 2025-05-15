@@ -3390,4 +3390,5 @@ Jack pushes Tyler away, cups the receiving.
     No.  No, sir.  I loved that condo.
     I loved every stick of furniture.
     The lamps, the chairs, the rugs, were
+    me.  The dishes were me.  The plants
 </pre>
