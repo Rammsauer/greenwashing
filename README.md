@@ -3392,4 +3392,6 @@ Jack pushes Tyler away, cups the receiving.
     The lamps, the chairs, the rugs, were
     me.  The dishes were me.  The plants
     were...
+
+                JACK (V.O.)
 </pre>
