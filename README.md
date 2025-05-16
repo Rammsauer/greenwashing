@@ -3399,4 +3399,5 @@ Jack pushes Tyler away, cups the receiving.
                 DETECTIVE STERN
     Well, if any ideas come to you, give
     me a call.  In the meantime, don't
+    leave town.  I may need to bring you
 </pre>
