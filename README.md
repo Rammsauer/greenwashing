@@ -3397,4 +3397,5 @@ Jack pushes Tyler away, cups the receiving.
     I'd like to thank the academy...
 
                 DETECTIVE STERN
+    Well, if any ideas come to you, give
 </pre>
