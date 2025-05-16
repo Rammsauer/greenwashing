@@ -3401,4 +3401,6 @@ Jack pushes Tyler away, cups the receiving.
     me a call.  In the meantime, don't
     leave town.  I may need to bring you
     in for questioning.
+
+END INTERCUT
 </pre>
