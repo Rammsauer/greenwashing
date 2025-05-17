@@ -3405,4 +3405,6 @@ Jack pushes Tyler away, cups the receiving.
 END INTERCUT
 
 Jack hangs up.  Tyler shrugs.
+
+                TYLER
 </pre>
