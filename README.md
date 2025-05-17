@@ -3409,4 +3409,5 @@ Jack hangs up.  Tyler shrugs.
                 TYLER
     Could be worse.  You could be cursed
     with the three terrible Karmas.  You
+    could be beautiful, rich and famous.
 </pre>
