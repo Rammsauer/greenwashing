@@ -3407,4 +3407,5 @@ END INTERCUT
 Jack hangs up.  Tyler shrugs.
 
                 TYLER
+    Could be worse.  You could be cursed
 </pre>
