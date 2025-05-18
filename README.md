@@ -3410,4 +3410,6 @@ Jack hangs up.  Tyler shrugs.
     Could be worse.  You could be cursed
     with the three terrible Karmas.  You
     could be beautiful, rich and famous.
+
+Jack turns away, continues to scrub his pants.  Marla's
 </pre>
