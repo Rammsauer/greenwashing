@@ -3417,4 +3417,6 @@ FOOTSTEPS can be HEARD coming downstairs...
 Jack really grinds the soap against the pants, splashing
 water.  He turns, sees Marla enter.  Tyler is GONE.  Marla
 lights a cigarette.
+
+                JACK (V.O.)
 </pre>
