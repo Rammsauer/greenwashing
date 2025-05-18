@@ -3413,4 +3413,6 @@ Jack hangs up.  Tyler shrugs.
 
 Jack turns away, continues to scrub his pants.  Marla's
 FOOTSTEPS can be HEARD coming downstairs...
+
+Jack really grinds the soap against the pants, splashing
 </pre>
