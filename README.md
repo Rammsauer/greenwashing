@@ -3412,4 +3412,5 @@ Jack hangs up.  Tyler shrugs.
     could be beautiful, rich and famous.
 
 Jack turns away, continues to scrub his pants.  Marla's
+FOOTSTEPS can be HEARD coming downstairs...
 </pre>
