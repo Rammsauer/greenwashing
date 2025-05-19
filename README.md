@@ -3419,4 +3419,5 @@ water.  He turns, sees Marla enter.  Tyler is GONE.  Marla
 lights a cigarette.
 
                 JACK (V.O.)
+    Except for their humping, Tyler and
 </pre>
