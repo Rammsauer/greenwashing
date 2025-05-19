@@ -3423,4 +3423,5 @@ lights a cigarette.
     Marla were never in the same room.
 
                 MARLA
+    I got this dress at a thrift store
 </pre>
