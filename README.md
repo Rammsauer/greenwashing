@@ -3429,4 +3429,6 @@ lights a cigarette.
                 JACK
         (keeps scrubbing)
     Worth every penny.
+
+                JACK (V.O.)
 </pre>
