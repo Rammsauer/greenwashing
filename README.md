@@ -3427,4 +3427,5 @@ lights a cigarette.
     for one dollar.
 
                 JACK
+        (keeps scrubbing)
 </pre>
