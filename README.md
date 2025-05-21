@@ -3436,4 +3436,5 @@ lights a cigarette.
     disappeared.
 
 Marla begins a slow, exotic dance, moving very close to
+Jack.  She lifts her dress dangerously high, dancing close
 </pre>
