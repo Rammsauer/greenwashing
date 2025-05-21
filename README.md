@@ -1,9 +1,9 @@
 <pre>
 SCREEN BLACK
 
-                JACK (V.O.)
-    People were always asking me, did I
-    know Tyler Durden.
+				 JACK (V.O.)
+	 People were always asking me, did I
+	 know Tyler Durden.
 
 FADE IN:
 
@@ -17,73 +17,73 @@ They are both sweating and disheveled, both around 30; Tyler
 is blond, handsome; and Jack, brunette, is appealing in a
 dry sort of way.  Tyler looks at his watch.
 
-                TYLER
-    One minute.
-        (looking out window)
-    This is the beginning.  We're at
-    ground zero.  Maybe you should say a
-    few words, to mark the occasion.
+				 TYLER
+	 One minute.
+		   (looking out window)
+	 This is the beginning.  We're at
+	 ground zero.  Maybe you should say a
+	 few words, to mark the occasion.
 
-                JACK
-    ... i... ann....iinn.. ff....nnyin...
+				 JACK
+	 ... i... ann....iinn.. ff....nnyin...
 
-                JACK (V.O.)
-    With a gun barrel between your teeth,
-    you only speak in vowels.
+				 JACK (V.O.)
+	 With a gun barrel between your teeth,
+	 you only speak in vowels.
 
 Jack tongues the barrel to the side of his mouth.
 
-                JACK
-        (still distorted)
-    I can't think of anything.
+				 JACK
+		   (still distorted)
+	 I can't think of anything.
 
-                JACK (V.O.)
-    With my tongue, I can feel the
-    rifling in the barrel.  For a second,
-    I totally forgot about Tyler's whole
-    controlled demolition thing and I
-    wondered how clean this gun is.
+				 JACK (V.O.)
+	 With my tongue, I can feel the
+	 rifling in the barrel.  For a second,
+	 I totally forgot about Tyler's whole
+	 controlled demolition thing and I
+	 wondered how clean this gun is.
 
 Tyler checks his watch.
 
-                TYLER
-    It's getting exciting now.
+				 TYLER
+	 It's getting exciting now.
 
-                JACK (V.O.)
-    That old saying, how you always hurt
-    the one you love, well, it works both
-    way.
+				 JACK (V.O.)
+	 That old saying, how you always hurt
+	 the one you love, well, it works both
+	 way.
 
 Jack turns so that he can see down -- 31 STORIES.
 
-                JACK (V.O.)
-    We have front row seats for this
-    Theater of Mass Destruction.  The
-    Demolitions Committee of Project
-    Mayhem wrapped the foundation columns
-    of ten buildings with blasting
-    gelatin.  In two minutes, primary
-    charges will blow base charges, and
-    those buildings will be reduced to
-    smoldering rubble.  I know this
-    because Tyler knows this.
+				 JACK (V.O.)
+	 We have front row seats for this
+	 Theater of Mass Destruction.  The
+	 Demolitions Committee of Project
+	 Mayhem wrapped the foundation columns
+	 of ten buildings with blasting
+	 gelatin.  In two minutes, primary
+	 charges will blow base charges, and
+	 those buildings will be reduced to
+	 smoldering rubble.  I know this
+	 because Tyler knows this.
 
-                TYLER
-    Look what we've accomplised.
-        (checks watch)
-    Thirty seconds.
+				 TYLER
+	 Look what we've accomplised.
+		   (checks watch)
+	 Thirty seconds.
 
-                JACK (V.O.)
-    Somehow, I realize all of this -- the
-    gun, the bombs, the revolution -- is
-    really about Marla Singer.
+				 JACK (V.O.)
+	 Somehow, I realize all of this -- the
+	 gun, the bombs, the revolution -- is
+	 really about Marla Singer.
 
 PULL BACK from Jack's face.  It's pressed against TWO LARGE
 BREASTS that belong to...BOB, 45, a moose of a man.  Jack is
 engulfed by Bob in an intense embrace.  Bob weeps openly.
 
-                JACK (V.O.)
-    Bob had bitch tits.
+				 JACK (V.O.)
+	 Bob had bitch tits.
 
 PULL BACK to wide on...
 
@@ -92,57 +92,57 @@ INT. CHURCH MEETING ROOM - NIGHT
 Men are paired off, hugging, talking in emotional tones.
 Near the door, a SIGN on a stand: "REMAINING MEN TOGETHER."
 
-                JACK (V.O.)
-    This was a support group for men with
-    testicular cancer.  The big moosie
-    slobbering all over me was Bob.
+				 JACK (V.O.)
+	 This was a support group for men with
+	 testicular cancer.  The big moosie
+	 slobbering all over me was Bob.
 
-                BOB
-    We're still men.
+				 BOB
+	 We're still men.
 
-                JACK
-    Yes.  We're men.  Men is what we are.
+				 JACK
+	 Yes.  We're men.  Men is what we are.
 
-                JACK (V.O.)
-    Six months ago, Bob's testicles were
-    removed.  Then hormone therapy.  He
-    developed bitch tits because his
-    testosterone was too high and his
-    body upped the estrogen.  That was
-    where my head fit -- into his huge,
-    sweating tits that hung enormous, the
-    way we think of God's as big.
+				 JACK (V.O.)
+	 Six months ago, Bob's testicles were
+	 removed.  Then hormone therapy.  He
+	 developed bitch tits because his
+	 testosterone was too high and his
+	 body upped the estrogen.  That was
+	 where my head fit -- into his huge,
+	 sweating tits that hung enormous, the
+	 way we think of God's as big.
 
-                BOB
-    They're gonna have to open my pec's
-    again to drain the fluid.
+				 BOB
+	 They're gonna have to open my pec's
+	 again to drain the fluid.
 
 Bob hugs tighter; then looks with empathy into Jack's eyes.
 
-                BOB
-    Okay.  You cry now.
+				 BOB
+	 Okay.  You cry now.
 
 Jack looks at Bob.
 
-                JACK (V.O.)
-    Wait.  Back up.  Let me start earlier.
+				 JACK (V.O.)
+	 Wait.  Back up.  Let me start earlier.
 
 INT. JACK'S BEDROOM - NIGHT
 
 Jack lies in bed, staring at the ceiling.
 
-                JACK (V.O.)
-    For six months.  I could not sleep.
+				 JACK (V.O.)
+	 For six months.  I could not sleep.
 
 INT. COPY ROOM - DAY
 
 Jack, sleepy, stands over a copy machine.  His Starbucks cup
 sits on the lid, moving back and forth as the machine copies.
 
-                JACK (V.O.)
-    With insomnia, nothing is real.
-    Everything is far away.  Everything
-    is a copy of a copy of a copy.
+				 JACK (V.O.)
+	 With insomnia, nothing is real.
+	 Everything is far away.  Everything
+	 is a copy of a copy of a copy.
 
 Other people make copies, all with Starbucks cups, sipping.
 Jack picks up his cup and his copies and leaves.
@@ -152,43 +152,43 @@ INT. JACK'S OFFICE - SAME
 Jack, sipping, stares blankly at a Starbucks bag on the
 floor, full of newspapers and FAST FOOD GARBAGE.
 
-                JACK (V.O.)
-    When deep space exploration ramps up,
-    it will be corporations that name
-    everything.  The IBM Stellar Sphere.
-    The Philip Morris Galaxy.  Planet
-    Starbucks.
+				 JACK (V.O.)
+	 When deep space exploration ramps up,
+	 it will be corporations that name
+	 everything.  The IBM Stellar Sphere.
+	 The Philip Morris Galaxy.  Planet
+	 Starbucks.
 
 Jack looks up as a pudgy man, Jack's BOSS, enters, Starbucks
 cup in hand, and slides a stack of reports on Jack's desk.
 
-                BOSS
-    I'm going to need you out-of-town a
-    little more this week.  We've got
-    some "red-flags" to cover.
+				 BOSS
+	 I'm going to need you out-of-town a
+	 little more this week.  We've got
+	 some "red-flags" to cover.
 
-                JACK (V.O.)
-    It must've been Tuesday.  he was
-    wearing his "cornflower-blue" tie.
+				 JACK (V.O.)
+	 It must've been Tuesday.  he was
+	 wearing his "cornflower-blue" tie.
 
-                JACK
-        (listless management speak)
-    You want me to de-prioritize my
-    current reports until you advise of
-    a status upgrade?
+				 JACK
+		   (listless management speak)
+	 You want me to de-prioritize my
+	 current reports until you advise of
+	 a status upgrade?
 
-                BOSS
-    You need to make these your primary
-    "action items."
+				 BOSS
+	 You need to make these your primary
+	 "action items."
 
-                JACK (V.O.)
-    He was full of pep.  Must've had his
-    grande latte enema.
+				 JACK (V.O.)
+	 He was full of pep.  Must've had his
+	 grande latte enema.
 
-                BOSS
-    Here are your flight coupons.  Call
-    me from the road if there are any
-    snags.  Your itinerary...
+				 BOSS
+	 Here are your flight coupons.  Call
+	 me from the road if there are any
+	 snags.  Your itinerary...
 
 Jack hides a yawn, pretends to listen.
 
@@ -198,70 +198,70 @@ Jack sits on the toilet, CORDLESS PHONE to his ear, flips
 through an IKEA catalog.  There's a stack of old Playboy
 magazines and other catalogs nearby.
 
-                JACK (V.O.)
-    Like everyone else, I had become a
-    slave to the IKEA nesting instinct.
+				 JACK (V.O.)
+	 Like everyone else, I had become a
+	 slave to the IKEA nesting instinct.
 
-                JACK
-        (into phone)
-    Yes.  I'd like to order the Erika
-    Pekkari slip covers.
+				 JACK
+		   (into phone)
+	 Yes.  I'd like to order the Erika
+	 Pekkari slip covers.
 
 Jack drops the open catalog on the floor.
 
 MOVE IN ON CATALOG -- ON PHOTO of COFFEETABLE SET...
 
-                JACK (V.O.)
-    If I saw something like clever coffee
-    table sin the shape of a yin and
-    yang, I had to have it.
+				 JACK (V.O.)
+	 If I saw something like clever coffee
+	 table sin the shape of a yin and
+	 yang, I had to have it.
 
 PAN TO PHOTO of ARMCHAIR...
 
-                JACK (V.O.)
-    Like the Johanneshov armchair in the
-    Strinne green stripe pattern...
+				 JACK (V.O.)
+	 Like the Johanneshov armchair in the
+	 Strinne green stripe pattern...
 
 INT. LIVING ROOM/DINING AREA/KITCHEN
 
 The armchair APPEARS.  PAN OVER next to armchair...
 
-                JACK (V.O.)
-    Or the Rislampa wire lamps of
-    environmentally-friendly unbleached
-    paper.
+				 JACK (V.O.)
+	 Or the Rislampa wire lamps of
+	 environmentally-friendly unbleached
+	 paper.
 
 The lamps APPEAR.  PAN OVER to wall...
 
-                JACK (V.O.)
-    Even the Vild hall clock of
-    galvanized steel, resting on the
-    Klipsk shelving unit.
+				 JACK (V.O.)
+	 Even the Vild hall clock of
+	 galvanized steel, resting on the
+	 Klipsk shelving unit.
 
 The clock APPEARS as the shelving unit APPEARS on the wall.
 
-                JACK (V.O.)
-    I would flip through catalogs and
-    wonder, "What kind of dining set
-    defines me as a person?"  We used to
-    read pornography.  Now it was the
-    Horchow Collection.
+				 JACK (V.O.)
+	 I would flip through catalogs and
+	 wonder, "What kind of dining set
+	 defines me as a person?"  We used to
+	 read pornography.  Now it was the
+	 Horchow Collection.
 
 A dining room set APPEARS.  Jack, the cordless phone still
 glued to his ear, walks INTO FRAME and continues.
 
-                JACK
-    No, I don't want Cobalt.  Oh, that
-    sounds nice.  Apricot.
+				 JACK
+	 No, I don't want Cobalt.  Oh, that
+	 sounds nice.  Apricot.
 
 Jack opens a cabinet, takes out a plate.
 
-                JACK (V.O.)
-    I had it all.  Even the glass dishes
-    with tiny bubbles and imperfections,
-    proof they were crafted by the
-    honest, simple, hard-working
-    indigenous peoples of wherever.
+				 JACK (V.O.)
+	 I had it all.  Even the glass dishes
+	 with tiny bubbles and imperfections,
+	 proof they were crafted by the
+	 honest, simple, hard-working
+	 indigenous peoples of wherever.
 
 He rummages through the refrigerator.  It's practically
 empty.  Jack takes out a jar of mustard, opens it and uses
@@ -272,28 +272,28 @@ INT. DOCTOR'S OFFICE - DAY
 Jack, eyes puffy, face pale, sits before an INTERN, who
 studies him with bemusement.
 
-                INTERN
-    No, you can't die of insomnia.
+				 INTERN
+	 No, you can't die of insomnia.
 
-                JACK
-    Maybe I died already.  Look at my
-    face.
+				 JACK
+	 Maybe I died already.  Look at my
+	 face.
 
-                INTERN
-    You need to lighten up.
+				 INTERN
+	 You need to lighten up.
 
-                JACK
-    Can't you give me something?
+				 JACK
+	 Can't you give me something?
 
-                JACK (V.O.)
-    Red-and-blue Tuinal, lipstick-red
-    Seconals.
+				 JACK (V.O.)
+	 Red-and-blue Tuinal, lipstick-red
+	 Seconals.
 
-                INTERN
-        (overlapping w/ above)
-    You need healthy, natural sleep.
-    Chew valerian root and get some more
-    exercise.
+				 INTERN
+		   (overlapping w/ above)
+	 You need healthy, natural sleep.
+	 Chew valerian root and get some more
+	 exercise.
 
 The Intern ushes Jack to the door.  They step into the...
 
@@ -301,15 +301,15 @@ INT. HALLWAY
 
 The Intern walks away from Jack, picks up a chart.
 
-                JACK
-    I'm in pain.
+				 JACK
+	 I'm in pain.
 
-                INTERN
-        (facetious)
-    You want to see pain?  Swing by First
-    Methodist Tuesday nights.  See the
-    guys with testicular cancer.  That's
-    pain.
+				 INTERN
+		   (facetious)
+	 You want to see pain?  Swing by First
+	 Methodist Tuesday nights.  See the
+	 guys with testicular cancer.  That's
+	 pain.
 
 The Intern moves into the other room.  Jack stares after him.
 
@@ -323,115 +323,115 @@ Jack stares at a group of men, including Bob, who are all
 listening to a group member speak at a lectern.  The SPEAKER
 has pale skin and sunken eyes -- he's clearly dying.
 
-                SPEAKER
-    I... wanted three kids.  Two boys and
-    a girl.  Mindy wanted two girls and
-    one boy.  We never could agree on
-    anything.
+				 SPEAKER
+	 I... wanted three kids.  Two boys and
+	 a girl.  Mindy wanted two girls and
+	 one boy.  We never could agree on
+	 anything.
 
 The Speaker cracks a sad smile.  Some men chuckle, happy to
 lighten the mood.
 
-                SPEAKER
-    Well, she had her first child a month
-    ago, a girl, with her new husband...
-    And, Thank God.  I'm glad for her,
-    because she deserves...
+				 SPEAKER
+	 Well, she had her first child a month
+	 ago, a girl, with her new husband...
+	 And, Thank God.  I'm glad for her,
+	 because she deserves...
 
 The speaker breaks down, WEEPS UNCONTROLLABLY.
 
 Jack watches.  A couple of the men go up to the speaker,
 comforting him, leading him away.  A LEADER takes the stand.
 
-                LEADER
-    Everyone, let's thank Thomas for
-    sharing himself with us.
+				 LEADER
+	 Everyone, let's thank Thomas for
+	 sharing himself with us.
 
 Jack, uncomfortable, joins EVERYONE ELSE:
 
-                EVERYONE
-        (in unison)
-    Thank you, Thomas.
+				 EVERYONE
+		   (in unison)
+	 Thank you, Thomas.
 
-                LEADER
-    I look around this room and I see a
-    lot of courage.  And it gives me
-    strength.  We give each other
-    strength.
+				 LEADER
+	 I look around this room and I see a
+	 lot of courage.  And it gives me
+	 strength.  We give each other
+	 strength.
 
 Jack looks around.  Many of the men are sniffling, sobbing.
 Jack squirms in his seat.
 
-                LEADER
-    It's time for the one-on-one.  Let's
-    follow Thomas's example and open
-    ourselves.
+				 LEADER
+	 It's time for the one-on-one.  Let's
+	 follow Thomas's example and open
+	 ourselves.
 
 Everyone gets out of their chairs and begins pairing-off.
 Jack stands, uncomfortable.
 
-                LEADER
-    Can everyone find a partner?
+				 LEADER
+	 Can everyone find a partner?
 
 Bob, his chin down on his chest, starts toward Jack,
 shuffling his feet.
 
-                JACK (V.O.)
-    The big moosie, his eyes already
-    shrink-wrapped in tears.  Knees
-    together, invisible steps.
+				 JACK (V.O.)
+	 The big moosie, his eyes already
+	 shrink-wrapped in tears.  Knees
+	 together, invisible steps.
 
 Bob takes Jack into an embrace.
 
-                JACK (V.O.)
-    Bob was a champion bodybuilder.  You
-    know that chest expansion program you
-    see on TV?  That was his idea.
+				 JACK (V.O.)
+	 Bob was a champion bodybuilder.  You
+	 know that chest expansion program you
+	 see on TV?  That was his idea.
 
-                BOB
-    ...using steroids.  I was a juicer.
-    Diabonol, then, Wisterol -- it's for
-    racehorses, for Christsake.  Now I'm
-    bankrupt, divorced, my two grown kids
-    won't return my calls...
+				 BOB
+	 ...using steroids.  I was a juicer.
+	 Diabonol, then, Wisterol -- it's for
+	 racehorses, for Christsake.  Now I'm
+	 bankrupt, divorced, my two grown kids
+	 won't return my calls...
 
-                JACK (V.O.)
-    Strangers with this kind of honesty
-    make me go a big rubbery one.
+				 JACK (V.O.)
+	 Strangers with this kind of honesty
+	 make me go a big rubbery one.
 
 Bob breaks into sobbing, putting his head on Jack's shoulder
 and completely covering Jack's face.  After a long beat of
 crying, Bob raises up his head, looks at Jack's NAMETAG.
 
-                BOB
-    Go ahead, Cornelius.  You can cry.
+				 BOB
+	 Go ahead, Cornelius.  You can cry.
 
 They look at each other.  Slowly, Jack's eyes grow wet.
 
-                JACK (V.O.)
-    Then... something happened.  I was
-    lost in oblivion -- dark and silent
-    and complete.
+				 JACK (V.O.)
+	 Then... something happened.  I was
+	 lost in oblivion -- dark and silent
+	 and complete.
 
 Bob pulls Jack's head back into his chest.  Jack tightens
 his arms around Bob.
 
-                JACK (V.O.)
-    I found freedom.  Losing all hope was
-    freedom.
+				 JACK (V.O.)
+	 I found freedom.  Losing all hope was
+	 freedom.
 
 Jack pulls away from Bob.  On Bob's chest, there's a WET
 MASK of Jack's face from how he looks weeping.
 
-                JACK (V.O.)
-    Babies don't sleep this well.
+				 JACK (V.O.)
+	 Babies don't sleep this well.
 
 INT. JACK'S BEDROOM - NIGHT
 
 Jack lies sound asleep.
 
-                JACK (V.O.)
-    I became addicted.
+				 JACK (V.O.)
+	 I became addicted.
 
 INT. SMALL PROTESTANT CHURCH - NIGHT
 
@@ -443,57 +443,57 @@ INT. OFFICE BUILDING BASEMENT - NIGHT
 Jack stands with a weeping middle-aged WOMAN.  He begins to
 cry along with her.  A sign by the door: "Onward and Upward."
 
-                JACK (V.O.)
-    If I didn't say anything, people
-    assumed the worst.  They cried
-    harder.  I cried harder.
+				 JACK (V.O.)
+	 If I didn't say anything, people
+	 assumed the worst.  They cried
+	 harder.  I cried harder.
 
 INT. PUBLIC BUILDING CONFERENCE ROOM - NIGHT
 
 Everyone, including Jack, sits back in their seats, EYES
 CLOSED.  The Leader speaks into a microphone.
 
-                LEADER
-    Tonight, we're going to open the
-    green door -- the heart chakra...
+				 LEADER
+	 Tonight, we're going to open the
+	 green door -- the heart chakra...
 
-                JACK (V.O.)
-    I wasn't really dying, I wasn't host
-    to cancer or parasites; I was the
-    warm little center that the life of
-    this world crowded around.
+				 JACK (V.O.)
+	 I wasn't really dying, I wasn't host
+	 to cancer or parasites; I was the
+	 warm little center that the life of
+	 this world crowded around.
 
-                LEADER
-    ...And you open the door and you
-    step inside.  We're inside our
-    hearts.  Now, imaging your pain as a
-    white ball of healing light.  That's
-    right, the pain itself is a ball of
-    healing light.
+				 LEADER
+	 ...And you open the door and you
+	 step inside.  We're inside our
+	 hearts.  Now, imaging your pain as a
+	 white ball of healing light.  That's
+	 right, the pain itself is a ball of
+	 healing light.
 
 Jack, eyes closed, is silent...
 
-                LEADER
-    It moves over your body, healing you.
-    Keep this going and step forward,
-    through the back door of the room.
-    Where does it lead?  To your cave.
-    Step forward into your cave.
+				 LEADER
+	 It moves over your body, healing you.
+	 Keep this going and step forward,
+	 through the back door of the room.
+	 Where does it lead?  To your cave.
+	 Step forward into your cave.
 
 INT. CAVE - JACK'S IMAGINATION
 
 Jack walks along, moving through an ICE CAVERN...
 
-                LEADER'S VOICE
-    That's right.  You're going deeper
-    into your cave.  And you're going to
-    find your power animal...
+				 LEADER'S VOICE
+	 That's right.  You're going deeper
+	 into your cave.  And you're going to
+	 find your power animal...
 
 Jack comes upon a PENGUIN.  The penguin looks at him, cocks
 his head to signal Jack forward.
 
-                PENGUIN
-    Slide.
+				 PENGUIN
+	 Slide.
 
 The penguin jumps onto a patch of ICE and slides away.
 
@@ -502,32 +502,32 @@ EXT. STREET - NIGHT
 Jack walks out a doorway, saying goodbye to people.  He
 walks down the sidewalk, shining with peace.
 
-                JACK (V.O.)
-    Every evening I died and every
-    evening I was born again.  Resurrected.
+				 JACK (V.O.)
+	 Every evening I died and every
+	 evening I was born again.  Resurrected.
 
-                                        CUT BACK TO:
+										  CUT BACK TO:
 
 INT. FIRST METHODIST CHURCH MEETING ROOM - RESUMING
 
 Jack's still in an embrace with Bob.
 
-                JACK (V.O.)
-    Bob loved me because he thought my
-    testicles were removed too.  Being
-    there, my face against his tits,
-    ready to cry -- this was my vacation.
+				 JACK (V.O.)
+	 Bob loved me because he thought my
+	 testicles were removed too.  Being
+	 there, my face against his tits,
+	 ready to cry -- this was my vacation.
 
 MARLA SINGER enters.  She has short matte black hair and
 big, dark eyes like a character from japanese animation.
 
-                JACK (V.O.)
-    And, she ruined everything.
+				 JACK (V.O.)
+	 And, she ruined everything.
 
 Marla looks around, raises a cigarette to her lips.
 
-                MARLA
-    This is cancer, right?
+				 MARLA
+	 This is cancer, right?
 
 Bob and Jack stare, dumbfounded.
 
@@ -537,37 +537,37 @@ Everyone paired-off.  MOVE THROUGH ROOM... FIND JACK'S FACE
 as he stares... MOVE THROUGH ROOM... FIND MARLA'S FACE.
 She's drinking coffee, smoking a cigarette.
 
-                JACK (V.O.)
-    This ... chick ... Marla Singer ...
-    did not have testicular cancer.  She
-    was a liar.
+				 JACK (V.O.)
+	 This ... chick ... Marla Singer ...
+	 did not have testicular cancer.  She
+	 was a liar.
 
 INT. SMALL PROTESTANT CHURCH - NIGHT
 
 Marla sits with the group, smoking, listening intently while
 a member speaks.  Jack spies on her.
 
-                JACK (V.O.)
-    She had no diseases at all.  I had
-    seen her at my melanoma Monday night
-    group ...
+				 JACK (V.O.)
+	 She had no diseases at all.  I had
+	 seen her at my melanoma Monday night
+	 group ...
 
 INT. CATHOLIC CATHEDRAL - NIGHT
 
 Marla sits at the end of a row, smoking.  All the faces down
 the row are turned toward her, incredulous...
 
-                JACK (V.O.)
-    ... and at "Free and Clear," my blood
-    parasites group Thursdays.
+				 JACK (V.O.)
+	 ... and at "Free and Clear," my blood
+	 parasites group Thursdays.
 
 Jack leans out further than the others, scornful.
 
-                JACK (V.O.)
-    -- And, again, at "Seize The Day," my
-    tuberculosis Friday night.
+				 JACK (V.O.)
+	 -- And, again, at "Seize The Day," my
+	 tuberculosis Friday night.
 
-                                        CUT BACK TO:
+										  CUT BACK TO:
 
 INT. FIRST METHODIST CHURCH MEETING ROOM - ANOTHER NIGHT
 
@@ -575,9 +575,9 @@ Jack watches... Marla's eyes are closed, her head on the
 shoulder of the MAN she's embraced by.  She opens her eyes,
 catching Jack's stare.  Jack looks away.
 
-                JACK (V.O.)
-    Marla -- the big tourist.  Her lie
-    reflected my lie.
+				 JACK (V.O.)
+	 Marla -- the big tourist.  Her lie
+	 reflected my lie.
 
 Marla rests her chin on the man's shoulder.  Tears roll down
 her cheeks.  She wipes at them.
@@ -587,10 +587,10 @@ EXT. FIRST METHODIST CHURCH - NIGHT
 Marla walks out,  The support group's dispersing.  Jack
 exits amongst them.  He spots Marla walking away.
 
-                JACK (V.O.)
-    And suddenly, I felt nothing.  I
-    couldn't cry.  So, once again, I
-    could not sleep.
+				 JACK (V.O.)
+	 And suddenly, I felt nothing.  I
+	 couldn't cry.  So, once again, I
+	 could not sleep.
 
 Jack stares after Marla for a long moment.  He walks away.
 
@@ -599,123 +599,123 @@ INT. BEDROOM - LATER
 Jack, in underwear, is cross-legged on the floor, assembling
 IKEA furniture, CORDLESS PHONE shouldered to his ear.
 
-                JACK
-        (into phone)
-    No, I just can't believe that card is
-    declined -- Okay, okay, let me give
-    you a different card number.
+				 JACK
+		   (into phone)
+	 No, I just can't believe that card is
+	 declined -- Okay, okay, let me give
+	 you a different card number.
 
 Jack gets his wallet off the floor, pulls out another card
 and, MOS over the following, he reads it into the phone.
 
-                JACK (V.O.)
-    Next group, after guided meditation,
-    after we open our chakras, when it's
-    time to hug, I'm going to grab that
-    little bitch, Marla Singer, pin her
-    arms against her sides and say...
+				 JACK (V.O.)
+	 Next group, after guided meditation,
+	 after we open our chakras, when it's
+	 time to hug, I'm going to grab that
+	 little bitch, Marla Singer, pin her
+	 arms against her sides and say...
 
 INT. MEETING ROOM - NIGHT - JACK'S IMAGINATION
 
 CLOSE ON JACK as he CLAMPS his arms around Marla.
 
-                JACK
-    Marla, you liar, you big tourist.  I
-    need this.  Get out.
+				 JACK
+	 Marla, you liar, you big tourist.  I
+	 need this.  Get out.
 
 INT. LIVING ROOM - NIGHT
 
 Jack, in pajamas, stares at Home Shopping Network on his TV.
 
-                JACK (V.O.)
-    When you have insomnia, you're never
-    really asleep and you're never really
-    awake.  I hadn't slept in four days...
+				 JACK (V.O.)
+	 When you have insomnia, you're never
+	 really asleep and you're never really
+	 awake.  I hadn't slept in four days...
 
 INT. SMALL PROTESTANT CHURCH - NIGHT
 
 Jack walks in and joins the crowd, looking around.  People
 are chattering with each other.
 
-                JACK (V.O.)
-    -- But, in here, in everyone, there's
-    the squint of a five-day headache.
-    Yet they forced themselves to be
-    positive.  They never said
-    "parasite;" they said "agent."  They
-    always talked about getting better.
+				 JACK (V.O.)
+	 -- But, in here, in everyone, there's
+	 the squint of a five-day headache.
+	 Yet they forced themselves to be
+	 positive.  They never said
+	 "parasite;" they said "agent."  They
+	 always talked about getting better.
 
-                LEADER
-    Okay, everyone.
+				 LEADER
+	 Okay, everyone.
 
 Everyone sits in chairs.  Jack catches sight of Marla.
 
-                LEADER
-    To open tonight's communion, Chloe
-    would like to say a few words.
+				 LEADER
+	 To open tonight's communion, Chloe
+	 would like to say a few words.
 
 Taking the lectern is CHLOE, a pale, sickly girl whose skin
 stretches yellowish and tight over her bones.  She wears a
 head bondage.  She clears her throat.
 
-                JACK (V.O.)
-    Ahh, Chloe.  Chloe looked the way
-    Joni Mitchell's skeleton would look
-    if you made it smile and walk around
-    a party being extra nice to everyone.
+				 JACK (V.O.)
+	 Ahh, Chloe.  Chloe looked the way
+	 Joni Mitchell's skeleton would look
+	 if you made it smile and walk around
+	 a party being extra nice to everyone.
 
-                CHLOE
-    Well, I'm still here -- but I don't
-    know for how long.  That's as much
-    certainty as anyone can give me.  but
-    I've got some good news -- I no
-    longer have any fear of death.
+				 CHLOE
+	 Well, I'm still here -- but I don't
+	 know for how long.  That's as much
+	 certainty as anyone can give me.  but
+	 I've got some good news -- I no
+	 longer have any fear of death.
 
 APPLAUSE from around the room.
 
-                CHLOE
-    But... I am in a pretty lonely place.
-    No one will have sex with me.  I'm so
-    close to the end and all I want is to
-    get laid for the last time.  I have
-    pornographic movies in my apartment,
-    and lubricants and amyl nitrate ...
+				 CHLOE
+	 But... I am in a pretty lonely place.
+	 No one will have sex with me.  I'm so
+	 close to the end and all I want is to
+	 get laid for the last time.  I have
+	 pornographic movies in my apartment,
+	 and lubricants and amyl nitrate ...
 
 The LEADER gingerly takes control of the microphone.
 
-                LEADER
-    Thank you, Chloe.  Everyone, let's
-    thank Chloe.
+				 LEADER
+	 Thank you, Chloe.  Everyone, let's
+	 thank Chloe.
 
-                EVERYONE
-    Thank you, Chloe.
+				 EVERYONE
+	 Thank you, Chloe.
 
 INT. SMALL PROTESTANT CHURCH - LATER
 
-                LEADER
-    Now, you're standing at the entrance
-    to your cave.  You step inside your
-    cave and you walk.  Keep walking.
+				 LEADER
+	 Now, you're standing at the entrance
+	 to your cave.  You step inside your
+	 cave and you walk.  Keep walking.
 
 Jack's face, eyes closed, is motionless.
 
-                JACK (V.O.)
-    If I did have a tumor, I'd name it
-    Marla.  Marla...the little scratch on
-    the roof of your mouth that would
-    heal if only you could stop tonguing
-    it, but you can't.
+				 JACK (V.O.)
+	 If I did have a tumor, I'd name it
+	 Marla.  Marla...the little scratch on
+	 the roof of your mouth that would
+	 heal if only you could stop tonguing
+	 it, but you can't.
 
-                LEADER
-    Now, find your power animal.
+				 LEADER
+	 Now, find your power animal.
 
 INT. CAVE - JACK'S IMAGINATION
 
 Jack finds Marla smoking a cigarette.  Marla cocks her head,
 indicating whe wants him to --
 
-                MARLA
-    Slide.
+				 MARLA
+	 Slide.
 
 INT. SMALL PROTESTANT CHURCH - RESUMING
 
@@ -726,37 +726,37 @@ INT. SMALL PROTESTANT CHURCH - LATER
 
 Everyone stands and mills about, pairing-off.
 
-                LEADER
-    Pick someone special to you tonight.
+				 LEADER
+	 Pick someone special to you tonight.
 
 Jack sees the ghastly spectre of Chloe ambling towards him.
 He tries to smile.  She smiles with a twisted, dying mouth.
 
-                CHLOE
-    Hello, Mr. Tayler.
+				 CHLOE
+	 Hello, Mr. Tayler.
 
-                JACK (V.O.)
-    I never gave my real name at support
-    groups.
+				 JACK (V.O.)
+	 I never gave my real name at support
+	 groups.
 
-                JACK
-    Hi, Chloe.
+				 JACK
+	 Hi, Chloe.
 
-                CHLOE
-    We've never actually talked.
+				 CHLOE
+	 We've never actually talked.
 
 Chloe's eyes are eerily bright with desperation.  Jack, in
 a sincere attempt at levity, chokes out:
 
-                JACK
-    You look good.  You ... look ... like
-    a pirate.
+				 JACK
+	 You look good.  You ... look ... like
+	 a pirate.
 
 Chloe laughs, a little too much.  Jack squeezes out a laugh.
 Then he sees Marla, off by herself.  Someone heads for her.
 
-                JACK
-    Excuse me, I have to...
+				 JACK
+	 Excuse me, I have to...
 
 Jack gives a quick nod to Chloe and darts towards Marla.
 Chloe watches him go.
@@ -764,150 +764,150 @@ Chloe watches him go.
 STAY ON JACK AND MARLA as Jack CLAMPS his arms around her.
 He whispers into her ear.
 
-                JACK
-    We need to talk.
+				 JACK
+	 We need to talk.
 
-                MARLA
-    Sure.
+				 MARLA
+	 Sure.
 
-                JACK
-    I'm on to you.  You're a faker.  You
-    aren't dying.
+				 JACK
+	 I'm on to you.  You're a faker.  You
+	 aren't dying.
 
-                MARLA
-    What?
+				 MARLA
+	 What?
 
-                JACK
-    Okay, in the Sylvia Plath philosophy
-    way, we're all dying.  But you're not
-    dying the way Chloe is dying.
+				 JACK
+	 Okay, in the Sylvia Plath philosophy
+	 way, we're all dying.  But you're not
+	 dying the way Chloe is dying.
 
-                LEADER
-    Tell the other person how you feel.
+				 LEADER
+	 Tell the other person how you feel.
 
-                JACK
-    You're a tourist.  I saw you at
-    melanoma, tuberculosis and testicular
-    cancer.
+				 JACK
+	 You're a tourist.  I saw you at
+	 melanoma, tuberculosis and testicular
+	 cancer.
 
-                MARLA
-    And I saw you practicing this...
+				 MARLA
+	 And I saw you practicing this...
 
-                JACK
-    Practicing what?
+				 JACK
+	 Practicing what?
 
-                MARLA
-    Telling me off.  Is it going as well
-    as you hoped... ?
-        (reads his nametag)
-    "... Mr. Taylor."
+				 MARLA
+	 Telling me off.  Is it going as well
+	 as you hoped... ?
+		   (reads his nametag)
+	 "... Mr. Taylor."
 
-                JACK
-    I'll expose you.
+				 JACK
+	 I'll expose you.
 
-                MARLA
-    Go ahead.  I'll expose you.
+				 MARLA
+	 Go ahead.  I'll expose you.
 
-                LEADER
-    Share yourself completely.
+				 LEADER
+	 Share yourself completely.
 
 Marla puts her head down on Jack's shoulder as if she were
 crying.  Jack pulls her head back up.  She deadpans at him.
 
-                JACK
-    Why are you doing this?
+				 JACK
+	 Why are you doing this?
 
-                MARLA
-    It's cheaper than a movie, and
-    there's free coffee.
+				 MARLA
+	 It's cheaper than a movie, and
+	 there's free coffee.
 
-                JACK
-    These are my groups.  I was here
-    first.  I've been coming for a year.
+				 JACK
+	 These are my groups.  I was here
+	 first.  I've been coming for a year.
 
-                MARLA
-    A year?  How'd you manage that?
+				 MARLA
+	 A year?  How'd you manage that?
 
-                JACK
-    Anyone who might've noticed either
-    died or recovered and never came back.
+				 JACK
+	 Anyone who might've noticed either
+	 died or recovered and never came back.
 
-                LEADER
-    Let yourself cry.
+				 LEADER
+	 Let yourself cry.
 
-                MARLA
-    Why do you do it?
+				 MARLA
+	 Why do you do it?
 
-                JACK
-    I... I don't know.  I guess... when
-    people think you're dying, they
-    really listen, instead...
+				 JACK
+	 I... I don't know.  I guess... when
+	 people think you're dying, they
+	 really listen, instead...
 
-                MARLA
-    -- Instead of just waiting for their
-    turn to speak.
+				 MARLA
+	 -- Instead of just waiting for their
+	 turn to speak.
 
-                JACK
-    Yeah.
+				 JACK
+	 Yeah.
 
 Brief recognition between them, broken as the Leader passes.
 
-                LEADER
-    Quietly, now.  Share with each other.
+				 LEADER
+	 Quietly, now.  Share with each other.
 
 Jack waits till the Leader's out of earshot.
 
-                JACK
-        (warning)
-    It becomes an addiction.
+				 JACK
+		   (warning)
+	 It becomes an addiction.
 
-                MARLA
-    Really?
+				 MARLA
+	 Really?
 
 Jack sighs, then pulls back.
 
-                JACK
-    Look, I can't cry with a faker
-    present.
+				 JACK
+	 Look, I can't cry with a faker
+	 present.
 
-                MARLA
-    Candy-stripe a cancer ward.  It's not
-    my problem.
+				 MARLA
+	 Candy-stripe a cancer ward.  It's not
+	 my problem.
 
-                JACK
-    Please.  Can't we do something... ?
+				 JACK
+	 Please.  Can't we do something... ?
 
 Marla starts out of the room.  Jack follows her.
 
-                LEADER
-    Now, the closing prayer.
+				 LEADER
+	 Now, the closing prayer.
 
 EXT. CHURCH - NIGHT - CONTINUOUS
 
 Marla gets to the sidewalk, moving quickly along.
 
-                JACK
-    We'll split up the week.  You can
-    have lymphoma, tuberculosis and --
+				 JACK
+	 We'll split up the week.  You can
+	 have lymphoma, tuberculosis and --
 
-                MARLA
-    You take tuberculosis.  My smoking
-    doesn't go over at all.
+				 MARLA
+	 You take tuberculosis.  My smoking
+	 doesn't go over at all.
 
-                JACK
-    I think testicular cancer should be
-    no contest.
+				 JACK
+	 I think testicular cancer should be
+	 no contest.
 
-                MARLA
-    Well, technically, I have more of a
-    right to be there than you.  You
-    still have your balls.
+				 MARLA
+	 Well, technically, I have more of a
+	 right to be there than you.  You
+	 still have your balls.
 
-                JACK
-    You're kidding.
+				 JACK
+	 You're kidding.
 
-                MARLA
-    I don't know -- am I?
+				 MARLA
+	 I don't know -- am I?
 
 Jack follow Marla into...
 
@@ -916,33 +916,33 @@ INT. LAUNDROMAT - CONTINUOUS
 Marla walks with authority up to an unwatched DRYER.  She
 takes out clothes, picks out jeans, pants and shirts.
 
-                MARLA
-    I'll take the parasites.
+				 MARLA
+	 I'll take the parasites.
 
-                JACK
-    You can't have both parasites.  You
-    can take blood parasites --
+				 JACK
+	 You can't have both parasites.  You
+	 can take blood parasites --
 
-                MARLA
-    I want brain parasites.
+				 MARLA
+	 I want brain parasites.
 
-                JACK
-    Okay.  I'll take blood parasites and
-    organic brain dementia --
+				 JACK
+	 Okay.  I'll take blood parasites and
+	 organic brain dementia --
 
-                MARLA
-    I want that.
+				 MARLA
+	 I want that.
 
-                JACK
-    You can't have the whole brain!
+				 JACK
+	 You can't have the whole brain!
 
-                MARLA
-    So far, you have four and I only have
-    two!
+				 MARLA
+	 So far, you have four and I only have
+	 two!
 
-                JACK
-    Then, take blood parasites.  It's
-    yours.  Now we each have three.
+				 JACK
+	 Then, take blood parasites.  It's
+	 yours.  Now we each have three.
 
 Marla gathers the chosen garments and heads out past Jack...
 
@@ -950,8 +950,8 @@ EXT. SIDEWALK - CONTINUOUS
 
 Jack follows, bewildered.
 
-                JACK
-    You... left half your clothes.
+				 JACK
+	 You... left half your clothes.
 
 HONK!  Jack starts.  Marla's led him into the street with
 traffic barreling down.
@@ -964,53 +964,53 @@ INT. THRIFT STORE - CONTINUOUS
 Marla drops the pile of clothes on a counter.  An old CLERK
 sifts through the clothes, begins writing on a pad.
 
-                JACK
-    You're selling those?
+				 JACK
+	 You're selling those?
 
 Marla steps down hard on Jack's foot.  He winces in pain.
 
-                MARLA
-        (for the Clerk to hear)
-    Yes, I'm selling some chothes.
+				 MARLA
+		   (for the Clerk to hear)
+	 Yes, I'm selling some chothes.
 
 The Clerk starts to ring up the assessed amounts.
 
-                MARLA
-    So, we each have three -- that's six.
-    What about the seventh day?  I want
-    ascending bowel cancer.
+				 MARLA
+	 So, we each have three -- that's six.
+	 What about the seventh day?  I want
+	 ascending bowel cancer.
 
-                JACK (V.O.)
-    The girl had done her homework.
+				 JACK (V.O.)
+	 The girl had done her homework.
 
-                JACK
-    I want ascending bowel cancer.
+				 JACK
+	 I want ascending bowel cancer.
 
 The Clerk gives a strange look as he hands money to Marla.
 
-                MARLA
-    That's your favorite, too?  Tried to
-    slip it by me, eh?
+				 MARLA
+	 That's your favorite, too?  Tried to
+	 slip it by me, eh?
 
-                JACK
-    We'll split it.  You get it the first
-    and third Sunday of the month.
+				 JACK
+	 We'll split it.  You get it the first
+	 and third Sunday of the month.
 
-                MARLA
-    Deal.
+				 MARLA
+	 Deal.
 
 They shake.  Jack tries to withdraw his hand; Marla holds it.
 
-                MARLA
-    Looks like this is goodbye.
+				 MARLA
+	 Looks like this is goodbye.
 
-                JACK
-    Let's not make a big thing out of it.
+				 JACK
+	 Let's not make a big thing out of it.
 
 She walks to the door, pocketing money, not looking back.
 
-                MARLA
-    How's this for not making a big thing?
+				 MARLA
+	 How's this for not making a big thing?
 
 Jack watches her go.  A moment, then he follows after...
 
@@ -1018,18 +1018,18 @@ EXT. SIDEWALK - CONTINUOUS
 
 Jack hesitates, unsure, then run/walks to catch up to her...
 
-                JACK
-    Um... Marla, should we maybe exchange
-    numbers?
+				 JACK
+	 Um... Marla, should we maybe exchange
+	 numbers?
 
-                MARLA
-    Should we?
+				 MARLA
+	 Should we?
 
-                JACK
-    In case we want to switch nights.
+				 JACK
+	 In case we want to switch nights.
 
-                MARLA
-    I suppose.
+				 MARLA
+	 I suppose.
 
 Jack takes out a business card, writes his number on the
 back, hands it to her.  She takes the pen, grabs his hand
@@ -1037,32 +1037,32 @@ and writes her number on his palm.  She walks into the
 street, causing more SCREECHING and HONKING.  She turns,
 holds up the card.
 
-                MARLA
-    It doesn't have your name.  Who are
-    you?  Cornelius?  Mr. Taylor?  Dr.
-    Zaius?  Any of the stupid names you
-    give each night?
+				 MARLA
+	 It doesn't have your name.  Who are
+	 you?  Cornelius?  Mr. Taylor?  Dr.
+	 Zaius?  Any of the stupid names you
+	 give each night?
 
 Jack starts to answer, but the traffic noise is too loud.
 Marla just shakes her head, turns, and keeps moving.  A BUS
 moves into view, obscuring her.
 
-                JACK (V.O.)
-    This is how I met Marla Singer.
+				 JACK (V.O.)
+	 This is how I met Marla Singer.
 
 INT. AIRPLANE CABIN - DAY
 
 The plane touches down; the cabin BUMPS.  Jack's eyes open.
 
-                JACK (V.O.)
-    You wake up at O'Hare.
+				 JACK (V.O.)
+	 You wake up at O'Hare.
 
 INT. AIRPLANE CABIN - DAY
 
 Jack snaps awake again, looking around, disoriented.
 
-                JACK (V.O.)
-    You wake up at SeaTac.
+				 JACK (V.O.)
+	 You wake up at SeaTac.
 
 EXT. HIGHWAY - DUSK
 
@@ -1073,36 +1073,36 @@ INT. AIRPORT - NIGHT
 
 Jack stands at a gate counter.  An ATTENDANT smiles at him.
 
-                ATTENDANT
-    Check-in for that flight doesn't
-    begin for another two hours, Sir.
+				 ATTENDANT
+	 Check-in for that flight doesn't
+	 begin for another two hours, Sir.
 
 Jack looks with blearing eyes at his watch, steps away and
 looks at an overhanging CLOCK.
 
-                JACK (V.O.)
-    Pacific, Mountain, Central.  Lose an
-    hour, gain an hour.  This is your
-    life, and it's ending one minute at
-    a time.
+				 JACK (V.O.)
+	 Pacific, Mountain, Central.  Lose an
+	 hour, gain an hour.  This is your
+	 life, and it's ending one minute at
+	 a time.
 
 INT. AIRPLANE CABIN - DAY
 
 Jack's eyes snap open as the plane LANDS.
 
-                JACK (V.O.)
-    You wake up at Air Harbor
-    International.
+				 JACK (V.O.)
+	 You wake up at Air Harbor
+	 International.
 
 INT. AIRPORT WALKWAY
 
 Jack stands on a conveyor belt, briefcase at his feet.  He
 watches PEOPLE MOVING PAST on the opposite conveyor.
 
-                JACK (V.O.)
-    If you wake up at a different time
-    and in a different place, could you
-    wake up as a different person?
+				 JACK (V.O.)
+	 If you wake up at a different time
+	 and in a different place, could you
+	 wake up as a different person?
 
 Jack misses seeing TYLER on the opposite conveyor belt.
 They pass each other.
@@ -1113,25 +1113,25 @@ Jack sits next to a BUSINESSMAN.  As they have idle
 CONVERSATION, we MOVE IN ON Jack's tray.  An ATTENDANT'S
 HANDS set coffee down with a small container of cream.
 
-                JACK (V.O.)
-    Everywhere I travel -- tiny life.
-    Single-serving sugar, single-serving
-    cream, single pat of butter.
+				 JACK (V.O.)
+	 Everywhere I travel -- tiny life.
+	 Single-serving sugar, single-serving
+	 cream, single pat of butter.
 
-                                        CUT TO:
+										  CUT TO:
 
 HANDS place a dinner tray down.
 
-                JACK (V.O.)
-    Microwave Cordon Bleu hobby kit.
+				 JACK (V.O.)
+	 Microwave Cordon Bleu hobby kit.
 
 INT. HOTEL ROOM - BATHROOM - NIGHT
 
 Jack brushes his teeth in the MIRROR.
 
-                JACK (V.O.)
-    Shampoo/conditioner combo.  Single-
-    serving mouthwash, tiny bar of soap.
+				 JACK (V.O.)
+	 Shampoo/conditioner combo.  Single-
+	 serving mouthwash, tiny bar of soap.
 
 Jack picks up an individual, wrapped Q-TIP, looks at it.  He
 moves out of the bathroom into...
@@ -1156,118 +1156,118 @@ back, and it's...
 
 --a BUSINESS WOMAN next to him.
 
-                JACK (V.O.)
-    The people I meet on each flight --
-    they're single-serving friends.
-    Between take-off and landing, we have
-    our time together, but that's all we
-    get.
+				 JACK (V.O.)
+	 The people I meet on each flight --
+	 they're single-serving friends.
+	 Between take-off and landing, we have
+	 our time together, but that's all we
+	 get.
 
 INT. AIRPLANE CABIN - LANDING
 
 Jack's eyes snap open.
 
-                JACK (V.O.)
-    You wake up at Logan.
+				 JACK (V.O.)
+	 You wake up at Logan.
 
 INT. WAREHOUSE - CONTINUOUS
 
 A giant corrugated METAL DOOR opens.
 
-                JACK (V.O.)
-    On a long enough time line, the
-    survival rate for everyone drops to
-    zero.
+				 JACK (V.O.)
+	 On a long enough time line, the
+	 survival rate for everyone drops to
+	 zero.
 
 Two TECHNICIANS lead Jack to the BURNT-OUT SHELL of a
 WRECKED AUTOMOBILE.  Jack sets down his briefcase, opens it
 and starts to make notes on a CLIPBOARDED FORM.
 
-                JACK (V.O.)
-    I'm a recall coordinator.  My job is
-    to apply the formula.  It's a story
-    problem.
+				 JACK (V.O.)
+	 I'm a recall coordinator.  My job is
+	 to apply the formula.  It's a story
+	 problem.
 
-                TECHNICIAN #1
-    Here's where the infant went through
-    the windshield.  Three points.
+				 TECHNICIAN #1
+	 Here's where the infant went through
+	 the windshield.  Three points.
 
-                JACK (V.O.)
-    A new car built by my company leaves
-    somewhere traveling at 60 miles per
-    hour.  The rear differential locks up.
+				 JACK (V.O.)
+	 A new car built by my company leaves
+	 somewhere traveling at 60 miles per
+	 hour.  The rear differential locks up.
 
-                TECHNICIAN #2
-    The teenager's braces around the
-    backseat ashtray would make a good
-    "anti-smoking" ad.
+				 TECHNICIAN #2
+	 The teenager's braces around the
+	 backseat ashtray would make a good
+	 "anti-smoking" ad.
 
-                JACK (V.O.)
-    The car crashes and burns with
-    everyone trapped inside.  Now: do we
-    initiate a recall?
+				 JACK (V.O.)
+	 The car crashes and burns with
+	 everyone trapped inside.  Now: do we
+	 initiate a recall?
 
-                TECHNICIAN #1
-    The father must've been huge.  See
-    how the fat burnt into the driver's
-    seat with his polyester shirt?  Very
-    "modern art."
+				 TECHNICIAN #1
+	 The father must've been huge.  See
+	 how the fat burnt into the driver's
+	 seat with his polyester shirt?  Very
+	 "modern art."
 
-                JACK (V.O.)
-    Take the number of vehicles in the
-    field, (A), and multiply it by the
-    probable rate of failure, (B), then
-    multiply the result by the average
-    out-of-court settlement, (C).  A
-    times B times C equals X...
+				 JACK (V.O.)
+	 Take the number of vehicles in the
+	 field, (A), and multiply it by the
+	 probable rate of failure, (B), then
+	 multiply the result by the average
+	 out-of-court settlement, (C).  A
+	 times B times C equals X...
 
-                                        CUT TO:
+										  CUT TO:
 
 INT. AIRPLANE CABIN - MOVING DOWN RUNWAY
 
 Jack is speaking to the BUSINESSWOMAN next to him.
 
-                JACK
-    If X is less than the cost of a
-    recall, we don't do one.
+				 JACK
+	 If X is less than the cost of a
+	 recall, we don't do one.
 
-                BUSISNESS WOMAN
-    Are there a lot of these kinds of
-    accidents?
+				 BUSISNESS WOMAN
+	 Are there a lot of these kinds of
+	 accidents?
 
-                JACK
-    Oh, you wouldn't believe.
+				 JACK
+	 Oh, you wouldn't believe.
 
-                BUSINESS WOMAN
-    ... Which... car company do you work
-    for?
+				 BUSINESS WOMAN
+	 ... Which... car company do you work
+	 for?
 
-                JACK
-    A major one.
+				 JACK
+	 A major one.
 
 Turgid silence.  Jack turns to the window.  He sees a
 PELICAN get SUCKED into the TURBINE.
 
-                JACK (V.O.)
-    Every time the plane banked too
-    sharply on take-off or landing, I
-    prayed for a crash, or a mid-air
-    collision -- anything.
+				 JACK (V.O.)
+	 Every time the plane banked too
+	 sharply on take-off or landing, I
+	 prayed for a crash, or a mid-air
+	 collision -- anything.
 
 Jack's face remains bland during the following: the plane
 BUCKLES -- the cabin wobbles.  People panic.  Masks drop.
 
-                JACK (V.O.)
-    No more haircuts.  Nothing matters,
-    not even bad breath.
+				 JACK (V.O.)
+	 No more haircuts.  Nothing matters,
+	 not even bad breath.
 
 The side of the plane SHEARS OFF!  Screaming PASSENGERS are
 sucked out into the night air, flying past the quivering
 wind.  Magazines and other objects fly everywhere.
 
-                JACK (V.O.)
-    Life insurance pays off triple if you
-    die on a business trip.
+				 JACK (V.O.)
+	 Life insurance pays off triple if you
+	 die on a business trip.
 
 Jack remains in his same position, same bland expression.
 
@@ -1275,164 +1275,164 @@ DING! -- the seatbelt light goes OUT.  Jack SNAPS AWAKE.
 EVERYTHING IS NORMAL.  Some passengers get out of their
 seats.  From next to Jack, a VOICE we've heard before...
 
-                VOICE
-    There are three ways to make napalm.
-    One, mix equal parts of gasoline and
-    frozen orange juice...
+				 VOICE
+	 There are three ways to make napalm.
+	 One, mix equal parts of gasoline and
+	 frozen orange juice...
 
 Jack turns to see TYLER.  Without turned to Jack, Tyler
 continues:
 
-                TYLER
-    Two, equal parts gasoline and diet
-    cola.  Three, dissolve kitty-litter
-    in gasoline until the mixture is
-    thick.
+				 TYLER
+	 Two, equal parts gasoline and diet
+	 cola.  Three, dissolve kitty-litter
+	 in gasoline until the mixture is
+	 thick.
 
-                JACK
-    Pardon me?
+				 JACK
+	 Pardon me?
 
 Tyler turns to Jack.
 
-                JACK (V.O.)
-    This is how I met --
+				 JACK (V.O.)
+	 This is how I met --
 
-                TYLER
-    Tyler Durden.
+				 TYLER
+	 Tyler Durden.
 
 Tyler offers his hand.  Jack takes it.
 
-                TYLER
-    You know why they have oxygen masks
-    on planes?
+				 TYLER
+	 You know why they have oxygen masks
+	 on planes?
 
-                JACK
-    No, supply oxygen?
+				 JACK
+	 No, supply oxygen?
 
-                TYLER
-    Oxygen gets you high.  In a
-    catastrophic emergency, we're taking
-    giant, panicked breaths...
+				 TYLER
+	 Oxygen gets you high.  In a
+	 catastrophic emergency, we're taking
+	 giant, panicked breaths...
 
 Tyler grabs a safety instruction CARD from the seatback,
 hands it to Jack.
 
-                TYLER
-    Suddenly, we become euphoic and
-    docile.  We accept our fate.
+				 TYLER
+	 Suddenly, we become euphoic and
+	 docile.  We accept our fate.
 
 Tyler points to passive faces on the drawn figures.
 
-                TYLER
-    Emergency water landing, 600 miles
-    per hour.  Blank faces -- calm as
-    Hindu cows.
+				 TYLER
+	 Emergency water landing, 600 miles
+	 per hour.  Blank faces -- calm as
+	 Hindu cows.
 
 Jack laughs.
 
-                JACK
-    What do you do, Tyler?
+				 JACK
+	 What do you do, Tyler?
 
-                TYLER
-    What do you want me to do?
+				 TYLER
+	 What do you want me to do?
 
-                JACK
-    I mean -- for a living.
+				 JACK
+	 I mean -- for a living.
 
-                TYLER
-    Why?  So you can say, "Oh, that's
-    what you do." -- And be a smug little
-    shit about it?
+				 TYLER
+	 Why?  So you can say, "Oh, that's
+	 what you do." -- And be a smug little
+	 shit about it?
 
 Jack laughs.  Tyler reaches under the seat in front of him
 and lifts a BRIEFCASE.
 
-                TYLER
-    You have a kind of sick desperation
-    in your laugh.
+				 TYLER
+	 You have a kind of sick desperation
+	 in your laugh.
 
 Jack points to his own briefcase.
 
-                JACK
-    We have the same briefcase.
+				 JACK
+	 We have the same briefcase.
 
 Tyler turns the top of his briefcase toward Jack.
 
-                TYLER
-    Open it.
+				 TYLER
+	 Open it.
 
 Jack looks at Tyler, then pops the latches and raises the
 lid to reveal quaintly-wrapped bars of SOAP.
 
-                TYLER
-    Soap -- the yardstick of civilization.
-        (reaches in his pocket)
-    I make and sell soap...
+				 TYLER
+	 Soap -- the yardstick of civilization.
+		   (reaches in his pocket)
+	 I make and sell soap...
 
 Tyler hands Jack his card.  "THE PAPER STREET SOAP COMPANY."
 
-                TYLER
-    If you were to add nitric acid to the
-    soap-making process, one would get
-    nitroglycerin.  With enough soap, one
-    could blow up the world, if one were
-    so inclined.
+				 TYLER
+	 If you were to add nitric acid to the
+	 soap-making process, one would get
+	 nitroglycerin.  With enough soap, one
+	 could blow up the world, if one were
+	 so inclined.
 
 Tyler SNAPS the briefcase shut.  Jack stares.
 
-                JACK
-    Tyler, you are by far the most
-    interesting "single-serving" friend
-    I've ever met.
+				 JACK
+	 Tyler, you are by far the most
+	 interesting "single-serving" friend
+	 I've ever met.
 
 Tyler stares back.  Jack, enjoying his own chance to be
 witty, leans closer to Tyler.
 
-                JACK
-    You see, when you travel, everything
-    is small, self-contained--
+				 JACK
+	 You see, when you travel, everything
+	 is small, self-contained--
 
-                TYLER
-    The spork.  I get it.  You're very
-    clever.
+				 TYLER
+	 The spork.  I get it.  You're very
+	 clever.
 
-                JACK
-    Thank you.
+				 JACK
+	 Thank you.
 
-                TYLER
-    How's that working out for you?
+				 TYLER
+	 How's that working out for you?
 
-                JACK
-    What?
+				 JACK
+	 What?
 
-                TYLER
-    Being clever.
+				 TYLER
+	 Being clever.
 
-                JACK
-        (thrown)
-    Well, uh... great.
+				 JACK
+		   (thrown)
+	 Well, uh... great.
 
-                TYLER
-    Keep it up, then.  Keep it right up.
+				 TYLER
+	 Keep it up, then.  Keep it right up.
 
 Tyler stands, looks towards the aisle.
 
-                TYLER
-    ... As I squeeze past, do I give you
-    the ass or the crotch?
+				 TYLER
+	 ... As I squeeze past, do I give you
+	 the ass or the crotch?
 
 Tyler moves to the aisle, his ass toward jack, walks away...
 
-                TYLER
-    We are defined by the choices we make.
+				 TYLER
+	 We are defined by the choices we make.
 
 Tyler goes to the curtain dividing First Class, slaps the
 curtain aside and sits in an empty seat.  Jack watches.
 
-                JACK (V.O.)
-    How I came to live with Tyler is:
-    airlines have this policy about
-    vibrating luggage.
+				 JACK (V.O.)
+	 How I came to live with Tyler is:
+	 airlines have this policy about
+	 vibrating luggage.
 
 INT. BAGGAGE CLAIM AREA - NIGHT
 
@@ -1440,32 +1440,32 @@ Utterly empty of baggage.  No people except for Jack and a
 SECURITY TASK FORCE MAN.  The Security TFM, smirking, holds
 a receiver to his ear from an official phone on the wall.
 
-                SECURITY TFM
-        (to Jack)
-    Throwers don't worry about ticking.
-    Modern bombs don't tick.
+				 SECURITY TFM
+		   (to Jack)
+	 Throwers don't worry about ticking.
+	 Modern bombs don't tick.
 
-                JACK
-    Excuse me?  "Throwers?"
+				 JACK
+	 Excuse me?  "Throwers?"
 
-                SECURITY TFM
-    Baggage handlers.  But when a
-    suitcase vibrates, the throwers have
-    to call the police.
+				 SECURITY TFM
+	 Baggage handlers.  But when a
+	 suitcase vibrates, the throwers have
+	 to call the police.
 
-                JACK
-    My suitcase was vibrating?
+				 JACK
+	 My suitcase was vibrating?
 
-                SECURITY TFM
-    Nine time out of ten, it's an
-    electric razor.  But, every once in
-    a while ...
-        (whispers)
-    ...it's a dildo.  It's airline policy
-    not to imply ownership in the event
-    of a dildo.  We use the indefinite
-    aricle: "A dildo."  Never "Your
-    dildo."
+				 SECURITY TFM
+	 Nine time out of ten, it's an
+	 electric razor.  But, every once in
+	 a while ...
+		   (whispers)
+	 ...it's a dildo.  It's airline policy
+	 not to imply ownership in the event
+	 of a dildo.  We use the indefinite
+	 aricle: "A dildo."  Never "Your
+	 dildo."
 
 Jack sees, through the window, Tyler, at the curb, throwing
 his briefcase into the back of a shiny, red CONVERTIBLE.
@@ -1475,16 +1475,16 @@ OUT.  jack turns away, looks at the Security TFM.
 In the background, a HARRIED MAN dashes after Tyler and the
 convertible, SCREAMING.
 
-                JACK
-        (to Security TFM)
-    I had everything in that bag.  My
-    C.K. shirts... my D.K.N.Y. shoes...
+				 JACK
+		   (to Security TFM)
+	 I had everything in that bag.  My
+	 C.K. shirts... my D.K.N.Y. shoes...
 
-                SECURITY TFM
-        (into phone)
-    Yeah, uh huh... yeah?
-        (pause, still on phone)
-    Oh...
+				 SECURITY TFM
+		   (into phone)
+	 Yeah, uh huh... yeah?
+		   (pause, still on phone)
+	 Oh...
 
 EXT. EMPTY RUNWAY
 
@@ -1495,42 +1495,42 @@ INT. BAGGAGE CLAIM AREA - RESUMING
 
 The Security TFM, shakes his head, hangs up.
 
-                SECURITY TFM
-    I'm terribly sorry.
+				 SECURITY TFM
+	 I'm terribly sorry.
 
 The Security TFM hands Jack a claim form.  Jack snatches it,
 disgusted, takes out a pen, starts filling out the form.
 
-                SECURITY TFM
-    You know the industry slang for
-    "Flight Attendant?"  "Air Mattress."
+				 SECURITY TFM
+	 You know the industry slang for
+	 "Flight Attendant?"  "Air Mattress."
 
 INT. TAXI - MOVING - NIGHT
 
 Along a residential street.  Jack looks ahead, sees a tall,
 grey, bland BUILDING on the corner.
 
-                JACK (V.O.)
-    Home was a condo on the fifteenth
-    floor of a filing cabinet for widows
-    and young professionals.  The walls
-    were solid concrete.  A foot of
-    concrete is important when your next-
-    door neighbor lets her hearing aid go
-    and has to watch game shows at full
-    volume...
+				 JACK (V.O.)
+	 Home was a condo on the fifteenth
+	 floor of a filing cabinet for widows
+	 and young professionals.  The walls
+	 were solid concrete.  A foot of
+	 concrete is important when your next-
+	 door neighbor lets her hearing aid go
+	 and has to watch game shows at full
+	 volume...
 
 The taxi turns a corner and Jack sees the front of the
 building.  A diffuse CLOUD of SMOKE wafts away from a BLOWN-
 OUT SECTION of the fifteenth floor.  FIRETRUCKS, POLICE CARS
 and a MOB are all crowded around the lobby area.
 
-                JACK (V.O.)
-    -- Or when a volcanic blast of debris
-    that used to be your furniture and
-    personal effects blows out your floor-
-    to-ceiling windows and sails flaming
-    into the night.
+				 JACK (V.O.)
+	 -- Or when a volcanic blast of debris
+	 that used to be your furniture and
+	 personal effects blows out your floor-
+	 to-ceiling windows and sails flaming
+	 into the night.
 
 EXT. STREET IN FRONT OF BUILDING
 
@@ -1543,14 +1543,14 @@ INT. LOBBY
 The DOORMAN sees Jack enter, gives a sad smile, shakes his
 head.  Jack starts for the elevator.
 
-                DOORMAN
-    There's nothing up there.
+				 DOORMAN
+	 There's nothing up there.
 
 Jack presses the button.  The Doorman moves next to him.
 
-                DOORMAN
-    You can't go into the unit.  Police
-    orders.
+				 DOORMAN
+	 You can't go into the unit.  Police
+	 orders.
 
 The elevator doors open.  Jack hesitates.  The doors close.
 Jack heads out the lobby doors.  The Doorman follows...
@@ -1561,11 +1561,11 @@ Jack walks past SMOKING, CHARRED DEBRIS -- a flash of ORANGE
 from the Yang table, a CLOCK FACE from the hall clock, part
 of an arm from the GREEN ARMCHAIR.  His feet CRUNCH glass.
 
-                JACK (V.O.)
-    How embarrassing.
+				 JACK (V.O.)
+	 How embarrassing.
 
-                DOORMAN
-    Do you have somebody you can call?
+				 DOORMAN
+	 Do you have somebody you can call?
 
 Jack comes to his REFRIGERATOR lying on its side.  He
 reaches down and takes a note: "MARLA --" and a phone
@@ -1575,19 +1575,19 @@ CLOSE SHOT - JACK'S STOVE
 
 Hissing.
 
-                JACK (V.O.)
-    The police would later tell me that
-    the pilot light might have gone
-    out... letting out just a little bit
-    of gas.
+				 JACK (V.O.)
+	 The police would later tell me that
+	 the pilot light might have gone
+	 out... letting out just a little bit
+	 of gas.
 
 EXT. PAYPHONE - RESUMING
 
 Jack gets to a PAYPHONE.  The Doorman follows, watching him.
 
-                DOORMAN
-    Lots of young people try to impress
-    the world and buy too many things.
+				 DOORMAN
+	 Lots of young people try to impress
+	 the world and buy too many things.
 
 Jack picks up the receiver, puts in a quarter.  He looks at
 Marla's number a long moment.
@@ -1596,10 +1596,10 @@ CLOSE SHOT - JACK'S ENTIRE CONDO - KITCHEN AND LIVING ROOM
 
 The SOUND of the HISS...
 
-                JACK (V.O.)
-    The gas could have slowly filled the
-    condo.  Seventeen-hundred square feet
-    with high ceilings, for days and days.
+				 JACK (V.O.)
+	 The gas could have slowly filled the
+	 condo.  Seventeen-hundred square feet
+	 with high ceilings, for days and days.
 
 EXT. PAYPHONE - RESUMING
 
@@ -1607,15 +1607,15 @@ Jack replaces the receiver.  He pockets Marla's number, digs
 out a small FILOFAX.  He flips through the pages for phone
 numbers and addresses.  Most of the pages are blank.
 
-                DOORMAN
-    Many young people feel trapped and
-    desperate.
+				 DOORMAN
+	 Many young people feel trapped and
+	 desperate.
 
 INSERT - CLOSE ON THE BASE OF JACK'S REFRIGERATOR
 
-                JACK (V.O.)
-    Then, the refrigerator's compressor
-    could have clicked on...
+				 JACK (V.O.)
+	 Then, the refrigerator's compressor
+	 could have clicked on...
 
 Click.  KABOOM!  SCREEN GOES WHITE.
 
@@ -1624,51 +1624,51 @@ EXT. PAYPHONE - RESUMING
 Jack looks at the Doorman.  Tyler's BUSINESS CARD falls from
 the Filofax.  Jack catches it.
 
-                DOORMAN
-    If you don't know what you want, you
-    end up with a lot you don't.
+				 DOORMAN
+	 If you don't know what you want, you
+	 end up with a lot you don't.
 
 The Doorman walks away.  Jack stares at Tyler's card.
 
-                JACK (V.O.)
-    If you asked me now, I couldn't tell
-    you why I called him.
+				 JACK (V.O.)
+	 If you asked me now, I couldn't tell
+	 you why I called him.
 
 Jack re-deposits the quarter, dials Tyler's number.  It
 RINGS... and RINGS and RINGS.  Jack sighs and hangs up the
 phone.  A moment, then the phone RINGS.
 
-                JACK
-    Hello?
+				 JACK
+	 Hello?
 
-                TYLER'S VOICE
-    Who's this?
+				 TYLER'S VOICE
+	 Who's this?
 
-                JACK
-    Tyler?
+				 JACK
+	 Tyler?
 
-                TYLER'S VOICE
-    Who's this?
+				 TYLER'S VOICE
+	 Who's this?
 
-                JACK
-    Uh... I'm sorry.  We met on the
-    plane.  We had the same briefcase.
-    I'm... you know, the clever guy.
+				 JACK
+	 Uh... I'm sorry.  We met on the
+	 plane.  We had the same briefcase.
+	 I'm... you know, the clever guy.
 
-                TYLER'S VOICE
-    Oh, yeah.
+				 TYLER'S VOICE
+	 Oh, yeah.
 
-                JACK
-    I just called a second ago.  There
-    was no answer.  I'm at a payphone.
+				 JACK
+	 I just called a second ago.  There
+	 was no answer.  I'm at a payphone.
 
-                TYLER'S VOICE
-    I star-sixty-nined you.  I never pick
-    up my phone.  What's up?
+				 TYLER'S VOICE
+	 I star-sixty-nined you.  I never pick
+	 up my phone.  What's up?
 
-                JACK
-    Well... let me see... here's the
-    thing...
+				 JACK
+	 Well... let me see... here's the
+	 thing...
 
 EXT. LOU'S TAVERN - NIGHT
 
@@ -1678,185 +1678,185 @@ INT. LOU'S TAVERN - SAME
 
 Jack and Tyler sit in the back, with a pitcher of BEER.
 
-                JACK
-    You buy furniture.  You tell
-    yourself: this is the last sofa I'll
-    ever need.  No matter what else
-    happens, I've got the sofa issue
-    handled.  Then, the right set of
-    dishes.  The right dinette.
+				 JACK
+	 You buy furniture.  You tell
+	 yourself: this is the last sofa I'll
+	 ever need.  No matter what else
+	 happens, I've got the sofa issue
+	 handled.  Then, the right set of
+	 dishes.  The right dinette.
 
-                TYLER
-    This is how we fill up our lives.
+				 TYLER
+	 This is how we fill up our lives.
 
 Tyler lights a cigarette.
 
-                JACK
-    I guess so.
+				 JACK
+	 I guess so.
 
-                TYLER
-    And, now it's gone.
+				 TYLER
+	 And, now it's gone.
 
-                JACK
-    All gone.
+				 JACK
+	 All gone.
 
 Tyler offers cigarettes.  Jack declines.
 
-                TYLER
-    Could be worse.  A woman could cut
-    off your penis while you're asleep
-    and toss it out the window of a
-    moving car.
+				 TYLER
+	 Could be worse.  A woman could cut
+	 off your penis while you're asleep
+	 and toss it out the window of a
+	 moving car.
 
-                JACK
-    There's always that.
+				 JACK
+	 There's always that.
 
-                TYLER
-    I don't know, maybe I'm wrong.  Maybe
-    it's a terrible tragedy.
+				 TYLER
+	 I don't know, maybe I'm wrong.  Maybe
+	 it's a terrible tragedy.
 
-                JACK
-    ...no ...no ...
+				 JACK
+	 ...no ...no ...
 
-                TYLER
-    I mean, you did lose a lot of nice,
-    neat little shit.  The trendy paper
-    lamps, the Euro-trash shelving unit,
-    am I right?
+				 TYLER
+	 I mean, you did lose a lot of nice,
+	 neat little shit.  The trendy paper
+	 lamps, the Euro-trash shelving unit,
+	 am I right?
 
 Jack laughs, nods.  He shakes his head, drinks.
 
-                TYLER
-    But maybe, just maybe, you've been
-    delivered.
+				 TYLER
+	 But maybe, just maybe, you've been
+	 delivered.
 
-                JACK
-        (toasts)
-    Delivered from Swedish furniture.
+				 JACK
+		   (toasts)
+	 Delivered from Swedish furniture.
 
-                TYLER
-    Delivered from armchairs in obscure
-    green stripe patterns.
+				 TYLER
+	 Delivered from armchairs in obscure
+	 green stripe patterns.
 
-                JACK
-    Delivered from Martha Stewart.
+				 JACK
+	 Delivered from Martha Stewart.
 
-                TYLER
-    Delivered from bullshit colors like
-    "Cobalt," "Ebony," and "Fuchsia."
+				 TYLER
+	 Delivered from bullshit colors like
+	 "Cobalt," "Ebony," and "Fuchsia."
 
 They laugh together.  Then, silence.  They drink.
 
-                JACK
-    Insurance'll cover it.
+				 JACK
+	 Insurance'll cover it.
 
-                TYLER
-    Oh, yeah, you gotta start making the
-    list.
+				 TYLER
+	 Oh, yeah, you gotta start making the
+	 list.
 
-                JACK
-    What list?
+				 JACK
+	 What list?
 
-                TYLER
-    The "now I get to go out and buy the
-    exact same stuff all over again"
-    list.  That list.
+				 TYLER
+	 The "now I get to go out and buy the
+	 exact same stuff all over again"
+	 list.  That list.
 
-                JACK
-    I don't... think so.
+				 JACK
+	 I don't... think so.
 
-                TYLER
-    This time maybe get a widescreen TV.
-    You'll be occupied for weeks.
+				 TYLER
+	 This time maybe get a widescreen TV.
+	 You'll be occupied for weeks.
 
-                JACK
-    Well, I have to file a claim...
+				 JACK
+	 Well, I have to file a claim...
 
-                TYLER
-    The things you own, they end up
-    owning you.
+				 TYLER
+	 The things you own, they end up
+	 owning you.
 
-                JACK
-    Don't I?
+				 JACK
+	 Don't I?
 
-                TYLER
-    Do what you like.
+				 TYLER
+	 Do what you like.
 
-                JACK
-        (looks at watch)
-    God, it's late.  I should find a
-    hotel...
+				 JACK
+		   (looks at watch)
+	 God, it's late.  I should find a
+	 hotel...
 
-                TYLER
-    A hotel?
+				 TYLER
+	 A hotel?
 
-                JACK
-    Yeah.
+				 JACK
+	 Yeah.
 
-                TYLER
-    So, you called me up, because you
-    just wanted to have a drink before
-    you... go find a hotel?
+				 TYLER
+	 So, you called me up, because you
+	 just wanted to have a drink before
+	 you... go find a hotel?
 
-                JACK
-    I don't follow...
+				 JACK
+	 I don't follow...
 
-                TYLER
-    We're on our third pitcher of beer.
-    Just ask me.
+				 TYLER
+	 We're on our third pitcher of beer.
+	 Just ask me.
 
-                JACK
-    Huh?
+				 JACK
+	 Huh?
 
-                TYLER
-    You called me so you could have a
-    place to stay.
+				 TYLER
+	 You called me so you could have a
+	 place to stay.
 
-                JACK
-    No, I...
+				 JACK
+	 No, I...
 
-                TYLER
-    Why don't you cut the shit and ask if
-    you can stay at my place?
+				 TYLER
+	 Why don't you cut the shit and ask if
+	 you can stay at my place?
 
-                JACK
-    Would that be a problem?
+				 JACK
+	 Would that be a problem?
 
-                TYLER
-    Is it a problem for you to ask?
+				 TYLER
+	 Is it a problem for you to ask?
 
-                JACK
-    Can I stay at your place?
+				 JACK
+	 Can I stay at your place?
 
-                TYLER
-    Yes, you can.
+				 TYLER
+	 Yes, you can.
 
-                JACK
-    Thank you.
+				 JACK
+	 Thank you.
 
-                TYLER
-    You're welcome.  But, I want you to
-    do me one favor.
+				 TYLER
+	 You're welcome.  But, I want you to
+	 do me one favor.
 
-                JACK
-    What's that?
+				 JACK
+	 What's that?
 
-                TYLER
-    I want you to hit me as hard as you
-    can.
+				 TYLER
+	 I want you to hit me as hard as you
+	 can.
 
-                JACK
-    What?
+				 JACK
+	 What?
 
-                TYLER
-    I want you to hit me as hard as you
-    can.
+				 TYLER
+	 I want you to hit me as hard as you
+	 can.
 
 Freeze picture.
 
-                JACK (V.O.)
-    Let me tell you a little bit about
-    Tyler Durden.
+				 JACK (V.O.)
+	 Let me tell you a little bit about
+	 Tyler Durden.
 
 EXTREME CLOSE-UP - FILM FRAME
 
@@ -1868,46 +1868,46 @@ Jack, in the foreground, FACES CAMERA.  In the BACKGROUND,
 Tyler sits at a bench, looking at individual FRAMES cut from
 movies.  Near him, a PROJECTOR rolls film.
 
-                JACK
-    Tyler was a night person.  He
-    sometimes worked as a projectionist.
-    A movie doesn't come in one big reel,
-    it's on a few.  In old theaters, two
-    projectors are used, so someone has
-    to change projectors at the exact
-    second when one reel ends and
-    another reel begins.  Sometimes you
-    can see two dots on screen in the
-    upper right hand corner...
+				 JACK
+	 Tyler was a night person.  He
+	 sometimes worked as a projectionist.
+	 A movie doesn't come in one big reel,
+	 it's on a few.  In old theaters, two
+	 projectors are used, so someone has
+	 to change projectors at the exact
+	 second when one reel ends and
+	 another reel begins.  Sometimes you
+	 can see two dots on screen in the
+	 upper right hand corner...
 
 Tyler points to the side of OUR FRAME and the TWO DOTS
 briefly APPEAR ONSCREEN.
 
-                TYLER
-    They're called "cigarette burns."
+				 TYLER
+	 They're called "cigarette burns."
 
-                JACK
-    It's called a "changeover."  The
-    movie goes on, and nobody in the
-    audience has any idea.
+				 JACK
+	 It's called a "changeover."  The
+	 movie goes on, and nobody in the
+	 audience has any idea.
 
-                TYLER
-    Why would anyone want this shitty job?
+				 TYLER
+	 Why would anyone want this shitty job?
 
-                JACK
-    It affords him other interesting
-    opportunities.
+				 JACK
+	 It affords him other interesting
+	 opportunities.
 
-                TYLER
-    -- Like splicing single frames from
-    adult movies into family films.
+				 TYLER
+	 -- Like splicing single frames from
+	 adult movies into family films.
 
-                JACK
-    In reel three, right after the
-    courageous dog and the snooty cag --
-    who have celebrity voices -- eat out
-    of a garbage can, there's the flash
-    of Tyler's contribution...
+				 JACK
+	 In reel three, right after the
+	 courageous dog and the snooty cag --
+	 who have celebrity voices -- eat out
+	 of a garbage can, there's the flash
+	 of Tyler's contribution...
 
 In the AUDIENCE, CHILDREN suddenly start squirming,
 confused, looking at each other.
@@ -1918,29 +1918,29 @@ back in his seat.
 
 Jack and Tyler watch from the projection booth window.
 
-                TYLER
-    One-forty-eighth of a second.  That's
-    how long it's up there.
+				 TYLER
+	 One-forty-eighth of a second.  That's
+	 how long it's up there.
 
-                JACK
-    No one really knows that they've seen it.
-    But they did.
+				 JACK
+	 No one really knows that they've seen it.
+	 But they did.
 
-                TYLER
-    A nice, big cock.
+				 TYLER
+	 A nice, big cock.
 
-                JACK
-    Only a hummingbird could have caught
-    Tyler at work.
+				 JACK
+	 Only a hummingbird could have caught
+	 Tyler at work.
 
 INT. LARGE BANQUET HALL - NIGHT
 
 Tyler moves around one of many tables, setting down SOUP
 BOWLS.  Jack stands in the same position, FACING CAMERA.
 
-                JACK
-    Tyler also worked as a banquet waiter
-    at the luxurious Pressman Hotel.
+				 JACK
+	 Tyler also worked as a banquet waiter
+	 at the luxurious Pressman Hotel.
 
 The GUESTS command the WAITERS with snaps of fingers.
 
@@ -1950,110 +1950,110 @@ Jack turns and WE PAN to Tyler, standing by a CART with a
 giant SOUP TUREEN.  His hands are at his open fly and he's
 in position to piss into the soup.
 
-                JACK
-    He was the guerrilla terrorist of the
-    food service industry.
+				 JACK
+	 He was the guerrilla terrorist of the
+	 food service industry.
 
-                TYLER
-    Don't watch.  I can't if you watch.
+				 TYLER
+	 Don't watch.  I can't if you watch.
 
 Jack waits.  The SOUND of a STREAM of LIQUID is HEARD.
 
-                TYLER
-    ... Oh, yeah.  Oh, yeah.
+				 TYLER
+	 ... Oh, yeah.  Oh, yeah.
 
-                JACK
-    He farted on meringue; he sneezed on
-    braised endive; and, with creme of
-    mushroom soup, well...
+				 JACK
+	 He farted on meringue; he sneezed on
+	 braised endive; and, with creme of
+	 mushroom soup, well...
 
-                TYLER (O.S.)
-    Go ahead.  Say it.
+				 TYLER (O.S.)
+	 Go ahead.  Say it.
 
-                JACK
-    You get the idea.
+				 JACK
+	 You get the idea.
 
 EXT. PARKING LOT OF TAVERN - RESUMING
 
 Tyler and Jack come out the back door.
 
-                JACK
-    I don't know about this.
+				 JACK
+	 I don't know about this.
 
-                TYLER
-    I don't know, either.  I want to find
-    out.  I've never been hit, have you?
+				 TYLER
+	 I don't know, either.  I want to find
+	 out.  I've never been hit, have you?
 
-                JACK
-    No.  That's a good thing, isn't it?
+				 JACK
+	 No.  That's a good thing, isn't it?
 
-                TYLER
-    I don't want to die without any
-    scars.  How much can you really know
-    about yourself if you've never been
-    in a fight?  Come on... you're the
-    only person I've ever asked.
+				 TYLER
+	 I don't want to die without any
+	 scars.  How much can you really know
+	 about yourself if you've never been
+	 in a fight?  Come on... you're the
+	 only person I've ever asked.
 
-                JACK
-    Me?
+				 JACK
+	 Me?
 
 Jack stares at him.
 
-                TYLER
-    Why not you?  I'm letting you go
-    first.  Do it.
+				 TYLER
+	 Why not you?  I'm letting you go
+	 first.  Do it.
 
-                JACK
-    This is crazy.
+				 JACK
+	 This is crazy.
 
-                TYLER
-    Alright, go crazy.  Let 'er rip.
+				 TYLER
+	 Alright, go crazy.  Let 'er rip.
 
-                JACK
-    Where do you want it?  In the face?
+				 JACK
+	 Where do you want it?  In the face?
 
-                TYLER
-    Surprise me.
+				 TYLER
+	 Surprise me.
 
 Jack swings a wide, clumsy roundhouse -- hits Tyler's
 neck -- makes a dull, flat sound.
 
-                JACK
-    Shit.  Sorry.  That didn't count.
+				 JACK
+	 Shit.  Sorry.  That didn't count.
 
-                TYLER
-    Like hell.  That counted.
+				 TYLER
+	 Like hell.  That counted.
 
 Tyler shoots out a straight punch to Jack's chest.  Jack
 falls back against a car.  His eyes tear up.
 
-                TYLER
-    How do you feel?
+				 TYLER
+	 How do you feel?
 
-                JACK
-    Strange.
+				 JACK
+	 Strange.
 
-                TYLER
-    But a good strange.
+				 TYLER
+	 But a good strange.
 
-                JACK
-    Is it?
+				 JACK
+	 Is it?
 
-                TYLER
-    We've crossed the threshold.  You
-    want to call it off?
+				 TYLER
+	 We've crossed the threshold.  You
+	 want to call it off?
 
-                JACK
-    Call what off?
+				 JACK
+	 Call what off?
 
-                TYLER
-    The fight.
+				 TYLER
+	 The fight.
 
-                JACK
-    What fight?
+				 JACK
+	 What fight?
 
-                TYLER
-    This fight, pussy.
+				 TYLER
+	 This fight, pussy.
 
 Jack swings another roundhouse that slams right under
 Tyler's ear.  Tyler punches Jack in the stomach.  Tyler and
@@ -2066,66 +2066,66 @@ Jack and Tyler sit on the curb, watching sparse headlights
 on the nearby freeway.  Their eyes are glazed with endorphin-
 induced serenity.  They look at each other, laugh.  Look away.
 
-                TYLER
-    If you could fight anyone... one on
-    one, whoever you wanted, who would
-    you fight?
+				 TYLER
+	 If you could fight anyone... one on
+	 one, whoever you wanted, who would
+	 you fight?
 
-                JACK
-    Anyone?
+				 JACK
+	 Anyone?
 
-                TYLER
-    Anyone.
+				 TYLER
+	 Anyone.
 
 Jack thinks.
 
-                JACK
-    My boss, probably.
-        (pause)
-    Who would you fight?
+				 JACK
+	 My boss, probably.
+		   (pause)
+	 Who would you fight?
 
-                TYLER
-    My dad.  No question.
+				 TYLER
+	 My dad.  No question.
 
 A long pause as Jack studies Tyler's face.
 
-                JACK
-    Oh, yeah.
-        (nodding)
-    I didn't know my dad.  Well, I knew
-    him, till I was six.  He went and
-    married another woman, had more kids.
-    Every six years or so he'd do it
-    again -- new city, new family.
+				 JACK
+	 Oh, yeah.
+		   (nodding)
+	 I didn't know my dad.  Well, I knew
+	 him, till I was six.  He went and
+	 married another woman, had more kids.
+	 Every six years or so he'd do it
+	 again -- new city, new family.
 
-                TYLER
-    He was setting up franchises.  My
-    father never went to college, so it
-    was really important that I go.
+				 TYLER
+	 He was setting up franchises.  My
+	 father never went to college, so it
+	 was really important that I go.
 
-                JACK
-    I know that.
+				 JACK
+	 I know that.
 
-                TYLER
-    After I graduated, I called him long
-    distance and asked, "Now what?"  He
-    said, "Get a job."  When I turned
-    twenty-five, I called him and asked,
-    "Now what?"  He said, "I don't know.
-    Get married."
+				 TYLER
+	 After I graduated, I called him long
+	 distance and asked, "Now what?"  He
+	 said, "Get a job."  When I turned
+	 twenty-five, I called him and asked,
+	 "Now what?"  He said, "I don't know.
+	 Get married."
 
-                JACK
-    Same here.
+				 JACK
+	 Same here.
 
-                TYLER
-    A generation of men raised by women.
-    I'm wondering if another woman is the
-    answer we really need.
+				 TYLER
+	 A generation of men raised by women.
+	 I'm wondering if another woman is the
+	 answer we really need.
 
 Another pause.  Jack feels his bleeding lip, smiles.
 
-                JACK
-    We should do this again sometime.
+				 JACK
+	 We should do this again sometime.
 
 Tyler cracks a smile, give a sidelong glance to Jack.
 
@@ -2136,35 +2136,35 @@ side, facing a lone HOUSE on the other.  The rest of the
 land is grass and weeds.  It's a grand, old three-story,
 long abandoned.  Tyler leads Jack toward it.
 
-                JACK
-    Where's your car?
+				 JACK
+	 Where's your car?
 
-                TYLER
-    What car?
+				 TYLER
+	 What car?
 
-                JACK (V.O.)
-    I don't know how Tyler found the
-    house, but he'd been there for half
-    a year.
+				 JACK (V.O.)
+	 I don't know how Tyler found the
+	 house, but he'd been there for half
+	 a year.
 
 INT. PAPER ST. HOUSE - ENTRANCE -- NIGHT
 
 Tyler leads Jack through the FRONT DOOR...
 
-                JACK (V.O.)
-    It looked like it was waiting to be
-    torn down.  Most of the windows were
-    boarded up.
+				 JACK (V.O.)
+	 It looked like it was waiting to be
+	 torn down.  Most of the windows were
+	 boarded up.
 
 INT. PAPER ST. HOUSE - LIVING ROOM - MOMENT LATER
 
 Tyler and Jack climb CREAKY STAIRS to the 2ND FLOOR LANDING.
 
-                JACK (V.O.)
-    None of the doors locked.  The stairs
-    were ready to collapse.  I didn't
-    know if he owned it or he was
-    squatting.
+				 JACK (V.O.)
+	 None of the doors locked.  The stairs
+	 were ready to collapse.  I didn't
+	 know if he owned it or he was
+	 squatting.
 
 Tyler opens the door to a ROOM...
 
@@ -2172,18 +2172,18 @@ INT. ROOM - CONTINUOUS
 
 Jack enters, stis on the creaky BED.  Dust drifts upwards.
 
-                JACK (V.O.)
-    Neither would have surprised me.
+				 JACK (V.O.)
+	 Neither would have surprised me.
 
 INT. SHOWER - MORNING
 
 Jack turns on the water.  LOUD VIBRATIONS from the walls.
 Water spits in starts.
 
-                JACK (V.O.)
-    Nothing worked.  The rusty plumbing
-    leaked.  Turning on a light meant
-    another light in the house went out.
+				 JACK (V.O.)
+	 Nothing worked.  The rusty plumbing
+	 leaked.  Turning on a light meant
+	 another light in the house went out.
 
 EXT. LOU'S TAVERN PARKING LOT - NIGHT
 
@@ -2197,20 +2197,20 @@ with a wire-mesh strainer.  Tyler shuffles in, wearing a
 flannel bathrobe.  He spears pieces of bread on a fork,
 starts roasting them over a burner.
 
-                JACK (V.O.)
-    There were no neighbors.  Just
-    warehouses and the paper mill.  The
-    fart smell of steam, the hamster cage
-    smell of wood chips.
+				 JACK (V.O.)
+	 There were no neighbors.  Just
+	 warehouses and the paper mill.  The
+	 fart smell of steam, the hamster cage
+	 smell of wood chips.
 
 EXT. PAPER ST. HOUSE - NIGHT
 
 Jack sits watching as Tyler SWINGS an old GOLF CLUB --
 THWACK -- sends a golf ball soaring down the desolate street.
 
-                JACK (V.O.)
-    At night, Tyler and I were alone for
-    half a mile in every direction.
+				 JACK (V.O.)
+	 At night, Tyler and I were alone for
+	 half a mile in every direction.
 
 EXT. LOU'S TAVERN PARKING LOT - NIGHT
 
@@ -2223,12 +2223,12 @@ Jack sits on basement stairs, watching as Tyler, knee-deep
 in water, works at an open FUSEBOX, flipping breakers in a
 certain order, showing Jack how it's done.
 
-                JACK (V.O.)
-    When it rained, we had to kill the
-    power.  By the end of the first
-    month, I didn't care about TV.  I
-    didn't mind the warm, stale
-    refrigerator.
+				 JACK (V.O.)
+	 When it rained, we had to kill the
+	 power.  By the end of the first
+	 month, I didn't care about TV.  I
+	 didn't mind the warm, stale
+	 refrigerator.
 
 INT. READING ROOM - NIGHT
 
@@ -2236,50 +2236,50 @@ CANDLES BURN.  Tyler and Jack are seated across from each
 other on the buckled floor, reading MAGAZINES.  Rain DRIPS
 from the ceiling.  No furniture.  THOUSANDS of MAGAZINES.
 
-                JACK (V.O.)
-    The previous occupant had been a bit
-    of a shut-in.
+				 JACK (V.O.)
+	 The previous occupant had been a bit
+	 of a shut-in.
 
-                TYLER
-        (of magazine)
-    Hum.
+				 TYLER
+		   (of magazine)
+	 Hum.
 
-                JACK
-    What?
+				 JACK
+	 What?
 
-                TYLER
-    Oh, a new riot control grenade...
-        (reading)
-    "...the successful combination of
-    concussive, 3000 foot-candle flash-
-    blasts and simultaneous high-velocity
-    disbursement of...blah, blah, blah..."
+				 TYLER
+	 Oh, a new riot control grenade...
+		   (reading)
+	 "...the successful combination of
+	 concussive, 3000 foot-candle flash-
+	 blasts and simultaneous high-velocity
+	 disbursement of...blah, blah, blah..."
 
 Tyler begins RIPPING the ARTICLE from his magazine.
 
-                JACK
-        ("Reader's Digest")
-    "I am Joe's Lungs."  It's written in
-    first person.  "Without me, Joe could
-    not take in oxygen to feed his red
-    blood cells."  There's a whole
-    series -- "I am Joe's Prostate."
+				 JACK
+		   ("Reader's Digest")
+	 "I am Joe's Lungs."  It's written in
+	 first person.  "Without me, Joe could
+	 not take in oxygen to feed his red
+	 blood cells."  There's a whole
+	 series -- "I am Joe's Prostate."
 
-                TYLER
-    "I get cancer, and I kill Joe."
+				 TYLER
+	 "I get cancer, and I kill Joe."
 
 Tyler tosses his article in a pile of other articles,
 chooses another magazine.
 
-                JACK
-    What are you reading?
+				 JACK
+	 What are you reading?
 
-                TYLER
-    Soldier of Fortune.  Business Week.
-    New Republic.
+				 TYLER
+	 Soldier of Fortune.  Business Week.
+	 New Republic.
 
-                JACK
-    Show-off.
+				 JACK
+	 Show-off.
 
 EXT. LOU'S TAVERN PARKING LOT - NIGHT
 
@@ -2287,10 +2287,10 @@ All the lights are off.  Jack and Tyler stand amidst FIFTEEN
 GUYS around TWO GUYS FIGHTING.  The crowd YELLS MORE WILDLY
 than before.  In the background are EIGHT PARKED CARS.
 
-                JACK (V.O.)
-    I should have been haggling with my
-    insurance company.  I should have
-    been looking for a new condo...
+				 JACK (V.O.)
+	 I should have been haggling with my
+	 insurance company.  I should have
+	 been looking for a new condo...
 
 EXT. STREET - NIGHT
 
@@ -2298,14 +2298,14 @@ Jack walks along.  He stops, looking at a CHURCH with
 SUPPORT-GROUP-PEOPLE milling around the entrance, drinking
 coffee and sodas.  Marla's there, amongst them, smoking.
 
-                JACK (V.O.)
-    .... I should have been upset about
-    my nice, neat, flaming little shit.
+				 JACK (V.O.)
+	 .... I should have been upset about
+	 my nice, neat, flaming little shit.
 
 Jack's face shows no reaction.  He continues to walk.
 
-                JACK (V.O.)
-    But I wasn't.
+				 JACK (V.O.)
+	 But I wasn't.
 
 INT. KITCHEN - MORNING
 
@@ -2313,81 +2313,81 @@ Jack, in work clothes, interlocks his fingers and POPS his
 knuckles, picks up a saucepan with coffee and sips.  Tyler,
 in waiter's uniform, comes to have Jack straighten his tie.
 
-                JACK (V.O.)
-    Most of the week, we were Ozzie and
-    Harriet.
+				 JACK (V.O.)
+	 Most of the week, we were Ozzie and
+	 Harriet.
 
 Jack picks up his briefcase and walks out the door.
 
-                JACK (V.O.)
-    But, Wednesday night, ever Wednesday
-    night...
+				 JACK (V.O.)
+	 But, Wednesday night, ever Wednesday
+	 night...
 
 EXT. LOU'S TAVERN PARKING LOT - NIGHT
 
 All the lights are off.  No one around, but there are at
 least TWENTY-FIVE CARS parked in the full lot.
 
-                JACK (V.O.)
-    ... we were finding something out: we
-    were finding out, more and more, that
-    we were not alone.
+				 JACK (V.O.)
+	 ... we were finding something out: we
+	 were finding out, more and more, that
+	 we were not alone.
 
 INT. CONFERENCE ROOM - DAY
 
 A SLIDE SHOW progresses, run by a chipper salesman, WALTER.
 Jack sits, deadpan, with a PUFFY LIP and a BRUISED cheek.
 
-                JACK (V.O.)
-    Thursday mornings, all I could do was
-    think about next week.
+				 JACK (V.O.)
+	 Thursday mornings, all I could do was
+	 think about next week.
 
 Boss gives Jack a dubious look.  Walter's next SLIDE: a
 COMPUTER SCREEN.
 
-                WALTER
-    The basic premise of cyber-netting
-    your office is -- make things more
-    efficient.
+				 WALTER
+	 The basic premise of cyber-netting
+	 your office is -- make things more
+	 efficient.
 
-                BOSS
-    Can I get the icon in cornflower blue?
+				 BOSS
+	 Can I get the icon in cornflower blue?
 
-                WALTER
-    Absolutely.
+				 WALTER
+	 Absolutely.
 
 Walter continues, his sales pitch drowned out by Jack's V.O.:
 
-                JACK (V.O.)
-    Walter, the Microsoft account exec.
-    Walter, with his smooth, soft hands.
-    Maybe he was thinking about the free-
-    range potluck he'd been to last
-    weekend, or his church-group car-wash
-    fund-raiser.  Or, probably not.
+				 JACK (V.O.)
+	 Walter, the Microsoft account exec.
+	 Walter, with his smooth, soft hands.
+	 Maybe he was thinking about the free-
+	 range potluck he'd been to last
+	 weekend, or his church-group car-wash
+	 fund-raiser.  Or, probably not.
 
 Walter moves to Jack and slaps him in the shoulder.
 
-                WALTER
-    I showed this already to my man here.
-    You liked it, didn't you?
+				 WALTER
+	 I showed this already to my man here.
+	 You liked it, didn't you?
 
 Jack smiles.  His teeth are RED with BLOOD.  They GLOW
 eerily in the dim light.
 
-                JACK (V.O.)
-    You can swallow a pint of blood
-    before you get sick.
+				 JACK (V.O.)
+	 You can swallow a pint of blood
+	 before you get sick.
 
-                WALTER
-    Jesus, I'd hate to see what happened
-    to the other guy.
+				 WALTER
+	 Jesus, I'd hate to see what happened
+	 to the other guy.
 
 Jack keeps the smile frozen on his face.
 
-                JACK (V.O.)
-    Screw Walter.  His candy-ass wouldn't
-    last a second Wednesday night.
+				 JACK (V.O.)
+	 Screw Walter.  His candy-ass wouldn't
+	 last a second Wednesday night.
 
 EXT. LOU'S TAVERN - NIGHT
 
@@ -2400,106 +2400,106 @@ INT. LOU'S TAVERN - SAME
 The men, including Jack and Tyler, enter and stand against
 the back wall, waiting.  The bartender, IRVINE, calls out:
 
-                IRVINE
-    Drink up people.  We're closing.
+				 IRVINE
+	 Drink up people.  We're closing.
 
 Irvine flicks on the LIGHTS.  Drunken customers squint and
 get the message.  They plop down money, leaving.
 
-                JACK (V.O.)
-    It was right in everyone's face.
-    Tyler and I just made it visible.
+				 JACK (V.O.)
+	 It was right in everyone's face.
+	 Tyler and I just made it visible.
 
 Irvine hits a button and the JUKEBOX loses power.  Members
 of the waiting army begins to share secret looks.  Finally,
 one buy locks the door.  Two other guys close the blinds.
 
-                JACK (V.O.)
-    It was on the tip of everyone's
-    tongue.  Tyler and I just gave it a
-    name.
+				 JACK (V.O.)
+	 It was on the tip of everyone's
+	 tongue.  Tyler and I just gave it a
+	 name.
 
 INT. TAVERN BASEMENT - SAME
 
 A BOMB-SHELTER.  Concrete walls.  One BARE BULB above, Tyler
 standing directly beneath it.
 
-                TYLER
-    Welcome to fight club.
+				 TYLER
+	 Welcome to fight club.
 
 The guys mill around, finding partners.  Everyone brims with
 eagerness, but tries to act cool.  CHATTER gets LOUDER.
 Everyone spreads out, forming a circle, Tyler at center.
 
-                JACK (V.O.)
-    Every week, Tyler gave the rules that
-    he and I decided.
+				 JACK (V.O.)
+	 Every week, Tyler gave the rules that
+	 he and I decided.
 
 PEAKING CHATTER, till Tyler raises his arms and the CHATTER
 DIES.  A couple of COUGHS, FEET SHUFFLING, then, SILENCE.
 
-                TYLER
-    The first rule of fight club is --
-    you don't talk about fight club.  The
-    second rule of fight club is -- you
-    don't talk about fight club.  The
-    third rule of fight club is -- when
-    someone says "stop" or goes limp, the
-    fight is over.  Fourth rule is --
-    only two guys to a fight.  Fifth
-    rule -- one fight at a time.  Sixth
-    rule -- no shirts, no shoes.  Seventh
-    rule -- fights go on as long as they
-    have to.  And the eighth and final
-    rule -- if this is your first night
-    at fight club, you have to fight.
+				 TYLER
+	 The first rule of fight club is --
+	 you don't talk about fight club.  The
+	 second rule of fight club is -- you
+	 don't talk about fight club.  The
+	 third rule of fight club is -- when
+	 someone says "stop" or goes limp, the
+	 fight is over.  Fourth rule is --
+	 only two guys to a fight.  Fifth
+	 rule -- one fight at a time.  Sixth
+	 rule -- no shirts, no shoes.  Seventh
+	 rule -- fights go on as long as they
+	 have to.  And the eighth and final
+	 rule -- if this is your first night
+	 at fight club, you have to fight.
 
 Tyler steps back.  A short guy, RICKY, and a GOATEED MAN
 take off shirts and shoes and step to the center.
 
-                JACK (V.O.)
-    This kid, Ricky -- supply clerk --
-    couldn't remember whether you ordered
-    pens with blue ink or black ink ...
+				 JACK (V.O.)
+	 This kid, Ricky -- supply clerk --
+	 couldn't remember whether you ordered
+	 pens with blue ink or black ink ...
 
 The two fighters circle, then begin throwing PUNCHES...
 
-                JACK (V.O.)
-    But Ricky was a god for ten minutes
-    last week when he trounced an actuary
-    twice his size.
+				 JACK (V.O.)
+	 But Ricky was a god for ten minutes
+	 last week when he trounced an actuary
+	 twice his size.
 
 Harder, faster PUNCHES between the two.  SWEAT flies.
 SHOUTS become DEAFENING.  Ricky's getting the best of
 Goateed Man, POUNDING him...
 
-                JACK (V.O.)
-    Sometimes all you could hear were
-    flat, hard packing sounds over the
-    yelling, or the wet choke when
-    someone caught their breath and
-    sprayed...
+				 JACK (V.O.)
+	 Sometimes all you could hear were
+	 flat, hard packing sounds over the
+	 yelling, or the wet choke when
+	 someone caught their breath and
+	 sprayed...
 
-                GOATEED MAN
-        (spittle-lipped)
-    Ssssstop... !
+				 GOATEED MAN
+		   (spittle-lipped)
+	 Ssssstop... !
 
 INT. OFFICE PARK RESTAURANT - DAY
 
 Jack, eating lunch, watches the BROKEN-NOSED WAITER with a
 GOATEE -- from the above fight -- converse with a MAITRE D'.
 
-                JACK (V.O.)
-    Even if I could tell someone they had
-    a good fight, I wouldn't be talking
-    to the same man.
+				 JACK (V.O.)
+	 Even if I could tell someone they had
+	 a good fight, I wouldn't be talking
+	 to the same man.
 
 The Goateed Waiter approaches Jack and sets a refill soda
 down on the table.  The two of them briefly make eye contact.
 
-                JACK (V.O.)
-    Who you were in fight club is not who
-    you were in the rest of the world.
+				 JACK (V.O.)
+	 Who you were in fight club is not who
+	 you were in the rest of the world.
 
 INT. PHOTOCOPY ROOM - DAY
 
@@ -2507,12 +2507,12 @@ Jack stands over a copy machine, hit by flashes of light.
 He glances over his shoulder, watches Ricky, wearing an
 apron, push a supply cart.  Ricks nods at Jack.
 
-                JACK (V.O.)
-    You weren't alive anywhere like you
-    were there.  But fight club only
-    exists in the hours between when
-    fight club starts and when fight club
-    ends.
+				 JACK (V.O.)
+	 You weren't alive anywhere like you
+	 were there.  But fight club only
+	 exists in the hours between when
+	 fight club starts and when fight club
+	 ends.
 
 INT. JACK'S OFFICE - DAY
 
@@ -2520,59 +2520,59 @@ Jack, playing SOLITAIRE on his computer, daubs blood from
 his mouth with a handkerchief.  Boss, passing by the
 doorway, looks in at Jack, irritated.
 
-                BOSS
-    What are you getting yourself into
-    every week?
+				 BOSS
+	 What are you getting yourself into
+	 every week?
 
 Jack keeps playing Solitaire.  Boss enters, folds his arms.
 
-                JACK (V.O.)
-    After fight club, everything else in
-    your life gets the volume turned
-    down.  You can deal with anything.
+				 JACK (V.O.)
+	 After fight club, everything else in
+	 your life gets the volume turned
+	 down.  You can deal with anything.
 
-                BOSS
-    Have you finished those reports?
+				 BOSS
+	 Have you finished those reports?
 
-                JACK
-        (handing him reports)
-    Yes.
+				 JACK
+		   (handing him reports)
+	 Yes.
 
-                JACK (V.O.)
-    The people who had power over you
-    have less and less.
+				 JACK (V.O.)
+	 The people who had power over you
+	 have less and less.
 
 Jack looks at Boss.  Reflexively, Jack's tongue plays with
 his teeth.
 
-                JACK (V.O.)
-    By this point, I could wiggle most of
-    the teeth in my jaw.
+				 JACK (V.O.)
+	 By this point, I could wiggle most of
+	 the teeth in my jaw.
 
 EXT. STREET - DUSK
 
 Tyler and Jack walk, both smoking cigarettes.
 
-                JACK (V.O.)
-    A guy came to fight club for the
-    first time, his ass was a wad of
-    cookie dough.  After a few weeks, he
-    was carved out of wood.
+				 JACK (V.O.)
+	 A guy came to fight club for the
+	 first time, his ass was a wad of
+	 cookie dough.  After a few weeks, he
+	 was carved out of wood.
 
-                JACK
-    If you could fight any celebrity?
+				 JACK
+	 If you could fight any celebrity?
 
-                TYLER
-    Alive or dead?
+				 TYLER
+	 Alive or dead?
 
-                JACK
-    Doesn't matter.
+				 JACK
+	 Doesn't matter.
 
-                TYLER
-    Hemingway.  You?
+				 TYLER
+	 Hemingway.  You?
 
-                JACK
-    Shatner.  William Shatner.
+				 JACK
+	 Shatner.  William Shatner.
 
 They reach a BUS STOP as a BUS arrives, tossing their
 cigarettes, getting on board...
@@ -2582,39 +2582,39 @@ INT. BUS - DUSK
 The bus is crowded.  As Tyler and Jack walk toward the back,
 Jack studies the faces of OTHER PASSENGERS...
 
-                JACK (V.O.)
-    We all started seeing things
-    differently.  Wherever we went.
+				 JACK (V.O.)
+	 We all started seeing things
+	 differently.  Wherever we went.
 
 They hold hand grips.  Jack looks up at an ADVERTISEMENT; a
 CALVIN KLEIN ad featuring a tan, bare-chested MUSCLE STUD.
 
-                JACK (V.O.)
-    I felt sorry for all the guys packing
-    into gyms, trying to look like what
-    Calvin Klein and Tommy Hilfiger said
-    they should.
+				 JACK (V.O.)
+	 I felt sorry for all the guys packing
+	 into gyms, trying to look like what
+	 Calvin Klein and Tommy Hilfiger said
+	 they should.
 
 Tyler looks at Jack, looks at the C.K. advertisement.
 
-                TYLER
-    Self-improvement is masturbation.
-    Self-destruction is the answer.
+				 TYLER
+	 Self-improvement is masturbation.
+	 Self-destruction is the answer.
 
 A MAN in a suit KNOCKS Tyler's shoulder as he passes.  The
 Man takes a handle, close by.  Jack's pissed, staring at the
 man, who stares back.
 
-                JACK
-        (to Tyler, so the
-        Man can hear)
-    You could take him.
+				 JACK
+		   (to Tyler, so the
+			Man can hear)
+	 You could take him.
 
 Tyler looks to Jack, glances over his shoulder at the Man.
 Tyler casually picks a small scab off Jack's nostril.
 
-                TYLER
-    The trick is not to care.
+				 TYLER
+	 The trick is not to care.
 
 Tyler stares forward.
 
@@ -2628,7 +2628,7 @@ Tyler and the Opponent wrestle desperately, and Tyler flips
 his attacker, gets on top, sprawling to pin him.  Tyler
 turns -- starts reining PUNCHES into the Opponent's GROIN...
 
-                                        CUT TO:
+										  CUT TO:
 
 Jack lands a couple of BLOWS to HIS OPPONENT'S stomach --
 brings up a left uppercut that smashes the Opponent's jaw.
@@ -2637,63 +2637,63 @@ Tiny spatters of BLOOD adorn the walls, along with sweat.
 Jack catches sight of a swollen-faced Tyler, watching
 appreciatively, a smile growing slowly on his face.
 
-                JACK (V.O.)
-    Fight club wasn't about winning or
-    losing.  It wasn't about words.
+				 JACK (V.O.)
+	 Fight club wasn't about winning or
+	 losing.  It wasn't about words.
 
 The Opponent recovers, throws a headlock on Jack.  Jack
 snakes his arm into a counter headlock.  They wrestle like
 wild animals.  The crowd CHEERS maniacally.
 
-                JACK (V.O.)
-    They hysterical shouting was in
-    tongues, like at a Pentecostal church.
+				 JACK (V.O.)
+	 They hysterical shouting was in
+	 tongues, like at a Pentecostal church.
 
 Onlookers kneel to stay with the fight, cheering LOUDER.
 The Opponent SMASHES Jack's head to the floor, over and over.
 
-                JACK
-    ... stop...
+				 JACK
+	 ... stop...
 
-                JACK (V.O.)
-    When the fight was over, nothing was
-    solved, but nothing mattered.
+				 JACK (V.O.)
+	 When the fight was over, nothing was
+	 solved, but nothing mattered.
 
 Everyone moves in as the Opponent steps away.  Tyler pushes
 through the crowd.  Others lift Jack up.  They turn their
 attention to the floor, to a BLOOD MASK of Jack's face --
 similar to the TEAR MASK on BOB'S SHIRT.
 
-                TYLER
-    Cool.
+				 TYLER
+	 Cool.
 
 Jack limply shakes his Opponent's hand.
 
-                OPPONENT
-    How about next week?
+				 OPPONENT
+	 How about next week?
 
-                JACK
-    Look at me.  How about next month?
+				 JACK
+	 Look at me.  How about next month?
 
 Everyone helps Jack walk.  He's sweating, bleeding, smiling.
 
-                JACK (V.O.)
-    Afterwards, we all felt saved.
+				 JACK (V.O.)
+	 Afterwards, we all felt saved.
 
 INT. HOSPITAL EMERGENCY ROOM - NIGHT
 
 A NURSE tends to Jack while Tyler watches.
 
-                TYLER
-    He fell down some stairs.
+				 TYLER
+	 He fell down some stairs.
 
 The Nurse doesn't look at Tyler, just keeps tending to Jack.
 
-                JACK
-    I fell down some stairs.
+				 JACK
+	 I fell down some stairs.
 
-                JACK (V.O.)
-    Sometimes Tyler spoke for me.
+				 JACK (V.O.)
+	 Sometimes Tyler spoke for me.
 
 INT. PAPER ST. HOUSE - BATHROOM - MORNING
 
@@ -2701,33 +2701,33 @@ Tyler and Jack share the cracked MIRROR.  Tyler's clipping
 at his hair with blunt, ill-suited SCISSORS.  Jack's
 brushing his teeth, spitting out pink foam.
 
-                JACK (V.O.)
-    Fight club became the reason to cut
-    your hair short and trim your
-    fingernails.
+				 JACK (V.O.)
+	 Fight club became the reason to cut
+	 your hair short and trim your
+	 fingernails.
 
-                TYLER
-    Any historical figure.
+				 TYLER
+	 Any historical figure.
 
-                JACK
-    Okay... Ghandi.
+				 JACK
+	 Okay... Ghandi.
 
-                TYLER
-    Good answer.
+				 TYLER
+	 Good answer.
 
-                JACK
-    You?
+				 JACK
+	 You?
 
-                TYLER
-    Abe Lincoln.  Big reach.  Skinny guys
-    fight till they're burger.
+				 TYLER
+	 Abe Lincoln.  Big reach.  Skinny guys
+	 fight till they're burger.
 
 Jack reaches in his mouth, exploring, pulls -- yanks a
 TOOTH.  Jack looks at it.  Tyler puts scissors down, done.
 
-                TYLER
-    Remember, even the Mona Lisa's
-    falling apart.
+				 TYLER
+	 Remember, even the Mona Lisa's
+	 falling apart.
 
 Jack drops the tooth in the sink with Tyler's hair.
 
@@ -2735,8 +2735,8 @@ INT. PAPER ST. HOUSE - KITCHEN - LATE AFTERNOON
 
 Jack enters, buttoning his shirt.  The PHONE RINGS.
 
-                JACK
-    Hello?
+				 JACK
+	 Hello?
 
 INTERCUT WITH...
 
@@ -2745,86 +2745,86 @@ INT. MARLA'S BUILDING, HALLWAY - SAME
 Marla's in the HALL, on the PAYPHONE, twisting the phone
 cord around her neck.
 
-                MARLA
-    Where have you been the last few
-    weeks?
+				 MARLA
+	 Where have you been the last few
+	 weeks?
 
-                JACK
-    Marla?
+				 JACK
+	 Marla?
 
 Jack looks through the archway and sees Tyler, in his gummy
 flannel bathrobe, doing sit-ups.  Jack leans, cups the phone.
 
-                JACK
-        (quietly)
-    How did you find me?
+				 JACK
+		   (quietly)
+	 How did you find me?
 
-                MARLA
-    The forwarding number.  I haven't
-    seen you at any support groups.
+				 MARLA
+	 The forwarding number.  I haven't
+	 seen you at any support groups.
 
-                JACK
-    That's the idea -- we split them.
+				 JACK
+	 That's the idea -- we split them.
 
-                MARLA
-    You haven't been going to yours.
+				 MARLA
+	 You haven't been going to yours.
 
-                JACK
-    I found a new one.
+				 JACK
+	 I found a new one.
 
-                MARLA
-    Really?
+				 MARLA
+	 Really?
 
-                JACK
-    It's for men.
+				 JACK
+	 It's for men.
 
-                MARLA
-    Like testicular cancer?
+				 MARLA
+	 Like testicular cancer?
 
-                JACK
-    Look, this is a bad time...
+				 JACK
+	 Look, this is a bad time...
 
-                MARLA
-    I've been going to debtor's
-    anonymous.  You want to see some
-    truly fucked up people?
+				 MARLA
+	 I've been going to debtor's
+	 anonymous.  You want to see some
+	 truly fucked up people?
 
-                JACK
-    I'm just on my way out...
+				 JACK
+	 I'm just on my way out...
 
-                MARLA
-    Me too.  I got a stomach full of
-    Xanax.  I took what was left of a
-    bottle.  Might've been too much.
+				 MARLA
+	 Me too.  I got a stomach full of
+	 Xanax.  I took what was left of a
+	 bottle.  Might've been too much.
 
 Jack looks exasperated, turns TO LOOK INTO THE CAMERA.
 
-                JACK (V.O.)
-    Picture yourself watching Marla
-    Singer throw herself around her
-    crummy apartment.
+				 JACK (V.O.)
+	 Picture yourself watching Marla
+	 Singer throw herself around her
+	 crummy apartment.
 
-                MARLA
-    This isn't a for-real suicide thing.
-    This is probably one of those cry-for-
-    help things.
+				 MARLA
+	 This isn't a for-real suicide thing.
+	 This is probably one of those cry-for-
+	 help things.
 
-                JACK (V.O.)
-    This could go on for hours.
+				 JACK (V.O.)
+	 This could go on for hours.
 
-                JACK
-    So you're staying in tonight?
+				 JACK
+	 So you're staying in tonight?
 
-                MARLA
-    Do you want to wait to hear me
-    describe death?
+				 MARLA
+	 Do you want to wait to hear me
+	 describe death?
 
 Jack puts the handset on top of the phone, still off the
 hook, walks out the back door.
 
-                MARLA'S VOICE
-    Do you want to listen and see if my
-    spirit can use the telephone?
+				 MARLA'S VOICE
+	 Do you want to listen and see if my
+	 spirit can use the telephone?
 
 Thru the archway: Tyler leans to look in, curious.
 
@@ -2835,7 +2835,7 @@ LEGS, ARMS, BREASTS, and FEMALE HAIR, all DRENCHED in SWEAT.
 Sheets RIP.  Bodies hit the FLOOR.  Insane GRUNTING and
 LAUGHING.  A flash of MARLA'S FACE.
 
-                                        CUT TO:
+										  CUT TO:
 
 INT. JACK'S BEDROOM - SUNRISE
 
@@ -2845,10 +2845,10 @@ INT. 2ND FLOOR LANDING
 
 Jack steps out of his room.  The neighboring door is closed.
 
-                JACK (V.O.)
-    Tyler's door was closed.  I'd been
-    living here two months, and Tyler's
-    door was never closed.
+				 JACK (V.O.)
+	 Tyler's door was closed.  I'd been
+	 living here two months, and Tyler's
+	 door was never closed.
 
 INT. BATHROOM - SAME
 
@@ -2859,33 +2859,33 @@ INT. KITCHEN - MORNING
 Jack sits at the table, sips coffee, read Reader's Digest.
 He hears FOOTSTEPS approaching.
 
-                JACK
-    You're not going to believe what I
-    dreamt last night.
+				 JACK
+	 You're not going to believe what I
+	 dreamt last night.
 
 Marla walks in, straightening her dress, looks like she's
 been raped by a hurricane.  Jack's jaw drops.
 
-                MARLA
-    I can hardly believe anything about
-    last night.
+				 MARLA
+	 I can hardly believe anything about
+	 last night.
 
 Marla goes to pour coffee.  She takes a swig, GARGLES and
 SPITS it in the sink.  She gives Jack a lascivious smile.
 
-                JACK
-    What are you doing here?
+				 JACK
+	 What are you doing here?
 
-                MARLA
-    What... ?
+				 MARLA
+	 What... ?
 
-                JACK
-    What the hell are you doing here?
+				 JACK
+	 What the hell are you doing here?
 
 Marla stares at him a beat, then drops the cup in the sink.
 
-                MARLA
-    Fuck you.
+				 MARLA
+	 Fuck you.
 
 Marla shoves open the door to the backyard and walks out.
 Jack gets up, watches her stomp away.
@@ -2896,33 +2896,33 @@ then moves away, pours himself coffee.  Jack, smoldering,
 slumps at the table and picks up Reader's Digest.  Tyler
 puts his foot on a countertop, does stretching exercises.
 
-                TYLER
-    She's a piece of work.  Get this --
-    I come in here last night, the
-    phone's off the hook...
+				 TYLER
+	 She's a piece of work.  Get this --
+	 I come in here last night, the
+	 phone's off the hook...
 
 Jack pretends to read, quickly glances at Tyler.  TYLER'S
 VOICE FADES...
 
-                JACK (V.O.)
-    I already knew the story before he
-    told it to me.
+				 JACK (V.O.)
+	 I already knew the story before he
+	 told it to me.
 
 INT. KITCHEN - LATE AFTERNOON (FLASHBACK)
 
 Tyler enters, gently lifts the handset and listens.
 
-                MARLA'S VOICE
-        (from handset)
-    I'll tell you when I'm floating out
-    of my body.
+				 MARLA'S VOICE
+		   (from handset)
+	 I'll tell you when I'm floating out
+	 of my body.
 
 Tyler smiles.
 
-                JACK (V.O.)
-    How could Tyler, off all people, think
-    it was a bad thing that Marla Singer
-    was about to die?
+				 JACK (V.O.)
+	 How could Tyler, off all people, think
+	 it was a bad thing that Marla Singer
+	 was about to die?
 
 INT. MARLA'S - 8TH FLOOR LANDING - LATE AFTERNOON (FLASHBACK)
 
@@ -2936,32 +2936,32 @@ INT. MARLA'S ROOM - CONTINUOUS (FLASHBACK)
 Marla pulls Tyler inside and shuts the door.  Her drugged
 eyes look him over.
 
-                MARLA
-    You got here fast.
+				 MARLA
+	 You got here fast.
 
 She staggers and sits on the bed.  She slides off, along
 with the blanket and sheets, to the floor.
 
-                MARLA
-    The mattresses are all sealed in
-    slippery plastic.
+				 MARLA
+	 The mattresses are all sealed in
+	 slippery plastic.
 
 She tries to focus her eyes on Tyler.
 
-                MARLA
-    Did I call you?
+				 MARLA
+	 Did I call you?
 
 Tyler studies her with cynical curiosity, looks at a DILDO
 lying atop a dresser.  Marla follows his gaze.
 
-                MARLA
-    Don't worry.  It's not a threat to you.
+				 MARLA
+	 Don't worry.  It's not a threat to you.
 
 SIRENS and vehicles SCREECHING outside can be HEARD; doors
 opening and SLAMMING; running FOOTFALLS.
 
-                MARLA
-    Oh, no!  Somebody called the cops...
+				 MARLA
+	 Oh, no!  Somebody called the cops...
 
 She gets to her feet, grabs Tyler, pulls him out the door.
 
@@ -2971,181 +2971,181 @@ Marla LOCKS her door, then pulls Tyler toward the STAIRCASE.
 COPS and PARAMEDICS charge up with oxygen and medical kits.
 Marla and Tyler flatten against the wall to let them pass.
 
-                COP
-    8-G!  Where's 8-G?
+				 COP
+	 8-G!  Where's 8-G?
 
-                MARLA
-        (pointing)
-    End of the hall.
+				 MARLA
+		   (pointing)
+	 End of the hall.
 
 The rescuers keep running.
 
-                MARLA
-        (calling after)
-    The girl who lives there used to be
-    a charming, lovely girl, but she's
-    lost faith in herself...
+				 MARLA
+		   (calling after)
+	 The girl who lives there used to be
+	 a charming, lovely girl, but she's
+	 lost faith in herself...
 
-                COP
-    Miss Singer, let us help you!  You
-    have every reason to live!
+				 COP
+	 Miss Singer, let us help you!  You
+	 have every reason to live!
 
 Marla yanks Tyler's arm, heading down the stairs.
 
-                MARLA
-    She's a monster!  Infectious human
-    waste!  Good luck trying to save her!
+				 MARLA
+	 She's a monster!  Infectious human
+	 waste!  Good luck trying to save her!
 
 INT. KITCHEN - NIGHT (FLASHBACK)
 
 Tyler makes coffee.  Marla slouches against the refrigerator.
 
-                MARLA
-    If I fall asleep, I'm done for.
-    You're gonna have to keep me up all
-    night.
+				 MARLA
+	 If I fall asleep, I'm done for.
+	 You're gonna have to keep me up all
+	 night.
 
 INT. KITCHEN - MORNING (RESUMING)
 
 Tyler chuckles, shakes his head.
 
-                TYLER
-    Unbelievable, huh?
+				 TYLER
+	 Unbelievable, huh?
 
-                JACK (V.O.)
-    He was obviously able to handle it.
+				 JACK (V.O.)
+	 He was obviously able to handle it.
 
 Tyler stands across from Jack, gets a cigarette from a pack.
 
-                TYLER
-    I mean, this girl... uh, you're not
-    into her or anything... ?
+				 TYLER
+	 I mean, this girl... uh, you're not
+	 into her or anything... ?
 
-                JACK
-    No.  Not at all.
+				 JACK
+	 No.  Not at all.
 
-                JACK (V.O.)
-    I am Jack's Raging Bile Duct.
+				 JACK (V.O.)
+	 I am Jack's Raging Bile Duct.
 
 Tyler lights his cigarette.
 
-                TYLER
-    You're sure?
+				 TYLER
+	 You're sure?
 
-                JACK
-    Yeah, I'm sure.
+				 JACK
+	 Yeah, I'm sure.
 
-                TYLER
-    Good.  This chick was up on the table
-    with her legs in the stirrups before
-    the doctor even walked in the room.
-    The things that she said... I've
-    never heard a woman talk like that...
+				 TYLER
+	 Good.  This chick was up on the table
+	 with her legs in the stirrups before
+	 the doctor even walked in the room.
+	 The things that she said... I've
+	 never heard a woman talk like that...
 
 INT. TYLER'S ROOM - NIGHT (FLASHBACK)
 
 Tyler smokes, post-coital.  Marla puts her lips to his ear.
 
-                MARLA
-        (whispering)
-    I want to have your abortion.
+				 MARLA
+		   (whispering)
+	 I want to have your abortion.
 
 INT. KITCHEN - MORNING (RESUMING)
 
 Tyler laughs, shakes his head.  Jack's gripping his Reader's
 Digest just a little too tight.
 
-                JACK (V.O.)
-    How could Tyler not go for that?
-    Night before last, he was splicing
-    sex organs into "Little Mermaid."
+				 JACK (V.O.)
+	 How could Tyler not go for that?
+	 Night before last, he was splicing
+	 sex organs into "Little Mermaid."
 
 Tyler sits, studies Jack's face.
 
-                TYLER
-    You're okay with this?
+				 TYLER
+	 You're okay with this?
 
-                JACK
-    I'm fine.
+				 JACK
+	 I'm fine.
 
-                JACK (V.O.)
-    Put a gun to my head and paint the
-    wall with my brains.
+				 JACK (V.O.)
+	 Put a gun to my head and paint the
+	 wall with my brains.
 
 Tyler smokes.
 
-                TYLER
-    She is a wild, twisted bitch.  Stay
-    away from that one.
+				 TYLER
+	 She is a wild, twisted bitch.  Stay
+	 away from that one.
 
-                JACK
-    Oh, and my pace is more librarians.
+				 JACK
+	 Oh, and my pace is more librarians.
 
-                TYLER
-    Hey... don't knock librarians.
+				 TYLER
+	 Hey... don't knock librarians.
 
-                JACK
-    Marla doesn't need a lover.  She
-    needs a case worker.
+				 JACK
+	 Marla doesn't need a lover.  She
+	 needs a case worker.
 
-                TYLER
-    She needs an exorcist.  This isn't
-    love.  This is sport-fucking.
+				 TYLER
+	 She needs an exorcist.  This isn't
+	 love.  This is sport-fucking.
 
-                JACK (V.O.)
-    She'd invaded my support groups, now
-    she's invading my home.
+				 JACK (V.O.)
+	 She'd invaded my support groups, now
+	 she's invading my home.
 
-                TYLER
-    Listen... do me a favor... sit here
-    a minute...
+				 TYLER
+	 Listen... do me a favor... sit here
+	 a minute...
 
 Tyler pulls out a closer chair, motions to it.  Jack puts
 down his Reader's Digest and moves to that chair.
 
-                JACK
-    What?
+				 JACK
+	 What?
 
-                TYLER
-    You've gotta understand something
-    about me.  I have a little rule,
-    okay?  Don't ever talk to her about
-    me.  Ever.  I can't stand that kind
-    of shit.
+				 TYLER
+	 You've gotta understand something
+	 about me.  I have a little rule,
+	 okay?  Don't ever talk to her about
+	 me.  Ever.  I can't stand that kind
+	 of shit.
 
 Tyler fixes Jack with a friendly, but firm stare.
 
-                TYLER
-    If you ever say anything about me or
-    about what happens here in this
-    house, to her or anyone -- I will
-    find out.  And you'll never see me
-    again.  Promise me.
+				 TYLER
+	 If you ever say anything about me or
+	 about what happens here in this
+	 house, to her or anyone -- I will
+	 find out.  And you'll never see me
+	 again.  Promise me.
 
-                JACK
-    Okay.
+				 JACK
+	 Okay.
 
-                TYLER
-    Promise you won't.
+				 TYLER
+	 Promise you won't.
 
-                JACK
-    Yes, I promise.
+				 JACK
+	 Yes, I promise.
 
-                TYLER
-    Promise?
+				 TYLER
+	 Promise?
 
-                JACK
-    I said I promise!
+				 JACK
+	 I said I promise!
 
-                TYLER
-    That was three times you promised.
+				 TYLER
+	 That was three times you promised.
 
 Tyler smiles, gets up and leaves.  Jack sits smoldering.
 
-                JACK (V.O.)
-    If only I had wasted a couple of
-    minutes and gone to watch Marla die,
-    none of this would have happened.
+				 JACK (V.O.)
+	 If only I had wasted a couple of
+	 minutes and gone to watch Marla die,
+	 none of this would have happened.
 
 INT. LIVING ROOM - NIGHT
 
@@ -3156,14 +3156,14 @@ INT. JACK'S BEDROOM - NIGHT
 Jack lies calmly on his bed, staring at the ceiling.  Sounds
 of THUMPS and CRASHES from beyond the wall.
 
-                MARLA'S VOICE
-        (muffled through wall)
-    Miserable fucking discharge!
+				 MARLA'S VOICE
+		   (muffled through wall)
+	 Miserable fucking discharge!
 
-                JACK (V.O.)
-    I could've moved to another room, one
-    on the third floor -- so I wouldn't
-    have heard them.  But I didn't.
+				 JACK (V.O.)
+	 I could've moved to another room, one
+	 on the third floor -- so I wouldn't
+	 have heard them.  But I didn't.
 
 INT. BASEMENT - NIGHT
 
@@ -3177,21 +3177,21 @@ landing.  Tyler's door is ajar.  Jack peeks in...
 Marla's legs are sprawled on the bed.  The door PUSHES OPEN
 WIDER -- Tyler, naked, stands CLOSE TO CAMERA.
 
-                TYLER
-    What are you doing?
+				 TYLER
+	 What are you doing?
 
 Jack steps back.
 
-                JACK
-    I... uh... just going to bed.
+				 JACK
+	 I... uh... just going to bed.
 
 Tyler scratches his head, wears a RUBBER GLOVE.
 
-                TYLER
-    You want to finish her off?
+				 TYLER
+	 You want to finish her off?
 
-                JACK
-    Uh... nah...
+				 JACK
+	 Uh... nah...
 
 Jack continues toward his room.
 
@@ -3199,88 +3199,88 @@ INT. BATHROOM - NIGHT
 
 Jack brushes his teeth.
 
-                JACK (V.O.)
-    I became the calm, little center of
-    the world.  I was the Zen master.
+				 JACK (V.O.)
+	 I became the calm, little center of
+	 the world.  I was the Zen master.
 
 CLOSE UP - COMPUTER MONITOR
 
 Haiku is BEING TYPED in a trendy, italicized font.
 
-                "Worker bees can leave
-                Even drones can fly away
-                The queen is their slave"
+				  "Worker bees can leave
+				   Even drones can fly away
+				   The queen is their slave"
 
-                JACK (V.O.)
-    I wrote little haiku poems.
+				 JACK (V.O.)
+	 I wrote little haiku poems.
 
 INT. JACK'S OFFICE - DAY
 
 Jack's clothes are PERMANENTLY STAINED with BLOOD.  He sits
 in Zen pose, cigarette in mouth, finishes typing Haiku.
 
-                JACK (V.O.)
-    I faxed them around to everyone.
+				 JACK (V.O.)
+	 I faxed them around to everyone.
 
 He hits "SEND," gets the "ERROR CHIME" SOUND.  He presses
 this key over and over.  Boss enters.
 
-                BOSS
-    Is that your blood?
+				 BOSS
+	 Is that your blood?
 
-                JACK
-    Some of it, yes.
+				 JACK
+	 Some of it, yes.
 
 Boss stares at Jack like he's from Mars.
 
-                BOSS
-    Take the rest of the day off.  Come
-    back tomorrow with clean clothes.
-    Get yourself together.
+				 BOSS
+	 Take the rest of the day off.  Come
+	 back tomorrow with clean clothes.
+	 Get yourself together.
 
 INT. HALLWAY - SAME
 
 Jack's leaving, looks like a war casualty, passing COWORKERS
 who coldly stare at him.  His face is totally passive.
 
-                JACK (V.O.)
-    I got right in everyone's hostile
-    little face.  Yes, these are bruises
-    from fighting.  I'm comfortable with
-    them.  I am enlightened.
+				 JACK (V.O.)
+	 I got right in everyone's hostile
+	 little face.  Yes, these are bruises
+	 from fighting.  I'm comfortable with
+	 them.  I am enlightened.
 
 EXT. PAPER STREET - SUNSET
 
 Jack walks toward the HOUSE.
 
-                JACK (V.O.)
-    You give up the condo life, give up
-    all your flaming worldly possessions,
-    go live in a dilapidated house in the
-    toxic waste part of town...
+				 JACK (V.O.)
+	 You give up the condo life, give up
+	 all your flaming worldly possessions,
+	 go live in a dilapidated house in the
+	 toxic waste part of town...
 
 INT. TYLER'S KITCHEN - SUNSET
 
 Jack walks in.  SOUNDS of VIOLENT SEX and a POLAROID CAMERA
 from upstairs.  Pieces of PLASTER fall from the ceiling.
 
-                JACK (V.O.)
-    ... and you come home to this.
+				 JACK (V.O.)
+	 ... and you come home to this.
 
-                TYLER'S VOICE
-        (laughing)
-    You fucking slut!!
+				 TYLER'S VOICE
+		   (laughing)
+	 You fucking slut!!
 
-                MARLA'S VOICE
-    Thank you, sir, may I have another!
-    Thank you sir, may I have another... !
+				 MARLA'S VOICE
+	 Thank you, sir, may I have another!
+	 Thank you sir, may I have another... !
 
 Jack rolls his eyes, takes off his pants.  He runs water in
 the sink, finds a tiny bit of SOAP and scrubs at the blood
 stains.  The PHONE RINGS.  He answers it.
 
-                JACK
-    Yeah.  Speaking.
+				 JACK
+	 Yeah.  Speaking.
 
 INTERCUT WITH...
 
@@ -3288,128 +3288,128 @@ INT. POLICE STATION - OFFICE
 
 A cop, DETECTIVE STERN, refers to a file.
 
-                DETECTIVE STERN
-    This is Detective Stern with the
-    arson unit.  We have some new
-    information about the "incident" at
-    your condo.
+				 DETECTIVE STERN
+	 This is Detective Stern with the
+	 arson unit.  We have some new
+	 information about the "incident" at
+	 your condo.
 
-                JACK
-    Yes?
+				 JACK
+	 Yes?
 
-                DETECTIVE STERN
-    I don't know if you're aware... your
-    front door -- it seems someone
-    sprayed freon into the lock, then
-    tapped it with a chisel to shatter
-    the cylinder.
+				 DETECTIVE STERN
+	 I don't know if you're aware... your
+	 front door -- it seems someone
+	 sprayed freon into the lock, then
+	 tapped it with a chisel to shatter
+	 the cylinder.
 
-                JACK
-    No, I wasn't aware...
+				 JACK
+	 No, I wasn't aware...
 
-                JACK (V.O.)
-    I am Jack's Cold Sweat.
+				 JACK (V.O.)
+	 I am Jack's Cold Sweat.
 
-                DETECTIVE STERN
-    Does this sound strange to you?
+				 DETECTIVE STERN
+	 Does this sound strange to you?
 
-                JACK
-    Yes, sire, strange.  Very strange.
+				 JACK
+	 Yes, sire, strange.  Very strange.
 
 Jack starts to sweat, scrubs his pants obsessively.
 
-                DETECTIVE STERN
-    The dynamite...
+				 DETECTIVE STERN
+	 The dynamite...
 
-                JACK
-    Dynamite?
+				 JACK
+	 Dynamite?
 
-                DETECTIVE STERN
-    Yes.  It left a residue of ammonium
-    oxalate and potassium perchloride.
-    Do you know what that means?
+				 DETECTIVE STERN
+	 Yes.  It left a residue of ammonium
+	 oxalate and potassium perchloride.
+	 Do you know what that means?
 
-                JACK
-    What does that mean?
+				 JACK
+	 What does that mean?
 
-                DETECTIVE STERN
-    It means it was homemade.
+				 DETECTIVE STERN
+	 It means it was homemade.
 
-                JACK
-    This is... really a shock...
+				 JACK
+	 This is... really a shock...
 
-                DETECTIVE STERN
-    Whoever set this homemade dynamite
-    could've blown out the pilot light
-    days before the explosion.  The gas,
-    it seems, was just a detonator.
+				 DETECTIVE STERN
+	 Whoever set this homemade dynamite
+	 could've blown out the pilot light
+	 days before the explosion.  The gas,
+	 it seems, was just a detonator.
 
-                JACK
-    Who do you think could've done this?
+				 JACK
+	 Who do you think could've done this?
 
-                DETECTIVE STERN
-    I'll ask the questions, son.
+				 DETECTIVE STERN
+	 I'll ask the questions, son.
 
-                TYLER
-        (whispering in Jack's ear)
-    Tell him...
+				 TYLER
+		   (whispering in Jack's ear)
+	 Tell him...
 
 Jack almost leaps out his skin, startled; looks to see Tyler
 standing right next to him.
 
-                JACK
-    Huh?
+				 JACK
+	 Huh?
 
-                TYLER
-        (overlap w/below)
-    "The liberator who destroyed my
-    property has re-aligned my paradigm
-    of perception."
+				 TYLER
+		   (overlap w/below)
+	 "The liberator who destroyed my
+	 property has re-aligned my paradigm
+	 of perception."
 
-                JACK
-    Shhhhhh!
-        (into phone,
-        overlap w/above)
-    I don't know what to make of this,
-    sir, I really don't...
+				 JACK
+	 Shhhhhh!
+		   (into phone,
+			overlap w/above)
+	 I don't know what to make of this,
+	 sir, I really don't...
 
-                DETECTIVE STERN
-    Do you know anyone who'd have the
-    expertise or motive to do something
-    like this?
+				 DETECTIVE STERN
+	 Do you know anyone who'd have the
+	 expertise or motive to do something
+	 like this?
 
-                TYLER
-    "I reject the basic assumptions of
-    civilization, including material
-    possession."
+				 TYLER
+	 "I reject the basic assumptions of
+	 civilization, including material
+	 possession."
 
 Jack pushes Tyler away, cups the receiving.
 
-                JACK
-        (into phone)
-    No.  No, sir.  I loved that condo.
-    I loved every stick of furniture.
-    The lamps, the chairs, the rugs, were
-    me.  The dishes were me.  The plants
-    were...
+				 JACK
+		   (into phone)
+	 No.  No, sir.  I loved that condo.
+	 I loved every stick of furniture.
+	 The lamps, the chairs, the rugs, were
+	 me.  The dishes were me.  The plants
+	 were...
 
-                JACK (V.O.)
-    I'd like to thank the academy...
+				 JACK (V.O.)
+	 I'd like to thank the academy...
 
-                DETECTIVE STERN
-    Well, if any ideas come to you, give
-    me a call.  In the meantime, don't
-    leave town.  I may need to bring you
-    in for questioning.
+				 DETECTIVE STERN
+	 Well, if any ideas come to you, give
+	 me a call.  In the meantime, don't
+	 leave town.  I may need to bring you
+	 in for questioning.
 
 END INTERCUT
 
 Jack hangs up.  Tyler shrugs.
 
-                TYLER
-    Could be worse.  You could be cursed
-    with the three terrible Karmas.  You
-    could be beautiful, rich and famous.
+				 TYLER
+	 Could be worse.  You could be cursed
+	 with the three terrible Karmas.  You
+	 could be beautiful, rich and famous.
 
 Jack turns away, continues to scrub his pants.  Marla's
 FOOTSTEPS can be HEARD coming downstairs...
@@ -3418,28 +3418,29 @@ Jack really grinds the soap against the pants, splashing
 water.  He turns, sees Marla enter.  Tyler is GONE.  Marla
 lights a cigarette.
 
-                JACK (V.O.)
-    Except for their humping, Tyler and
-    Marla were never in the same room.
+				 JACK (V.O.)
+	 Except for their humping, Tyler and
+	 Marla were never in the same room.
 
-                MARLA
-    I got this dress at a thrift store
-    for one dollar.
+				 MARLA
+	 I got this dress at a thrift store
+	 for one dollar.
 
-                JACK
-        (keeps scrubbing)
-    Worth every penny.
+				 JACK
+		   (keeps scrubbing)
+	 Worth every penny.
 
-                JACK (V.O.)
-    My parents pulled this exact act for
-    years -- one came in, the other
-    disappeared.
+				 JACK (V.O.)
+	 My parents pulled this exact act for
+	 years -- one came in, the other
+	 disappeared.
 
 Marla begins a slow, exotic dance, moving very close to
 Jack.  She lifts her dress dangerously high, dancing close
 to Jack's body, almost touhcing.
 
-                MARLA
-        (seductive)
-    It's a bridesmaid's dress.  Someone
+				 MARLA
+		   (seductive)
+	 It's a bridesmaid's dress.  Someone
+	 loved it intensely for one day, then
 </pre>
