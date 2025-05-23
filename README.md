@@ -3458,4 +3458,5 @@ against the counter.  Marla pulls her hemline further up.
 
 				 JACK
 		   (coldly)
+	 It suits you.
 </pre>
