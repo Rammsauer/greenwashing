@@ -3471,4 +3471,6 @@ sink.  Marla backs away, fed up, storms out, going UPSTAIRS.
 
 				 TYLER (O.S.)
 	 Get rid of her.
+
+Jack turns to see Tyler in the doorway.
 </pre>
