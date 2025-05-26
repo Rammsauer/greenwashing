@@ -3476,4 +3476,6 @@ Jack turns to see Tyler in the doorway.
 
 				 JACK
 	 You get rid of her.
+
+				 TYLER
 </pre>
