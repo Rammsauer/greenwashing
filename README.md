@@ -3487,4 +3487,5 @@ and balled up clothing under one arm, looking for something
 on the junk strewn table.
 
 				 JACK (V.O.)
+	 I'm six years old again, passing
 </pre>
