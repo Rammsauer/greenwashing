@@ -3501,4 +3501,6 @@ pushing other things off to the floor.
 
 				 MARLA
 	 Don't worry, I'm leaving.
+
+Marla finds what she wanted, a pack of cigarettes.  She
 </pre>
