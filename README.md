@@ -3511,4 +3511,6 @@ moves up into Jack's face.
 
 				 JACK
 	 Goodbye.
+
+She laughs, spins on her heels.  As she exits the back door,
 </pre>
