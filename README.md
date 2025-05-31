@@ -3518,4 +3518,6 @@ Jack watches her through the kitchen window.
 
 				 TYLER (O.S.)
 	 Nice work.
+
+Jack turns.  Tyler's right behind him.  Through the window,
 </pre>
