@@ -3536,4 +3536,6 @@ EXT. FENCED-IN BIOHAZARD WASTE DUMP SITE - NIGHT
 Tyler stands inside the fence.  Jack's atop the fence,
 struggling to cross BARBED WIRE.  He wobbles, gets over,
 snags his shirt.  Jack falls, RIPPPPP.  Tyler helps.
+
+FOOTSTEPS.  A FLASHLIGHT BEAM.  Tyler pulls Jack behind a
 </pre>
