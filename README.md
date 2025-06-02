@@ -3532,4 +3532,6 @@ Jack looks at Tyler.
 CLOSE UP - SIGN: "DANGER - BIOHAZARD."
 
 EXT. FENCED-IN BIOHAZARD WASTE DUMP SITE - NIGHT
+
+Tyler stands inside the fence.  Jack's atop the fence,
 </pre>
