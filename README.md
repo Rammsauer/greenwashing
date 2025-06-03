@@ -3545,4 +3545,5 @@ MOVE BACK to Tyler and Jack, who emerge from hiding.  Tyler
 eagerly grabs the lid of the closest dumpster.
 
 				 TYLER
+	 The best fat for making soap --
 </pre>
