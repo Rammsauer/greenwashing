@@ -3540,4 +3540,6 @@ snags his shirt.  Jack falls, RIPPPPP.  Tyler helps.
 FOOTSTEPS.  A FLASHLIGHT BEAM.  Tyler pulls Jack behind a
 DUMPSTER, one of DOZENS.  A silhouette of a SECURITY GUARD
 moves along the perimeter, flashlight first.  He walks away.
+
+MOVE BACK to Tyler and Jack, who emerge from hiding.  Tyler
 </pre>
