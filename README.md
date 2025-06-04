@@ -3552,4 +3552,5 @@ eagerly grabs the lid of the closest dumpster.
 Tyler lifts the lid -- it CREAKS.
 
 				 JACK
+	 What is this place?
 </pre>
