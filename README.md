@@ -3556,4 +3556,6 @@ Tyler lifts the lid -- it CREAKS.
 
 				 TYLER
 	 A liposuction clinic.
+
+From the dumpster, Tyler pulls out an industrial-sized,
 </pre>
