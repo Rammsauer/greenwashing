@@ -3555,4 +3555,5 @@ Tyler lifts the lid -- it CREAKS.
 	 What is this place?
 
 				 TYLER
+	 A liposuction clinic.
 </pre>
