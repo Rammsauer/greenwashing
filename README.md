@@ -3562,4 +3562,5 @@ thick plastic bag full of PINK GOO.
 
 				 TYLER
 	 Paydirt.  From society's richest
+	 asses and thighs.
 </pre>
