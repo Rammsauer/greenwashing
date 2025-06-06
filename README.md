@@ -3566,4 +3566,5 @@ thick plastic bag full of PINK GOO.
 
 TIME CUT: Tyler and Jack climb back over the fence, carrying
 BAGS of fat.  One of Jack's bags RIPS, spilling the goo down
+the chain-link fench.  Jack slips and slides.  Tyler laughs.
 </pre>
