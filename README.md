@@ -3579,4 +3579,5 @@ Jack and Tyler each stir a boiling pot.
 	 they taught you in Boy Scouts.
 
 				 JACK
+	 Hard to imagine you in Boy Scouts.
 </pre>
