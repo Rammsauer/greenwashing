@@ -3589,4 +3589,5 @@ Tyler sticks a spoon into a pot, lifts up a scoop of the
 glycerin layer.  Then, he crabs a can, opens it.
 
 				 TYLER
+	 Lye -- the crucial ingredient.
 </pre>
