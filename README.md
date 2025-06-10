@@ -3596,4 +3596,5 @@ glycerin layer.  Then, he crabs a can, opens it.
 	 certain spot in the river.  Why?
 	 Because, human sacrifices were once
 	 made on the hills above this river.
+	 Year after year, bodies burnt.  Rain
 </pre>
