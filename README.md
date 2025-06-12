@@ -3615,4 +3615,5 @@ The saliva shines in the shape of the kiss.  Tyler pours a
 bit of the flaked lye onto Jack's hand.
 
 				 TYLER
+	 Without sacrifice, without death, we
 </pre>
