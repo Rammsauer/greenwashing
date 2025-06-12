@@ -3610,4 +3610,6 @@ Jack's hands and KISSES the back of it.
 	 The first soap was made from the
 	 ashes of heroes.  Like the first
 	 monkeys shot into space.
+
+The saliva shines in the shape of the kiss.  Tyler pours a
 </pre>
