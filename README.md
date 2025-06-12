@@ -3612,4 +3612,5 @@ Jack's hands and KISSES the back of it.
 	 monkeys shot into space.
 
 The saliva shines in the shape of the kiss.  Tyler pours a
+bit of the flaked lye onto Jack's hand.
 </pre>
