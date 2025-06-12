@@ -3616,4 +3616,5 @@ bit of the flaked lye onto Jack's hand.
 
 				 TYLER
 	 Without sacrifice, without death, we
+	 would have nothing.
 </pre>
