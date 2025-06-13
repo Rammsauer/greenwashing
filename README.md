@@ -3620,4 +3620,6 @@ bit of the flaked lye onto Jack's hand.
 
 Jack's whole body JERKS.  Tyler holds tight to Jack's hand
 and arm.  Tears well in Jack's eyes; his face tightens.
+
+				 TYLER
 </pre>
