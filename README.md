@@ -3631,4 +3631,5 @@ Tyler's kiss.  Jack's face spasms.
 
 				 JACK (V.O.)
 	 Tyler's kiss was a bonfire on the
+	 back of my hand.
 </pre>
