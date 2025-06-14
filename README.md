@@ -3627,4 +3627,5 @@ and arm.  Tears well in Jack's eyes; his face tightens.
 	 burned and you will have a scar.
 
 Jack looks -- the burn is swollen, glossy, in the shape of
+Tyler's kiss.  Jack's face spasms.
 </pre>
