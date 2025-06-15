@@ -3641,4 +3641,6 @@ Tyler's kiss.  Jack's face spasms.
 	 it could work for this.
 
 SHOT OF A GREEN MAPLE LEAF, GLISTENING WITH DEW.  RESUME:
+
+Tyler looks at Jack's glazed and detached eyes.
 </pre>
