@@ -3657,4 +3657,6 @@ keeps hold of it and their arms KNOCK UTENSILS off the table.
 	 pain as a ball of healing white light.
 
 SHOT OF A FOREST, IN GENTLE SPRING RAINFALL.  RESUME:
+
+Tyler JERKS Jack's hand, getting Jack's attention...
 </pre>
