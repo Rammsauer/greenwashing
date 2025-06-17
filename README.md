@@ -3653,4 +3653,5 @@ keeps hold of it and their arms KNOCK UTENSILS off the table.
 
 				 JACK (V.O.)
 	 I tried not to think of the words
+	 "searing" or "flesh."  I imagined my
 </pre>
