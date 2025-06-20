@@ -3676,4 +3676,5 @@ Tyler JERKS Jack's hand again.  Jack re-focuses on Tyler...
 				 TYLER
 	 Don't deal with this the way those
 	 dead people do.  Deal with it the way
+	 a living person does.
 </pre>
