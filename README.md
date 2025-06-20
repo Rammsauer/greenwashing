@@ -3677,4 +3677,6 @@ Tyler JERKS Jack's hand again.  Jack re-focuses on Tyler...
 	 Don't deal with this the way those
 	 dead people do.  Deal with it the way
 	 a living person does.
+
+SHOT OF INSIDE THE ICE CAVE - ON MARLA, LYING NAKED UNDER A
 </pre>
