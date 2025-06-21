@@ -3685,4 +3685,5 @@ Jack tries to pull his hand free.  Tyler won't let go.
 Jack's eyes glaze over again.  Jack speaks, whiny from pain:
 
 				 JACK
+	 I... I think I understand.  I think
 </pre>
