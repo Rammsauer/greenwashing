@@ -3683,4 +3683,6 @@ FUR COAT, TURNING HER HEAD TO LOOK TOWARDS US.  RESUME:
 
 Jack tries to pull his hand free.  Tyler won't let go.
 Jack's eyes glaze over again.  Jack speaks, whiny from pain:
+
+				 JACK
 </pre>
