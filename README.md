@@ -3687,4 +3687,6 @@ Jack's eyes glaze over again.  Jack speaks, whiny from pain:
 				 JACK
 	 I... I think I understand.  I think
 	 I get it...
+
+				 TYLER
 </pre>
