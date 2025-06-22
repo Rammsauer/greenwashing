@@ -3695,4 +3695,6 @@ Jack's eyes glaze over again.  Jack speaks, whiny from pain:
 SHOT OF A GREEN FOREST WITHOUT RAIN.  RESUME:
 
 Tyler SLAPS Jack's face, regaining his attention...
+
+				 TYLER
 </pre>
