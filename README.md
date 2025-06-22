@@ -3697,4 +3697,5 @@ SHOT OF A GREEN FOREST WITHOUT RAIN.  RESUME:
 Tyler SLAPS Jack's face, regaining his attention...
 
 				 TYLER
+	 This is the greatest moment of your
 </pre>
