@@ -3693,4 +3693,6 @@ Jack's eyes glaze over again.  Jack speaks, whiny from pain:
 	 enlightenment.
 
 SHOT OF A GREEN FOREST WITHOUT RAIN.  RESUME:
+
+Tyler SLAPS Jack's face, regaining his attention...
 </pre>
