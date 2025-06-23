@@ -3705,4 +3705,6 @@ Tyler SLAPS Jack's face, regaining his attention...
 	 No, I'm not...
 
 SHOT OF TREES ENGULFED BY A FOREST FIRE.  RESUME:
+
+				 TYLER
 </pre>
