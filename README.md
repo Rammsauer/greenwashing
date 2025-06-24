@@ -3707,4 +3707,5 @@ Tyler SLAPS Jack's face, regaining his attention...
 SHOT OF TREES ENGULFED BY A FOREST FIRE.  RESUME:
 
 				 TYLER
+	 Shut up.  Our fathers were our models
 </pre>
