@@ -3709,4 +3709,5 @@ SHOT OF TREES ENGULFED BY A FOREST FIRE.  RESUME:
 				 TYLER
 	 Shut up.  Our fathers were our models
 	 for God.  And, if our fathers bailed,
+	 what does that tell us about God?
 </pre>
