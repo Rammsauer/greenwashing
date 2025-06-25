@@ -3722,4 +3722,5 @@ Tyler SLAPS Jack's face again...
 	 Listen to me.  You have to consider
 	 the possibility that God doesn't like
 	 you, he never wanted you.  In all
+	 probability, He hates you.  This is
 </pre>
