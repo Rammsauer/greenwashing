@@ -3733,4 +3733,6 @@ Tyler SLAPS Jack's face again...
 
 				 JACK
 	 We don't... ?
+
+SHOT OF INSIDE ICE CAVE - NAKED MARLA PULLS JACK DOWN ON TOP
 </pre>
