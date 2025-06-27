@@ -3730,4 +3730,6 @@ Tyler SLAPS Jack's face again...
 
 				 TYLER
 	 We don't need him...
+
+				 JACK
 </pre>
