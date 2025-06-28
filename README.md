@@ -3746,4 +3746,5 @@ Jack is a wide-eyed zombie...
 				 TYLER
 	 Fuck damnation.  Fuck redemption.  We
 	 are God's unwanted children, with no
+	 special place and no special
 </pre>
