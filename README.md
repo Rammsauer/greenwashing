@@ -3748,4 +3748,6 @@ Jack is a wide-eyed zombie...
 	 are God's unwanted children, with no
 	 special place and no special
 	 attention, and so be it.
+
+Jack looks at Tyler -- they lock eyes.  Jack does his best
 </pre>
