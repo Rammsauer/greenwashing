@@ -3750,4 +3750,5 @@ Jack is a wide-eyed zombie...
 	 attention, and so be it.
 
 Jack looks at Tyler -- they lock eyes.  Jack does his best
+to stifle his spasms of pain, his body a quivering, coiled
 </pre>
