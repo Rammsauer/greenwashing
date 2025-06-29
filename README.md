@@ -3747,4 +3747,5 @@ Jack is a wide-eyed zombie...
 	 Fuck damnation.  Fuck redemption.  We
 	 are God's unwanted children, with no
 	 special place and no special
+	 attention, and so be it.
 </pre>
