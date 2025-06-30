@@ -3761,4 +3761,6 @@ knot.  He bolts toward the sink, but Tyler holds on.
 	 First, you have to know that someday,
 	 you are going to die.  Until you know
 	 that, you will be useless.
+
+Jack spasms with a shiver of pain...
 </pre>
