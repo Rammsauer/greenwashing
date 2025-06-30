@@ -3758,4 +3758,5 @@ knot.  He bolts toward the sink, but Tyler holds on.
 	 over your hand.  Look at me.  Or you
 	 can use vinegar to neutralize the
 	 burn, but first you have to give up.
+	 First, you have to know that someday,
 </pre>
