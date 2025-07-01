@@ -3769,4 +3769,5 @@ Jack spasms with a shiver of pain...
 	 feels like, Tyler.
 
 Tyler shows Jack a LYE-BURNED KISS SCAR on his own hand.
+Tears begin to drip from Jack's eyes.  Tyler grabs a bottle
 </pre>
