@@ -3763,4 +3763,6 @@ knot.  He bolts toward the sink, but Tyler holds on.
 	 that, you will be useless.
 
 Jack spasms with a shiver of pain...
+
+				 JACK
 </pre>
