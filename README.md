@@ -3773,4 +3773,6 @@ Tears begin to drip from Jack's eyes.  Tyler grabs a bottle
 of VINEGAR -- pours it over Jack's wound.
 
 Jack closes his eyes, holds his hand... slumps to the floor.
+
+				 TYLER
 </pre>
