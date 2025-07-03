@@ -3784,4 +3784,5 @@ Jack and Tyler, in trench coats, looking like deaht-warmed-
 over, wait as a BUYER fills out forms.
 
 There are bars of "The Paper Street Soap Company" soap on
+the counter.  Jack looks like he's half-expecting to get
 </pre>
