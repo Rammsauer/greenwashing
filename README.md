@@ -3788,4 +3788,5 @@ the counter.  Jack looks like he's half-expecting to get
 arrested.  His hand is BANDAGED.
 
 				 JACK (V.O.)
+	 Tyler sold the soap to department
 </pre>
