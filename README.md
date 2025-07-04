@@ -3793,4 +3793,6 @@ arrested.  His hand is BANDAGED.
 	 knows what they charged.  How ironic.
 	 We were selling rich women their own
 	 fat asses back to them.
+
+INT. JACK'S OFFICE - DAY
 </pre>
