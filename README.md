@@ -3805,4 +3805,6 @@ smoking a cigarette.  Boss enters.
 	 to work anymore.
 
 Boss slaps a piece of PAPER down on Jack's desk.
+
+				 BOSS
 </pre>
