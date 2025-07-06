@@ -3807,4 +3807,5 @@ smoking a cigarette.  Boss enters.
 Boss slaps a piece of PAPER down on Jack's desk.
 
 				 BOSS
+	 "The first rule of fight club is you
 </pre>
