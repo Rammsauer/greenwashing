@@ -3813,4 +3813,5 @@ Boss slaps a piece of PAPER down on Jack's desk.
 Jack snuffs his cigarette in an ashtray, stares up stoically.
 
 				 JACK (V.O.)
+	 I must've left the original in the
 </pre>
