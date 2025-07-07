@@ -3817,4 +3817,5 @@ Jack snuffs his cigarette in an ashtray, stares up stoically.
 	 copy machine.
 
 				 BOSS
+	 "The second rule of fight club...
 </pre>
