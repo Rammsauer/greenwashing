@@ -3822,4 +3822,6 @@ Jack snuffs his cigarette in an ashtray, stares up stoically.
 
 				 JACK
 	 Hmm?
+
+				 BOSS
 </pre>
