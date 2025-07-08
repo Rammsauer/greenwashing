@@ -3824,4 +3824,5 @@ Jack snuffs his cigarette in an ashtray, stares up stoically.
 	 Hmm?
 
 				 BOSS
+	 You don't get paid to abuse the copy
 </pre>
