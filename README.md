@@ -3830,4 +3830,6 @@ Jack snuffs his cigarette in an ashtray, stares up stoically.
 				 JACK
 	 "Abuse" the copy machine.  There's an
 	 image.
+
+				 BOSS
 </pre>
