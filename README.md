@@ -3832,4 +3832,5 @@ Jack snuffs his cigarette in an ashtray, stares up stoically.
 	 image.
 
 				 BOSS
+	 Pretend you're me.  You find this.
 </pre>
