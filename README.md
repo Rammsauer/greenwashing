@@ -3828,4 +3828,5 @@ Jack snuffs his cigarette in an ashtray, stares up stoically.
 	 machine.
 
 				 JACK
+	 "Abuse" the copy machine.  There's an
 </pre>
