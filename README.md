@@ -3838,4 +3838,5 @@ Jack snuffs his cigarette in an ashtray, stares up stoically.
 Jack rises slowly, walks to his door, shuts it.
 
 				 JACK
+	 Me? I'd be very careful who I talked
 </pre>
