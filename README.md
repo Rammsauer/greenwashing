@@ -3836,4 +3836,6 @@ Jack snuffs his cigarette in an ashtray, stares up stoically.
 	 What would you do?
 
 Jack rises slowly, walks to his door, shuts it.
+
+				 JACK
 </pre>
