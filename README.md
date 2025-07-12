@@ -3852,4 +3852,5 @@ Jack moves very close to Boss, picks up the PAPER and starts
 tearing it into pieces.
 
 				 JACK
+	 Might be someone you've known for
 </pre>
