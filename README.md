@@ -3866,4 +3866,6 @@ of outrage, a tinge of fear.  PHONE RINGS.  Jack answers it.
 
 				 MARLA'S VOICE
 	 My tit's going to rot off.
+
+				 JACK
 </pre>
