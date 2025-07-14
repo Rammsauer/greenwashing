@@ -3872,4 +3872,6 @@ of outrage, a tinge of fear.  PHONE RINGS.  Jack answers it.
 		   (to Boss; smiles)
 	 Could you excuse me?  I need to take
 	 this call.
+
+Boss goes to the door, stares at Jack a beat, then leaves.
 </pre>
