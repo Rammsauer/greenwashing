@@ -3877,4 +3877,5 @@ Boss goes to the door, stares at Jack a beat, then leaves.
 
 				 JACK
 		   (into phone)
+	 What are you talking about?
 </pre>
