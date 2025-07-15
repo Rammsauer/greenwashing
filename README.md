@@ -3876,4 +3876,5 @@ of outrage, a tinge of fear.  PHONE RINGS.  Jack answers it.
 Boss goes to the door, stares at Jack a beat, then leaves.
 
 				 JACK
+		   (into phone)
 </pre>
