@@ -3894,4 +3894,5 @@ INTERCUT WITH - CLOSE UP OF MARLA...
 	 Please.
 
 				 JACK (V.O.)
+	 She didn't call Tyler.  I'm neutral
 </pre>
