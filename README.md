@@ -3895,4 +3895,5 @@ INTERCUT WITH - CLOSE UP OF MARLA...
 
 				 JACK (V.O.)
 	 She didn't call Tyler.  I'm neutral
+	 in her book.
 </pre>
