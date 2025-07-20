@@ -3918,4 +3918,5 @@ Marla leads Jack inside.
 	 and I'm in poverty.  You want any?
 
 				 JACK
+	 No, thanks.
 </pre>
