@@ -3966,4 +3966,5 @@ Jack's head is behind Marla's.  They speak softer, slower.
 	 Make sure.
 
 				 JACK
+	 Okay.  Okay, I'm sure.
 </pre>
