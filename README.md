@@ -3977,4 +3977,5 @@ Jack's head is behind Marla's.  They speak softer, slower.
 Marla turns around and faces him, begins to button her shirt.
 
 				 MARLA
+	 Well, that's a relief.  Thank you.
 </pre>
