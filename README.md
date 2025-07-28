@@ -3984,4 +3984,6 @@ Marla turns around and faces him, begins to button her shirt.
 
 				 MARLA
 	 I wish I could return the favor.
+
+Jack touches his own chest, shakes his head.
 </pre>
