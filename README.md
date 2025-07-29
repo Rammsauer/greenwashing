@@ -3992,4 +3992,6 @@ Jack touches his own chest, shakes his head.
 
 				 MARLA
 	 I could check your prostate.
+
+				 JACK
 </pre>
