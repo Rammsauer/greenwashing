@@ -3997,4 +3997,5 @@ Jack touches his own chest, shakes his head.
 	 Uh ... nah.
 
 				 MARLA
+		   (pause)
 </pre>
