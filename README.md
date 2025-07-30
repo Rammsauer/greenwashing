@@ -3999,4 +3999,6 @@ Jack touches his own chest, shakes his head.
 				 MARLA
 		   (pause)
 	 Well... thanks, anyway.
+
+Marla leans to kiss him -- lingers for a bit longer than
 </pre>
