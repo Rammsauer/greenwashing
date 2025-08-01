@@ -4012,4 +4012,6 @@ Marla sighs.
 	 Yeah, we're done.  See you around.
 
 EXT. HOTEL - MOMENTS LATER
+
+Jack emerges from the lobby.  He looks up at Marla's window,
 </pre>
