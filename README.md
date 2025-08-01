@@ -4018,4 +4018,5 @@ watches her silhouette.  He walks away, right into -- Big
 BOB, the moose, eating a donut and drinking orange juice.
 
 				 BOB
+	 Cornelius!  How are you?
 </pre>
