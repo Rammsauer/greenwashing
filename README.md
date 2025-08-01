@@ -4014,4 +4014,5 @@ Marla sighs.
 EXT. HOTEL - MOMENTS LATER
 
 Jack emerges from the lobby.  He looks up at Marla's window,
+watches her silhouette.  He walks away, right into -- Big
 </pre>
