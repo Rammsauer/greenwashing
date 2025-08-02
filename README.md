@@ -4019,4 +4019,6 @@ BOB, the moose, eating a donut and drinking orange juice.
 
 				 BOB
 	 Cornelius!  How are you?
+
+				 JACK
 </pre>
