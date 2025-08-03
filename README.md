@@ -4029,4 +4029,6 @@ BOB, the moose, eating a donut and drinking orange juice.
 				 JACK
 	 Really?  Great.  Still "Remaining Men
 	 Together?"
+
+An intense look of born-again fervor comes over Bob's face.
 </pre>
