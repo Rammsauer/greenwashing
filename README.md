@@ -4031,4 +4031,6 @@ BOB, the moose, eating a donut and drinking orange juice.
 	 Together?"
 
 An intense look of born-again fervor comes over Bob's face.
+
+				 BOB
 </pre>
