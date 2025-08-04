@@ -4039,4 +4039,5 @@ An intense look of born-again fervor comes over Bob's face.
 	 Really, what's that?
 
 				 BOB
+		   (quietly)
 </pre>
