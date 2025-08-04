@@ -4036,4 +4036,5 @@ An intense look of born-again fervor comes over Bob's face.
 	 No.  I found something new.
 
 				 JACK
+	 Really, what's that?
 </pre>
