@@ -4037,4 +4037,6 @@ An intense look of born-again fervor comes over Bob's face.
 
 				 JACK
 	 Really, what's that?
+
+				 BOB
 </pre>
