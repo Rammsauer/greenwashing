@@ -4047,4 +4047,5 @@ An intense look of born-again fervor comes over Bob's face.
 	 Oh.
 
 				 BOB
+	 And the second rule about it is...
 </pre>
