@@ -4048,4 +4048,5 @@ An intense look of born-again fervor comes over Bob's face.
 
 				 BOB
 	 And the second rule about it is...
+	 you're not supposed to talk about it.
 </pre>
