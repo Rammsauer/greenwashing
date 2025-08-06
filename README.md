@@ -4056,4 +4056,6 @@ An intense look of born-again fervor comes over Bob's face.
 
 					  BOB
 	 You are?!
+
+				 JACK
 </pre>
