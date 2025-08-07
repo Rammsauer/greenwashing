@@ -4064,4 +4064,5 @@ Bob roughly slaps Jack's shoulder.
 
 				 BOB
 	 That's a fucking great, man!  Fucking
+	 great! Congratulations.
 </pre>
