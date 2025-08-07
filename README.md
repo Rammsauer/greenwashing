@@ -4061,4 +4061,6 @@ An intense look of born-again fervor comes over Bob's face.
 	 Look at my face.
 
 Bob roughly slaps Jack's shoulder.
+
+				 BOB
 </pre>
