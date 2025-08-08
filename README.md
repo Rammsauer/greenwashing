@@ -4067,4 +4067,5 @@ Bob roughly slaps Jack's shoulder.
 	 great! Congratulations.
 
 				 JACK
+	 Yeah, both of us.
 </pre>
