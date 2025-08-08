@@ -4070,4 +4070,5 @@ Bob roughly slaps Jack's shoulder.
 	 Yeah, both of us.
 
 				 BOB
+	 You know about the guy who invented
 </pre>
