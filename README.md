@@ -4078,4 +4078,6 @@ Bob roughly slaps Jack's shoulder.
 	 this guy?  Tyler Durden?
 
 INT. BASEMENT - ELECTRONICS WKREHOUSE - NIGHT
+
+The CROWD SCREAMS insanely as Bob and Jack go at it in the
 </pre>
