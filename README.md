@@ -4081,4 +4081,6 @@ INT. BASEMENT - ELECTRONICS WKREHOUSE - NIGHT
 
 The CROWD SCREAMS insanely as Bob and Jack go at it in the
 circle of light.  Bob's eyes are wild with glee.
+
+EXT. BASEMENT DOOR - ELECTRONICS WAREHOUSE - LATER
 </pre>
