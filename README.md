@@ -4076,4 +4076,6 @@ Bob roughly slaps Jack's shoulder.
 	 institution.  They say he only sleeps
 	 one hour a night.  You know about
 	 this guy?  Tyler Durden?
+
+INT. BASEMENT - ELECTRONICS WKREHOUSE - NIGHT
 </pre>
