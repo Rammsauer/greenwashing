@@ -4088,4 +4088,6 @@ Everyone sneaks out of this new location - we've seen none
 of these guys before - it's a new chapter.  Jack and Bob
 Stagger out last, Jack being in worse shape.  They both grin
 with religious serenity.  Bob hugs Jack.
+
+				 BOB
 </pre>
