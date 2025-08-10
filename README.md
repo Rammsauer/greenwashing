@@ -4090,4 +4090,5 @@ Stagger out last, Jack being in worse shape.  They both grin
 with religious serenity.  Bob hugs Jack.
 
 				 BOB
+	 Thank you.  Thank you.
 </pre>
