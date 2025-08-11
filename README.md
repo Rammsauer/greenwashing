@@ -4093,4 +4093,5 @@ with religious serenity.  Bob hugs Jack.
 	 Thank you.  Thank you.
 
 Bob relaxes the hug and Jack drops to the ground like a
+sack, completely enervated from the beating he took.
 </pre>
