@@ -4096,4 +4096,5 @@ Bob relaxes the hug and Jack drops to the ground like a
 sack, completely enervated from the beating he took.
 
 				 JACK
+	 You're welcome.
 </pre>
