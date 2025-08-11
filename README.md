@@ -4097,4 +4097,6 @@ sack, completely enervated from the beating he took.
 
 				 JACK
 	 You're welcome.
+
+				 JACK (V.O.)
 </pre>
