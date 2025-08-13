@@ -4109,4 +4109,5 @@ Tyler wanders in, carries a dirty pot to the sink.  Jack
 takes out a cigarette, lights up.  He offers the pack...
 
 				 TYLER
+	 No thanks, I quit.
 </pre>
