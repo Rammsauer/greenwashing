@@ -4112,4 +4112,5 @@ takes out a cigarette, lights up.  He offers the pack...
 	 No thanks, I quit.
 
 				 JACK
+	 You quit?
 </pre>
