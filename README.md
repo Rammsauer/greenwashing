@@ -4116,4 +4116,6 @@ takes out a cigarette, lights up.  He offers the pack...
 
 				 TYLER
 	 Yeah.  Where you headed?
+
+				 JACK
 </pre>
