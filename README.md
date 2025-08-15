@@ -4123,4 +4123,5 @@ takes out a cigarette, lights up.  He offers the pack...
 Tyler scratches his chin absently.
 
 				 JACK
+	 What... ?
 </pre>
