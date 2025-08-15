@@ -4129,4 +4129,6 @@ Tyler scratches his chin absently.
 	 Nothing.  Do what you like.
 
 Tyler walks out the way he came.
+
+INT. JACK'S OFFICE - DAY
 </pre>
