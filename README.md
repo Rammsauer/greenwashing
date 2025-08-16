@@ -4131,4 +4131,6 @@ Tyler scratches his chin absently.
 Tyler walks out the way he came.
 
 INT. JACK'S OFFICE - DAY
+
+Jack sits staring at his SCREEN SAVER.
 </pre>
