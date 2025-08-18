@@ -4149,4 +4149,5 @@ Boss looks up from his large, expensive desk.
 	 for review...
 
 				 JACK
+	 I Am Jack's Complete Lack of Surprise.
 </pre>
