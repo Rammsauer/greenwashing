@@ -4166,4 +4166,5 @@ Boss sits up in his seat, becoming enraged.
 
 				 BOSS
 	 Just who the fuck do you think you
+	 are?!  Get out!  You're fired!
 </pre>
