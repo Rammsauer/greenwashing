@@ -4175,4 +4175,6 @@ Boss sits up in his seat, becoming enraged.
 	 mouth shut.  I won't need to come to
 	 the office.  I can do this job from
 	 home.
+
+Boss stands, moves around his desk, glaring with rage.
 </pre>
