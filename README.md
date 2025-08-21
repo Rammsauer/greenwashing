@@ -4172,4 +4172,5 @@ Boss sits up in his seat, becoming enraged.
 	 What about this?  Keep me on payroll
 	 as an outside consultant.  In
 	 exchange for my salary, I'll keep my
+	 mouth shut.  I won't need to come to
 </pre>
