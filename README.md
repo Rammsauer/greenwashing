@@ -4182,4 +4182,5 @@ Boss stands, moves around his desk, glaring with rage.
 	 You little fucker!  I oughta...
 
 Jack PUNCHES HIMSELF in the nose.  Blood starts to trickle.
+He punches himself in the jaw, throws himself back as if by
 </pre>
