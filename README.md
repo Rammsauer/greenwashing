@@ -4192,4 +4192,5 @@ SHATTERS the glass.  He falls to the floor.
 Jack gets back to his feet.
 
 				 JACK
+	 Please... don't hit me again, please.
 </pre>
