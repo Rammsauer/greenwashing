@@ -4196,4 +4196,5 @@ Jack gets back to his feet.
 	 I'm your responsibility...
 
 He PUNCHES himself in the stomach, then in the jaw again.
+He reels backwards, pulls down a hanging shelf, its contents
 </pre>
