@@ -4208,4 +4208,5 @@ Jack crawls toward Boss, dripping blood, grabs Boss's leg.
 				 JACK
 	 Please... give me the paychecks like
 	 I asked for.  I won't be any trouble.
+	 You won't see me again.
 </pre>
