@@ -4212,4 +4212,6 @@ Jack crawls toward Boss, dripping blood, grabs Boss's leg.
 
 Jack climbs up Boss's leg while Boss tries to shake him off.
 Boss stumbles back into his desk, knocking off belongings.
+
+				 JACK (V.O.)
 </pre>
