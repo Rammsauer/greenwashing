@@ -4217,4 +4217,6 @@ Boss stumbles back into his desk, knocking off belongings.
 	 Under and behind and inside
 	 everything this man took for granted,
 	 something horrible had been growing.
+
+Jack crawls high enough to grab Boss's belt, hoisting
 </pre>
