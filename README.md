@@ -4224,4 +4224,6 @@ blood from his face onto the knuckles of Boss's hand.
 
 				 JACK
 	 Please... please...
+
+				 JACK (V.O.)
 </pre>
