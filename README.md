@@ -4219,4 +4219,5 @@ Boss stumbles back into his desk, knocking off belongings.
 	 something horrible had been growing.
 
 Jack crawls high enough to grab Boss's belt, hoisting
+himself up.  He dribbles blood an Boss's clothing, SMUDGES
 </pre>
