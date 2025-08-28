@@ -4233,4 +4233,5 @@ Two SECURITY GUARDS enter and gape at the sight.  Behind
 them stand CURIOUS WORKERS, looking in.
 
 				 JACK
+		   (gurgling blood)
 </pre>
