@@ -4230,4 +4230,5 @@ blood from his face onto the knuckles of Boss's hand.
 	 moment together...
 
 Two SECURITY GUARDS enter and gape at the sight.  Behind
+them stand CURIOUS WORKERS, looking in.
 </pre>
