@@ -4234,4 +4234,5 @@ them stand CURIOUS WORKERS, looking in.
 
 				 JACK
 		   (gurgling blood)
+	 Please don't hit me again.
 </pre>
