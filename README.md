@@ -4242,4 +4242,6 @@ Jack holds a CHECK in front of Tyler's face.
 
 				 JACK
 	 Six months advance pay.  Six months!
+
+				 TYLER
 </pre>
