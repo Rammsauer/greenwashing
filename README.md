@@ -4244,4 +4244,5 @@ Jack holds a CHECK in front of Tyler's face.
 	 Six months advance pay.  Six months!
 
 				 TYLER
+	 Fucking sweet.
 </pre>
