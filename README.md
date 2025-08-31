@@ -4253,4 +4253,5 @@ Jack digs in his pocket, takes out a thick bundle of CARDS.
 
 				 JACK
 	 Forty-eight airline flight coupons.
+	 Plus... hold on... just a minute...
 </pre>
