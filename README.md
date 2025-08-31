@@ -4252,4 +4252,5 @@ Jack holds a CHECK in front of Tyler's face.
 Jack digs in his pocket, takes out a thick bundle of CARDS.
 
 				 JACK
+	 Forty-eight airline flight coupons.
 </pre>
