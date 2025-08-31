@@ -4250,4 +4250,6 @@ Jack holds a CHECK in front of Tyler's face.
 	 Okay, and... and...
 
 Jack digs in his pocket, takes out a thick bundle of CARDS.
+
+				 JACK
 </pre>
