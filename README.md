@@ -4257,4 +4257,5 @@ Jack digs in his pocket, takes out a thick bundle of CARDS.
 
 Jack holds up a finger, going to open the front door.  He
 drags an unwieldy SHOPPING CART in behind him; filled with
+his COMPUTER, PHONE, FAX and other office equipment.
 </pre>
