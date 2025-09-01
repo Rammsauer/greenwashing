@@ -4260,4 +4260,5 @@ drags an unwieldy SHOPPING CART in behind him; filled with
 his COMPUTER, PHONE, FAX and other office equipment.
 
 				 JACK
+	 I am now officially self-employed.
 </pre>
