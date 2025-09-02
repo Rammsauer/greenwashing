@@ -4268,4 +4268,6 @@ Jack looks at the cart, then back at Tyler, proud.
 	 Good for you.
 
 INT. LOU'S TAVERN - BASEMENT - NIGHT
+
+LOUD.  An enormous CROWD of guys, including Jack and Bob,
 </pre>
