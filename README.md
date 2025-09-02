@@ -4272,4 +4272,6 @@ INT. LOU'S TAVERN - BASEMENT - NIGHT
 LOUD.  An enormous CROWD of guys, including Jack and Bob,
 stands around Tyler, who's in the center of the circle,
 holding up his hands to quiet them...
+
+				 TYLER
 </pre>
