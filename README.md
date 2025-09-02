@@ -4270,4 +4270,5 @@ Jack looks at the cart, then back at Tyler, proud.
 INT. LOU'S TAVERN - BASEMENT - NIGHT
 
 LOUD.  An enormous CROWD of guys, including Jack and Bob,
+stands around Tyler, who's in the center of the circle,
 </pre>
