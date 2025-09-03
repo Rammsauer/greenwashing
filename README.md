@@ -4276,4 +4276,6 @@ holding up his hands to quiet them...
 				 TYLER
 	 I look around... I look around and
 	 see a lot of new faces.
+
+An enthusiastic RUMBLE from the crowd.
 </pre>
