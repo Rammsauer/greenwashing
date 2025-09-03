@@ -4282,4 +4282,5 @@ An enthusiastic RUMBLE from the crowd.
 				 TYLER
 	 Shut up!  Which means a lot of you
 	 have been breaking the first two
+	 rules of fight club.
 </pre>
