@@ -4283,4 +4283,6 @@ An enthusiastic RUMBLE from the crowd.
 	 Shut up!  Which means a lot of you
 	 have been breaking the first two
 	 rules of fight club.
+
+A glum silence falls.  Guys look at each other.
 </pre>
