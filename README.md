@@ -4292,4 +4292,5 @@ A glum silence falls.  Guys look at each other.
 	 an entire generation pumping gas and
 	 waiting tables; or they're slaves
 	 with white collars.
+				 (more)
 </pre>
