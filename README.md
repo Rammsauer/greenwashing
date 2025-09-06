@@ -4306,4 +4306,5 @@ A glum silence falls.  Guys look at each other.
 	 is our lives.  We were raised by
 	 television to believe that we'd be
 	 millionaires and movie gods and rock
+	 stars -- but we won't.  And we're
 </pre>
