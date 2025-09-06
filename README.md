@@ -4303,4 +4303,5 @@ A glum silence falls.  Guys look at each other.
 	 We have no great war, or great
 	 depression.  The great war is a
 	 spiritual war.  The great depression
+	 is our lives.  We were raised by
 </pre>
