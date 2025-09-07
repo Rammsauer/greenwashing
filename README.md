@@ -4309,4 +4309,6 @@ A glum silence falls.  Guys look at each other.
 	 stars -- but we won't.  And we're
 	 learning that fact.  And we're very,
 	 very pissed-off.
+
+The crowd erupts into a DEAFENING CHORUS of agreement.  Jack
 </pre>
