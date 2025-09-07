@@ -4311,4 +4311,5 @@ A glum silence falls.  Guys look at each other.
 	 very pissed-off.
 
 The crowd erupts into a DEAFENING CHORUS of agreement.  Jack
+looks at the blazing excitement in the eyes of the crowd.
 </pre>
