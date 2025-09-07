@@ -4314,4 +4314,5 @@ The crowd erupts into a DEAFENING CHORUS of agreement.  Jack
 looks at the blazing excitement in the eyes of the crowd.
 
 				 TYLER
+	 We are the quiet young men who listen
 </pre>
