@@ -4308,4 +4308,5 @@ A glum silence falls.  Guys look at each other.
 	 millionaires and movie gods and rock
 	 stars -- but we won't.  And we're
 	 learning that fact.  And we're very,
+	 very pissed-off.
 </pre>
