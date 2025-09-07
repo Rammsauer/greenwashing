@@ -4307,4 +4307,5 @@ A glum silence falls.  Guys look at each other.
 	 television to believe that we'd be
 	 millionaires and movie gods and rock
 	 stars -- but we won't.  And we're
+	 learning that fact.  And we're very,
 </pre>
