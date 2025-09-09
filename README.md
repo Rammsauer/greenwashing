@@ -4322,4 +4322,6 @@ the crowd, followed by a TALL, HEFTY THUG who holds a GUM.
 
 				 TYLER
 	 Who are you?
+
+				 FAT MAN (LOU)
 </pre>
