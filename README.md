@@ -4334,4 +4334,5 @@ the crowd, followed by a TALL, HEFTY THUG who holds a GUM.
 Tyler extends his hand for a shake, but Lou SLAPS it away.
 
 				 LOU
+	 Who told you motherfuckers you could
 </pre>
