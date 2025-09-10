@@ -4332,4 +4332,6 @@ the crowd, followed by a TALL, HEFTY THUG who holds a GUM.
 	 Tyler Durden.
 
 Tyler extends his hand for a shake, but Lou SLAPS it away.
+
+				 LOU
 </pre>
