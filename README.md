@@ -4345,4 +4345,6 @@ Tyler extends his hand for a shake, but Lou SLAPS it away.
 	 broken collarbone.
 
 Everyone glances guiltily at each other.
+
+				 LOU
 </pre>
