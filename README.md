@@ -4341,4 +4341,5 @@ Tyler extends his hand for a shake, but Lou SLAPS it away.
 	 We have a deal worked out with Irvine.
 
 				 LOU
+	 Irvine?  Irvine's at home with a
 </pre>
