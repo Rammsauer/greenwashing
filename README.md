@@ -4351,4 +4351,5 @@ Everyone glances guiltily at each other.
 	 much money's he getting for this?
 
 				 TYLER
+	 There is no money.
 </pre>
