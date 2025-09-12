@@ -4347,4 +4347,5 @@ Tyler extends his hand for a shake, but Lou SLAPS it away.
 Everyone glances guiltily at each other.
 
 				 LOU
+	 He don't own this place, I do.  How
 </pre>
