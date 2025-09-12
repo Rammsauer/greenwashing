@@ -4349,4 +4349,6 @@ Everyone glances guiltily at each other.
 				 LOU
 	 He don't own this place, I do.  How
 	 much money's he getting for this?
+
+				 TYLER
 </pre>
