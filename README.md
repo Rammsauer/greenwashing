@@ -4357,4 +4357,5 @@ Everyone glances guiltily at each other.
 	 Really?
 
 				 TYLER
+	 It's free to all.
 </pre>
