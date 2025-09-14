@@ -4370,4 +4370,5 @@ Everyone glances guiltily at each other.
 	 outta here now!
 
 				 TYLER
+	 You're welcome to join our club.
 </pre>
