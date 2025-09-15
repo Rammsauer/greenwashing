@@ -4376,4 +4376,5 @@ Everyone glances guiltily at each other.
 	 Did you hear what I just said?!
 
 				 TYLER
+	 You and your friend.
 </pre>
