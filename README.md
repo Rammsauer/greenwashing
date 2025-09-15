@@ -4373,4 +4373,5 @@ Everyone glances guiltily at each other.
 	 You're welcome to join our club.
 
 				 LOU
+	 Did you hear what I just said?!
 </pre>
