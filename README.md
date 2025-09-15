@@ -4374,4 +4374,6 @@ Everyone glances guiltily at each other.
 
 				 LOU
 	 Did you hear what I just said?!
+
+				 TYLER
 </pre>
