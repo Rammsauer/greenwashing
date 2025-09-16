@@ -4382,4 +4382,6 @@ Lou SLUGS Tyler in the stomach, doubles him over.
 
 				 LOU
 	 You hear me now?
+
+Tyler gains his breath, determined.  He looks up, turns his
 </pre>
