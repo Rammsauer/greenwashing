@@ -4390,4 +4390,6 @@ Tyler straightens, facing Lou.
 
 				 TYLER
 	 No, I'm sorry, I didn't hear you.
+
+Lou PUNCHES Tyler in the face.  Some of the guys move
 </pre>
