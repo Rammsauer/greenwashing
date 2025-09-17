@@ -4392,4 +4392,5 @@ Tyler straightens, facing Lou.
 	 No, I'm sorry, I didn't hear you.
 
 Lou PUNCHES Tyler in the face.  Some of the guys move
+forward, but the Thug points his gun.  Jack-runs forward
 </pre>
