@@ -4407,4 +4407,6 @@ starts KICKING his.  Tyler bleeds from the mouth and face.
 				 TYLER
 	 That's it.... that's good.  Get it
 	 all out.  You'll feel better.
+
+Lou flushes red with exasperation, KICKS more.  Finally,
 </pre>
