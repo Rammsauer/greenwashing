@@ -4411,4 +4411,6 @@ starts KICKING his.  Tyler bleeds from the mouth and face.
 Lou flushes red with exasperation, KICKS more.  Finally,
 sweating, bewildered, Lou stops.  He looks to the Thug, who
 is just as bewildered.
+
+Suddenly, Tyler SPRINGS UP, grabs onto Lou...
 </pre>
