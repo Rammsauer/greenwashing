@@ -4413,4 +4413,6 @@ sweating, bewildered, Lou stops.  He looks to the Thug, who
 is just as bewildered.
 
 Suddenly, Tyler SPRINGS UP, grabs onto Lou...
+
+				 TYLER
 </pre>
