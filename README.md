@@ -4430,4 +4430,6 @@ spits and shouts through clenched teeth...
 Tyler bear hugs Lou, pulls him to the floor.  Tyler rubs his
 bloody face into Lou's face.  The Thug lifts Tyler.  Tyler
 clings to Lou's belt, dragging Lou as he is dragged...
+
+				 TYLER
 </pre>
