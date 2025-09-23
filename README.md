@@ -4434,4 +4434,6 @@ clings to Lou's belt, dragging Lou as he is dragged...
 				 TYLER
 	 We need this place.  We need it.
 	 Please let us keep it, please...
+
+Blood dribbles out of Tyler's mouth, spattering Lou.
 </pre>
