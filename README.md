@@ -4438,4 +4438,5 @@ clings to Lou's belt, dragging Lou as he is dragged...
 Blood dribbles out of Tyler's mouth, spattering Lou.
 
 				 LOU
+	 What are you doing?!
 </pre>
