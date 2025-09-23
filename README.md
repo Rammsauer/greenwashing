@@ -4439,4 +4439,6 @@ Blood dribbles out of Tyler's mouth, spattering Lou.
 
 				 LOU
 	 What are you doing?!
+
+				 TYLER
 </pre>
