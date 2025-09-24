@@ -4448,4 +4448,5 @@ Blood dribbles out of Tyler's mouth, spattering Lou.
 	 basement!  Get off me!
 
 				 TYLER
+	 We need some towels, Lou.  We need
 </pre>
