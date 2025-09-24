@@ -4446,4 +4446,6 @@ Blood dribbles out of Tyler's mouth, spattering Lou.
 				 LOU
 	 Okay!  Okay, fuck it!  Use the
 	 basement!  Get off me!
+
+				 TYLER
 </pre>
