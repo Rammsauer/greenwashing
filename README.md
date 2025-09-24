@@ -4449,4 +4449,5 @@ Blood dribbles out of Tyler's mouth, spattering Lou.
 
 				 TYLER
 	 We need some towels, Lou.  We need
+	 replacement light bulbs.
 </pre>
