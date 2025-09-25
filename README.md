@@ -4456,4 +4456,6 @@ Blood dribbles out of Tyler's mouth, spattering Lou.
 
 				 TYLER
 	 Thank you.  Thank you, sir...
+
+				 LOU
 </pre>
