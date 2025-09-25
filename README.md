@@ -4452,4 +4452,5 @@ Blood dribbles out of Tyler's mouth, spattering Lou.
 	 replacement light bulbs.
 
 				 LOU
+	 Alright, Christ!  Fucking let me go!
 </pre>
