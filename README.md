@@ -3443,4 +3443,5 @@ to Jack's body, almost touhcing.
 		   (seductive)
 	 It's a bridesmaid's dress.  Someone
 	 loved it intensely for one day, then
+	 tossed it.  Like a Christmas tree --
 </pre>
