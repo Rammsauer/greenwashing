@@ -3447,4 +3447,6 @@ to Jack's body, almost touhcing.
 	 so special, then, bam -- it's
 	 abandoned on the side of the road,
 	 tinsel still clinging to it...
+
+Jack becomes very aware of having no pants on, presses
 </pre>
