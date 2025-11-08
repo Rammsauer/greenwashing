@@ -3446,4 +3446,5 @@ to Jack's body, almost touhcing.
 	 tossed it.  Like a Christmas tree --
 	 so special, then, bam -- it's
 	 abandoned on the side of the road,
+	 tinsel still clinging to it...
 </pre>
