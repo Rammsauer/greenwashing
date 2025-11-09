@@ -3453,4 +3453,5 @@ against the counter.  Marla pulls her hemline further up.
 
 				 MARLA
 	 Like sex crime victims, underwear
+	 inside-out, bound with electrical
 </pre>
