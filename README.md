@@ -3457,4 +3457,5 @@ against the counter.  Marla pulls her hemline further up.
 	 tape.
 
 				 JACK
+		   (coldly)
 </pre>
