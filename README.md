@@ -3459,4 +3459,6 @@ against the counter.  Marla pulls her hemline further up.
 				 JACK
 		   (coldly)
 	 It suits you.
+
+She leans in very close to Jack's ear, whispers hoarsely:
 </pre>
