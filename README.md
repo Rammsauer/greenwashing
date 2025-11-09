@@ -3455,4 +3455,6 @@ against the counter.  Marla pulls her hemline further up.
 	 Like sex crime victims, underwear
 	 inside-out, bound with electrical
 	 tape.
+
+				 JACK
 </pre>
