@@ -3464,4 +3464,6 @@ She leans in very close to Jack's ear, whispers hoarsely:
 
 				 MARLA
 	 You can borrow it sometime.
+
+Jack takes a step away, keeps scrubbing.  Marla blows smoke
 </pre>
