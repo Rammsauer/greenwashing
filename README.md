@@ -3468,4 +3468,6 @@ She leans in very close to Jack's ear, whispers hoarsely:
 Jack takes a step away, keeps scrubbing.  Marla blows smoke
 in his face.  Jack takes her cigarette and throws it in the
 sink.  Marla backs away, fed up, storms out, going UPSTAIRS.
+
+				 TYLER (O.S.)
 </pre>
