@@ -3482,4 +3482,5 @@ Jack turns to see Tyler in the doorway.
 	 Don't mention me.
 
 Marla's FOOTSTEPS are coming DOWNSTAIRS.  Jack looks to the
+archway, then back at -- Tyler's GONE.  Marla enters, shoes
 </pre>
