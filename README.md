@@ -3484,4 +3484,5 @@ Jack turns to see Tyler in the doorway.
 Marla's FOOTSTEPS are coming DOWNSTAIRS.  Jack looks to the
 archway, then back at -- Tyler's GONE.  Marla enters, shoes
 and balled up clothing under one arm, looking for something
+on the junk strewn table.
 </pre>
