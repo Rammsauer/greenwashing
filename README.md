@@ -3480,4 +3480,6 @@ Jack turns to see Tyler in the doorway.
 				 TYLER
 		   (pointing at Jack)
 	 Don't mention me.
+
+Marla's FOOTSTEPS are coming DOWNSTAIRS.  Jack looks to the
 </pre>
