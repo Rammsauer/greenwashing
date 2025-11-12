@@ -3478,4 +3478,5 @@ Jack turns to see Tyler in the doorway.
 	 You get rid of her.
 
 				 TYLER
+		   (pointing at Jack)
 </pre>
