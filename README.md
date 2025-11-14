@@ -3494,4 +3494,5 @@ on the junk strewn table.
 	 I, uh... think you should go now.
 
 Marla ignores, still searching the table, tossing things,
+pushing other things off to the floor.
 </pre>
