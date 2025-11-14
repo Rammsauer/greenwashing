@@ -3495,4 +3495,6 @@ on the junk strewn table.
 
 Marla ignores, still searching the table, tossing things,
 pushing other things off to the floor.
+
+				 JACK
 </pre>
