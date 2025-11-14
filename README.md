@@ -3492,4 +3492,6 @@ on the junk strewn table.
 
 				 JACK
 	 I, uh... think you should go now.
+
+Marla ignores, still searching the table, tossing things,
 </pre>
