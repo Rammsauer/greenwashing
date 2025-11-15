@@ -3506,4 +3506,5 @@ Marla finds what she wanted, a pack of cigarettes.  She
 moves up into Jack's face.
 
 				 MARLA
+	 You're such a nutcase, I can't even
 </pre>
