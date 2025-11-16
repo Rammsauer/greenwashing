@@ -3510,4 +3510,5 @@ moves up into Jack's face.
 	 begin to keep up.
 
 				 JACK
+	 Goodbye.
 </pre>
