@@ -3514,4 +3514,5 @@ moves up into Jack's face.
 
 She laughs, spins on her heels.  As she exits the back door,
 she sings "This Merry-Go-Round" from "Valley of the Dolls."
+Jack watches her through the kitchen window.
 </pre>
