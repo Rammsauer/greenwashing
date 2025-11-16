@@ -3508,4 +3508,6 @@ moves up into Jack's face.
 				 MARLA
 	 You're such a nutcase, I can't even
 	 begin to keep up.
+
+				 JACK
 </pre>
