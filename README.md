@@ -3517,4 +3517,5 @@ she sings "This Merry-Go-Round" from "Valley of the Dolls."
 Jack watches her through the kitchen window.
 
 				 TYLER (O.S.)
+	 Nice work.
 </pre>
