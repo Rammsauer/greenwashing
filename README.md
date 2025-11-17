@@ -3520,4 +3520,5 @@ Jack watches her through the kitchen window.
 	 Nice work.
 
 Jack turns.  Tyler's right behind him.  Through the window,
+Marla can be seen walking away.  Tyler picks up the remnant
 </pre>
