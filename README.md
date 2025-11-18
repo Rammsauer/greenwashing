@@ -3530,4 +3530,6 @@ of SOAP Jack's been using, holds it up to Jack.
 Jack looks at Tyler.
 
 CLOSE UP - SIGN: "DANGER - BIOHAZARD."
+
+EXT. FENCED-IN BIOHAZARD WASTE DUMP SITE - NIGHT
 </pre>
