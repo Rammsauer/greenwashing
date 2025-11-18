@@ -3528,4 +3528,6 @@ of SOAP Jack's been using, holds it up to Jack.
 	 fat.
 
 Jack looks at Tyler.
+
+CLOSE UP - SIGN: "DANGER - BIOHAZARD."
 </pre>
