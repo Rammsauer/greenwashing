@@ -3534,4 +3534,5 @@ CLOSE UP - SIGN: "DANGER - BIOHAZARD."
 EXT. FENCED-IN BIOHAZARD WASTE DUMP SITE - NIGHT
 
 Tyler stands inside the fence.  Jack's atop the fence,
+struggling to cross BARBED WIRE.  He wobbles, gets over,
 </pre>
