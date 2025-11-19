@@ -3538,4 +3538,5 @@ struggling to cross BARBED WIRE.  He wobbles, gets over,
 snags his shirt.  Jack falls, RIPPPPP.  Tyler helps.
 
 FOOTSTEPS.  A FLASHLIGHT BEAM.  Tyler pulls Jack behind a
+DUMPSTER, one of DOZENS.  A silhouette of a SECURITY GUARD
 </pre>
