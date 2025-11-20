@@ -3543,4 +3543,6 @@ moves along the perimeter, flashlight first.  He walks away.
 
 MOVE BACK to Tyler and Jack, who emerge from hiding.  Tyler
 eagerly grabs the lid of the closest dumpster.
+
+				 TYLER
 </pre>
