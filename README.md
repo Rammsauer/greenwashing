@@ -3553,4 +3553,6 @@ Tyler lifts the lid -- it CREAKS.
 
 				 JACK
 	 What is this place?
+
+				 TYLER
 </pre>
