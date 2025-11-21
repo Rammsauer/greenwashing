@@ -3550,4 +3550,6 @@ eagerly grabs the lid of the closest dumpster.
 	 right -- comes form human bodies...
 
 Tyler lifts the lid -- it CREAKS.
+
+				 JACK
 </pre>
