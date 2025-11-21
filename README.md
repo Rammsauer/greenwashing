@@ -3548,4 +3548,6 @@ eagerly grabs the lid of the closest dumpster.
 	 The best fat for making soap --
 	 because the salt balance is just
 	 right -- comes form human bodies...
+
+Tyler lifts the lid -- it CREAKS.
 </pre>
