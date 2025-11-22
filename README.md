@@ -3561,4 +3561,5 @@ From the dumpster, Tyler pulls out an industrial-sized,
 thick plastic bag full of PINK GOO.
 
 				 TYLER
+	 Paydirt.  From society's richest
 </pre>
