@@ -3563,4 +3563,6 @@ thick plastic bag full of PINK GOO.
 				 TYLER
 	 Paydirt.  From society's richest
 	 asses and thighs.
+
+TIME CUT: Tyler and Jack climb back over the fence, carrying
 </pre>
