@@ -3559,4 +3559,6 @@ Tyler lifts the lid -- it CREAKS.
 
 From the dumpster, Tyler pulls out an industrial-sized,
 thick plastic bag full of PINK GOO.
+
+				 TYLER
 </pre>
