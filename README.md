@@ -3565,4 +3565,5 @@ thick plastic bag full of PINK GOO.
 	 asses and thighs.
 
 TIME CUT: Tyler and Jack climb back over the fence, carrying
+BAGS of fat.  One of Jack's bags RIPS, spilling the goo down
 </pre>
