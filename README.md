@@ -3570,4 +3570,6 @@ the chain-link fench.  Jack slips and slides.  Tyler laughs.
 Tyler tries to scoop the running fat back into the bag.
 
 INT. KITCHEN - NIGHT
+
+Jack and Tyler each stir a boiling pot.
 </pre>
