@@ -3577,4 +3577,6 @@ Jack and Tyler each stir a boiling pot.
 	 As the fat renders, the tallow floats
 	 to the surface.  Remember the crap
 	 they taught you in Boy Scouts.
+
+				 JACK
 </pre>
