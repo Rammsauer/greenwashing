@@ -3572,4 +3572,6 @@ Tyler tries to scoop the running fat back into the bag.
 INT. KITCHEN - NIGHT
 
 Jack and Tyler each stir a boiling pot.
+
+				 TYLER
 </pre>
