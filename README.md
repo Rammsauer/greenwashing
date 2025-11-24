@@ -3574,4 +3574,5 @@ INT. KITCHEN - NIGHT
 Jack and Tyler each stir a boiling pot.
 
 				 TYLER
+	 As the fat renders, the tallow floats
 </pre>
