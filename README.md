@@ -3580,4 +3580,6 @@ Jack and Tyler each stir a boiling pot.
 
 				 JACK
 	 Hard to imagine you in Boy Scouts.
+
+				 TYLER
 </pre>
