@@ -3582,4 +3582,5 @@ Jack and Tyler each stir a boiling pot.
 	 Hard to imagine you in Boy Scouts.
 
 				 TYLER
+	 This clear layer in glycerin.  We'll
 </pre>
