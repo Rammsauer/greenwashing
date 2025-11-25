@@ -3584,4 +3584,6 @@ Jack and Tyler each stir a boiling pot.
 				 TYLER
 	 This clear layer in glycerin.  We'll
 	 mix it back in when we make the soap.
+
+Tyler sticks a spoon into a pot, lifts up a scoop of the
 </pre>
