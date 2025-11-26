@@ -3593,4 +3593,5 @@ glycerin layer.  Then, he crabs a can, opens it.
 		   (adding lye to mix)
 	 Ancient peoples found their clothes
 	 got cleaner if they washed them at a
+	 certain spot in the river.  Why?
 </pre>
