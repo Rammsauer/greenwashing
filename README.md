@@ -3592,4 +3592,5 @@ glycerin layer.  Then, he crabs a can, opens it.
 	 Lye -- the crucial ingredient.
 		   (adding lye to mix)
 	 Ancient peoples found their clothes
+	 got cleaner if they washed them at a
 </pre>
