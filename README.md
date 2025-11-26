@@ -3594,4 +3594,5 @@ glycerin layer.  Then, he crabs a can, opens it.
 	 Ancient peoples found their clothes
 	 got cleaner if they washed them at a
 	 certain spot in the river.  Why?
+	 Because, human sacrifices were once
 </pre>
