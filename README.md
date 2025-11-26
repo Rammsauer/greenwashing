@@ -3591,4 +3591,5 @@ glycerin layer.  Then, he crabs a can, opens it.
 				 TYLER
 	 Lye -- the crucial ingredient.
 		   (adding lye to mix)
+	 Ancient peoples found their clothes
 </pre>
