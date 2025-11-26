@@ -3590,4 +3590,5 @@ glycerin layer.  Then, he crabs a can, opens it.
 
 				 TYLER
 	 Lye -- the crucial ingredient.
+		   (adding lye to mix)
 </pre>
