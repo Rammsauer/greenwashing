@@ -3604,4 +3604,5 @@ glycerin layer.  Then, he crabs a can, opens it.
 	 discharge crept into the river.
 
 Tyler licks his lips until they're gleaming wet.  He takes
+Jack's hands and KISSES the back of it.
 </pre>
