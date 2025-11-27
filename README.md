@@ -3600,4 +3600,5 @@ glycerin layer.  Then, he crabs a can, opens it.
 	 feel.  Water seeped through the wood
 	 ashes to become lye.  The lye
 	 combined with the melted fat of the
+	 bodies, till a thick white soapy
 </pre>
