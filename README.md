@@ -3602,4 +3602,6 @@ glycerin layer.  Then, he crabs a can, opens it.
 	 combined with the melted fat of the
 	 bodies, till a thick white soapy
 	 discharge crept into the river.
+
+Tyler licks his lips until they're gleaming wet.  He takes
 </pre>
