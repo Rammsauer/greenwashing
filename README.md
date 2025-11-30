@@ -3625,4 +3625,6 @@ and arm.  Tears well in Jack's eyes; his face tightens.
 	 This is a chemical burn.  It will
 	 hurt more than you've ever been
 	 burned and you will have a scar.
+
+Jack looks -- the burn is swollen, glossy, in the shape of
 </pre>
