@@ -3623,4 +3623,5 @@ and arm.  Tears well in Jack's eyes; his face tightens.
 
 				 TYLER
 	 This is a chemical burn.  It will
+	 hurt more than you've ever been
 </pre>
