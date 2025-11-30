@@ -3622,4 +3622,5 @@ Jack's whole body JERKS.  Tyler holds tight to Jack's hand
 and arm.  Tears well in Jack's eyes; his face tightens.
 
 				 TYLER
+	 This is a chemical burn.  It will
 </pre>
