@@ -3634,4 +3634,5 @@ Tyler's kiss.  Jack's face spasms.
 	 back of my hand.
 
 				 TYLER
+	 Look at your hand.
 </pre>
