@@ -3635,4 +3635,6 @@ Tyler's kiss.  Jack's face spasms.
 
 				 TYLER
 	 Look at your hand.
+
+				 JACK (V.O.)
 </pre>
