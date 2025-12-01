@@ -3630,4 +3630,5 @@ Jack looks -- the burn is swollen, glossy, in the shape of
 Tyler's kiss.  Jack's face spasms.
 
 				 JACK (V.O.)
+	 Tyler's kiss was a bonfire on the
 </pre>
