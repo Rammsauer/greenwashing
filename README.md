@@ -3637,4 +3637,5 @@ Tyler's kiss.  Jack's face spasms.
 	 Look at your hand.
 
 				 JACK (V.O.)
+	 Guided meditation worked for cancer,
 </pre>
