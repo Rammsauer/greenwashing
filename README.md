@@ -3638,4 +3638,5 @@ Tyler's kiss.  Jack's face spasms.
 
 				 JACK (V.O.)
 	 Guided meditation worked for cancer,
+	 it could work for this.
 </pre>
