@@ -3645,4 +3645,5 @@ SHOT OF A GREEN MAPLE LEAF, GLISTENING WITH DEW.  RESUME:
 Tyler looks at Jack's glazed and detached eyes.
 
 				 TYLER
+	 Come back to the pain.  Don't shut
 </pre>
