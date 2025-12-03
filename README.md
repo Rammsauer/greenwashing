@@ -3646,4 +3646,5 @@ Tyler looks at Jack's glazed and detached eyes.
 
 				 TYLER
 	 Come back to the pain.  Don't shut
+	 this out.
 </pre>
