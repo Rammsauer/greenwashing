@@ -3649,4 +3649,5 @@ Tyler looks at Jack's glazed and detached eyes.
 	 this out.
 
 Jack, snapping back, tries to jerk his hand away.  Tyler
+keeps hold of it and their arms KNOCK UTENSILS off the table.
 </pre>
