@@ -3661,4 +3661,5 @@ SHOT OF A FOREST, IN GENTLE SPRING RAINFALL.  RESUME:
 Tyler JERKS Jack's hand, getting Jack's attention...
 
 				 TYLER
+	 Stop it.  This is your pain -- your
 </pre>
