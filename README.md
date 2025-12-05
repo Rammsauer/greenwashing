@@ -3667,4 +3667,5 @@ Tyler JERKS Jack's hand, getting Jack's attention...
 
 				 JACK (V.O.)
 	 I was going to my cave to find my
+	 power animal.
 </pre>
