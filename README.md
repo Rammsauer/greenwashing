@@ -3662,4 +3662,5 @@ Tyler JERKS Jack's hand, getting Jack's attention...
 
 				 TYLER
 	 Stop it.  This is your pain -- your
+	 burning hand.  It's right here.  Look
 </pre>
