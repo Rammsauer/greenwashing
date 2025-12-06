@@ -3668,4 +3668,6 @@ Tyler JERKS Jack's hand, getting Jack's attention...
 				 JACK (V.O.)
 	 I was going to my cave to find my
 	 power animal.
+
+SHOT OF THE INSIDE OF JACK'S FROZEN ICE CAVE.  RESUME:
 </pre>
