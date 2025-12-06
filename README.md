@@ -3672,4 +3672,6 @@ Tyler JERKS Jack's hand, getting Jack's attention...
 SHOT OF THE INSIDE OF JACK'S FROZEN ICE CAVE.  RESUME:
 
 Tyler JERKS Jack's hand again.  Jack re-focuses on Tyler...
+
+				 TYLER
 </pre>
