@@ -3674,4 +3674,5 @@ SHOT OF THE INSIDE OF JACK'S FROZEN ICE CAVE.  RESUME:
 Tyler JERKS Jack's hand again.  Jack re-focuses on Tyler...
 
 				 TYLER
+	 Don't deal with this the way those
 </pre>
