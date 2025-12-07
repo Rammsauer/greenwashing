@@ -3680,4 +3680,6 @@ Tyler JERKS Jack's hand again.  Jack re-focuses on Tyler...
 
 SHOT OF INSIDE THE ICE CAVE - ON MARLA, LYING NAKED UNDER A
 FUR COAT, TURNING HER HEAD TO LOOK TOWARDS US.  RESUME:
+
+Jack tries to pull his hand free.  Tyler won't let go.
 </pre>
