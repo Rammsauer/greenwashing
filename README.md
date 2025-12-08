@@ -3691,4 +3691,6 @@ Jack's eyes glaze over again.  Jack speaks, whiny from pain:
 				 TYLER
 	 No, what you're feeling is premature
 	 enlightenment.
+
+SHOT OF A GREEN FOREST WITHOUT RAIN.  RESUME:
 </pre>
