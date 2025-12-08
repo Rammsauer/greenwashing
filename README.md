@@ -3689,4 +3689,5 @@ Jack's eyes glaze over again.  Jack speaks, whiny from pain:
 	 I get it...
 
 				 TYLER
+	 No, what you're feeling is premature
 </pre>
