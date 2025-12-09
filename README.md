@@ -3699,4 +3699,5 @@ Tyler SLAPS Jack's face, regaining his attention...
 				 TYLER
 	 This is the greatest moment of your
 	 life and you're off somewhere,
+	 missing it.
 </pre>
