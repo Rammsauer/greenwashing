@@ -3700,4 +3700,6 @@ Tyler SLAPS Jack's face, regaining his attention...
 	 This is the greatest moment of your
 	 life and you're off somewhere,
 	 missing it.
+
+				 JACK
 </pre>
