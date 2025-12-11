@@ -3712,4 +3712,5 @@ SHOT OF TREES ENGULFED BY A FOREST FIRE.  RESUME:
 	 what does that tell us about God?
 
 				 JACK
+	 I don't know...
 </pre>
