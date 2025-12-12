@@ -3719,4 +3719,5 @@ SHOT OF EMBERS POURING FROM THE HELLISH FOREST FIRE.  RESUME:
 Tyler SLAPS Jack's face again...
 
 				 TYLER
+	 Listen to me.  You have to consider
 </pre>
