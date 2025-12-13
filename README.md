@@ -3724,4 +3724,6 @@ Tyler SLAPS Jack's face again...
 	 you, he never wanted you.  In all
 	 probability, He hates you.  This is
 	 not the worst thing that can happen...
+
+				 JACK
 </pre>
