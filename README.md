@@ -3739,4 +3739,6 @@ OF HER - JACK KISSES HER - CIGARETTE SMOKE COMES FROM HER
 MOUTH - JACK COUGHS.  RESUME:
 
 Jack is a wide-eyed zombie...
+
+				 JACK
 </pre>
