@@ -3744,4 +3744,5 @@ Jack is a wide-eyed zombie...
 	 ... Marla ... ?
 
 				 TYLER
+	 Fuck damnation.  Fuck redemption.  We
 </pre>
