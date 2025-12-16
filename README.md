@@ -3754,4 +3754,5 @@ to stifle his spasms of pain, his body a quivering, coiled
 knot.  He bolts toward the sink, but Tyler holds on.
 
 				 TYLER
+	 You can go to the sink and run water
 </pre>
