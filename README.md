@@ -3755,4 +3755,5 @@ knot.  He bolts toward the sink, but Tyler holds on.
 
 				 TYLER
 	 You can go to the sink and run water
+	 over your hand.  Look at me.  Or you
 </pre>
