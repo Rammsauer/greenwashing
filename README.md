@@ -3765,4 +3765,5 @@ knot.  He bolts toward the sink, but Tyler holds on.
 Jack spasms with a shiver of pain...
 
 				 JACK
+	 You ... you don't know what this
 </pre>
