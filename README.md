@@ -3767,4 +3767,6 @@ Jack spasms with a shiver of pain...
 				 JACK
 	 You ... you don't know what this
 	 feels like, Tyler.
+
+Tyler shows Jack a LYE-BURNED KISS SCAR on his own hand.
 </pre>
