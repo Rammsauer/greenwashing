@@ -3766,4 +3766,5 @@ Jack spasms with a shiver of pain...
 
 				 JACK
 	 You ... you don't know what this
+	 feels like, Tyler.
 </pre>
