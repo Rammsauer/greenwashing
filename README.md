@@ -3779,4 +3779,6 @@ Jack closes his eyes, holds his hand... slumps to the floor.
 	 closer to hitting bottom.
 
 INT. BARNEY'S - DAY
+
+Jack and Tyler, in trench coats, looking like deaht-warmed-
 </pre>
