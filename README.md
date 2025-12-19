@@ -3775,4 +3775,5 @@ of VINEGAR -- pours it over Jack's wound.
 Jack closes his eyes, holds his hand... slumps to the floor.
 
 				 TYLER
+	 Congratulations.  You're a step
 </pre>
