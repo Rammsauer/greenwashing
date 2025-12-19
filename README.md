@@ -3776,4 +3776,5 @@ Jack closes his eyes, holds his hand... slumps to the floor.
 
 				 TYLER
 	 Congratulations.  You're a step
+	 closer to hitting bottom.
 </pre>
