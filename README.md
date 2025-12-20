@@ -3786,4 +3786,6 @@ over, wait as a BUYER fills out forms.
 There are bars of "The Paper Street Soap Company" soap on
 the counter.  Jack looks like he's half-expecting to get
 arrested.  His hand is BANDAGED.
+
+				 JACK (V.O.)
 </pre>
