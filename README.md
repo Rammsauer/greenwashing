@@ -3791,4 +3791,5 @@ arrested.  His hand is BANDAGED.
 	 Tyler sold the soap to department
 	 stores at twenty bucks a Ear.  God
 	 knows what they charged.  How ironic.
+	 We were selling rich women their own
 </pre>
