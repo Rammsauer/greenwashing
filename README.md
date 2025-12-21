@@ -3790,4 +3790,5 @@ arrested.  His hand is BANDAGED.
 				 JACK (V.O.)
 	 Tyler sold the soap to department
 	 stores at twenty bucks a Ear.  God
+	 knows what they charged.  How ironic.
 </pre>
