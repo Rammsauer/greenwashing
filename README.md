@@ -3792,4 +3792,5 @@ arrested.  His hand is BANDAGED.
 	 stores at twenty bucks a Ear.  God
 	 knows what they charged.  How ironic.
 	 We were selling rich women their own
+	 fat asses back to them.
 </pre>
