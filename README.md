@@ -3801,4 +3801,5 @@ smoking a cigarette.  Boss enters.
 
 				 JACK (V.O.)
 	 He was wearing a yellow tie.  It must
+	 be Thursday.  I didn't even wear a tie
 </pre>
