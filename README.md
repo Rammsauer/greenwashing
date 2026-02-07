@@ -3795,4 +3795,6 @@ arrested.  His hand is BANDAGED.
 	 fat asses back to them.
 
 INT. JACK'S OFFICE - DAY
+
+Jack sits at his desk, playing a game on his computer,
 </pre>
