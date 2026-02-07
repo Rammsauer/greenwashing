@@ -3797,4 +3797,5 @@ arrested.  His hand is BANDAGED.
 INT. JACK'S OFFICE - DAY
 
 Jack sits at his desk, playing a game on his computer,
+smoking a cigarette.  Boss enters.
 </pre>
