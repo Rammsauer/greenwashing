@@ -3809,4 +3809,6 @@ Boss slaps a piece of PAPER down on Jack's desk.
 				 BOSS
 	 "The first rule of fight club is you
 	 don't talk about fight club."
+
+Jack snuffs his cigarette in an ashtray, stares up stoically.
 </pre>
