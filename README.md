@@ -3815,4 +3815,6 @@ Jack snuffs his cigarette in an ashtray, stares up stoically.
 				 JACK (V.O.)
 	 I must've left the original in the
 	 copy machine.
+
+				 BOSS
 </pre>
