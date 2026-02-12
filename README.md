@@ -3834,4 +3834,6 @@ Jack snuffs his cigarette in an ashtray, stares up stoically.
 				 BOSS
 	 Pretend you're me.  You find this.
 	 What would you do?
+
+Jack rises slowly, walks to his door, shuts it.
 </pre>
