@@ -3841,4 +3841,5 @@ Jack rises slowly, walks to his door, shuts it.
 	 Me? I'd be very careful who I talked
 	 to about this.  It sounds like
 	 someone dangerous wrote it... someone
+	 who might snap at any moment,
 </pre>
