@@ -3842,4 +3842,5 @@ Jack rises slowly, walks to his door, shuts it.
 	 to about this.  It sounds like
 	 someone dangerous wrote it... someone
 	 who might snap at any moment,
+	 stalking from office to office with
 </pre>
