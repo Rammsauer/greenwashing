@@ -3840,4 +3840,5 @@ Jack rises slowly, walks to his door, shuts it.
 				 JACK
 	 Me? I'd be very careful who I talked
 	 to about this.  It sounds like
+	 someone dangerous wrote it... someone
 </pre>
