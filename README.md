@@ -3843,4 +3843,5 @@ Jack rises slowly, walks to his door, shuts it.
 	 someone dangerous wrote it... someone
 	 who might snap at any moment,
 	 stalking from office to office with
+	 an Armalite AR-10 Carbine-gas
 </pre>
