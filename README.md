@@ -3846,4 +3846,5 @@ Jack rises slowly, walks to his door, shuts it.
 	 an Armalite AR-10 Carbine-gas
 	 semiautomatic, bitterly pumping round
 	 after round into colleagues and co-
+	 workers.
 </pre>
