@@ -3847,4 +3847,6 @@ Jack rises slowly, walks to his door, shuts it.
 	 semiautomatic, bitterly pumping round
 	 after round into colleagues and co-
 	 workers.
+
+Jack moves very close to Boss, picks up the PAPER and starts
 </pre>
