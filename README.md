@@ -3845,4 +3845,5 @@ Jack rises slowly, walks to his door, shuts it.
 	 stalking from office to office with
 	 an Armalite AR-10 Carbine-gas
 	 semiautomatic, bitterly pumping round
+	 after round into colleagues and co-
 </pre>
