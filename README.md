@@ -3854,4 +3854,5 @@ tearing it into pieces.
 				 JACK
 	 Might be someone you've known for
 	 years... somebody very close to you.
+	 Or, maybe you shouldn't be bringing
 </pre>
