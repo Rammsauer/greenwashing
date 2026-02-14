@@ -3857,4 +3857,6 @@ tearing it into pieces.
 	 Or, maybe you shouldn't be bringing
 	 me every little piece of trash you
 	 pick up.
+
+Jack puts the PAPER in his trash.  Bass stares with a tinge
 </pre>
