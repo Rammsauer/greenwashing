@@ -3855,4 +3855,5 @@ tearing it into pieces.
 	 Might be someone you've known for
 	 years... somebody very close to you.
 	 Or, maybe you shouldn't be bringing
+	 me every little piece of trash you
 </pre>
