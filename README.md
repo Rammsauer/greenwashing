@@ -3871,4 +3871,5 @@ of outrage, a tinge of fear.  PHONE RINGS.  Jack answers it.
 	 Just a second.
 		   (to Boss; smiles)
 	 Could you excuse me?  I need to take
+	 this call.
 </pre>
