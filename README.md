@@ -3869,4 +3869,5 @@ of outrage, a tinge of fear.  PHONE RINGS.  Jack answers it.
 
 				 JACK
 	 Just a second.
+		   (to Boss; smiles)
 </pre>
