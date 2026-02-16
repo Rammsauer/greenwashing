@@ -3868,4 +3868,5 @@ of outrage, a tinge of fear.  PHONE RINGS.  Jack answers it.
 	 My tit's going to rot off.
 
 				 JACK
+	 Just a second.
 </pre>
