@@ -3882,4 +3882,5 @@ Boss goes to the door, stares at Jack a beat, then leaves.
 INTERCUT WITH - CLOSE UP OF MARLA...
 
 				 MARLA
+	 Would you do something for me?  I
 </pre>
