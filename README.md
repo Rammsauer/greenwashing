@@ -3886,4 +3886,6 @@ INTERCUT WITH - CLOSE UP OF MARLA...
 	 need you to check and see if there's
 	 a lump in my breast.  I can't afford
 	 to throw money away on a doctor.
+
+				 JACK
 </pre>
