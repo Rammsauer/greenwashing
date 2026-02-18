@@ -3889,4 +3889,6 @@ INTERCUT WITH - CLOSE UP OF MARLA...
 
 				 JACK
 	 I don't know ...
+
+				 MARLA
 </pre>
