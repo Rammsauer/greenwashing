@@ -3892,4 +3892,6 @@ INTERCUT WITH - CLOSE UP OF MARLA...
 
 				 MARLA
 	 Please.
+
+				 JACK (V.O.)
 </pre>
