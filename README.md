@@ -3898,4 +3898,6 @@ INTERCUT WITH - CLOSE UP OF MARLA...
 	 in her book.
 
 EXT. MARLA'S HOTEL - SUNSET
+
+Jack walks down the sidewalk, seeing Marla take two BOXES
 </pre>
