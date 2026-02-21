@@ -3908,4 +3908,5 @@ Marla leads Jack inside.
 
 				 JACK
 	 This is a sweet side of you.  Picking
+	 these up for ...
 </pre>
