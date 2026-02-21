@@ -3914,4 +3914,5 @@ Marla leads Jack inside.
 	 Where are they?
 
 				 MARLA
+	 Tragically, they're dead.  I'm alive
 </pre>
