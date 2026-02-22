@@ -3916,4 +3916,6 @@ Marla leads Jack inside.
 				 MARLA
 	 Tragically, they're dead.  I'm alive
 	 and I'm in poverty.  You want any?
+
+				 JACK
 </pre>
