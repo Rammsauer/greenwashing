@@ -3926,4 +3926,5 @@ Marla leads Jack inside.
 He stares at her while she eats.
 
 				 MARLA
+	 What happened to your hand?
 </pre>
