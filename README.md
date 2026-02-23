@@ -3922,4 +3922,6 @@ Marla leads Jack inside.
 
 				 MARLA
 	 Good.
+
+He stares at her while she eats.
 </pre>
