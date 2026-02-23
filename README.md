@@ -3927,4 +3927,6 @@ He stares at her while she eats.
 
 				 MARLA
 	 What happened to your hand?
+
+Jack awkwardly puts his bandaged hand behind his back.
 </pre>
