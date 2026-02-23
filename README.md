@@ -3929,4 +3929,6 @@ He stares at her while she eats.
 	 What happened to your hand?
 
 Jack awkwardly puts his bandaged hand behind his back.
+
+				 JACK
 </pre>
