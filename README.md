@@ -3932,4 +3932,6 @@ Jack awkwardly puts his bandaged hand behind his back.
 
 				 JACK
 	 Nothing.
+
+INT. MARLA'S ROOM - NIGHT
 </pre>
