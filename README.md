@@ -3931,4 +3931,5 @@ He stares at her while she eats.
 Jack awkwardly puts his bandaged hand behind his back.
 
 				 JACK
+	 Nothing.
 </pre>
