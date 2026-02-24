@@ -3937,4 +3937,5 @@ INT. MARLA'S ROOM - NIGHT
 
 Marla stands facing a MIRROR with her shirt open.  Jack
 stands behind her with his hand on the bottom side of her
+breast.  Marla's hand guides his.
 </pre>
