@@ -3934,4 +3934,6 @@ Jack awkwardly puts his bandaged hand behind his back.
 	 Nothing.
 
 INT. MARLA'S ROOM - NIGHT
+
+Marla stands facing a MIRROR with her shirt open.  Jack
 </pre>
