@@ -3940,4 +3940,5 @@ stands behind her with his hand on the bottom side of her
 breast.  Marla's hand guides his.
 
 				 JACK
+	 Where?  Here?
 </pre>
