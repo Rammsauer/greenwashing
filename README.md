@@ -3959,4 +3959,6 @@ breast.  Marla's hand guides his.
 
 				 JACK
 	 No.
+
+Jack's head is behind Marla's.  They speak softer, slower.
 </pre>
