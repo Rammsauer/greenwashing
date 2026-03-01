@@ -3972,4 +3972,5 @@ Jack's head is behind Marla's.  They speak softer, slower.
 	 You feel nothing?
 
 				 JACK
+	 Nothing.
 </pre>
