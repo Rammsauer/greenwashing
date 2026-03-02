@@ -3983,4 +3983,5 @@ Marla turns around and faces him, begins to button her shirt.
 	 No... no problem.
 
 				 MARLA
+	 I wish I could return the favor.
 </pre>
