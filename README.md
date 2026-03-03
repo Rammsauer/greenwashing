@@ -3991,4 +3991,5 @@ Jack touches his own chest, shakes his head.
 	 I think everything's okay here.
 
 				 MARLA
+	 I could check your prostate.
 </pre>
