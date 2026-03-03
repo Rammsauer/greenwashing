@@ -3988,4 +3988,5 @@ Marla turns around and faces him, begins to button her shirt.
 Jack touches his own chest, shakes his head.
 
 				 JACK
+	 I think everything's okay here.
 </pre>
