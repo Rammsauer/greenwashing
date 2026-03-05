@@ -4002,4 +4002,6 @@ Jack touches his own chest, shakes his head.
 
 Marla leans to kiss him -- lingers for a bit longer than
 just friendly.  Jack pulls away.
+
+				 JACK
 </pre>
