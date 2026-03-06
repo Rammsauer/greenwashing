@@ -4016,4 +4016,6 @@ EXT. HOTEL - MOMENTS LATER
 Jack emerges from the lobby.  He looks up at Marla's window,
 watches her silhouette.  He walks away, right into -- Big
 BOB, the moose, eating a donut and drinking orange juice.
+
+				 BOB
 </pre>
