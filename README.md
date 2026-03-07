@@ -4025,4 +4025,6 @@ BOB, the moose, eating a donut and drinking orange juice.
 
 				 BOB
 	 Better than I've ever been in my life.
+
+				 JACK
 </pre>
