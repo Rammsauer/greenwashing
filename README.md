@@ -4022,4 +4022,6 @@ BOB, the moose, eating a donut and drinking orange juice.
 
 				 JACK
 	 Bob.  I'm okay.  How are you?
+
+				 BOB
 </pre>
