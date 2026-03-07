@@ -4021,4 +4021,5 @@ BOB, the moose, eating a donut and drinking orange juice.
 	 Cornelius!  How are you?
 
 				 JACK
+	 Bob.  I'm okay.  How are you?
 </pre>
