@@ -4024,4 +4024,5 @@ BOB, the moose, eating a donut and drinking orange juice.
 	 Bob.  I'm okay.  How are you?
 
 				 BOB
+	 Better than I've ever been in my life.
 </pre>
