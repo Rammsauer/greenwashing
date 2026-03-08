@@ -4033,4 +4033,5 @@ BOB, the moose, eating a donut and drinking orange juice.
 An intense look of born-again fervor comes over Bob's face.
 
 				 BOB
+	 No.  I found something new.
 </pre>
