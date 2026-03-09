@@ -4034,4 +4034,6 @@ An intense look of born-again fervor comes over Bob's face.
 
 				 BOB
 	 No.  I found something new.
+
+				 JACK
 </pre>
