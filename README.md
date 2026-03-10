@@ -4042,4 +4042,6 @@ An intense look of born-again fervor comes over Bob's face.
 		   (quietly)
 	 The first rule is... you aren't
 	 supposed to talk about it...
+
+				 JACK
 </pre>
