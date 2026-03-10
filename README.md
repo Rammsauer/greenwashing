@@ -4044,4 +4044,5 @@ An intense look of born-again fervor comes over Bob's face.
 	 supposed to talk about it...
 
 				 JACK
+	 Oh.
 </pre>
