@@ -4052,4 +4052,5 @@ An intense look of born-again fervor comes over Bob's face.
 	 And the third rule...
 
 				 JACK
+	 Bob, Bob... I'm a member.
 </pre>
