@@ -4068,4 +4068,6 @@ Bob roughly slaps Jack's shoulder.
 
 				 JACK
 	 Yeah, both of us.
+
+				 BOB
 </pre>
