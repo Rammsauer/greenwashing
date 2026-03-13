@@ -4072,4 +4072,5 @@ Bob roughly slaps Jack's shoulder.
 				 BOB
 	 You know about the guy who invented
 	 it? I hear all kinds of things.
+	 Supposedly, he was born in a mental
 </pre>
