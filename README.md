@@ -4075,4 +4075,5 @@ Bob roughly slaps Jack's shoulder.
 	 Supposedly, he was born in a mental
 	 institution.  They say he only sleeps
 	 one hour a night.  You know about
+	 this guy?  Tyler Durden?
 </pre>
