@@ -4085,4 +4085,5 @@ circle of light.  Bob's eyes are wild with glee.
 EXT. BASEMENT DOOR - ELECTRONICS WAREHOUSE - LATER
 
 Everyone sneaks out of this new location - we've seen none
+of these guys before - it's a new chapter.  Jack and Bob
 </pre>
