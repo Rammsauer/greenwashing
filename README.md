@@ -4083,4 +4083,6 @@ The CROWD SCREAMS insanely as Bob and Jack go at it in the
 circle of light.  Bob's eyes are wild with glee.
 
 EXT. BASEMENT DOOR - ELECTRONICS WAREHOUSE - LATER
+
+Everyone sneaks out of this new location - we've seen none
 </pre>
