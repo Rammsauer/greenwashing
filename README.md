@@ -4103,4 +4103,6 @@ sack, completely enervated from the beating he took.
 	 Tyler's gift... our gift to the world.
 
 INT. KITCHEN -- MORNING
+
+Jack has his briefcase on the table, looks at PAPERWORK.
 </pre>
