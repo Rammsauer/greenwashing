@@ -4100,4 +4100,5 @@ sack, completely enervated from the beating he took.
 
 				 JACK (V.O.)
 	 Fight club -- this was mine and
+	 Tyler's gift... our gift to the world.
 </pre>
