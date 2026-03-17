@@ -4105,4 +4105,5 @@ sack, completely enervated from the beating he took.
 INT. KITCHEN -- MORNING
 
 Jack has his briefcase on the table, looks at PAPERWORK.
+Tyler wanders in, carries a dirty pot to the sink.  Jack
 </pre>
