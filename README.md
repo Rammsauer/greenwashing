@@ -4113,4 +4113,6 @@ takes out a cigarette, lights up.  He offers the pack...
 
 				 JACK
 	 You quit?
+
+				 TYLER
 </pre>
