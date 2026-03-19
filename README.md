@@ -4115,4 +4115,5 @@ takes out a cigarette, lights up.  He offers the pack...
 	 You quit?
 
 				 TYLER
+	 Yeah.  Where you headed?
 </pre>
