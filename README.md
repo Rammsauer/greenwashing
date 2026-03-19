@@ -4118,4 +4118,5 @@ takes out a cigarette, lights up.  He offers the pack...
 	 Yeah.  Where you headed?
 
 				 JACK
+	 Work.  Going to work.
 </pre>
