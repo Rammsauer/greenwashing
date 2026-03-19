@@ -4119,4 +4119,6 @@ takes out a cigarette, lights up.  He offers the pack...
 
 				 JACK
 	 Work.  Going to work.
+
+Tyler scratches his chin absently.
 </pre>
