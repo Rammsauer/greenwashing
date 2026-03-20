@@ -4127,4 +4127,6 @@ Tyler scratches his chin absently.
 
 				 TYLER
 	 Nothing.  Do what you like.
+
+Tyler walks out the way he came.
 </pre>
