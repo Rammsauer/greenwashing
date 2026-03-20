@@ -4124,4 +4124,6 @@ Tyler scratches his chin absently.
 
 				 JACK
 	 What... ?
+
+				 TYLER
 </pre>
