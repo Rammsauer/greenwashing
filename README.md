@@ -4126,4 +4126,5 @@ Tyler scratches his chin absently.
 	 What... ?
 
 				 TYLER
+	 Nothing.  Do what you like.
 </pre>
