@@ -4143,4 +4143,5 @@ Boss looks up from his large, expensive desk.
 	 We need to talk.
 
 				 BOSS
+	 Okay.  Where to begin?  With your
 </pre>
