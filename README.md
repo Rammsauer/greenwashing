@@ -4154,4 +4154,5 @@ Boss looks up from his large, expensive desk.
 Boss sits up in his seat, becoming enraged.
 
 				 JACK
+	 Let's pretend.  You're the Department
 </pre>
