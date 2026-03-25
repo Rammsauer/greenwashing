@@ -4165,4 +4165,5 @@ Boss sits up in his seat, becoming enraged.
 	 people alive.
 
 				 BOSS
+	 Just who the fuck do you think you
 </pre>
