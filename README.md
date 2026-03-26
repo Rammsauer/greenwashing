@@ -4171,4 +4171,5 @@ Boss sits up in his seat, becoming enraged.
 				 JACK
 	 What about this?  Keep me on payroll
 	 as an outside consultant.  In
+	 exchange for my salary, I'll keep my
 </pre>
