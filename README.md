@@ -4173,4 +4173,5 @@ Boss sits up in his seat, becoming enraged.
 	 as an outside consultant.  In
 	 exchange for my salary, I'll keep my
 	 mouth shut.  I won't need to come to
+	 the office.  I can do this job from
 </pre>
