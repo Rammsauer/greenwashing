@@ -4179,4 +4179,5 @@ Boss sits up in his seat, becoming enraged.
 Boss stands, moves around his desk, glaring with rage.
 
 				 BOSS
+	 You little fucker!  I oughta...
 </pre>
