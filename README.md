@@ -4184,4 +4184,5 @@ Boss stands, moves around his desk, glaring with rage.
 Jack PUNCHES HIMSELF in the nose.  Blood starts to trickle.
 He punches himself in the jaw, throws himself back as if by
 the force of the punch, SLAMS against a framed picture and
+SHATTERS the glass.  He falls to the floor.
 </pre>
