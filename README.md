@@ -4188,4 +4188,6 @@ SHATTERS the glass.  He falls to the floor.
 
 				 JACK (V.O.)
 	 I Am Jack's Smirking Revenge.
+
+Jack gets back to his feet.
 </pre>
