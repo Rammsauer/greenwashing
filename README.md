@@ -4187,4 +4187,5 @@ the force of the punch, SLAMS against a framed picture and
 SHATTERS the glass.  He falls to the floor.
 
 				 JACK (V.O.)
+	 I Am Jack's Smirking Revenge.
 </pre>
