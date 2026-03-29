@@ -4201,4 +4201,5 @@ flying.  He hits the floor.
 
 				 JACK (V.O.)
 	 For some reason, I thought of my
+	 first fight -- with Tyler.
 </pre>
