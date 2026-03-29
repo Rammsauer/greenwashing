@@ -4197,4 +4197,5 @@ Jack gets back to his feet.
 
 He PUNCHES himself in the stomach, then in the jaw again.
 He reels backwards, pulls down a hanging shelf, its contents
+flying.  He hits the floor.
 </pre>
