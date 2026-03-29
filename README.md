@@ -4194,4 +4194,6 @@ Jack gets back to his feet.
 				 JACK
 	 Please... don't hit me again, please.
 	 I'm your responsibility...
+
+He PUNCHES himself in the stomach, then in the jaw again.
 </pre>
