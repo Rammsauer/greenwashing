@@ -4206,4 +4206,5 @@ flying.  He hits the floor.
 Jack crawls toward Boss, dripping blood, grabs Boss's leg.
 
 				 JACK
+	 Please... give me the paychecks like
 </pre>
