@@ -4216,4 +4216,5 @@ Boss stumbles back into his desk, knocking off belongings.
 				 JACK (V.O.)
 	 Under and behind and inside
 	 everything this man took for granted,
+	 something horrible had been growing.
 </pre>
