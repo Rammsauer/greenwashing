@@ -4223,4 +4223,5 @@ himself up.  He dribbles blood an Boss's clothing, SMUDGES
 blood from his face onto the knuckles of Boss's hand.
 
 				 JACK
+	 Please... please...
 </pre>
