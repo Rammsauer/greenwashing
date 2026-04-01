@@ -4220,4 +4220,5 @@ Boss stumbles back into his desk, knocking off belongings.
 
 Jack crawls high enough to grab Boss's belt, hoisting
 himself up.  He dribbles blood an Boss's clothing, SMUDGES
+blood from his face onto the knuckles of Boss's hand.
 </pre>
