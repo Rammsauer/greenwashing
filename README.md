@@ -4226,4 +4226,5 @@ blood from his face onto the knuckles of Boss's hand.
 	 Please... please...
 
 				 JACK (V.O.)
+	 And right then, at our most excellent
 </pre>
