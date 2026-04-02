@@ -4227,4 +4227,5 @@ blood from his face onto the knuckles of Boss's hand.
 
 				 JACK (V.O.)
 	 And right then, at our most excellent
+	 moment together...
 </pre>
