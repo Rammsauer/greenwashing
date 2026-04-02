@@ -4231,4 +4231,6 @@ blood from his face onto the knuckles of Boss's hand.
 
 Two SECURITY GUARDS enter and gape at the sight.  Behind
 them stand CURIOUS WORKERS, looking in.
+
+				 JACK
 </pre>
