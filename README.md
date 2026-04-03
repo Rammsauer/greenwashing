@@ -4237,4 +4237,6 @@ them stand CURIOUS WORKERS, looking in.
 	 Please don't hit me again.
 
 INT. TYLER'S HOUSE - ENTRANCE FOYER - DAY
+
+Jack holds a CHECK in front of Tyler's face.
 </pre>
