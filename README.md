@@ -4235,4 +4235,6 @@ them stand CURIOUS WORKERS, looking in.
 				 JACK
 		   (gurgling blood)
 	 Please don't hit me again.
+
+INT. TYLER'S HOUSE - ENTRANCE FOYER - DAY
 </pre>
