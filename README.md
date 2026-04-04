@@ -4245,4 +4245,6 @@ Jack holds a CHECK in front of Tyler's face.
 
 				 TYLER
 	 Fucking sweet.
+
+				 JACK
 </pre>
