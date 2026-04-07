@@ -4274,4 +4274,5 @@ stands around Tyler, who's in the center of the circle,
 holding up his hands to quiet them...
 
 				 TYLER
+	 I look around... I look around and
 </pre>
