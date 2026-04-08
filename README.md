@@ -4280,4 +4280,5 @@ holding up his hands to quiet them...
 An enthusiastic RUMBLE from the crowd.
 
 				 TYLER
+	 Shut up!  Which means a lot of you
 </pre>
