@@ -4278,4 +4278,6 @@ holding up his hands to quiet them...
 	 see a lot of new faces.
 
 An enthusiastic RUMBLE from the crowd.
+
+				 TYLER
 </pre>
