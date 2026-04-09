@@ -4287,4 +4287,5 @@ An enthusiastic RUMBLE from the crowd.
 A glum silence falls.  Guys look at each other.
 
 				 TYLER
+	 I see in fight club the strongest and
 </pre>
