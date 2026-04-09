@@ -4285,4 +4285,6 @@ An enthusiastic RUMBLE from the crowd.
 	 rules of fight club.
 
 A glum silence falls.  Guys look at each other.
+
+				 TYLER
 </pre>
