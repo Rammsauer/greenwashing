@@ -4289,4 +4289,5 @@ A glum silence falls.  Guys look at each other.
 				 TYLER
 	 I see in fight club the strongest and
 	 smartest men who have ever lived --
+	 an entire generation pumping gas and
 </pre>
