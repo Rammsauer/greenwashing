@@ -4291,4 +4291,5 @@ A glum silence falls.  Guys look at each other.
 	 smartest men who have ever lived --
 	 an entire generation pumping gas and
 	 waiting tables; or they're slaves
+	 with white collars.
 </pre>
