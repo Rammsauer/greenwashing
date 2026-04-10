@@ -4295,4 +4295,5 @@ A glum silence falls.  Guys look at each other.
 				 (more)
 
 				 TYLER (cont)
+	 Advertisements have them chasing cars
 </pre>
