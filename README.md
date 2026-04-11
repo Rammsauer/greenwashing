@@ -4300,4 +4300,5 @@ A glum silence falls.  Guys look at each other.
 	 so they can buy shit they don't need.
 	 We are the middle children of
 	 history, with no purpose or place.
+	 We have no great war, or great
 </pre>
