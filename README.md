@@ -4305,4 +4305,5 @@ A glum silence falls.  Guys look at each other.
 	 spiritual war.  The great depression
 	 is our lives.  We were raised by
 	 television to believe that we'd be
+	 millionaires and movie gods and rock
 </pre>
