@@ -4302,4 +4302,5 @@ A glum silence falls.  Guys look at each other.
 	 history, with no purpose or place.
 	 We have no great war, or great
 	 depression.  The great war is a
+	 spiritual war.  The great depression
 </pre>
