@@ -4299,4 +4299,5 @@ A glum silence falls.  Guys look at each other.
 	 and clothes, working jobs they hate
 	 so they can buy shit they don't need.
 	 We are the middle children of
+	 history, with no purpose or place.
 </pre>
