@@ -4319,4 +4319,6 @@ looks at the blazing excitement in the eyes of the crowd.
 
 A fat, MIDDLE-AGED MAN stomps down the stairs, pushing into
 the crowd, followed by a TALL, HEFTY THUG who holds a GUM.
+
+				 TYLER
 </pre>
