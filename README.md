@@ -4315,4 +4315,5 @@ looks at the blazing excitement in the eyes of the crowd.
 
 				 TYLER
 	 We are the quiet young men who listen
+	 until it's time to decide.
 </pre>
