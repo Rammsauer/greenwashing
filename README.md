@@ -4329,4 +4329,5 @@ the crowd, followed by a TALL, HEFTY THUG who holds a GUM.
 	 fucking Lou.  Who the fuck are you?!
 
 				 TYLER
+	 Tyler Durden.
 </pre>
