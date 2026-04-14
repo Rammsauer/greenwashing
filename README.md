@@ -4325,4 +4325,5 @@ the crowd, followed by a TALL, HEFTY THUG who holds a GUM.
 
 				 FAT MAN (LOU)
 	 Who am I?!  There's a sign on the
+	 front that says "Lou's Tavern." I'm
 </pre>
