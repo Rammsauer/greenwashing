@@ -4338,4 +4338,5 @@ Tyler extends his hand for a shake, but Lou SLAPS it away.
 	 use my place?
 
 				 TYLER
+	 We have a deal worked out with Irvine.
 </pre>
