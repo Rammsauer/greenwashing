@@ -4368,4 +4368,6 @@ Everyone glances guiltily at each other.
 				 LOU
 	 Look, stupid fuck, I want everyone
 	 outta here now!
+
+				 TYLER
 </pre>
