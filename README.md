@@ -4363,4 +4363,5 @@ Everyone glances guiltily at each other.
 	 Ain't that something?
 
 				 TYLER
+	 Yes, it is.
 </pre>
