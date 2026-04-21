@@ -4381,4 +4381,5 @@ Everyone glances guiltily at each other.
 Lou SLUGS Tyler in the stomach, doubles him over.
 
 				 LOU
+	 You hear me now?
 </pre>
