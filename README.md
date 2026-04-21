@@ -4379,4 +4379,6 @@ Everyone glances guiltily at each other.
 	 You and your friend.
 
 Lou SLUGS Tyler in the stomach, doubles him over.
+
+				 LOU
 </pre>
