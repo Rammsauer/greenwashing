@@ -4385,4 +4385,6 @@ Lou SLUGS Tyler in the stomach, doubles him over.
 
 Tyler gains his breath, determined.  He looks up, turns his
 head, looking to Jack.  Jack watches, wide-eyed.
+
+Tyler straightens, facing Lou.
 </pre>
