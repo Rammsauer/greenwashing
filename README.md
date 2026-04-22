@@ -4389,4 +4389,5 @@ head, looking to Jack.  Jack watches, wide-eyed.
 Tyler straightens, facing Lou.
 
 				 TYLER
+	 No, I'm sorry, I didn't hear you.
 </pre>
