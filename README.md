@@ -4387,4 +4387,6 @@ Tyler gains his breath, determined.  He looks up, turns his
 head, looking to Jack.  Jack watches, wide-eyed.
 
 Tyler straightens, facing Lou.
+
+				 TYLER
 </pre>
