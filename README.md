@@ -4393,4 +4393,5 @@ Tyler straightens, facing Lou.
 
 Lou PUNCHES Tyler in the face.  Some of the guys move
 forward, but the Thug points his gun.  Jack-runs forward
+anyway -- Lou PUNCHES him in the face.
 </pre>
