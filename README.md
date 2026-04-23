@@ -4402,4 +4402,5 @@ More guys move forward, but Tyler waves them off, facing Lou.
 
 Lou proceeds to beat the shit out of Tyler, PUNCHING his
 face, his stomach.  Tyler collapses to the floor.  Lou
+starts KICKING his.  Tyler bleeds from the mouth and face.
 </pre>
