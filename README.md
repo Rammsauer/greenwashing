@@ -4401,4 +4401,5 @@ More guys move forward, but Tyler waves them off, facing Lou.
 	 We really need to use this place.
 
 Lou proceeds to beat the shit out of Tyler, PUNCHING his
+face, his stomach.  Tyler collapses to the floor.  Lou
 </pre>
