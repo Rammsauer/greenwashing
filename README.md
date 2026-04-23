@@ -4399,4 +4399,6 @@ More guys move forward, but Tyler waves them off, facing Lou.
 
 				 TYLER
 	 We really need to use this place.
+
+Lou proceeds to beat the shit out of Tyler, PUNCHING his
 </pre>
