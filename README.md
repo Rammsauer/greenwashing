@@ -4405,4 +4405,5 @@ face, his stomach.  Tyler collapses to the floor.  Lou
 starts KICKING his.  Tyler bleeds from the mouth and face.
 
 				 TYLER
+	 That's it.... that's good.  Get it
 </pre>
