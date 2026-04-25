@@ -4415,4 +4415,5 @@ is just as bewildered.
 Suddenly, Tyler SPRINGS UP, grabs onto Lou...
 
 				 TYLER
+	 Yes, I am shit and crazy, to you and
 </pre>
