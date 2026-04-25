@@ -4417,4 +4417,6 @@ Suddenly, Tyler SPRINGS UP, grabs onto Lou...
 				 TYLER
 	 Yes, I am shit and crazy, to you and
 	 this whole fucking world...
+
+Tyler's blood spatters on Lou.  Lou tries to shake Tyler
 </pre>
