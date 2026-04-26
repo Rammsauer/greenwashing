@@ -4420,4 +4420,5 @@ Suddenly, Tyler SPRINGS UP, grabs onto Lou...
 
 Tyler's blood spatters on Lou.  Lou tries to shake Tyler
 off, but Tyler BITES Lou's NECKTIE.  The Thug grabs Tyler
+and pulls, the necktie tightening and strangling Lou.  Lou
 </pre>
