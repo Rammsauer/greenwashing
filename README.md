@@ -4423,4 +4423,6 @@ off, but Tyler BITES Lou's NECKTIE.  The Thug grabs Tyler
 and pulls, the necktie tightening and strangling Lou.  Lou
 slaps at Tyler's face, but recoils from the blood.  Tyler
 spits and shouts through clenched teeth...
+
+				 TYLER
 </pre>
