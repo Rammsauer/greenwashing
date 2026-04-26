@@ -4425,4 +4425,5 @@ slaps at Tyler's face, but recoils from the blood.  Tyler
 spits and shouts through clenched teeth...
 
 				 TYLER
+	 You don't know where I've been.
 </pre>
