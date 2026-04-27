@@ -4426,4 +4426,6 @@ spits and shouts through clenched teeth...
 
 				 TYLER
 	 You don't know where I've been.
+
+Tyler bear hugs Lou, pulls him to the floor.  Tyler rubs his
 </pre>
