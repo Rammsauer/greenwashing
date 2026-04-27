@@ -4432,4 +4432,5 @@ bloody face into Lou's face.  The Thug lifts Tyler.  Tyler
 clings to Lou's belt, dragging Lou as he is dragged...
 
 				 TYLER
+	 We need this place.  We need it.
 </pre>
