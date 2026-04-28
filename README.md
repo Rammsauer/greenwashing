@@ -4436,4 +4436,6 @@ clings to Lou's belt, dragging Lou as he is dragged...
 	 Please let us keep it, please...
 
 Blood dribbles out of Tyler's mouth, spattering Lou.
+
+				 LOU
 </pre>
