@@ -4455,4 +4455,5 @@ Blood dribbles out of Tyler's mouth, spattering Lou.
 	 Alright, Christ!  Fucking let me go!
 
 				 TYLER
+	 Thank you.  Thank you, sir...
 </pre>
