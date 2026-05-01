@@ -4461,4 +4461,5 @@ Blood dribbles out of Tyler's mouth, spattering Lou.
 	 Let go of me!!
 
 Tyler lets go of Lou's belt.  Lou scrambles away.  The Thug
+drops Tyler, trying to keep clear of the blood.  Lou gets to
 </pre>
