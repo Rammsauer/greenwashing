@@ -4471,4 +4471,5 @@ breathing labored... then, he sits back, crossing his legs
 and looking to the group, his demeanor businesslike.
 
 				 TYLER
+	 This week, each of you has a homework
 </pre>
