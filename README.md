@@ -4467,4 +4467,5 @@ and the Thug back away... slamming the door behind.
 
 Fight club surrounds Tyler.  They help him up, move him to
 a crate.  Tyler sits slumped for a long moment, his
+breathing labored... then, he sits back, crossing his legs
 </pre>
