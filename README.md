@@ -4473,4 +4473,5 @@ and looking to the group, his demeanor businesslike.
 				 TYLER
 	 This week, each of you has a homework
 	 assignment.  You're going to go out
+	 and start a fight with a total
 </pre>
