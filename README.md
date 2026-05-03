@@ -4478,4 +4478,6 @@ and looking to the group, his demeanor businesslike.
 		   (pause, drooling blood)
 	 You're going to start a fight... and
 	 you're going to lose.
+
+Jack beams in appreciation.
 </pre>
