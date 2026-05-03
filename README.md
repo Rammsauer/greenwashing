@@ -4476,4 +4476,5 @@ and looking to the group, his demeanor businesslike.
 	 and start a fight with a total
 	 stranger...
 		   (pause, drooling blood)
+	 You're going to start a fight... and
 </pre>
