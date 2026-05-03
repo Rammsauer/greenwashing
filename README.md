@@ -4480,4 +4480,6 @@ and looking to the group, his demeanor businesslike.
 	 you're going to lose.
 
 Jack beams in appreciation.
+
+EXT. STREET - DAY
 </pre>
