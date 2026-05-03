@@ -4477,4 +4477,5 @@ and looking to the group, his demeanor businesslike.
 	 stranger...
 		   (pause, drooling blood)
 	 You're going to start a fight... and
+	 you're going to lose.
 </pre>
