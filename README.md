@@ -4475,4 +4475,5 @@ and looking to the group, his demeanor businesslike.
 	 assignment.  You're going to go out
 	 and start a fight with a total
 	 stranger...
+		   (pause, drooling blood)
 </pre>
