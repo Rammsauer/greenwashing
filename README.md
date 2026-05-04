@@ -4486,4 +4486,5 @@ EXT. STREET - DAY
 Ricky trips a passing YUPPIE.  The Yuppie falls.
 
 				 JACK (V.O.)
+	 Not as easy as it sounds.  People'll
 </pre>
