@@ -4484,4 +4484,6 @@ Jack beams in appreciation.
 EXT. STREET - DAY
 
 Ricky trips a passing YUPPIE.  The Yuppie falls.
+
+				 JACK (V.O.)
 </pre>
