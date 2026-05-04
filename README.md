@@ -4489,4 +4489,6 @@ Ricky trips a passing YUPPIE.  The Yuppie falls.
 	 Not as easy as it sounds.  People'll
 	 do just about anything to avoid a
 	 fight.
+
+The Yuppies gets up, angry, and Ricky PUNCHES him...
 </pre>
