@@ -4487,4 +4487,5 @@ Ricky trips a passing YUPPIE.  The Yuppie falls.
 
 				 JACK (V.O.)
 	 Not as easy as it sounds.  People'll
+	 do just about anything to avoid a
 </pre>
