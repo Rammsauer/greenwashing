@@ -4497,4 +4497,6 @@ The Yuppies gets up, angry, and Ricky PUNCHES him...
 	 are you doing?!  Who are you?!!
 
 The Yuppie backs away.  Ricky follows...
+
+				 YUPPIE
 </pre>
