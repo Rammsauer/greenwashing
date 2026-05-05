@@ -4494,4 +4494,5 @@ The Yuppies gets up, angry, and Ricky PUNCHES him...
 
 				 YUPPIE
 	 Hey!  Wha... What the hell... what
+	 are you doing?!  Who are you?!!
 </pre>
