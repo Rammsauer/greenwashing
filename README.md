@@ -4501,4 +4501,6 @@ The Yuppie backs away.  Ricky follows...
 				 YUPPIE
 	 Get away from me!  Keep away!
 	 NO... !
+
+Ricky TACKLES the Yuppie.  The Yuppie struggles spastically.
 </pre>
