@@ -4505,4 +4505,5 @@ The Yuppie backs away.  Ricky follows...
 Ricky TACKLES the Yuppie.  The Yuppie struggles spastically.
 
 				 YUPPIE
+	 Who are you!?  Why are you attacking
 </pre>
