@@ -4500,4 +4500,5 @@ The Yuppie backs away.  Ricky follows...
 
 				 YUPPIE
 	 Get away from me!  Keep away!
+	 NO... !
 </pre>
