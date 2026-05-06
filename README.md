@@ -4503,4 +4503,6 @@ The Yuppie backs away.  Ricky follows...
 	 NO... !
 
 Ricky TACKLES the Yuppie.  The Yuppie struggles spastically.
+
+				 YUPPIE
 </pre>
