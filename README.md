@@ -4511,4 +4511,6 @@ Ricky TACKLES the Yuppie.  The Yuppie struggles spastically.
 Having no recourse, the Yuppie begins trading blows.
 
 EXT. AUTO SHOP - DAY
+
+A MECHANIC WITH A BATTERED FACE uses a hose to wash the
 </pre>
