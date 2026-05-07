@@ -4507,4 +4507,6 @@ Ricky TACKLES the Yuppie.  The Yuppie struggles spastically.
 				 YUPPIE
 	 Who are you!?  Why are you attacking
 	 me... ?!
+
+Having no recourse, the Yuppie begins trading blows.
 </pre>
