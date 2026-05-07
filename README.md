@@ -4509,4 +4509,6 @@ Ricky TACKLES the Yuppie.  The Yuppie struggles spastically.
 	 me... ?!
 
 Having no recourse, the Yuppie begins trading blows.
+
+EXT. AUTO SHOP - DAY
 </pre>
