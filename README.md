@@ -4513,4 +4513,5 @@ Having no recourse, the Yuppie begins trading blows.
 EXT. AUTO SHOP - DAY
 
 A MECHANIC WITH A BATTERED FACE uses a hose to wash the
+sidewalk.  As MEN pass, he jerks the hose up and SPRAYS them.
 </pre>
