@@ -4517,4 +4517,6 @@ sidewalk.  As MEN pass, he jerks the hose up and SPRAYS them.
 
 				 FIRST MAN
 	 Hey... hey...
+
+				 SECOND MAN
 </pre>
