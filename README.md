@@ -4516,4 +4516,5 @@ A MECHANIC WITH A BATTERED FACE uses a hose to wash the
 sidewalk.  As MEN pass, he jerks the hose up and SPRAYS them.
 
 				 FIRST MAN
+	 Hey... hey...
 </pre>
