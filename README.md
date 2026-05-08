@@ -4520,4 +4520,6 @@ sidewalk.  As MEN pass, he jerks the hose up and SPRAYS them.
 
 				 SECOND MAN
 	 Watch out, jackass!
+
+These men continue on their way.
 </pre>
