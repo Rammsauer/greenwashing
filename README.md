@@ -4530,4 +4530,5 @@ looks down, stunned.
 	 You... you did that on purpose!
 
 The Mechanic DOUSES the Seminarian.  The Seminarian grabs
+the hose, wrestling the Mechanic for it.  The Mechanic
 </pre>
