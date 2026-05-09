@@ -4527,4 +4527,5 @@ The Mechanic sprays a third man, a SEMINARY STUDENT, who
 looks down, stunned.
 
 				 SEMINARIAN
+	 You... you did that on purpose!
 </pre>
