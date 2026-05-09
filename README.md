@@ -4525,4 +4525,6 @@ These men continue on their way.
 
 The Mechanic sprays a third man, a SEMINARY STUDENT, who
 looks down, stunned.
+
+				 SEMINARIAN
 </pre>
