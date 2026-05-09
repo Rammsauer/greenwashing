@@ -4524,4 +4524,5 @@ sidewalk.  As MEN pass, he jerks the hose up and SPRAYS them.
 These men continue on their way.
 
 The Mechanic sprays a third man, a SEMINARY STUDENT, who
+looks down, stunned.
 </pre>
