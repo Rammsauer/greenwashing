@@ -4528,4 +4528,6 @@ looks down, stunned.
 
 				 SEMINARIAN
 	 You... you did that on purpose!
+
+The Mechanic DOUSES the Seminarian.  The Seminarian grabs
 </pre>
