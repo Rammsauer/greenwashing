@@ -4531,4 +4531,5 @@ looks down, stunned.
 
 The Mechanic DOUSES the Seminarian.  The Seminarian grabs
 the hose, wrestling the Mechanic for it.  The Mechanic
+shoves the Seminarian, who responds with a half-assed PUNCH.
 </pre>
