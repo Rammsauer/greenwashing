@@ -4537,4 +4537,6 @@ run away.  The Mechanic sprints after him, PUNCHING the
 Seminarian in the back of the neck.  They fight.
 
 INT. RECORD STORE STOCKROOM - NIGHT
+
+A FIST smashes a JAW.  Guys CHEER.  An arm snakes around a
 </pre>
