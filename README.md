@@ -4534,4 +4534,5 @@ the hose, wrestling the Mechanic for it.  The Mechanic
 shoves the Seminarian, who responds with a half-assed PUNCH.
 The Mechanic purposely takes it.  The Seminarian starts to
 run away.  The Mechanic sprints after him, PUNCHING the
+Seminarian in the back of the neck.  They fight.
 </pre>
