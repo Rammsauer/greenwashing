@@ -4540,4 +4540,5 @@ INT. RECORD STORE STOCKROOM - NIGHT
 
 A FIST smashes a JAW.  Guys CHEER.  An arm snakes around a
 neck and squeezes, blood and sweat dripping.  It's the
+YUPPIE and the SEMINARIAN fighting.  Tyler walks around the
 </pre>
