@@ -4545,4 +4545,5 @@ perimeter of the circle.
 
 				 JACK (V.O.)
 	 Now nobody was the center of fight
+	 club except the two men fighting.
 </pre>
