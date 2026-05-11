@@ -4544,4 +4544,5 @@ YUPPIE and the SEMINARIAN fighting.  Tyler walks around the
 perimeter of the circle.
 
 				 JACK (V.O.)
+	 Now nobody was the center of fight
 </pre>
