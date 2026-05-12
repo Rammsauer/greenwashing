@@ -4548,4 +4548,6 @@ perimeter of the circle.
 	 club except the two men fighting.
 	 The leader walked around in the
 	 crowd, out in the darkness.
+
+Tyler hands ENVELOPES out to the crowd.
 </pre>
