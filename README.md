@@ -4547,4 +4547,5 @@ perimeter of the circle.
 	 Now nobody was the center of fight
 	 club except the two men fighting.
 	 The leader walked around in the
+	 crowd, out in the darkness.
 </pre>
