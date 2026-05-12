@@ -4550,4 +4550,6 @@ perimeter of the circle.
 	 crowd, out in the darkness.
 
 Tyler hands ENVELOPES out to the crowd.
+
+				 JACK (V.O.)
 </pre>
