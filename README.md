@@ -4552,4 +4552,5 @@ perimeter of the circle.
 Tyler hands ENVELOPES out to the crowd.
 
 				 JACK (V.O.)
+	 Everyone took a homework assignment.
 </pre>
