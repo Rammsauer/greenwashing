@@ -4557,4 +4557,5 @@ Tyler hands ENVELOPES out to the crowd.
 EXT. STREET - LATE NIGHT
 
 Ricky and another FIGHT CLUBBER paste up a BILLBOARD which
+reads: "DID YOU KNOW? YOU CAN USE YOUR OLD MOTOR OIL TO
 </pre>
