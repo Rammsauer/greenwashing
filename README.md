@@ -4555,4 +4555,6 @@ Tyler hands ENVELOPES out to the crowd.
 	 Everyone took a homework assignment.
 
 EXT. STREET - LATE NIGHT
+
+Ricky and another FIGHT CLUBBER paste up a BILLBOARD which
 </pre>
