@@ -4565,4 +4565,6 @@ INT. PAPER STREET HOUSE
 HANDS use a MARKER, writing on a FILE: "Disinformation."
 
 EXT. LARGE PARKING LOT - DAY
+
+Jack and Tyler, in work gloves, armed with TOOLS, work
 </pre>
