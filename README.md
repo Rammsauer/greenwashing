@@ -4569,4 +4569,6 @@ EXT. LARGE PARKING LOT - DAY
 Jack and Tyler, in work gloves, armed with TOOLS, work
 together to lift the entire METAL PLATE of EXIT SPIKES from
 the ground.  They reverse it, then replace it.
+
+MOMENTS LATER
 </pre>
