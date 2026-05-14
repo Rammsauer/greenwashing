@@ -4567,4 +4567,5 @@ HANDS use a MARKER, writing on a FILE: "Disinformation."
 EXT. LARGE PARKING LOT - DAY
 
 Jack and Tyler, in work gloves, armed with TOOLS, work
+together to lift the entire METAL PLATE of EXIT SPIKES from
 </pre>
