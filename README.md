@@ -4576,4 +4576,6 @@ Jack and Tyler walk away, each carrying a 4x4 plank of WOOD.
 
 				 JACK
 	 There's fight club in Delaware City.
+
+				 TYLER
 </pre>
