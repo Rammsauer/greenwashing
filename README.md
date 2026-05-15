@@ -4571,4 +4571,6 @@ together to lift the entire METAL PLATE of EXIT SPIKES from
 the ground.  They reverse it, then replace it.
 
 MOMENTS LATER
+
+Jack and Tyler walk away, each carrying a 4x4 plank of WOOD.
 </pre>
