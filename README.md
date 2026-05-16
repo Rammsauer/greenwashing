@@ -4584,4 +4584,5 @@ As they pass PARKED CARS, they SWING the planks against
 front bumpers -- activating ALARMS and INFLATING AIR BAGS...
 
 				 JACK
+	 Local 8 just started in Penns Grove.
 </pre>
