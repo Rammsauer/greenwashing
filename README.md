@@ -4582,4 +4582,6 @@ Jack and Tyler walk away, each carrying a 4x4 plank of WOOD.
 
 As they pass PARKED CARS, they SWING the planks against
 front bumpers -- activating ALARMS and INFLATING AIR BAGS...
+
+				 JACK
 </pre>
