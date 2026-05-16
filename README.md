@@ -4579,4 +4579,6 @@ Jack and Tyler walk away, each carrying a 4x4 plank of WOOD.
 
 				 TYLER
 	 I heard.  Local 15, Monday nights.
+
+As they pass PARKED CARS, they SWING the planks against
 </pre>
