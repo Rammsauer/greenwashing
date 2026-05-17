@@ -4590,4 +4590,6 @@ front bumpers -- activating ALARMS and INFLATING AIR BAGS...
 
 				 TYLER
 	 Newcastle?  Did you start that one?
+
+				 JACK
 </pre>
