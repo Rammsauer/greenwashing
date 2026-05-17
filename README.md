@@ -4587,4 +4587,6 @@ front bumpers -- activating ALARMS and INFLATING AIR BAGS...
 	 Local 8 just started in Penns Grove.
 	 And, Bob said he was at fight club in
 	 Newcastle last week.
+
+				 TYLER
 </pre>
