@@ -4593,4 +4593,6 @@ front bumpers -- activating ALARMS and INFLATING AIR BAGS...
 
 				 JACK
 	 I thought you did.
+
+In the background, a CAR quickly EXITS the parking lot --
 </pre>
