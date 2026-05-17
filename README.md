@@ -4592,4 +4592,5 @@ front bumpers -- activating ALARMS and INFLATING AIR BAGS...
 	 Newcastle?  Did you start that one?
 
 				 JACK
+	 I thought you did.
 </pre>
