@@ -4600,4 +4600,5 @@ front tires EXPLODING, wheel rims throwing sparks.
 INT. FAMILY HOUSEHOLD -- NIGHT
 
 FATHER, MOTHER, YOUNG DAUGHTER and SON, eat dinner, watching
+TELEVISION.  Suddenly, the TV IMAGE turns to SNOW and static.
 </pre>
