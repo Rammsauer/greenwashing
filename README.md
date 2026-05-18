@@ -4598,4 +4598,6 @@ In the background, a CAR quickly EXITS the parking lot --
 front tires EXPLODING, wheel rims throwing sparks.
 
 INT. FAMILY HOUSEHOLD -- NIGHT
+
+FATHER, MOTHER, YOUNG DAUGHTER and SON, eat dinner, watching
 </pre>
