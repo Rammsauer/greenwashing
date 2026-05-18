@@ -4596,4 +4596,6 @@ front bumpers -- activating ALARMS and INFLATING AIR BAGS...
 
 In the background, a CAR quickly EXITS the parking lot --
 front tires EXPLODING, wheel rims throwing sparks.
+
+INT. FAMILY HOUSEHOLD -- NIGHT
 </pre>
