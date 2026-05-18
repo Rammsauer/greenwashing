@@ -4595,4 +4595,5 @@ front bumpers -- activating ALARMS and INFLATING AIR BAGS...
 	 I thought you did.
 
 In the background, a CAR quickly EXITS the parking lot --
+front tires EXPLODING, wheel rims throwing sparks.
 </pre>
