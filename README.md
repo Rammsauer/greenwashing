@@ -4603,4 +4603,5 @@ FATHER, MOTHER, YOUNG DAUGHTER and SON, eat dinner, watching
 TELEVISION.  Suddenly, the TV IMAGE turns to SNOW and static.
 
 Family members stop eating.  Father picks up the REMOTE,
+points it -- all channels are SNOW.
 </pre>
