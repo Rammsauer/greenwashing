@@ -4607,4 +4607,6 @@ points it -- all channels are SNOW.
 
 Father turns the TV OFF.  He and his family members look at
 each other, utensils in hand, uncomfortable.
+
+EXT. CITY ROOFTOPS - NIGHT
 </pre>
