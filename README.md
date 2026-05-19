@@ -4609,4 +4609,6 @@ Father turns the TV OFF.  He and his family members look at
 each other, utensils in hand, uncomfortable.
 
 EXT. CITY ROOFTOPS - NIGHT
+
+The Yuppie SWINGS a BASEBALL BAT -- DESTROYS a digital
 </pre>
