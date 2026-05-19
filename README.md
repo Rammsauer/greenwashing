@@ -4604,4 +4604,6 @@ TELEVISION.  Suddenly, the TV IMAGE turns to SNOW and static.
 
 Family members stop eating.  Father picks up the REMOTE,
 points it -- all channels are SNOW.
+
+Father turns the TV OFF.  He and his family members look at
 </pre>
