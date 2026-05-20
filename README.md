@@ -4611,4 +4611,5 @@ each other, utensils in hand, uncomfortable.
 EXT. CITY ROOFTOPS - NIGHT
 
 The Yuppie SWINGS a BASEBALL BAT -- DESTROYS a digital
+SATELLITE DISH.  The Yuppie and the Seminarian move on,
 </pre>
