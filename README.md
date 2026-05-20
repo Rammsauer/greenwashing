@@ -4614,4 +4614,6 @@ The Yuppie SWINGS a BASEBALL BAT -- DESTROYS a digital
 SATELLITE DISH.  The Yuppie and the Seminarian move on,
 climbing to a neighboring rooftop.  They come upon another
 DISH.  The Seminarian takes the bat, takes a SWING...
+
+INT. PAPER STREET HOUSE
 </pre>
