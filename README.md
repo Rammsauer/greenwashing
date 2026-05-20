@@ -4616,4 +4616,6 @@ climbing to a neighboring rooftop.  They come upon another
 DISH.  The Seminarian takes the bat, takes a SWING...
 
 INT. PAPER STREET HOUSE
+
+HANDS place NEWS CLIPPINGS into a FILE: "Mischief."
 </pre>
