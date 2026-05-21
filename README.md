@@ -4624,4 +4624,5 @@ INT. AIRPLANE CABIN - ON GROUND - DAY
 Two AIRPLANE MAINTENANCE,MEN, with bruised faces, rip open
 a box from a PRINT SHOP.  They dig up AIRPLANE SAFETY
 INSTRUCTION CARDS and begin inserting them into each
+seatback.  We SEE a CARD - it shows passengers SCREAMING
 </pre>
