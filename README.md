@@ -4620,4 +4620,6 @@ INT. PAPER STREET HOUSE
 HANDS place NEWS CLIPPINGS into a FILE: "Mischief."
 
 INT. AIRPLANE CABIN - ON GROUND - DAY
+
+Two AIRPLANE MAINTENANCE,MEN, with bruised faces, rip open
 </pre>
