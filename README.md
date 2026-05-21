@@ -4623,4 +4623,5 @@ INT. AIRPLANE CABIN - ON GROUND - DAY
 
 Two AIRPLANE MAINTENANCE,MEN, with bruised faces, rip open
 a box from a PRINT SHOP.  They dig up AIRPLANE SAFETY
+INSTRUCTION CARDS and begin inserting them into each
 </pre>
