@@ -4618,4 +4618,6 @@ DISH.  The Seminarian takes the bat, takes a SWING...
 INT. PAPER STREET HOUSE
 
 HANDS place NEWS CLIPPINGS into a FILE: "Mischief."
+
+INT. AIRPLANE CABIN - ON GROUND - DAY
 </pre>
