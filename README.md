@@ -4632,4 +4632,6 @@ INT. BUSINESS OFFICE - NIGHT
 Huge office.  Rows and rows of desks.  FIGHT CLUB MEMBERS
 work: one guy moving from COMPUTER MONITOR to COMPUTER
 MONITOR, using a DRILL to drill a hole into the top of each.
+
+Other guys follow behind, with FUNNELS and CANS of GASOLINE,
 </pre>
