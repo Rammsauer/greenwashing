@@ -4628,4 +4628,6 @@ seatback.  We SEE a CARD - it shows passengers SCREAMING
 and FLAILING ABOUT IN TERROR.
 
 INT. BUSINESS OFFICE - NIGHT
+
+Huge office.  Rows and rows of desks.  FIGHT CLUB MEMBERS
 </pre>
