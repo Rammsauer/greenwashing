@@ -4637,4 +4637,6 @@ Other guys follow behind, with FUNNELS and CANS of GASOLINE,
 filling each monitor with gasoline.
 
 INT. PAPER STREET HOUSE
+
+Files and newspaper clippings are piled up.  HANDS write on
 </pre>
