@@ -4640,4 +4640,6 @@ INT. PAPER STREET HOUSE
 
 Files and newspaper clippings are piled up.  HANDS write on
 a new FILE FOLDER: "Arson."
+
+EXT. ROOFTOP -- DAY
 </pre>
