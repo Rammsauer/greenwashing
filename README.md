@@ -4635,4 +4635,6 @@ MONITOR, using a DRILL to drill a hole into the top of each.
 
 Other guys follow behind, with FUNNELS and CANS of GASOLINE,
 filling each monitor with gasoline.
+
+INT. PAPER STREET HOUSE
 </pre>
