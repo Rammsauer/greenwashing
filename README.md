@@ -4645,4 +4645,6 @@ EXT. ROOFTOP -- DAY
 
 The Yuppie crumbles a loaf of stale bread into a bucket,
 stirring it with a big spoon, mixing in a BOTTLE of EX-LAX.
+
+Nearby, Rob throws handfuls of wet BREADCRUMBS to PIGEONS...
 </pre>
