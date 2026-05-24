@@ -4642,4 +4642,6 @@ Files and newspaper clippings are piled up.  HANDS write on
 a new FILE FOLDER: "Arson."
 
 EXT. ROOFTOP -- DAY
+
+The Yuppie crumbles a loaf of stale bread into a bucket,
 </pre>
