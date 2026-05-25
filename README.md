@@ -4652,4 +4652,5 @@ HUNDREDS of PIGEONS -- a rooftop feeding-frenzy.
 EXT. CONVENIENCE STORE - NIGHT
 
 Tyler and Jack cross the parking lot, towards the
+convenience store.  Jack wears a BACKPACK.
 </pre>
