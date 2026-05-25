@@ -4656,4 +4656,6 @@ convenience store.  Jack wears a BACKPACK.
 
 				 TYLER
 	 Let me have that a minute...
+
+Tyler takes the BACKPACK, unzips it, searching the contents.
 </pre>
