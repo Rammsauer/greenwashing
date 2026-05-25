@@ -4655,4 +4655,5 @@ Tyler and Jack cross the parking lot, towards the
 convenience store.  Jack wears a BACKPACK.
 
 				 TYLER
+	 Let me have that a minute...
 </pre>
