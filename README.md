@@ -4653,4 +4653,6 @@ EXT. CONVENIENCE STORE - NIGHT
 
 Tyler and Jack cross the parking lot, towards the
 convenience store.  Jack wears a BACKPACK.
+
+				 TYLER
 </pre>
