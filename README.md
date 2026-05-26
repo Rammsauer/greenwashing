@@ -4666,4 +4666,5 @@ Tyler takes the BACKPACK, unzips it, searching the contents.
 	 Homework assignment.
 
 				 JACK
+	 What is it?
 </pre>
