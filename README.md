@@ -4661,4 +4661,6 @@ Tyler takes the BACKPACK, unzips it, searching the contents.
 
 				 JACK
 	 What are we doing?
+
+				 TYLER
 </pre>
