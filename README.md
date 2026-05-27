@@ -4672,4 +4672,6 @@ Tyler takes out a HANDGUN, hands the backpack back.
 
 				 TYLER
 	 Human Sacrifice.
+
+Jack turns white, staring at the gun.
 </pre>
