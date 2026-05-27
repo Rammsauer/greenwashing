@@ -4669,4 +4669,6 @@ Tyler takes the BACKPACK, unzips it, searching the contents.
 	 What is it?
 
 Tyler takes out a HANDGUN, hands the backpack back.
+
+				 TYLER
 </pre>
