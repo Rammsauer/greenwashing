@@ -4671,4 +4671,5 @@ Tyler takes the BACKPACK, unzips it, searching the contents.
 Tyler takes out a HANDGUN, hands the backpack back.
 
 				 TYLER
+	 Human Sacrifice.
 </pre>
