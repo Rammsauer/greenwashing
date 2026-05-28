@@ -4680,4 +4680,6 @@ EXT. BEHIND THE CONVENIENCE STORE - MOMENTS LATER
 The BACK DOOR opens and Tyler brings the store's CLERK out
 at gunpoint, forces him to his knees.  Jack follows,
 freaked.  Tyler points the gun at the Clerk.
+
+				 JACK (V.O.)
 </pre>
