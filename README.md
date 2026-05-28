@@ -4676,4 +4676,6 @@ Tyler takes out a HANDGUN, hands the backpack back.
 Jack turns white, staring at the gun.
 
 EXT. BEHIND THE CONVENIENCE STORE - MOMENTS LATER
+
+The BACK DOOR opens and Tyler brings the store's CLERK out
 </pre>
