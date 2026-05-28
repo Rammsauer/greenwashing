@@ -4674,4 +4674,6 @@ Tyler takes out a HANDGUN, hands the backpack back.
 	 Human Sacrifice.
 
 Jack turns white, staring at the gun.
+
+EXT. BEHIND THE CONVENIENCE STORE - MOMENTS LATER
 </pre>
