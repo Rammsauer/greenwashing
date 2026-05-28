@@ -4682,4 +4682,5 @@ at gunpoint, forces him to his knees.  Jack follows,
 freaked.  Tyler points the gun at the Clerk.
 
 				 JACK (V.O.)
+	 On a long enough time line, the
 </pre>
