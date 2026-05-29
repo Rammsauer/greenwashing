@@ -4690,4 +4690,5 @@ freaked.  Tyler points the gun at the Clerk.
 	 Please... don't...
 
 				 TYLER
+	 Give me your wallet.
 </pre>
