@@ -4685,4 +4685,6 @@ freaked.  Tyler points the gun at the Clerk.
 	 On a long enough time line, the
 	 survival rate for everyone drops to
 	 zero.
+
+				 CLERK
 </pre>
