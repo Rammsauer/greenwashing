@@ -4687,4 +4687,5 @@ freaked.  Tyler points the gun at the Clerk.
 	 zero.
 
 				 CLERK
+	 Please... don't...
 </pre>
