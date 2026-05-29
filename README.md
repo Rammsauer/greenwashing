@@ -4688,4 +4688,6 @@ freaked.  Tyler points the gun at the Clerk.
 
 				 CLERK
 	 Please... don't...
+
+				 TYLER
 </pre>
