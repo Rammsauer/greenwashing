@@ -4698,4 +4698,5 @@ snatches it.  Tyler pulls out the DRIVER'S LICENCE.
 				 TYLER
 	 Raymond K. Hessel. 1320 SE Benning,
 	 apartment A.  A small, cramped
+	 basement apartment.
 </pre>
