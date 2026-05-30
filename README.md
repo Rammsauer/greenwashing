@@ -4691,4 +4691,6 @@ freaked.  Tyler points the gun at the Clerk.
 
 				 TYLER
 	 Give me your wallet.
+
+The Clerk fumbles his wallet out of his pocket and Tyler
 </pre>
