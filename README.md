@@ -4693,4 +4693,5 @@ freaked.  Tyler points the gun at the Clerk.
 	 Give me your wallet.
 
 The Clerk fumbles his wallet out of his pocket and Tyler
+snatches it.  Tyler pulls out the DRIVER'S LICENCE.
 </pre>
