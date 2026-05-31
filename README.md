@@ -4704,4 +4704,5 @@ snatches it.  Tyler pulls out the DRIVER'S LICENCE.
 	 How'd you know?
 
 				 TYLER
+	 They give basement apartments letters
 </pre>
