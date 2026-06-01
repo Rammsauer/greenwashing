@@ -4711,4 +4711,5 @@ snatches it.  Tyler pulls out the DRIVER'S LICENCE.
 Tyler rummages through the wallet.
 
 				 TYLER
+	 Is this a picture of Mom and Dad?
 </pre>
