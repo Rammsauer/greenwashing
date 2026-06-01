@@ -4709,4 +4709,6 @@ snatches it.  Tyler pulls out the DRIVER'S LICENCE.
 	 going to die.
 
 Tyler rummages through the wallet.
+
+				 TYLER
 </pre>
