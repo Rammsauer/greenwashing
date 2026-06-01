@@ -4707,4 +4707,6 @@ snatches it.  Tyler pulls out the DRIVER'S LICENCE.
 	 They give basement apartments letters
 	 instead of numbers.  Raymond, you're
 	 going to die.
+
+Tyler rummages through the wallet.
 </pre>
