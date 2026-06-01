@@ -4712,4 +4712,6 @@ Tyler rummages through the wallet.
 
 				 TYLER
 	 Is this a picture of Mom and Dad?
+
+				 RAYMOND
 </pre>
