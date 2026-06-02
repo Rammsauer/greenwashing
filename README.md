@@ -4719,4 +4719,5 @@ Tyler rummages through the wallet.
 				 TYLER
 	 Your mom and dad will have to call
 	 kindly doctor so-and-so to dig up
+	 your dental records, because there
 </pre>
