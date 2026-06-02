@@ -4717,4 +4717,5 @@ Tyler rummages through the wallet.
 	 Yesssss...
 
 				 TYLER
+	 Your mom and dad will have to call
 </pre>
