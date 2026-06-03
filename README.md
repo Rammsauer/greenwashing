@@ -4726,4 +4726,6 @@ Tyler rummages through the wallet.
 	 Please, God, no...
 
 Raymond begins to weep, shoulders heaving.
+
+				 JACK
 </pre>
