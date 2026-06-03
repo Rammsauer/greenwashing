@@ -4728,4 +4728,5 @@ Tyler rummages through the wallet.
 Raymond begins to weep, shoulders heaving.
 
 				 JACK
+	 Tyler...
 </pre>
