@@ -4729,4 +4729,6 @@ Raymond begins to weep, shoulders heaving.
 
 				 JACK
 	 Tyler...
+
+				 TYLER
 </pre>
