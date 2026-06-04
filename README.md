@@ -4731,4 +4731,5 @@ Raymond begins to weep, shoulders heaving.
 	 Tyler...
 
 				 TYLER
+	 An expired community college student
 </pre>
