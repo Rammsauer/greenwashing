@@ -4737,4 +4737,6 @@ Raymond begins to weep, shoulders heaving.
 
 				 RAYMOND
 	 S-S-Stuff.
+
+				 TYLER
 </pre>
