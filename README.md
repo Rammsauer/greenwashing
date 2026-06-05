@@ -4739,4 +4739,5 @@ Raymond begins to weep, shoulders heaving.
 	 S-S-Stuff.
 
 				 TYLER
+	 "Stuff."  Were the mid-terms hard?
 </pre>
