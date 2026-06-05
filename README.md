@@ -4742,4 +4742,6 @@ Raymond begins to weep, shoulders heaving.
 	 "Stuff."  Were the mid-terms hard?
 
 Tyler rams the gun barrel against Raymond's temple.
+
+				 TYLER
 </pre>
