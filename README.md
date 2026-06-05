@@ -4744,4 +4744,5 @@ Raymond begins to weep, shoulders heaving.
 Tyler rams the gun barrel against Raymond's temple.
 
 				 TYLER
+	 I asked you what you studied.
 </pre>
