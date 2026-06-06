@@ -4747,4 +4747,5 @@ Tyler rams the gun barrel against Raymond's temple.
 	 I asked you what you studied.
 
 				 JACK
+	 Tell him!
 </pre>
