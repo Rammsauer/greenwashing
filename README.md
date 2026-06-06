@@ -4750,4 +4750,5 @@ Tyler rams the gun barrel against Raymond's temple.
 	 Tell him!
 
 				 RAYMOND
+	 Biology, mostly.
 </pre>
