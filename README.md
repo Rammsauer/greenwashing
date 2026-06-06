@@ -4748,4 +4748,6 @@ Tyler rams the gun barrel against Raymond's temple.
 
 				 JACK
 	 Tell him!
+
+				 RAYMOND
 </pre>
