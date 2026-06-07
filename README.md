@@ -4761,4 +4761,6 @@ Tyler rams the gun barrel against Raymond's temple.
 				 TYLER
 	 What did you want to be, Raymond K.
 	 Hessel?
+
+Raymond weeps and says nothing.  Tyler COCKS the gun.
 </pre>
