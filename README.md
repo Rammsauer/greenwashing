@@ -4756,4 +4756,5 @@ Tyler rams the gun barrel against Raymond's temple.
 	 Why?
 
 				 RAYMOND
+	 I... I don't know...
 </pre>
