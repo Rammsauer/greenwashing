@@ -4766,4 +4766,5 @@ Raymond weeps and says nothing.  Tyler COCKS the gun.
 Raymond GASPS.
 
 				 TYLER
+	 The question, Raymond, was "what did
 </pre>
