@@ -4763,4 +4763,5 @@ Tyler rams the gun barrel against Raymond's temple.
 	 Hessel?
 
 Raymond weeps and says nothing.  Tyler COCKS the gun.
+Raymond GASPS.
 </pre>
