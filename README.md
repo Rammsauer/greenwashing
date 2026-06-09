@@ -4770,4 +4770,6 @@ Raymond GASPS.
 	 you want to be?"
 
 A beat.
+
+				 JACK
 </pre>
