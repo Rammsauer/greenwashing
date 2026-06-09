@@ -4772,4 +4772,5 @@ Raymond GASPS.
 A beat.
 
 				 JACK
+	 Answer him!
 </pre>
