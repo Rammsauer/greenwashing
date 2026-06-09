@@ -4778,4 +4778,5 @@ A beat.
 	 A veterinarian!
 
 				 TYLER
+	 Animals.
 </pre>
