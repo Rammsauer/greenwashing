@@ -4781,4 +4781,5 @@ A beat.
 	 Animals.
 
 				 RAYMOND
+	 Yeah ... animals and s-s-s ---
 </pre>
