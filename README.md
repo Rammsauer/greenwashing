@@ -4785,4 +4785,5 @@ A beat.
 
 				 TYLER
 	 Stuff.  That means you have to get
+	 more schooling.
 </pre>
