@@ -4784,4 +4784,5 @@ A beat.
 	 Yeah ... animals and s-s-s ---
 
 				 TYLER
+	 Stuff.  That means you have to get
 </pre>
