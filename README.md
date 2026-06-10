@@ -4782,4 +4782,6 @@ A beat.
 
 				 RAYMOND
 	 Yeah ... animals and s-s-s ---
+
+				 TYLER
 </pre>
