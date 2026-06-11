@@ -4793,4 +4793,5 @@ A beat.
 Tyler shoves Raymond's wallet back into Raymond's pocket.
 
 				 TYLER
+	 Would you rather be dead?
 </pre>
