@@ -4797,4 +4797,6 @@ Tyler shoves Raymond's wallet back into Raymond's pocket.
 
 				 RAYMOND
 	 No, please, no, God, no!
+
+Tyler moves the gun right between Raymond's eyes.
 </pre>
