@@ -4796,4 +4796,5 @@ Tyler shoves Raymond's wallet back into Raymond's pocket.
 	 Would you rather be dead?
 
 				 RAYMOND
+	 No, please, no, God, no!
 </pre>
