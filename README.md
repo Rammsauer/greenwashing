@@ -4804,4 +4804,6 @@ Tyler moves the gun right between Raymond's eyes.
 	 NOOOOO!
 
 Tyler UNCOCKS the gun, lowers it.
+
+				 TYLER
 </pre>
