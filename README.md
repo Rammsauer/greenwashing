@@ -4806,4 +4806,5 @@ Tyler moves the gun right between Raymond's eyes.
 Tyler UNCOCKS the gun, lowers it.
 
 				 TYLER
+	 I'm keeping your license.  I know
 </pre>
