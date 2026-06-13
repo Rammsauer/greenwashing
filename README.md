@@ -4807,4 +4807,5 @@ Tyler UNCOCKS the gun, lowers it.
 
 				 TYLER
 	 I'm keeping your license.  I know
+	 where you live.  I'm going to check
 </pre>
