@@ -4810,4 +4810,5 @@ Tyler UNCOCKS the gun, lowers it.
 	 where you live.  I'm going to check
 	 on you.  If you aren't back in school
 	 and on your way to being a
+	 veterinarian in six weeks, you will
 </pre>
