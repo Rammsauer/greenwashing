@@ -4817,4 +4817,5 @@ Raymond staggers to his feet, heads down an alleyway.  Jack
 and Tyler watch Raymond flee, then Tyler looks at Jack.
 
 				 JACK
+	   I feel sick.
 </pre>
