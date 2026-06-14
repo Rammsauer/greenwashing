@@ -4812,4 +4812,6 @@ Tyler UNCOCKS the gun, lowers it.
 	 and on your way to being a
 	 veterinarian in six weeks, you will
 	 be dead.  Get the hell out of here.
+
+Raymond staggers to his feet, heads down an alleyway.  Jack
 </pre>
