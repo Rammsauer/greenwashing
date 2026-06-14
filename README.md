@@ -4811,4 +4811,5 @@ Tyler UNCOCKS the gun, lowers it.
 	 on you.  If you aren't back in school
 	 and on your way to being a
 	 veterinarian in six weeks, you will
+	 be dead.  Get the hell out of here.
 </pre>
