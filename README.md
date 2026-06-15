@@ -4820,4 +4820,5 @@ and Tyler watch Raymond flee, then Tyler looks at Jack.
 	   I feel sick.
 
 				 TYLER
+	   Imagine how he feels.
 </pre>
