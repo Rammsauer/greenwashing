@@ -4823,4 +4823,5 @@ and Tyler watch Raymond flee, then Tyler looks at Jack.
 	   Imagine how he feels.
 
 Tyler brings the gun to his own head, pulls the trigger --
+CLICK.  Empty.
 </pre>
