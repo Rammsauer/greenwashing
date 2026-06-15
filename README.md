@@ -4826,4 +4826,5 @@ Tyler brings the gun to his own head, pulls the trigger --
 CLICK.  Empty.
 
 				 JACK
+	 I don't care, that was horrible.
 </pre>
