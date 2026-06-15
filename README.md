@@ -4818,4 +4818,6 @@ and Tyler watch Raymond flee, then Tyler looks at Jack.
 
 				 JACK
 	   I feel sick.
+
+				 TYLER
 </pre>
