@@ -4827,4 +4827,6 @@ CLICK.  Empty.
 
 				 JACK
 	 I don't care, that was horrible.
+
+Tyler walks away.
 </pre>
