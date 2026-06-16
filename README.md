@@ -4833,4 +4833,6 @@ Tyler walks away.
 				 TYLER
 	 Tomorrow will be the most beautiful
 	 day of Raymond K. Hessell's life.
+
+Jack watches Tyler go.
 </pre>
