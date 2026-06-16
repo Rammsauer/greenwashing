@@ -4831,4 +4831,5 @@ CLICK.  Empty.
 Tyler walks away.
 
 				 TYLER
+	 Tomorrow will be the most beautiful
 </pre>
