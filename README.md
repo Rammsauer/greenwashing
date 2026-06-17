@@ -4838,4 +4838,5 @@ Jack watches Tyler go.
 
 				 TYLER
 	 His breakfast will taste better than
+	 any meal he has ever eaten.
 </pre>
