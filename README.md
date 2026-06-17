@@ -4837,4 +4837,5 @@ Tyler walks away.
 Jack watches Tyler go.
 
 				 TYLER
+	 His breakfast will taste better than
 </pre>
