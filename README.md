@@ -4841,4 +4841,5 @@ Jack watches Tyler go.
 	 any meal he has ever eaten.
 
 Jack turns to look the direction Raymond ran.  He finally
+turns back, following after Tyler.
 </pre>
