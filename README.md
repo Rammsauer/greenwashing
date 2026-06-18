@@ -4847,4 +4847,6 @@ INT. BUSINESS OFFICE - NIGHT
 
 SLOW MOTION: in the deserted office, gasoline filled
 COMPUTER MONITORS begin to EXPLODE...BOOM...BOOM...BOOM... !
+
+EXT. CITY STREETS -- MORNING
 </pre>
