@@ -4844,4 +4844,6 @@ Jack turns to look the direction Raymond ran.  He finally
 turns back, following after Tyler.
 
 INT. BUSINESS OFFICE - NIGHT
+
+SLOW MOTION: in the deserted office, gasoline filled
 </pre>
