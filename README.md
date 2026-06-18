@@ -4849,4 +4849,6 @@ SLOW MOTION: in the deserted office, gasoline filled
 COMPUTER MONITORS begin to EXPLODE...BOOM...BOOM...BOOM... !
 
 EXT. CITY STREETS -- MORNING
+
+Luxury AUTOMOBILES are parked, splattered with BIRD SHIT.
 </pre>
