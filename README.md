@@ -4857,4 +4857,6 @@ EXT. PAPER ST. HOUSE - BACKYARD - DAWN
 VIEWED OUT 3RD STORY WINDOW: Tyler uses a RAKE, dragging it
 across rocks and dirt.  He stops a moment, rake on his
 shoulder, staring off.  Then, back to work...
+
+				 TYLER
 </pre>
