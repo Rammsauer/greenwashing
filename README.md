@@ -4855,4 +4855,5 @@ Luxury AUTOMOBILES are parked, splattered with BIRD SHIT.
 EXT. PAPER ST. HOUSE - BACKYARD - DAWN
 
 VIEWED OUT 3RD STORY WINDOW: Tyler uses a RAKE, dragging it
+across rocks and dirt.  He stops a moment, rake on his
 </pre>
