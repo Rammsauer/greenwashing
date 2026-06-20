@@ -4862,4 +4862,5 @@ shoulder, staring off.  Then, back to work...
 		   (muttering quietly)
 	 ... You are not how much money you
 	 have in the bank.  You are not the
+	 shoes you wear.
 </pre>
