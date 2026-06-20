@@ -4863,4 +4863,6 @@ shoulder, staring off.  Then, back to work...
 	 ... You are not how much money you
 	 have in the bank.  You are not the
 	 shoes you wear.
+
+Tyler's marking a large SQUARE in the weeds and rubble of
 </pre>
