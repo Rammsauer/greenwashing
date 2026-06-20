@@ -4860,4 +4860,5 @@ shoulder, staring off.  Then, back to work...
 
 				 TYLER
 		   (muttering quietly)
+	 ... You are not how much money you
 </pre>
