@@ -4859,4 +4859,5 @@ across rocks and dirt.  He stops a moment, rake on his
 shoulder, staring off.  Then, back to work...
 
 				 TYLER
+		   (muttering quietly)
 </pre>
