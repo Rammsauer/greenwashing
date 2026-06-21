@@ -4870,4 +4870,6 @@ the backyard, kicking rocks away, dragging the rake...
 				 TYLER
 	 You are not the contents of your
 	 wallet...
+
+INT. CITY BUS - NIGHT
 </pre>
