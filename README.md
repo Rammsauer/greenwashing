@@ -4874,4 +4874,5 @@ the backyard, kicking rocks away, dragging the rake...
 INT. CITY BUS - NIGHT
 
 The DRIVER has a broken nose.  The bus is empty, except for
+Jack, in the very last seat, sleepy.
 </pre>
