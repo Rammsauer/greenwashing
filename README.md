@@ -4872,4 +4872,6 @@ the backyard, kicking rocks away, dragging the rake...
 	 wallet...
 
 INT. CITY BUS - NIGHT
+
+The DRIVER has a broken nose.  The bus is empty, except for
 </pre>
