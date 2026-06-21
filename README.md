@@ -4868,4 +4868,5 @@ Tyler's marking a large SQUARE in the weeds and rubble of
 the backyard, kicking rocks away, dragging the rake...
 
 				 TYLER
+	 You are not the contents of your
 </pre>
