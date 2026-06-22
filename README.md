@@ -4882,4 +4882,5 @@ Jack, in the very last seat, sleepy.
 	 eyes.
 		   (pause)
 	 But, it started to make sense... in
+	 a Tyler sort of way.  No fear.  No
 </pre>
