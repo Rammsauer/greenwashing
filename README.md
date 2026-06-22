@@ -4878,4 +4878,5 @@ Jack, in the very last seat, sleepy.
 
 				 JACK (V.O.)
 	 He had a plan.  Maybe you just didn't
+	 see it till it hit you between the
 </pre>
