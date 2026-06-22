@@ -4877,4 +4877,5 @@ The DRIVER has a broken nose.  The bus is empty, except for
 Jack, in the very last seat, sleepy.
 
 				 JACK (V.O.)
+	 He had a plan.  Maybe you just didn't
 </pre>
