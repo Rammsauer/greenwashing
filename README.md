@@ -4881,4 +4881,5 @@ Jack, in the very last seat, sleepy.
 	 see it till it hit you between the
 	 eyes.
 		   (pause)
+	 But, it started to make sense... in
 </pre>
