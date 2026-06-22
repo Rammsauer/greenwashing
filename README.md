@@ -4880,4 +4880,5 @@ Jack, in the very last seat, sleepy.
 	 He had a plan.  Maybe you just didn't
 	 see it till it hit you between the
 	 eyes.
+		   (pause)
 </pre>
