@@ -4884,4 +4884,5 @@ Jack, in the very last seat, sleepy.
 	 But, it started to make sense... in
 	 a Tyler sort of way.  No fear.  No
 	 distractions.  The ability to let
+	 that which does not matter truly
 </pre>
