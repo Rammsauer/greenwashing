@@ -4890,4 +4890,5 @@ Jack, in the very last seat, sleepy.
 EXT. PAPER STREET - NIGHT
 
 Jack gets off the bus.  As the bus pulls away, we see it
+dropped Jack off right in front of the house.
 </pre>
