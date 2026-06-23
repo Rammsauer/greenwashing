@@ -4888,4 +4888,6 @@ Jack, in the very last seat, sleepy.
 	 slide.
 
 EXT. PAPER STREET - NIGHT
+
+Jack gets off the bus.  As the bus pulls away, we see it
 </pre>
