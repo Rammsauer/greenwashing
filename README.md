@@ -4895,4 +4895,5 @@ dropped Jack off right in front of the house.
 INT. KITCHEN - MOMENTS LATER
 
 Jack enters.  Tyler, dressed in FATIGUES and splattered with
+PAINT, grabs BEERS from the refrigerator.
 </pre>
