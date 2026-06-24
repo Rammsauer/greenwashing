@@ -4898,4 +4898,5 @@ Jack enters.  Tyler, dressed in FATIGUES and splattered with
 PAINT, grabs BEERS from the refrigerator.
 
 				 JACK
+	 Hey.
 </pre>
