@@ -4902,4 +4902,6 @@ PAINT, grabs BEERS from the refrigerator.
 
 				 TYLER
 	 Hey.
+
+Jack notices ROPE and RAPPELLING TOOLS on the table.  Tyler
 </pre>
