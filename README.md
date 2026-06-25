@@ -4899,4 +4899,6 @@ PAINT, grabs BEERS from the refrigerator.
 
 				 JACK
 	 Hey.
+
+				 TYLER
 </pre>
