@@ -4905,4 +4905,6 @@ PAINT, grabs BEERS from the refrigerator.
 
 Jack notices ROPE and RAPPELLING TOOLS on the table.  Tyler
 comes to hand Jack a bunch of beers, nod to the living room.
+
+				 TYLER
 </pre>
