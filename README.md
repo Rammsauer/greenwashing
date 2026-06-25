@@ -4901,4 +4901,5 @@ PAINT, grabs BEERS from the refrigerator.
 	 Hey.
 
 				 TYLER
+	 Hey.
 </pre>
