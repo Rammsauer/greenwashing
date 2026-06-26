@@ -4912,4 +4912,5 @@ comes to hand Jack a bunch of beers, nod to the living room.
 INT. LIVING ROOM - CONTINUOUS
 
 Jack, bewildered, enters carrying beers.  Tyler does NOT
+follow.  BOB, RICKY and several other fight club guys sit in
 </pre>
