@@ -4913,4 +4913,5 @@ INT. LIVING ROOM - CONTINUOUS
 
 Jack, bewildered, enters carrying beers.  Tyler does NOT
 follow.  BOB, RICKY and several other fight club guys sit in
+front at the TV, chanting not too loudly, all also dressed
 </pre>
