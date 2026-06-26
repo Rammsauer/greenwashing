@@ -4910,4 +4910,6 @@ comes to hand Jack a bunch of beers, nod to the living room.
 	 Go on in.  We're celebrating.
 
 INT. LIVING ROOM - CONTINUOUS
+
+Jack, bewildered, enters carrying beers.  Tyler does NOT
 </pre>
