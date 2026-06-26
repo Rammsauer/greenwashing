@@ -4908,4 +4908,6 @@ comes to hand Jack a bunch of beers, nod to the living room.
 
 				 TYLER
 	 Go on in.  We're celebrating.
+
+INT. LIVING ROOM - CONTINUOUS
 </pre>
