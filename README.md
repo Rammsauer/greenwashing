@@ -4917,4 +4917,5 @@ front at the TV, chanting not too loudly, all also dressed
 in FATIGUES and splattered with PAINT.
 
 				 RICKY
+	 You are not your job.
 </pre>
