@@ -4923,4 +4923,5 @@ in FATIGUES and splattered with PAINT.
 	 You are not your job.
 
 				 RICKY
+	 You are not how much money you have
 </pre>
