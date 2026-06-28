@@ -4928,4 +4928,6 @@ in FATIGUES and splattered with PAINT.
 
 				 BOB
 	 Shhhh, wait... they're back to it...
+
+Bob goes to turn up the TV.  One guy, sixteen years old with
 </pre>
