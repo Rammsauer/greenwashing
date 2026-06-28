@@ -4930,4 +4930,5 @@ in FATIGUES and splattered with PAINT.
 	 Shhhh, wait... they're back to it...
 
 Bob goes to turn up the TV.  One guy, sixteen years old with
+an angelic face, ANGEL FACE, gets up to take beer from Jack.
 </pre>
