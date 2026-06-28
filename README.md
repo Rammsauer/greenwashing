@@ -4924,4 +4924,5 @@ in FATIGUES and splattered with PAINT.
 
 				 RICKY
 	 You are not how much money you have
+	 in the bank.
 </pre>
