@@ -4934,4 +4934,5 @@ an angelic face, ANGEL FACE, gets up to take beer from Jack.
 
 				 ANGEL FACE
 		   (to Jack)
+	 Great, thanks.
 </pre>
