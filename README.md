@@ -4943,4 +4943,5 @@ Angel face starts distributing beer amongst his cohorts.
 
 Jack looks to the TV -- it shows a LIVE shot of the "PARKER
 MORRIS BUILDING."  The building has a GIANT, GRINNING FACE
+PAINTED on it -- two BROKEN WINDOWS for EYES, with flames
 </pre>
