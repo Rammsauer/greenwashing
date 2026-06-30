@@ -4939,4 +4939,5 @@ an angelic face, ANGEL FACE, gets up to take beer from Jack.
 Angel face starts distributing beer amongst his cohorts.
 
 				 BOB
+	 Shhhhh!  Watch!
 </pre>
