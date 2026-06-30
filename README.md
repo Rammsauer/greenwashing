@@ -4940,4 +4940,6 @@ Angel face starts distributing beer amongst his cohorts.
 
 				 BOB
 	 Shhhhh!  Watch!
+
+Jack looks to the TV -- it shows a LIVE shot of the "PARKER
 </pre>
