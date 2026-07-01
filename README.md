@@ -4951,4 +4951,6 @@ pouring out... FIRETRUCKS spray water.
 	 arrived... just a second... excuse
 	 me, Commissioner, could you tell us
 	 what you think has happened?
+
+COMMISSIONER JACOBS, a wrinkled official, turns to camera.
 </pre>
