@@ -4953,4 +4953,6 @@ pouring out... FIRETRUCKS spray water.
 	 what you think has happened?
 
 COMMISSIONER JACOBS, a wrinkled official, turns to camera.
+
+				 COMMISSIONER JACOBS (V.O.)
 </pre>
