@@ -4949,4 +4949,5 @@ pouring out... FIRETRUCKS spray water.
 				 REPORTER (V.O.)
 	 Police Commissioner Jacobs has just
 	 arrived... just a second... excuse
+	 me, Commissioner, could you tell us
 </pre>
