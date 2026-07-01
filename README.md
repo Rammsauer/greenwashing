@@ -4947,4 +4947,5 @@ PAINTED on it -- two BROKEN WINDOWS for EYES, with flames
 pouring out... FIRETRUCKS spray water.
 
 				 REPORTER (V.O.)
+	 Police Commissioner Jacobs has just
 </pre>
