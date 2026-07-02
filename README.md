@@ -4962,4 +4962,5 @@ COMMISSIONER JACOBS, a wrinkled official, turns to camera.
 	 rigorous investigation.
 
 Jack turns, sees Tyler in the archway, watching him.  Tyler
+tips his beer to toast, pulls back, out of sight.
 </pre>
