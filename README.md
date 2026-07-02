@@ -4960,4 +4960,6 @@ COMMISSIONER JACOBS, a wrinkled official, turns to camera.
 	 city.  It's some kind of organized
 	 group, and we are coordinating a
 	 rigorous investigation.
+
+Jack turns, sees Tyler in the archway, watching him.  Tyler
 </pre>
