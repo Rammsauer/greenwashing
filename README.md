@@ -4959,4 +4959,5 @@ COMMISSIONER JACOBS, a wrinkled official, turns to camera.
 	 recent acts of vandalism around the
 	 city.  It's some kind of organized
 	 group, and we are coordinating a
+	 rigorous investigation.
 </pre>
