@@ -4957,4 +4957,5 @@ COMMISSIONER JACOBS, a wrinkled official, turns to camera.
 				 COMMISSIONER JACOBS (V.O.)
 	 We believe this is related to the
 	 recent acts of vandalism around the
+	 city.  It's some kind of organized
 </pre>
