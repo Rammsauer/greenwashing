@@ -4983,4 +4983,5 @@ INT. HOTEL BALLROOM - NIGHT
 
 A luxurious BANQUET.  Commissioner Jacobs guzzles champagne.
 He rises and starts out of the room.  Jack, in a WAITER'S
+UNIFORM, looks apprehensively to OTHER WAITERS: BOB...
 </pre>
