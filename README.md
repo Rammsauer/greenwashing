@@ -4978,4 +4978,6 @@ faces turn to stone.  Bob sits rigid.
 Jack stares at them.
 
 										  CUT TO:
+
+INT. HOTEL BALLROOM - NIGHT
 </pre>
