@@ -4980,4 +4980,6 @@ Jack stares at them.
 										  CUT TO:
 
 INT. HOTEL BALLROOM - NIGHT
+
+A luxurious BANQUET.  Commissioner Jacobs guzzles champagne.
 </pre>
