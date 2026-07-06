@@ -4991,4 +4991,6 @@ INT. HALLWAY
 Jacobs saunters down an empty hall.  He stops to check his
 tie in a mirror.  He pushes open the door of the MEN'S
 BATHROOM -- face to face with TYLER.
+
+INT. BATHROOM
 </pre>
