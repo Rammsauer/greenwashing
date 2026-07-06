@@ -4987,4 +4987,6 @@ UNIFORM, looks apprehensively to OTHER WAITERS: BOB...
 RICKY... ANGEL FACE -- who all give each other a look.
 
 INT. HALLWAY
+
+Jacobs saunters down an empty hall.  He stops to check his
 </pre>
