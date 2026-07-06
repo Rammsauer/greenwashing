@@ -4993,4 +4993,6 @@ tie in a mirror.  He pushes open the door of the MEN'S
 BATHROOM -- face to face with TYLER.
 
 INT. BATHROOM
+
+Tyler GRABS Commissioner Jacobs, pulling him into the
 </pre>
