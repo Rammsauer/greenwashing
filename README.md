@@ -5002,4 +5002,5 @@ pants.  Bob snaps a rubber band -- reaches to Jacob s crotch.
 
 				 TYLER
 	 Wrap it around the top of his hackie-
+	 sack.
 </pre>
