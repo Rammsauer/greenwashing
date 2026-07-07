@@ -4999,4 +4999,6 @@ bathroom.  He slaps a piece of tape over Jacobs' mouth.  The
 OTHER "WAITERS" rush in.  Jack stays back to keep the door
 shut.  Tyler and the others hold Jacobs, pulling down his
 pants.  Bob snaps a rubber band -- reaches to Jacob s crotch.
+
+				 TYLER
 </pre>
