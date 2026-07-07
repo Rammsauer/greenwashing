@@ -4995,4 +4995,5 @@ BATHROOM -- face to face with TYLER.
 INT. BATHROOM
 
 Tyler GRABS Commissioner Jacobs, pulling him into the
+bathroom.  He slaps a piece of tape over Jacobs' mouth.  The
 </pre>
