@@ -5008,4 +5008,5 @@ pants.  Bob snaps a rubber band -- reaches to Jacob s crotch.
 	 Man, his balls are ice cold.
 
 Ricky produces a KNIFE, moves it down to Jacob's testicles.
+Jacobs is bug-eyed.  Jack, red-faced, keeps his distance.
 </pre>
