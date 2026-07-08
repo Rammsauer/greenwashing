@@ -5005,4 +5005,5 @@ pants.  Bob snaps a rubber band -- reaches to Jacob s crotch.
 	 sack.
 
 				 BOB
+	 Man, his balls are ice cold.
 </pre>
