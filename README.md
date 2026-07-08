@@ -5009,4 +5009,6 @@ pants.  Bob snaps a rubber band -- reaches to Jacob s crotch.
 
 Ricky produces a KNIFE, moves it down to Jacob's testicles.
 Jacobs is bug-eyed.  Jack, red-faced, keeps his distance.
+
+				 TYLER
 </pre>
