@@ -5013,4 +5013,5 @@ Jacobs is bug-eyed.  Jack, red-faced, keeps his distance.
 				 TYLER
 	 You're not going to continue your
 	 "rigorous investigation."  You will
+	 publicly state that there is no
 </pre>
