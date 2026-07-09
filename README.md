@@ -5016,4 +5016,5 @@ Jacobs is bug-eyed.  Jack, red-faced, keeps his distance.
 	 publicly state that there is no
 	 underground group.  Or -- imagine,
 	 the rest of your life with your
+	 scrotum flapping empty.
 </pre>
