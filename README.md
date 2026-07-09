@@ -5011,4 +5011,5 @@ Ricky produces a KNIFE, moves it down to Jacob's testicles.
 Jacobs is bug-eyed.  Jack, red-faced, keeps his distance.
 
 				 TYLER
+	 You're not going to continue your
 </pre>
