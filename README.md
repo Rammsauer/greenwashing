@@ -5023,4 +5023,5 @@ Jacobs is bug-eyed.  Jack, red-faced, keeps his distance.
 	 ... no... please, no...
 
 				 TYLER
+	 We'll send one to the New York Times
 </pre>
