@@ -5026,4 +5026,5 @@ Jacobs is bug-eyed.  Jack, red-faced, keeps his distance.
 	 We'll send one to the New York Times
 	 and one to the Los Angeles Times.
 	 Press release style.  Your nuts will
+	 be bicoastal.  Understood?  The
 </pre>
