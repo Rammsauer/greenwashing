@@ -5019,4 +5019,5 @@ Jacobs is bug-eyed.  Jack, red-faced, keeps his distance.
 	 scrotum flapping empty.
 
 				 JACOBS
+		   (mouth taped)
 </pre>
