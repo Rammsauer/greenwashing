@@ -5020,4 +5020,5 @@ Jacobs is bug-eyed.  Jack, red-faced, keeps his distance.
 
 				 JACOBS
 		   (mouth taped)
+	 ... no... please, no...
 </pre>
