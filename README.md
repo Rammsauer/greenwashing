@@ -5033,4 +5033,5 @@ Jacobs is bug-eyed.  Jack, red-faced, keeps his distance.
 
 				 TYLER (cont)
 	 We do your laundry, cook your food
+	 and serve you dinner.  We guard you
 </pre>
