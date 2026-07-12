@@ -5036,4 +5036,6 @@ Jacobs is bug-eyed.  Jack, red-faced, keeps his distance.
 	 and serve you dinner.  We guard you
 	 while you sleep.  We drive your
 	 ambulances.  Do not fuck with us.
+
+Ricky makes a dramatic cut with the knife, causing Jacobs to
 </pre>
