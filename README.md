@@ -5039,4 +5039,6 @@ Jacobs is bug-eyed.  Jack, red-faced, keeps his distance.
 
 Ricky makes a dramatic cut with the knife, causing Jacobs to
 JUMP -- Ricky holds up the severed RUBBER BAND.
+
+EXT. HOTEL - LATER
 </pre>
