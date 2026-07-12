@@ -5041,4 +5041,6 @@ Ricky makes a dramatic cut with the knife, causing Jacobs to
 JUMP -- Ricky holds up the severed RUBBER BAND.
 
 EXT. HOTEL - LATER
+
+Jack, Tyler and the others file quickly out the back SERVICE
 </pre>
