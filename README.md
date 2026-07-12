@@ -5038,4 +5038,5 @@ Jacobs is bug-eyed.  Jack, red-faced, keeps his distance.
 	 ambulances.  Do not fuck with us.
 
 Ricky makes a dramatic cut with the knife, causing Jacobs to
+JUMP -- Ricky holds up the severed RUBBER BAND.
 </pre>
