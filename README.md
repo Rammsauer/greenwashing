@@ -5043,4 +5043,5 @@ JUMP -- Ricky holds up the severed RUBBER BAND.
 EXT. HOTEL - LATER
 
 Jack, Tyler and the others file quickly out the back SERVICE
+ENTRANCE.  Tyler gives Angel Face a hearty slap on the back.
 </pre>
