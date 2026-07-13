@@ -5047,4 +5047,6 @@ ENTRANCE.  Tyler gives Angel Face a hearty slap on the back.
 Angel Face smiles at Tyler, nods, grinning.
 
 Jack sees this, his eyes narrowing, stops walking.
+
+INT. TAVERN BASEMENT - NIGHT
 </pre>
