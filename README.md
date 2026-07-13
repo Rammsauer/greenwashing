@@ -5044,4 +5044,5 @@ EXT. HOTEL - LATER
 
 Jack, Tyler and the others file quickly out the back SERVICE
 ENTRANCE.  Tyler gives Angel Face a hearty slap on the back.
+Angel Face smiles at Tyler, nods, grinning.
 </pre>
