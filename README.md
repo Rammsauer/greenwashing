@@ -5049,4 +5049,6 @@ Angel Face smiles at Tyler, nods, grinning.
 Jack sees this, his eyes narrowing, stops walking.
 
 INT. TAVERN BASEMENT - NIGHT
+
+Fight club in full swing.  Jack battles Angel Face, BEATING
 </pre>
