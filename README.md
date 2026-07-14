@@ -5052,4 +5052,6 @@ INT. TAVERN BASEMENT - NIGHT
 
 Fight club in full swing.  Jack battles Angel Face, BEATING
 the shit out of him with unprecedented viciousness.
+
+				 JACK (V.O.)
 </pre>
