@@ -5057,4 +5057,6 @@ the shit out of him with unprecedented viciousness.
 	 I felt like putting a bullet between
 	 the eyes of every Panda that wouldn't
 	 screw to save its species.
+
+The crowd shouts maniacally, save Tyler, who watches with an
 </pre>
