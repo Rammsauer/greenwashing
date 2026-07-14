@@ -5054,4 +5054,5 @@ Fight club in full swing.  Jack battles Angel Face, BEATING
 the shit out of him with unprecedented viciousness.
 
 				 JACK (V.O.)
+	 I felt like putting a bullet between
 </pre>
