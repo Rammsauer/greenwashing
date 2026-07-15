@@ -5060,4 +5060,6 @@ the shit out of him with unprecedented viciousness.
 
 The crowd shouts maniacally, save Tyler, who watches with an
 inscrutable stone face.
+
+Angel Face tries to speak, but Jack POUNDS too hard.  Blood
 </pre>
