@@ -5065,4 +5065,5 @@ Angel Face tries to speak, but Jack POUNDS too hard.  Blood
 flies.  The crowd begins to grow QUIETER.
 
 				 JACK (V.O.)
+	 I wanted to open the dump valves on
 </pre>
