@@ -5066,4 +5066,5 @@ flies.  The crowd begins to grow QUIETER.
 
 				 JACK (V.O.)
 	 I wanted to open the dump valves on
+	 oil tankers and smother all the
 </pre>
