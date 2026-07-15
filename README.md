@@ -5059,4 +5059,5 @@ the shit out of him with unprecedented viciousness.
 	 screw to save its species.
 
 The crowd shouts maniacally, save Tyler, who watches with an
+inscrutable stone face.
 </pre>
