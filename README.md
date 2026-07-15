@@ -5062,4 +5062,5 @@ The crowd shouts maniacally, save Tyler, who watches with an
 inscrutable stone face.
 
 Angel Face tries to speak, but Jack POUNDS too hard.  Blood
+flies.  The crowd begins to grow QUIETER.
 </pre>
