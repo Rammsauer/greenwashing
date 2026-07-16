@@ -5071,4 +5071,5 @@ flies.  The crowd begins to grow QUIETER.
 
 Finally, Angel Face lies still, unconscious.  Jack stops,
 stares down, numb.  Jack walks away -- the crowd parts to
+let him pass.  Jack scans faces... finds Tyler.
 </pre>
