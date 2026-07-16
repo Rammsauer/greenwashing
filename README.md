@@ -5070,4 +5070,5 @@ flies.  The crowd begins to grow QUIETER.
 	 French beaches I'd never see.
 
 Finally, Angel Face lies still, unconscious.  Jack stops,
+stares down, numb.  Jack walks away -- the crowd parts to
 </pre>
