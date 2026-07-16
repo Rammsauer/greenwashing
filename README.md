@@ -5074,4 +5074,5 @@ stares down, numb.  Jack walks away -- the crowd parts to
 let him pass.  Jack scans faces... finds Tyler.
 
 				 TYLER
+	 Where did you go, Psycho-Boy?
 </pre>
