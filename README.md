@@ -5077,4 +5077,5 @@ let him pass.  Jack scans faces... finds Tyler.
 	 Where did you go, Psycho-Boy?
 
 				 JACK
+	 I felt like destroying something
 </pre>
