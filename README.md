@@ -5075,4 +5075,6 @@ let him pass.  Jack scans faces... finds Tyler.
 
 				 TYLER
 	 Where did you go, Psycho-Boy?
+
+				 JACK
 </pre>
