@@ -5079,4 +5079,6 @@ let him pass.  Jack scans faces... finds Tyler.
 				 JACK
 	 I felt like destroying something
 	 beautiful.
+
+EXT. STREET NEAR LOU'S TAVERN - LATER
 </pre>
