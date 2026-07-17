@@ -5081,4 +5081,6 @@ let him pass.  Jack scans faces... finds Tyler.
 	 beautiful.
 
 EXT. STREET NEAR LOU'S TAVERN - LATER
+
+RAINING.  Tyler and Jack walk through pools of streetlight.
 </pre>
