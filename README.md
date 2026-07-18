@@ -5084,4 +5084,5 @@ EXT. STREET NEAR LOU'S TAVERN - LATER
 
 RAINING.  Tyler and Jack walk through pools of streetlight.
 A idling car HONKS.  Tyler leads Jack toward it.  A bruised-
+faced VALET PARKER thrown keys to Tyler, but Jack intercepts.
 </pre>
