@@ -5096,4 +5096,6 @@ faced VALET PARKER thrown keys to Tyler, but Jack intercepts.
 
 				 TYLER
 	 No... after you.
+
+INT. STOLEN CAR
 </pre>
