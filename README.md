@@ -5103,4 +5103,6 @@ Tyler gets in the driver's seat.  Jack gets into the front
 passenger seat.  Ricky and the mechanic are in back.
 
 EXT. STREET
+
+Tyler pulls the stolen car away from the curb.  It has two
 </pre>
