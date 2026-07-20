@@ -5105,4 +5105,5 @@ passenger seat.  Ricky and the mechanic are in back.
 EXT. STREET
 
 Tyler pulls the stolen car away from the curb.  It has two
+bumperstickers: "RECYCLE YOUR ANIMALS" and "MAKE MINE VEAL."
 </pre>
