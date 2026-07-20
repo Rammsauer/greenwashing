@@ -5101,4 +5101,6 @@ INT. STOLEN CAR
 
 Tyler gets in the driver's seat.  Jack gets into the front
 passenger seat.  Ricky and the mechanic are in back.
+
+EXT. STREET
 </pre>
