@@ -5098,4 +5098,6 @@ faced VALET PARKER thrown keys to Tyler, but Jack intercepts.
 	 No... after you.
 
 INT. STOLEN CAR
+
+Tyler gets in the driver's seat.  Jack gets into the front
 </pre>
