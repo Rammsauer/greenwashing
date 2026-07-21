@@ -5111,4 +5111,6 @@ INT. STOLEN CAR - MOVING - LATER
 
 RAIN GUSHES down.  Jack stews, silent.  The car moves down
 a HIGHWAY, intermittently illuminated by oncoming headlights.
+
+				 TYLER
 </pre>
