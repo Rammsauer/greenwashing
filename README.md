@@ -5108,4 +5108,6 @@ Tyler pulls the stolen car away from the curb.  It has two
 bumperstickers: "RECYCLE YOUR ANIMALS" and "MAKE MINE VEAL."
 
 INT. STOLEN CAR - MOVING - LATER
+
+RAIN GUSHES down.  Jack stews, silent.  The car moves down
 </pre>
