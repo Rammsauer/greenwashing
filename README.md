@@ -5116,4 +5116,5 @@ a HIGHWAY, intermittently illuminated by oncoming headlights.
 	 Something on your mind?
 
 				 JACK
+	 No.
 </pre>
