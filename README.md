@@ -5117,4 +5117,6 @@ a HIGHWAY, intermittently illuminated by oncoming headlights.
 
 				 JACK
 	 No.
+
+Tyler shrugs; turns on the RADIO, ignores Jack.
 </pre>
