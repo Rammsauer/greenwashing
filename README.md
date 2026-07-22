@@ -5114,4 +5114,6 @@ a HIGHWAY, intermittently illuminated by oncoming headlights.
 
 				 TYLER
 	 Something on your mind?
+
+				 JACK
 </pre>
