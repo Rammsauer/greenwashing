@@ -5126,4 +5126,6 @@ Tyler shrugs; turns on the RADIO, ignores Jack.
 
 				 TYLER
 	 What should I have told you?
+
+				 JACK
 </pre>
