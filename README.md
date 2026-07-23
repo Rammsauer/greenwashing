@@ -5123,4 +5123,6 @@ Tyler shrugs; turns on the RADIO, ignores Jack.
 				 JACK
 	 Why wasn't I told about "Project
 	 Mayhem?"
+
+				 TYLER
 </pre>
