@@ -5125,4 +5125,5 @@ Tyler shrugs; turns on the RADIO, ignores Jack.
 	 Mayhem?"
 
 				 TYLER
+	 What should I have told you?
 </pre>
