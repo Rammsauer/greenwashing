@@ -5128,4 +5128,5 @@ Tyler shrugs; turns on the RADIO, ignores Jack.
 	 What should I have told you?
 
 				 JACK
+	 Why wasn't I involved from the
 </pre>
