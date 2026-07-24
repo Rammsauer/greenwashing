@@ -5131,4 +5131,6 @@ Tyler shrugs; turns on the RADIO, ignores Jack.
 	 Why wasn't I involved from the
 	 beginning?  You and I started fight
 	 club together.
+
+				 TYLER
 </pre>
