@@ -5133,4 +5133,5 @@ Tyler shrugs; turns on the RADIO, ignores Jack.
 	 club together.
 
 				 TYLER
+	 Fight club was the beginning.  Now
 </pre>
