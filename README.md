@@ -5230,4 +5230,6 @@ Jack fights	to turn the wheel, but Tyler uses both hands.
 				 TYLER
 	 What will you wish you'd done before
 	 you died?
+
+				 RICKY
 </pre>
