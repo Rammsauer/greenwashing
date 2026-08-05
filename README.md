@@ -5232,4 +5232,5 @@ Jack fights	to turn the wheel, but Tyler uses both hands.
 	 you died?
 
 				 RICKY
+	 Paint a self-portrait.
 </pre>
