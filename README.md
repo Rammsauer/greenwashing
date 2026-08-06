@@ -5238,4 +5238,5 @@ Jack fights	to turn the wheel, but Tyler uses both hands.
 	 Build a house.
 
 				 TYLER
+		   (to Jack)
 </pre>
