@@ -5233,4 +5233,6 @@ Jack fights	to turn the wheel, but Tyler uses both hands.
 
 				 RICKY
 	 Paint a self-portrait.
+
+				 MECHANIC
 </pre>
