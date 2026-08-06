@@ -5236,4 +5236,6 @@ Jack fights	to turn the wheel, but Tyler uses both hands.
 
 				 MECHANIC
 	 Build a house.
+
+				 TYLER
 </pre>
