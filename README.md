@@ -5240,4 +5240,6 @@ Jack fights	to turn the wheel, but Tyler uses both hands.
 				 TYLER
 		   (to Jack)
 	 And you?
+
+				 JACK
 </pre>
