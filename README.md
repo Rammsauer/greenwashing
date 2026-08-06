@@ -5235,4 +5235,5 @@ Jack fights	to turn the wheel, but Tyler uses both hands.
 	 Paint a self-portrait.
 
 				 MECHANIC
+	 Build a house.
 </pre>
