@@ -5242,4 +5242,5 @@ Jack fights	to turn the wheel, but Tyler uses both hands.
 	 And you?
 
 				 JACK
+	 I don't know!  Nothing!
 </pre>
