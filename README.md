@@ -5249,4 +5249,5 @@ Jack fights	to turn the wheel, but Tyler uses both hands.
 	 feel about your life?
 
 				 JACK
+	 I would feel nothing about my life?
 </pre>
