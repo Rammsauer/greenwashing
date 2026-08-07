@@ -5247,4 +5247,6 @@ Jack fights	to turn the wheel, but Tyler uses both hands.
 				 TYLER
 	 If you died right now, how would you
 	 feel about your life?
+
+				 JACK
 </pre>
