@@ -5243,4 +5243,6 @@ Jack fights	to turn the wheel, but Tyler uses both hands.
 
 				 JACK
 	 I don't know!  Nothing!
+
+				 TYLER
 </pre>
