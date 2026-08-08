@@ -5254,4 +5254,6 @@ Jack fights	to turn the wheel, but Tyler uses both hands.
 
 The oncoming truck HONKS and FLASHES its LIGHTS.  It moves
 to the other side of the road.  Tyler steers there, too.
+
+				 TYLER
 </pre>
