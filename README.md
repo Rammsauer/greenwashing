@@ -5256,4 +5256,5 @@ The oncoming truck HONKS and FLASHES its LIGHTS.  It moves
 to the other side of the road.  Tyler steers there, too.
 
 				 TYLER
+	 I want to hear the truth.
 </pre>
