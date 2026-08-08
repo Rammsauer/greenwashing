@@ -5251,4 +5251,6 @@ Jack fights	to turn the wheel, but Tyler uses both hands.
 				 JACK
 	 I would feel nothing about my life?
 	 Is that what you want to hear?!
+
+The oncoming truck HONKS and FLASHES its LIGHTS.  It moves
 </pre>
