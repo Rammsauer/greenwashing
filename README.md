@@ -5259,4 +5259,5 @@ to the other side of the road.  Tyler steers there, too.
 	 I want to hear the truth.
 
 				 JACK
+	 Fuck my life.  Fuck fight club.  Fuck
 </pre>
