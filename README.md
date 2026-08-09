@@ -5261,4 +5261,5 @@ to the other side of the road.  Tyler steers there, too.
 				 JACK
 	 Fuck my life.  Fuck fight club.  Fuck
 	 you and fuck Marla.  I'm sick of
+	 this.  How's that?
 </pre>
