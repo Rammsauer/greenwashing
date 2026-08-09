@@ -5257,4 +5257,6 @@ to the other side of the road.  Tyler steers there, too.
 
 				 TYLER
 	 I want to hear the truth.
+
+				 JACK
 </pre>
