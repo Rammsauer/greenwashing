@@ -5268,4 +5268,6 @@ to the other side of the road.  Tyler steers there, too.
 
 				 JACK
 	 What?
+
+				 TYLER
 </pre>
