@@ -5272,4 +5272,5 @@ to the other side of the road.  Tyler steers there, too.
 				 TYLER
 	 Hitting bottom isn't a weekend
 	 retreat!  It's not a seminar!  You
+	 have to forget everything you know,
 </pre>
