@@ -5270,4 +5270,5 @@ to the other side of the road.  Tyler steers there, too.
 	 What?
 
 				 TYLER
+	 Hitting bottom isn't a weekend
 </pre>
