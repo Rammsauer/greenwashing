@@ -5267,4 +5267,5 @@ to the other side of the road.  Tyler steers there, too.
 	 Why do you think I blew up your condo?
 
 				 JACK
+	 What?
 </pre>
