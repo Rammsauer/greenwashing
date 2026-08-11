@@ -5274,4 +5274,5 @@ to the other side of the road.  Tyler steers there, too.
 	 retreat!  It's not a seminar!  You
 	 have to forget everything you know,
 	 everything you think you know --
+	 about life, about friendship, about
 </pre>
