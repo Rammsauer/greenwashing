@@ -5280,4 +5280,6 @@ to the other side of the road.  Tyler steers there, too.
 Nearing impact with the oncoming truck, Tyler takes his
 hands off the wheel -- Jack keeps his grip, turns the
 wheel... the car swerves...
+
+The truck ROARS past, spraying water, HORN BLASTING.
 </pre>
