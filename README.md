@@ -5276,4 +5276,6 @@ to the other side of the road.  Tyler steers there, too.
 	 everything you think you know --
 	 about life, about friendship, about
 	 you and me.
+
+Nearing impact with the oncoming truck, Tyler takes his
 </pre>
