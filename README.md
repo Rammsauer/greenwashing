@@ -5278,4 +5278,5 @@ to the other side of the road.  Tyler steers there, too.
 	 you and me.
 
 Nearing impact with the oncoming truck, Tyler takes his
+hands off the wheel -- Jack keeps his grip, turns the
 </pre>
