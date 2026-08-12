@@ -5284,4 +5284,5 @@ wheel... the car swerves...
 The truck ROARS past, spraying water, HORN BLASTING.
 
 Tyler looks at Jack, his hands in the air.  Jack looks at
+Tyler with dead eyes.
 </pre>
