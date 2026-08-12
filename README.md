@@ -5287,4 +5287,5 @@ Tyler looks at Jack, his hands in the air.  Jack looks at
 Tyler with dead eyes.
 
 				 JACK
+	 Okay, okay... fine...
 </pre>
