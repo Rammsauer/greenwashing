@@ -5290,4 +5290,5 @@ Tyler with dead eyes.
 	 Okay, okay... fine...
 
 Jack takes his hands off the wheel, holds them in the air.
+Tyler studies Jack face, impressed.  Tyler makes no move to
 </pre>
