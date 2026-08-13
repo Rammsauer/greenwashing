@@ -5297,4 +5297,5 @@ THROUGH THR WINDSHIELD: a STALLED CAR ahead on the side of
 the road, surrounded by flares.
 
 Jack and Tyler's eyes stay locked as the car drifts onto the
+shoulder... heading for the stalled car.  Their faces are
 </pre>
