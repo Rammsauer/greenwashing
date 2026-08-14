@@ -5301,4 +5301,5 @@ shoulder... heading for the stalled car.  Their faces are
 illuminated by the light of the flares.  Tyler smiles.
 
 They SMASH into the stalled car -- AIRBAGS INFLATE!  The
+back of their car whips around and carries it into a ass-
 </pre>
