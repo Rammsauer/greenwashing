@@ -5303,4 +5303,6 @@ illuminated by the light of the flares.  Tyler smiles.
 They SMASH into the stalled car -- AIRBAGS INFLATE!  The
 back of their car whips around and carries it into a ass-
 over-tea-kettle ROLL down a hill...
+
+				 JACK (V.O.)
 </pre>
