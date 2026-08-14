@@ -5305,4 +5305,5 @@ back of their car whips around and carries it into a ass-
 over-tea-kettle ROLL down a hill...
 
 				 JACK (V.O.)
+	 I'd never been in a car accident.
 </pre>
