@@ -5309,4 +5309,6 @@ over-tea-kettle ROLL down a hill...
 	 This must've been what all those
 	 statistics felt like before I filed
 	 them into my reports.
+
+The car finally hits the bottom, lying on its roof.
 </pre>
