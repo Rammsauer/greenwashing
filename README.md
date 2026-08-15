@@ -5311,4 +5311,6 @@ over-tea-kettle ROLL down a hill...
 	 them into my reports.
 
 The car finally hits the bottom, lying on its roof.
+
+EXT. OVERTURNED CAR
 </pre>
