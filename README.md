@@ -5316,4 +5316,5 @@ EXT. OVERTURNED CAR
 
 Tyler crawls from the passenger side.  He walks around...
 opens the driver's side door and drags Jack out into the
+mud.  Ricky and the Mechanic climb out the broken rear
 </pre>
