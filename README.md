@@ -5315,4 +5315,5 @@ The car finally hits the bottom, lying on its roof.
 EXT. OVERTURNED CAR
 
 Tyler crawls from the passenger side.  He walks around...
+opens the driver's side door and drags Jack out into the
 </pre>
