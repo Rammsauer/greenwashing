@@ -5320,4 +5320,5 @@ mud.  Ricky and the Mechanic climb out the broken rear
 window.  Tyler sits beside the stunned, wounded Jack.
 
 				 TYLER
+	 We just had a near-life experience.
 </pre>
