@@ -5313,4 +5313,6 @@ over-tea-kettle ROLL down a hill...
 The car finally hits the bottom, lying on its roof.
 
 EXT. OVERTURNED CAR
+
+Tyler crawls from the passenger side.  He walks around...
 </pre>
