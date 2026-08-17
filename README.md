@@ -5323,4 +5323,6 @@ window.  Tyler sits beside the stunned, wounded Jack.
 	 We just had a near-life experience.
 
 INT. JACK'S BEDROOM - LATE NIGHT
+
+Jack lies in bed, traumatized, eyes empty, staring at the
 </pre>
