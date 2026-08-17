@@ -5326,4 +5326,6 @@ INT. JACK'S BEDROOM - LATE NIGHT
 
 Jack lies in bed, traumatized, eyes empty, staring at the
 ceiling.  Tyler sits in a nearby chair.
+
+				 TYLER
 </pre>
