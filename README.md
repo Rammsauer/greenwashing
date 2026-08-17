@@ -5328,4 +5328,5 @@ Jack lies in bed, traumatized, eyes empty, staring at the
 ceiling.  Tyler sits in a nearby chair.
 
 				 TYLER
+	 In the world I see -- you're stalking
 </pre>
