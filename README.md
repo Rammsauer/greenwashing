@@ -5329,4 +5329,5 @@ ceiling.  Tyler sits in a nearby chair.
 
 				 TYLER
 	 In the world I see -- you're stalking
+	 elk through the damp canyon forests
 </pre>
