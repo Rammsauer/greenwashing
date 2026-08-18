@@ -5334,4 +5334,5 @@ ceiling.  Tyler sits in a nearby chair.
 	 Center.  You will wear leather
 	 clothes that last you the rest of
 	 your life.  You will climb the wrist-
+	 thick kudzu vines that wrap the Sears
 </pre>
