@@ -5335,4 +5335,5 @@ ceiling.  Tyler sits in a nearby chair.
 	 clothes that last you the rest of
 	 your life.  You will climb the wrist-
 	 thick kudzu vines that wrap the Sears
+	 Tower.  You will see tiny figures
 </pre>
