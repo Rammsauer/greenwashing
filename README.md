@@ -5336,4 +5336,5 @@ ceiling.  Tyler sits in a nearby chair.
 	 your life.  You will climb the wrist-
 	 thick kudzu vines that wrap the Sears
 	 Tower.  You will see tiny figures
+	 pounding corn and laying-strips of
 </pre>
