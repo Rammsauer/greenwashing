@@ -5332,4 +5332,5 @@ ceiling.  Tyler sits in a nearby chair.
 	 elk through the damp canyon forests
 	 around the ruins of Rockefeller
 	 Center.  You will wear leather
+	 clothes that last you the rest of
 </pre>
