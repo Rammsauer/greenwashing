@@ -5339,4 +5339,6 @@ ceiling.  Tyler sits in a nearby chair.
 	 pounding corn and laying-strips of
 	 venison on the empty car pool lane of
 	 the ruins of a superhighway.
+
+Tyler stands, gives Jack's head a pat.
 </pre>
