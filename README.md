@@ -5344,4 +5344,5 @@ Tyler stands, gives Jack's head a pat.
 
 				 TYLER
 		   (leaving)
+	 Feel better, champ.
 </pre>
