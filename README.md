@@ -5338,4 +5338,5 @@ ceiling.  Tyler sits in a nearby chair.
 	 Tower.  You will see tiny figures
 	 pounding corn and laying-strips of
 	 venison on the empty car pool lane of
+	 the ruins of a superhighway.
 </pre>
