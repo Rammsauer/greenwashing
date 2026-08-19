@@ -5341,4 +5341,6 @@ ceiling.  Tyler sits in a nearby chair.
 	 the ruins of a superhighway.
 
 Tyler stands, gives Jack's head a pat.
+
+				 TYLER
 </pre>
