@@ -5343,4 +5343,5 @@ ceiling.  Tyler sits in a nearby chair.
 Tyler stands, gives Jack's head a pat.
 
 				 TYLER
+		   (leaving)
 </pre>
