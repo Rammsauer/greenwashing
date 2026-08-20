@@ -5347,4 +5347,6 @@ Tyler stands, gives Jack's head a pat.
 	 Feel better, champ.
 
 INT. KITCHEN - MOMENTS LATER
+
+Jack sits at the table, sips coffee.  He's pale, dazed,
 </pre>
