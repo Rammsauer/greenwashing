@@ -5345,4 +5345,6 @@ Tyler stands, gives Jack's head a pat.
 				 TYLER
 		   (leaving)
 	 Feel better, champ.
+
+INT. KITCHEN - MOMENTS LATER
 </pre>
