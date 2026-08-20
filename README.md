@@ -5349,4 +5349,5 @@ Tyler stands, gives Jack's head a pat.
 INT. KITCHEN - MOMENTS LATER
 
 Jack sits at the table, sips coffee.  He's pale, dazed,
+seems broken.  He hears the faint SOUND of SAWING and
 </pre>
