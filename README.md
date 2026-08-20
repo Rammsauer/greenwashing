@@ -5351,4 +5351,6 @@ INT. KITCHEN - MOMENTS LATER
 Jack sits at the table, sips coffee.  He's pale, dazed,
 seems broken.  He hears the faint SOUND of SAWING and
 HAMMERING, unsure of where it's coming from.
+
+Marla walks into the kitchen and goes straight to the
 </pre>
