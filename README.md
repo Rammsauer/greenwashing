@@ -5357,4 +5357,5 @@ counter.  Her back is to Jack as he looks at her.  She pours
 ccffee and lights a cigarette.  A beat of silence, then:
 
 				 MARLA
+	 I'll be out of your way in a sec.
 </pre>
