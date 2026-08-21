@@ -5360,4 +5360,6 @@ ccffee and lights a cigarette.  A beat of silence, then:
 	 I'll be out of your way in a sec.
 
 She seems to be as weak as Jack.
+
+				 JACK
 </pre>
