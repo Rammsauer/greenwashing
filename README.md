@@ -5369,4 +5369,5 @@ She seems to be as weak as Jack.
 
 				 JACK
 	 Really... I mean it.
+		   (pause)
 </pre>
