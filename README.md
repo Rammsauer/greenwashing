@@ -5362,4 +5362,5 @@ ccffee and lights a cigarette.  A beat of silence, then:
 She seems to be as weak as Jack.
 
 				 JACK
+	 You... don't have to... leave.
 </pre>
