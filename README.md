@@ -5373,4 +5373,5 @@ She seems to be as weak as Jack.
 	 Have you been going to your groups?
 
 				 MARLA
+	 Chloe's dead.
 </pre>
