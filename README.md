@@ -5374,4 +5374,6 @@ She seems to be as weak as Jack.
 
 				 MARLA
 	 Chloe's dead.
+
+				 JACK
 </pre>
