@@ -5376,4 +5376,5 @@ She seems to be as weak as Jack.
 	 Chloe's dead.
 
 				 JACK
+	 When?
 </pre>
