@@ -5380,4 +5380,6 @@ She seems to be as weak as Jack.
 
 				 MARLA
 	 Do you care?
+
+				 JACK
 </pre>
