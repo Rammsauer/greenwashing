@@ -5385,4 +5385,5 @@ She seems to be as weak as Jack.
 	 I don't know.
 
 				 MARLA
+	 It was the smart move on her part.
 </pre>
