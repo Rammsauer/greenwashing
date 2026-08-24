@@ -5382,4 +5382,5 @@ She seems to be as weak as Jack.
 	 Do you care?
 
 				 JACK
+	 I don't know.
 </pre>
