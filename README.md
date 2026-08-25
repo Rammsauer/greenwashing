@@ -5391,4 +5391,5 @@ Marla turns to face Jack, a grim expression on her face.
 There's a BRUISE on her ARM.  Jack gets up, moves closer.
 
 				 JACK
+	 Why are we both... caught up like
 </pre>
