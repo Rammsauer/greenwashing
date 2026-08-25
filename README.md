@@ -5389,4 +5389,6 @@ She seems to be as weak as Jack.
 
 Marla turns to face Jack, a grim expression on her face.
 There's a BRUISE on her ARM.  Jack gets up, moves closer.
+
+				 JACK
 </pre>
