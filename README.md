@@ -5386,4 +5386,6 @@ She seems to be as weak as Jack.
 
 				 MARLA
 	 It was the smart move on her part.
+
+Marla turns to face Jack, a grim expression on her face.
 </pre>
