@@ -5395,4 +5395,5 @@ There's a BRUISE on her ARM.  Jack gets up, moves closer.
 	 this... with... ?
 
 				 JACK (V.O.)
+	 I came so close to saying Tyler's
 </pre>
