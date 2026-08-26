@@ -5397,4 +5397,5 @@ There's a BRUISE on her ARM.  Jack gets up, moves closer.
 				 JACK (V.O.)
 	 I came so close to saying Tyler's
 	 name, I could feel it vibrate inside
+	 my mouth.
 </pre>
