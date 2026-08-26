@@ -5393,4 +5393,6 @@ There's a BRUISE on her ARM.  Jack gets up, moves closer.
 				 JACK
 	 Why are we both... caught up like
 	 this... with... ?
+
+				 JACK (V.O.)
 </pre>
