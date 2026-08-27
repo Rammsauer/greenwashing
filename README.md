@@ -5404,4 +5404,5 @@ Marla looks a him, waiting.
 				 JACK
 	 I don't understand.  Why does a weak
 	 person have to go out and find a
+	 strong person... to hang onto?
 </pre>
