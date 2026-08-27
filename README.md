@@ -5408,4 +5408,6 @@ Marla looks a him, waiting.
 
 				 MARLA
 	 What do you get out of it?
+
+Faint SOUND of SAWING and HAMMERING.  Jack can't quite
 </pre>
