@@ -5402,4 +5402,5 @@ There's a BRUISE on her ARM.  Jack gets up, moves closer.
 Marla looks a him, waiting.
 
 				 JACK
+	 I don't understand.  Why does a weak
 </pre>
