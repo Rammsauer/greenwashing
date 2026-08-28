@@ -5416,4 +5416,5 @@ figure where it's coming from.
 	 You hear that?
 
 				 MARLA
+	 Hear what?
 </pre>
