@@ -5411,4 +5411,6 @@ Marla looks a him, waiting.
 
 Faint SOUND of SAWING and HAMMERING.  Jack can't quite
 figure where it's coming from.
+
+				 JACK
 </pre>
