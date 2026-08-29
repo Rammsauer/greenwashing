@@ -5424,4 +5424,6 @@ figure where it's coming from.
 				 MARLA
 	 Have we been talking too long?  Must
 	 we change the subject?
+
+Jack turns -- through the crack of the open basement door,
 </pre>
