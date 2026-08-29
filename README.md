@@ -5419,4 +5419,5 @@ figure where it's coming from.
 	 Hear what?
 
 				 JACK
+	 That... sawing and hammering.
 </pre>
