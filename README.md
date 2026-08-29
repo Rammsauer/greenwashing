@@ -5422,4 +5422,5 @@ figure where it's coming from.
 	 That... sawing and hammering.
 
 				 MARLA
+	 Have we been talking too long?  Must
 </pre>
