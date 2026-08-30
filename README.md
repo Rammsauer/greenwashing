@@ -5429,4 +5429,5 @@ Jack turns -- through the crack of the open basement door,
 Tyler's staring at Jack from the bottom of the stairs.
 
 				 TYLER
+		   (harsh whisper)
 </pre>
