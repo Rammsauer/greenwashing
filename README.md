@@ -5430,4 +5430,5 @@ Tyler's staring at Jack from the bottom of the stairs.
 
 				 TYLER
 		   (harsh whisper)
+	 You're not talking about me, are you?
 </pre>
