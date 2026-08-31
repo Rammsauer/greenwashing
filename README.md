@@ -5439,4 +5439,5 @@ Jack reacts, turns back to Marla.
 	 No.
 
 				 MARLA
+	 That day you came over to my place to
 </pre>
