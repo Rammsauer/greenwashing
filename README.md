@@ -5446,4 +5446,6 @@ Jack reacts, turns back to Marla.
 				 TYLER
 		   (still a whisper)
 	 What are you talking about?
+
+				 JACK
 </pre>
