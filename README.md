@@ -5442,4 +5442,6 @@ Jack reacts, turns back to Marla.
 	 That day you came over to my place to
 	 play doctor... what was going on
 	 there?
+
+				 TYLER
 </pre>
