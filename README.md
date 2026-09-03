@@ -5465,4 +5465,5 @@ Jack reacts, turns back to Marla.
 	 ... is over.
 
 				 JACK
+	 ... is over.
 </pre>
