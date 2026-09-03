@@ -5462,4 +5462,5 @@ Jack reacts, turns back to Marla.
 	 This conversation...
 
 				 TYLER
+	 ... is over.
 </pre>
