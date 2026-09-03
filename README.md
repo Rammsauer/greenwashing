@@ -5463,4 +5463,6 @@ Jack reacts, turns back to Marla.
 
 				 TYLER
 	 ... is over.
+
+				 JACK
 </pre>
