@@ -5457,4 +5457,6 @@ Jack reacts, turns back to Marla.
 				 TYLER
 		   (whisper)
 	 This conversation...
+
+				 JACK
 </pre>
