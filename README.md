@@ -5472,4 +5472,5 @@ door.  Marla sees the kiss-scar on Jack's hand, grabs his
 hand.  Jack tries to pull it back, but Marla keeps a grip.
 
 				 MARLA
+	 What is this?  Who did this?
 </pre>
