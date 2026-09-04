@@ -5466,4 +5466,6 @@ Jack reacts, turns back to Marla.
 
 				 JACK
 	 ... is over.
+
+Marla comes to touch Jack's hair.  Jack closes the basement
 </pre>
