@@ -5468,4 +5468,5 @@ Jack reacts, turns back to Marla.
 	 ... is over.
 
 Marla comes to touch Jack's hair.  Jack closes the basement
+door.  Marla sees the kiss-scar on Jack's hand, grabs his
 </pre>
