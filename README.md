@@ -5475,4 +5475,5 @@ hand.  Jack tries to pull it back, but Marla keeps a grip.
 	 What is this?  Who did this?
 
 				 JACK
+	 ... A person.
 </pre>
