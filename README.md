@@ -5479,4 +5479,6 @@ hand.  Jack tries to pull it back, but Marla keeps a grip.
 
 				 MARLA
 	 Guy or girl?
+
+				 JACK
 </pre>
