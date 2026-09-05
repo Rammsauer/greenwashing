@@ -5476,4 +5476,6 @@ hand.  Jack tries to pull it back, but Marla keeps a grip.
 
 				 JACK
 	 ... A person.
+
+				 MARLA
 </pre>
