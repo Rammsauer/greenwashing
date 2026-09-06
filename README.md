@@ -5486,4 +5486,6 @@ hand.  Jack tries to pull it back, but Marla keeps a grip.
 
 				 MARLA
 	 Why would you get bent if I asked?
+
+				 JACK
 </pre>
