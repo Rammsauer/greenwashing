@@ -5491,4 +5491,6 @@ hand.  Jack tries to pull it back, but Marla keeps a grip.
 	 Let go of me...
 		   (pulls his hand free)
 	 Leave me alone.
+
+				 MARLA
 </pre>
