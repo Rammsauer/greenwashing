@@ -5493,4 +5493,5 @@ hand.  Jack tries to pull it back, but Marla keeps a grip.
 	 Leave me alone.
 
 				 MARLA
+	 You're afraid to say.
 </pre>
