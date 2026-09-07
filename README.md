@@ -5496,4 +5496,5 @@ hand.  Jack tries to pull it back, but Marla keeps a grip.
 	 You're afraid to say.
 
 Marla backs away, closes her eyes, struggling with
+frustration.  She leaves out the back door, not looking back.
 </pre>
