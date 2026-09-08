@@ -5497,4 +5497,6 @@ hand.  Jack tries to pull it back, but Marla keeps a grip.
 
 Marla backs away, closes her eyes, struggling with
 frustration.  She leaves out the back door, not looking back.
+
+Jack leans against the wall.  After a moment, he opens the
 </pre>
