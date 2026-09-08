@@ -5504,4 +5504,6 @@ basement door, heads downstairs...
 INT. BASEMENT STAIRCASE
 
 Tyler walks upstairs, passing as Jack continues down...
+
+INT. BASEMENT - CONTINUOUS
 </pre>
