@@ -5502,4 +5502,6 @@ Jack leans against the wall.  After a moment, he opens the
 basement door, heads downstairs...
 
 INT. BASEMENT STAIRCASE
+
+Tyler walks upstairs, passing as Jack continues down...
 </pre>
