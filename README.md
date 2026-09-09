@@ -5506,4 +5506,6 @@ INT. BASEMENT STAIRCASE
 Tyler walks upstairs, passing as Jack continues down...
 
 INT. BASEMENT - CONTINUOUS
+
+Jack looks around.  TRIPLE-DECKER BUNKS clutter the
 </pre>
