@@ -5508,4 +5508,5 @@ Tyler walks upstairs, passing as Jack continues down...
 INT. BASEMENT - CONTINUOUS
 
 Jack looks around.  TRIPLE-DECKER BUNKS clutter the
+basement, as many as can fit into the space.
 </pre>
