@@ -5520,4 +5520,5 @@ INT. LIVING ROOM - MOMENTS LATER
 
 Jack opens the door.  Ricky stands on the porch, staring
 ahead in subordinate military style.  He's in black pants,
+black shirt, black shoes, holds a PAPER BAG, with an army
 </pre>
