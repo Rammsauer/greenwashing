@@ -5517,4 +5517,6 @@ basement, as many as can fit into the space.
 From upstairs, the SOUND of the DOORBELL.
 
 INT. LIVING ROOM - MOMENTS LATER
+
+Jack opens the door.  Ricky stands on the porch, staring
 </pre>
