@@ -5519,4 +5519,5 @@ From upstairs, the SOUND of the DOORBELL.
 INT. LIVING ROOM - MOMENTS LATER
 
 Jack opens the door.  Ricky stands on the porch, staring
+ahead in subordinate military style.  He's in black pants,
 </pre>
