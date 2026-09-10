@@ -5515,4 +5515,6 @@ basement, as many as can fit into the space.
 	 Tyler... ?  What's this for?
 
 From upstairs, the SOUND of the DOORBELL.
+
+INT. LIVING ROOM - MOMENTS LATER
 </pre>
