@@ -5527,4 +5527,6 @@ surplus MATTRESS rolled-up at his feet.
 	 Um... what can I do for you, Ricky?
 
 Tyler steps up beside Jack, looks Ricky over.
+
+				 TYLER
 </pre>
