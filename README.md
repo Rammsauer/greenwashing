@@ -5524,4 +5524,5 @@ black shirt, black shoes, holds a PAPER BAG, with an army
 surplus MATTRESS rolled-up at his feet.
 
 				 JACK
+	 Um... what can I do for you, Ricky?
 </pre>
