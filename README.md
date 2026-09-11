@@ -5529,4 +5529,5 @@ surplus MATTRESS rolled-up at his feet.
 Tyler steps up beside Jack, looks Ricky over.
 
 				 TYLER
+	 You're too young.  Sorry.
 </pre>
