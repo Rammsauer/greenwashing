@@ -5533,4 +5533,6 @@ Tyler steps up beside Jack, looks Ricky over.
 
 				 JACK
 	 Wait a minute...
+
+Tyler comes back inside, shuts the door.
 </pre>
