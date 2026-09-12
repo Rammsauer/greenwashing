@@ -5530,4 +5530,6 @@ Tyler steps up beside Jack, looks Ricky over.
 
 				 TYLER
 	 You're too young.  Sorry.
+
+				 JACK
 </pre>
