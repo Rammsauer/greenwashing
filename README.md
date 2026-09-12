@@ -5532,4 +5532,5 @@ Tyler steps up beside Jack, looks Ricky over.
 	 You're too young.  Sorry.
 
 				 JACK
+	 Wait a minute...
 </pre>
