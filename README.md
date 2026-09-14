@@ -5551,4 +5551,5 @@ Tyler comes back inside, shuts the door.
 	 If the applicant waits at the door
 	 for three days without food, shelter
 	 or encouragement, then he can enter
+	 and begin training.
 </pre>
