@@ -5546,4 +5546,6 @@ Tyler comes back inside, shuts the door.
 
 				 JACK
 	 "Applicant?"
+
+				 TYLER
 </pre>
