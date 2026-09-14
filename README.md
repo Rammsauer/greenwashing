@@ -5549,4 +5549,5 @@ Tyler comes back inside, shuts the door.
 
 				 TYLER
 	 If the applicant waits at the door
+	 for three days without food, shelter
 </pre>
