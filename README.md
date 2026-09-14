@@ -5548,4 +5548,5 @@ Tyler comes back inside, shuts the door.
 	 "Applicant?"
 
 				 TYLER
+	 If the applicant waits at the door
 </pre>
