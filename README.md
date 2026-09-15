@@ -5555,4 +5555,6 @@ Tyler comes back inside, shuts the door.
 
 				 JACK
 	 "Training?"  Tyler...
+
+EXT. PORCH - MOMENTS LATER
 </pre>
