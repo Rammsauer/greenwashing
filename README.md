@@ -5554,4 +5554,5 @@ Tyler comes back inside, shuts the door.
 	 and begin training.
 
 				 JACK
+	 "Training?"  Tyler...
 </pre>
