@@ -5557,4 +5557,6 @@ Tyler comes back inside, shuts the door.
 	 "Training?"  Tyler...
 
 EXT. PORCH - MOMENTS LATER
+
+Jack comes out, walks around Ricky, hands in his pockets,
 </pre>
