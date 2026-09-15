@@ -5559,4 +5559,5 @@ Tyler comes back inside, shuts the door.
 EXT. PORCH - MOMENTS LATER
 
 Jack comes out, walks around Ricky, hands in his pockets,
+unsure.  Tyler watches, nods for Jack to go ahead.
 </pre>
