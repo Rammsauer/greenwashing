@@ -5568,4 +5568,6 @@ unsure.  Tyler watches, nods for Jack to go ahead.
 
 No response from Ricky, who remains at attention.  Jack goes
 back inside.  Tyler closes the door.
+
+EXT. PORCH - NIGHT
 </pre>
