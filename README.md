@@ -5564,4 +5564,5 @@ unsure.  Tyler watches, nods for Jack to go ahead.
 				 JACK
 	 Uh, look.  You're too... young to...
 	 train here.  You should probably be
+	 on you way.
 </pre>
