@@ -5562,4 +5562,5 @@ Jack comes out, walks around Ricky, hands in his pockets,
 unsure.  Tyler watches, nods for Jack to go ahead.
 
 				 JACK
+	 Uh, look.  You're too... young to...
 </pre>
