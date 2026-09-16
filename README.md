@@ -5565,4 +5565,6 @@ unsure.  Tyler watches, nods for Jack to go ahead.
 	 Uh, look.  You're too... young to...
 	 train here.  You should probably be
 	 on you way.
+
+No response from Ricky, who remains at attention.  Jack goes
 </pre>
