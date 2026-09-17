@@ -5570,4 +5570,6 @@ No response from Ricky, who remains at attention.  Jack goes
 back inside.  Tyler closes the door.
 
 EXT. PORCH - NIGHT
+
+Ricky remains at attention.  Jack bursts out with a BROOM,
 </pre>
