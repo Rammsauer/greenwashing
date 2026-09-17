@@ -5575,4 +5575,5 @@ Ricky remains at attention.  Jack bursts out with a BROOM,
 knocks the brown bag out of Ricky's hand, kicks it away.
 
 				 JACK
+	 Are you deaf?!  I told you to leave!
 </pre>
