@@ -5572,4 +5572,5 @@ back inside.  Tyler closes the door.
 EXT. PORCH - NIGHT
 
 Ricky remains at attention.  Jack bursts out with a BROOM,
+knocks the brown bag out of Ricky's hand, kicks it away.
 </pre>
