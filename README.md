@@ -5584,4 +5584,5 @@ Ricky's still there.  Tyler comes out, friendly.
 
 				 TYLER
 	 Look, friend, I'm sorry for the
+	 misunderstanding.  It's not the end
 </pre>
