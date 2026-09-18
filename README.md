@@ -5577,4 +5577,6 @@ knocks the brown bag out of Ricky's hand, kicks it away.
 				 JACK
 	 Are you deaf?!  I told you to leave!
 	 You will never get inside this house!
+
+EXT. PORCH - MORNING
 </pre>
