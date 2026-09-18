@@ -5581,4 +5581,6 @@ knocks the brown bag out of Ricky's hand, kicks it away.
 EXT. PORCH - MORNING
 
 Ricky's still there.  Tyler comes out, friendly.
+
+				 TYLER
 </pre>
