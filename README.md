@@ -5579,4 +5579,6 @@ knocks the brown bag out of Ricky's hand, kicks it away.
 	 You will never get inside this house!
 
 EXT. PORCH - MORNING
+
+Ricky's still there.  Tyler comes out, friendly.
 </pre>
