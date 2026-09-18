@@ -5583,4 +5583,5 @@ EXT. PORCH - MORNING
 Ricky's still there.  Tyler comes out, friendly.
 
 				 TYLER
+	 Look, friend, I'm sorry for the
 </pre>
