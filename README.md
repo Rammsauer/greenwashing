@@ -5588,4 +5588,6 @@ Ricky's still there.  Tyler comes out, friendly.
 	 of the world.  Just go away.  You're
 	 trespassing and I will call the
 	 police.  Nothing personal.
+
+EXT. PORCH - NIGHT
 </pre>
