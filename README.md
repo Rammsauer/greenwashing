@@ -5590,4 +5590,6 @@ Ricky's still there.  Tyler comes out, friendly.
 	 police.  Nothing personal.
 
 EXT. PORCH - NIGHT
+
+Ricky, same spot.  Jack bursts outside with the broom again.
 </pre>
