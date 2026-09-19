@@ -5592,4 +5592,6 @@ Ricky's still there.  Tyler comes out, friendly.
 EXT. PORCH - NIGHT
 
 Ricky, same spot.  Jack bursts outside with the broom again.
+
+				 JACK
 </pre>
