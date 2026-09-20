@@ -5599,4 +5599,6 @@ Ricky, same spot.  Jack bursts outside with the broom again.
 	 at me when I talk to you... !
 
 He WHACKS Ricky in the shoulder with the broom.
+
+				 JACK
 </pre>
