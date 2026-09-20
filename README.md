@@ -5601,4 +5601,5 @@ Ricky, same spot.  Jack bursts outside with the broom again.
 He WHACKS Ricky in the shoulder with the broom.
 
 				 JACK
+	 What is your major malfunction!?
 </pre>
