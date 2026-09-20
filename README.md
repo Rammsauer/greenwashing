@@ -5597,4 +5597,6 @@ Ricky, same spot.  Jack bursts outside with the broom again.
 	 You're never getting through this
 	 door, you stupid little weasel!  Look
 	 at me when I talk to you... !
+
+He WHACKS Ricky in the shoulder with the broom.
 </pre>
