@@ -5594,4 +5594,5 @@ EXT. PORCH - NIGHT
 Ricky, same spot.  Jack bursts outside with the broom again.
 
 				 JACK
+	 You're never getting through this
 </pre>
