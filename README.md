@@ -5602,4 +5602,6 @@ He WHACKS Ricky in the shoulder with the broom.
 
 				 JACK
 	 What is your major malfunction!?
+
+INT. JACK'S ROOM - CONTINUOUS
 </pre>
