@@ -5609,4 +5609,5 @@ At the window, Tyler sips coffee, watches this scene on the
 PORCH below.
 
 				 JACK (V.O.)
+	 Sooner or later, we all became what
 </pre>
