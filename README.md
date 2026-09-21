@@ -5604,4 +5604,6 @@ He WHACKS Ricky in the shoulder with the broom.
 	 What is your major malfunction!?
 
 INT. JACK'S ROOM - CONTINUOUS
+
+At the window, Tyler sips coffee, watches this scene on the
 </pre>
