@@ -5611,4 +5611,6 @@ PORCH below.
 				 JACK (V.O.)
 	 Sooner or later, we all became what
 	 Tyler wanted us to be.
+
+EXT. PORCH - MORNING
 </pre>
