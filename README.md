@@ -5613,4 +5613,6 @@ PORCH below.
 	 Tyler wanted us to be.
 
 EXT. PORCH - MORNING
+
+Ricky's there.  Bob is now next to him, in black, with a
 </pre>
