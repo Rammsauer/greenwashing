@@ -5622,4 +5622,5 @@ following questions, Ricky answers "Sir!" --
 				 TYLER
 	 You have two black shirts?  Two pair
 	 black trousers?  One pair black
+	 boots?  Two pair black socks?  One
 </pre>
