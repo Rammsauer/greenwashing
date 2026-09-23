@@ -5624,4 +5624,5 @@ following questions, Ricky answers "Sir!" --
 	 black trousers?  One pair black
 	 boots?  Two pair black socks?  One
 	 black coat?  Three hundred dollars
+	 personal burial money?  Go inside.
 </pre>
