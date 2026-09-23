@@ -5618,4 +5618,6 @@ Ricky's there.  Bob is now next to him, in black, with a
 paper bag in hand, mattress at his feet.  Tyler steps out.
 Jack stays in the doorway, locking eyes on Bob.  To all the
 following questions, Ricky answers "Sir!" --
+
+				 TYLER
 </pre>
