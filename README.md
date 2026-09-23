@@ -5623,4 +5623,5 @@ following questions, Ricky answers "Sir!" --
 	 You have two black shirts?  Two pair
 	 black trousers?  One pair black
 	 boots?  Two pair black socks?  One
+	 black coat?  Three hundred dollars
 </pre>
