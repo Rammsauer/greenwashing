@@ -5620,4 +5620,5 @@ Jack stays in the doorway, locking eyes on Bob.  To all the
 following questions, Ricky answers "Sir!" --
 
 				 TYLER
+	 You have two black shirts?  Two pair
 </pre>
