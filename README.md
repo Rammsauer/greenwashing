@@ -5625,4 +5625,6 @@ following questions, Ricky answers "Sir!" --
 	 boots?  Two pair black socks?  One
 	 black coat?  Three hundred dollars
 	 personal burial money?  Go inside.
+
+Ricky goes in.  Tyler turns to Bob.
 </pre>
