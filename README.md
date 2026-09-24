@@ -5629,4 +5629,5 @@ following questions, Ricky answers "Sir!" --
 Ricky goes in.  Tyler turns to Bob.
 
 				 TYLER
+	 You're too old.  Sorry.  And, you're
 </pre>
