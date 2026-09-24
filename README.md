@@ -5631,4 +5631,6 @@ Ricky goes in.  Tyler turns to Bob.
 				 TYLER
 	 You're too old.  Sorry.  And, you're
 	 too fat.  Nice seeing you.
+
+Bob looks genuinely hurt.  He picks up his mattress and
 </pre>
