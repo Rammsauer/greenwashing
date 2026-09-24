@@ -5627,4 +5627,6 @@ following questions, Ricky answers "Sir!" --
 	 personal burial money?  Go inside.
 
 Ricky goes in.  Tyler turns to Bob.
+
+				 TYLER
 </pre>
