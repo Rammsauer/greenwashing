@@ -5646,4 +5646,6 @@ EXT. PORCH -- NIGHT
 CRICKETS CHIRP.  Bob stands at at rigid attention.
 
 INT. 2ND FLOOR LANDING - NIGHT
+
+Tyler and Jack stand in bathroom doorway, watching Ricky
 </pre>
