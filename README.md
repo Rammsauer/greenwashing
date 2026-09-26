@@ -5642,4 +5642,6 @@ follows Bob...
 	 Let me explain this to you...
 
 EXT. PORCH -- NIGHT
+
+CRICKETS CHIRP.  Bob stands at at rigid attention.
 </pre>
