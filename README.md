@@ -5649,4 +5649,5 @@ INT. 2ND FLOOR LANDING - NIGHT
 
 Tyler and Jack stand in bathroom doorway, watching Ricky
 finish SHAVING off all of his HAIR.  Tyler comes to give the
+top of Ricky's head a sharp SLAP.
 </pre>
