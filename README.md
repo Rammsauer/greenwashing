@@ -5655,4 +5655,6 @@ top of Ricky's head a sharp SLAP.
 	 A monkey, ready to be shot into
 	 space.  A Space Monkey, ready to
 	 sacrifice himself for Project Mayhem.
+
+From here on, all those with shaved heads: "SPACE MONKEYS."
 </pre>
