@@ -5652,4 +5652,5 @@ finish SHAVING off all of his HAIR.  Tyler comes to give the
 top of Ricky's head a sharp SLAP.
 
 				 TYLER
+	 A monkey, ready to be shot into
 </pre>
