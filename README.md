@@ -5653,4 +5653,5 @@ top of Ricky's head a sharp SLAP.
 
 				 TYLER
 	 A monkey, ready to be shot into
+	 space.  A Space Monkey, ready to
 </pre>
