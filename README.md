@@ -5659,4 +5659,6 @@ top of Ricky's head a sharp SLAP.
 From here on, all those with shaved heads: "SPACE MONKEYS."
 
 EXT. PORCH - DAY
+
+Jack looks out the window.  Bob stands motionless.  There's
 </pre>
