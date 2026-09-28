@@ -5657,4 +5657,6 @@ top of Ricky's head a sharp SLAP.
 	 sacrifice himself for Project Mayhem.
 
 From here on, all those with shaved heads: "SPACE MONKEYS."
+
+EXT. PORCH - DAY
 </pre>
