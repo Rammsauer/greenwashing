@@ -5665,4 +5665,5 @@ another "applicant," a SHORT GUY, beside Bob.  Ricky comes
 out the front door with the BROOM...
 
 				 RICKY
+		   (to Bob)
 </pre>
