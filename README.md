@@ -5666,4 +5666,5 @@ out the front door with the BROOM...
 
 				 RICKY
 		   (to Bob)
+	 You're too fucking old, fatty!  We
 </pre>
