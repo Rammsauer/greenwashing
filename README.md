@@ -5668,4 +5668,5 @@ out the front door with the BROOM...
 		   (to Bob)
 	 You're too fucking old, fatty!  We
 	 don't want your kind here!
+		   (to short guy)
 </pre>
