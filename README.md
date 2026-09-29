@@ -5671,4 +5671,6 @@ out the front door with the BROOM...
 		   (to short guy)
 	 You're too short.  Go away, stumpy!
 	 Go back to the circus!
+
+Ricky HITS them with the broom, then goes in, SLAMS THE DOOR.
 </pre>
