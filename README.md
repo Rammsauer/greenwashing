@@ -5670,4 +5670,5 @@ out the front door with the BROOM...
 	 don't want your kind here!
 		   (to short guy)
 	 You're too short.  Go away, stumpy!
+	 Go back to the circus!
 </pre>
