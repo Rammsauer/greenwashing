@@ -5676,4 +5676,6 @@ Ricky HITS them with the broom, then goes in, SLAMS THE DOOR.
 
 				 JACK (V.O.)
 	 So it went...
+
+EXT. BACKYARD - DAY
 </pre>
