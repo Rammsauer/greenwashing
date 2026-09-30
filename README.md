@@ -5673,4 +5673,6 @@ out the front door with the BROOM...
 	 Go back to the circus!
 
 Ricky HITS them with the broom, then goes in, SLAMS THE DOOR.
+
+				 JACK (V.O.)
 </pre>
