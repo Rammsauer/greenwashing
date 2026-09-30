@@ -5680,4 +5680,5 @@ Ricky HITS them with the broom, then goes in, SLAMS THE DOOR.
 EXT. BACKYARD - DAY
 
 Tyler works with a HALF DOZEN SPACE MONKEYS, preparing the
+square of backyard.  They pull weeds, clear rocks; working
 </pre>
