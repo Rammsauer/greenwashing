@@ -5678,4 +5678,6 @@ Ricky HITS them with the broom, then goes in, SLAMS THE DOOR.
 	 So it went...
 
 EXT. BACKYARD - DAY
+
+Tyler works with a HALF DOZEN SPACE MONKEYS, preparing the
 </pre>
