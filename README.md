@@ -5685,4 +5685,5 @@ with shovels, rakes, etc.  They cart away WHEELBARROWS of
 rocks and carry in SACKS of FERTILIZER.
 
 				 JACK (V.O.)
+	 Tyler built his army.
 </pre>
