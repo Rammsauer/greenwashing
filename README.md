@@ -5686,4 +5686,6 @@ rocks and carry in SACKS of FERTILIZER.
 
 				 JACK (V.O.)
 	 Tyler built his army.
+
+IN THE KITCHEN WINDOW, Jack watches...
 </pre>
