@@ -5688,4 +5688,6 @@ rocks and carry in SACKS of FERTILIZER.
 	 Tyler built his army.
 
 IN THE KITCHEN WINDOW, Jack watches...
+
+INT. KITCHEN - CONTINUOUS
 </pre>
