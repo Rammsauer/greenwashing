@@ -5682,4 +5682,5 @@ EXT. BACKYARD - DAY
 Tyler works with a HALF DOZEN SPACE MONKEYS, preparing the
 square of backyard.  They pull weeds, clear rocks; working
 with shovels, rakes, etc.  They cart away WHEELBARROWS of
+rocks and carry in SACKS of FERTILIZER.
 </pre>
