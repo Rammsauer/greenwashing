@@ -5692,4 +5692,6 @@ IN THE KITCHEN WINDOW, Jack watches...
 INT. KITCHEN - CONTINUOUS
 
 Jack keeps watching out the window, eats toast.
+
+				 JACK (V.O.)
 </pre>
