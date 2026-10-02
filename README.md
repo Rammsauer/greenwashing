@@ -5694,4 +5694,5 @@ INT. KITCHEN - CONTINUOUS
 Jack keeps watching out the window, eats toast.
 
 				 JACK (V.O.)
+	 To what purpose, might one ask?
 </pre>
