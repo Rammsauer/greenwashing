@@ -5695,4 +5695,5 @@ Jack keeps watching out the window, eats toast.
 
 				 JACK (V.O.)
 	 To what purpose, might one ask?
+	 Well, one might ask, if not for the
 </pre>
