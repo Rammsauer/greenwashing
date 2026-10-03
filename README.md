@@ -5700,4 +5700,5 @@ Jack keeps watching out the window, eats toast.
 
 Jack turns to look around the kitchen.  THREE SPACE MONKEYS
 work -- one SCRUBBING the FLOOR, one WASHING DISHES, one
+SCRUBBING the walls.  Jack walks out.
 </pre>
