@@ -5697,4 +5697,6 @@ Jack keeps watching out the window, eats toast.
 	 To what purpose, might one ask?
 	 Well, one might ask, if not for the
 	 first rule of Project Mayhem.
+
+Jack turns to look around the kitchen.  THREE SPACE MONKEYS
 </pre>
