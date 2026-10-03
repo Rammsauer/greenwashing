@@ -5703,4 +5703,5 @@ work -- one SCRUBBING the FLOOR, one WASHING DISHES, one
 SCRUBBING the walls.  Jack walks out.
 
 				 JACK (V.O.)
+	 In Tyler We Trust.
 </pre>
