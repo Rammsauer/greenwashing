@@ -5704,4 +5704,6 @@ SCRUBBING the walls.  Jack walks out.
 
 				 JACK (V.O.)
 	 In Tyler We Trust.
+
+INT. JACK'S ROOM - DAY
 </pre>
