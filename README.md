@@ -5706,4 +5706,6 @@ SCRUBBING the walls.  Jack walks out.
 	 In Tyler We Trust.
 
 INT. JACK'S ROOM - DAY
+
+Jack opens his eyes, awakening to sunlight thru the window.
 </pre>
