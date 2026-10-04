@@ -5708,4 +5708,6 @@ SCRUBBING the walls.  Jack walks out.
 INT. JACK'S ROOM - DAY
 
 Jack opens his eyes, awakening to sunlight thru the window.
+
+				 JACK (V.O.)
 </pre>
