@@ -5710,4 +5710,5 @@ INT. JACK'S ROOM - DAY
 Jack opens his eyes, awakening to sunlight thru the window.
 
 				 JACK (V.O.)
+	 And, then...
 </pre>
