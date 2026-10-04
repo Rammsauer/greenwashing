@@ -5711,4 +5711,6 @@ Jack opens his eyes, awakening to sunlight thru the window.
 
 				 JACK (V.O.)
 	 And, then...
+
+INT. UPSTAIRS LANDING - DAY
 </pre>
