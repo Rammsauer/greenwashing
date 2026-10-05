@@ -5715,4 +5715,6 @@ Jack opens his eyes, awakening to sunlight thru the window.
 INT. UPSTAIRS LANDING - DAY
 
 Jack slowly pushes open the door to Tyler's room...
+
+				 JACK
 </pre>
