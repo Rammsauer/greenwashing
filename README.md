@@ -5718,4 +5718,6 @@ Jack slowly pushes open the door to Tyler's room...
 
 				 JACK
 	 Tyler...
+
+The room is empty.  Jack stares.
 </pre>
