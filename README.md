@@ -5723,4 +5723,6 @@ The room is empty.  Jack stares.
 
 				 JACK (V.O.)
 	 He was gone.
+
+INT. LIVING ROOM - DAY
 </pre>
