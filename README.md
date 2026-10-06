@@ -5722,4 +5722,5 @@ Jack slowly pushes open the door to Tyler's room...
 The room is empty.  Jack stares.
 
 				 JACK (V.O.)
+	 He was gone.
 </pre>
