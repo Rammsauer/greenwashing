@@ -5725,4 +5725,6 @@ The room is empty.  Jack stares.
 	 He was gone.
 
 INT. LIVING ROOM - DAY
+
+Jack comes downstairs... finds DOZENS of SPACE MONKEYS.
 </pre>
