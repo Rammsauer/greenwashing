@@ -5727,4 +5727,6 @@ The room is empty.  Jack stares.
 INT. LIVING ROOM - DAY
 
 Jack comes downstairs... finds DOZENS of SPACE MONKEYS.
+
+INT.  KITCHEN - NIGHT
 </pre>
