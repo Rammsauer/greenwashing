@@ -5737,4 +5737,5 @@ wall is a big bulletin board with HUNDREDS of DRIVER's
 LICENSES; a sign above it: "HUMAN SACRIFICES."
 
 				 FRECKLED SPACE MONKEY
+	 "You are not a beautiful and unique
 </pre>
