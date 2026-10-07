@@ -5735,4 +5735,6 @@ pinch HERBS, adding them to the mix.  They add VODKA.  Off
 to the side, a couple Monkeys stir a vat of RICE.  On the
 wall is a big bulletin board with HUNDREDS of DRIVER's
 LICENSES; a sign above it: "HUMAN SACRIFICES."
+
+				 FRECKLED SPACE MONKEY
 </pre>
