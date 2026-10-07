@@ -5731,4 +5731,5 @@ Jack comes downstairs... finds DOZENS of SPACE MONKEYS.
 INT.  KITCHEN - NIGHT
 
 Jack enters.  Space Monkeys render fat and make soap.  They
+pinch HERBS, adding them to the mix.  They add VODKA.  Off
 </pre>
