@@ -5729,4 +5729,6 @@ INT. LIVING ROOM - DAY
 Jack comes downstairs... finds DOZENS of SPACE MONKEYS.
 
 INT.  KITCHEN - NIGHT
+
+Jack enters.  Space Monkeys render fat and make soap.  They
 </pre>
