@@ -5740,4 +5740,5 @@ LICENSES; a sign above it: "HUMAN SACRIFICES."
 	 "You are not a beautiful and unique
 	 snowflake.  You are the same decaying
 	 organic matter as everything else.
+	 We are all part of the same compost
 </pre>
