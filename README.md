@@ -5738,4 +5738,5 @@ LICENSES; a sign above it: "HUMAN SACRIFICES."
 
 				 FRECKLED SPACE MONKEY
 	 "You are not a beautiful and unique
+	 snowflake.  You are the same decaying
 </pre>
