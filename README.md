@@ -5747,4 +5747,6 @@ LICENSES; a sign above it: "HUMAN SACRIFICES."
 	 Planet Tyler.
 
 Jack dips a spoon into the rice, chomps on it irritatingly.
+
+				 FRECKLED SPACE MONKEY
 </pre>
