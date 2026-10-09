@@ -5745,4 +5745,6 @@ LICENSES; a sign above it: "HUMAN SACRIFICES."
 
 				 JACK (V.O.)
 	 Planet Tyler.
+
+Jack dips a spoon into the rice, chomps on it irritatingly.
 </pre>
