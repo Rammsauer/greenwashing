@@ -5750,4 +5750,5 @@ Jack dips a spoon into the rice, chomps on it irritatingly.
 
 				 FRECKLED SPACE MONKEY
 	 "We are the all-singing, all-dancing
+	 crap of the world."
 </pre>
