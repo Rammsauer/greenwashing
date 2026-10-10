@@ -5759,4 +5759,6 @@ Jack picks up a BOTTLE of VODKA.
 	 inside this clockwork of Space
 	 Monkeys, cooking and working and
 	 sleeping in teams.
+
+INT. READING ROOM - NIGHT
 </pre>
