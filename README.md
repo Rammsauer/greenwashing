@@ -5753,4 +5753,6 @@ Jack dips a spoon into the rice, chomps on it irritatingly.
 	 crap of the world."
 
 Jack picks up a BOTTLE of VODKA.
+
+				 JACK (V.O.)
 </pre>
