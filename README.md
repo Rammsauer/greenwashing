@@ -5755,4 +5755,5 @@ Jack dips a spoon into the rice, chomps on it irritatingly.
 Jack picks up a BOTTLE of VODKA.
 
 				 JACK (V.O.)
+	 I had to hug the walls, trapped
 </pre>
