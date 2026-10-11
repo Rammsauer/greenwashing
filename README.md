@@ -5766,4 +5766,5 @@ Jack enters, vodka in hand.  TEN SPACE MONKEYS here, reading.
 
 				 JACK (V.O.)
 	 The house became a living thing, wet
+	 inside from so many people sweating
 </pre>
