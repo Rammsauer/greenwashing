@@ -5761,4 +5761,6 @@ Jack picks up a BOTTLE of VODKA.
 	 sleeping in teams.
 
 INT. READING ROOM - NIGHT
+
+Jack enters, vodka in hand.  TEN SPACE MONKEYS here, reading.
 </pre>
