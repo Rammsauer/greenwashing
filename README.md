@@ -5763,4 +5763,6 @@ Jack picks up a BOTTLE of VODKA.
 INT. READING ROOM - NIGHT
 
 Jack enters, vodka in hand.  TEN SPACE MONKEYS here, reading.
+
+				 JACK (V.O.)
 </pre>
