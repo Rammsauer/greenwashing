@@ -5773,4 +5773,6 @@ Jack enters, vodka in hand.  TEN SPACE MONKEYS here, reading.
 Jack walks out.
 
 INT. OFFICE - DAY
+
+Jack enters.  Angel Face reads a book, marks on a chart.
 </pre>
