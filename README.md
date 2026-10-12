@@ -5771,4 +5771,6 @@ Jack enters, vodka in hand.  TEN SPACE MONKEYS here, reading.
 	 moving, the house moved.
 
 Jack walks out.
+
+INT. OFFICE - DAY
 </pre>
