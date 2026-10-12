@@ -5769,4 +5769,6 @@ Jack enters, vodka in hand.  TEN SPACE MONKEYS here, reading.
 	 inside from so many people sweating
 	 and breathing.  So many people
 	 moving, the house moved.
+
+Jack walks out.
 </pre>
