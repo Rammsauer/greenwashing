@@ -5776,4 +5776,5 @@ INT. OFFICE - DAY
 
 Jack enters.  Angel Face reads a book, marks on a chart.
 Space Monkeys shuffle PAPERS and NEWS CLIPPINGS.  Walls are
+lined with FILES, each labeled with a STREET ADDRESS, under
 </pre>
