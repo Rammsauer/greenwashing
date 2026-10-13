@@ -5780,4 +5780,5 @@ lined with FILES, each labeled with a STREET ADDRESS, under
 SIGNS: "Mischief," "Disinformation," "Arson."
 
 Jack's eye lingers on "Arson." He starts flipping through
+a file.  Angel Face comes to take the file from him.
 </pre>
