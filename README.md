@@ -5783,4 +5783,5 @@ Jack's eye lingers on "Arson." He starts flipping through
 a file.  Angel Face comes to take the file from him.
 
 				 ANGEL FACE
+	 That wouldn't interest you.
 </pre>
