@@ -5798,4 +5798,6 @@ As Angel Face replaces the file, Jack notices -- a LYE-
 BURNED KISS-SCAR on the back of Angel Face's hand.
 
 EXT. BACK YARD - NIGHT
+
+Jack takes a swig of vodka, smokes.  In the BACKGROUND, a
 </pre>
