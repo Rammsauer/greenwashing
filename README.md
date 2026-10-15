@@ -5795,4 +5795,5 @@ a file.  Angel Face comes to take the file from him.
 	 Right, right.
 
 As Angel Face replaces the file, Jack notices -- a LYE-
+BURNED KISS-SCAR on the back of Angel Face's hand.
 </pre>
