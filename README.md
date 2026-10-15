@@ -5793,4 +5793,6 @@ a file.  Angel Face comes to take the file from him.
 
 				 JACK
 	 Right, right.
+
+As Angel Face replaces the file, Jack notices -- a LYE-
 </pre>
