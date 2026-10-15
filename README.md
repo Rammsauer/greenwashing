@@ -5796,4 +5796,6 @@ a file.  Angel Face comes to take the file from him.
 
 As Angel Face replaces the file, Jack notices -- a LYE-
 BURNED KISS-SCAR on the back of Angel Face's hand.
+
+EXT. BACK YARD - NIGHT
 </pre>
