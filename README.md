@@ -5805,4 +5805,5 @@ ritual; no words.  Other Space Monkeys tend the garden.
 
 				 JACK (V.O.)
 	 I'm all alone.  I Am Jack's Broken
+	 Heart.
 </pre>
