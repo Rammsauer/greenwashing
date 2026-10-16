@@ -5802,4 +5802,6 @@ EXT. BACK YARD - NIGHT
 Jack takes a swig of vodka, smokes.  In the BACKGROUND, a
 Space Monkey WHACKS an APPLICANT with a BROOM.  It's a
 ritual; no words.  Other Space Monkeys tend the garden.
+
+				 JACK (V.O.)
 </pre>
