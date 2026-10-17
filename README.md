@@ -5815,4 +5815,6 @@ Space Monkey immediately comes to clean it up.
 
 				 MARLA'S VOICE (O.S.)
 	 Who are all these people?
+
+Jack turns, sees Marla with an overnight bag.
 </pre>
