@@ -5811,4 +5811,5 @@ Jack drops his cigarette in the gravel, steps on it.  A
 Space Monkey immediately comes to clean it up.
 
 				 JACK
+	 Get away from me!
 </pre>
