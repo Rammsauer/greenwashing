@@ -5828,4 +5828,5 @@ Jack turns, sees Marla with an overnight bag.
 	 He's not here.
 
 				 MARLA
+	 What?
 </pre>
