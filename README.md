@@ -5831,4 +5831,5 @@ Jack turns, sees Marla with an overnight bag.
 	 What?
 
 				 JACK
+	 He's not here!  Tyler's not here
 </pre>
