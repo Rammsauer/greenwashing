@@ -5838,4 +5838,6 @@ Marla stares at Jack, miserable.  A tear runs down her
 cheek.  She turns and walks away.  Jack watches her go.
 There's a LOUD COMMOTION from the house, VOICES SHOUTING.
 Jack heads to the back door...
+
+INT. KITCHEN - CONTINUOUS
 </pre>
