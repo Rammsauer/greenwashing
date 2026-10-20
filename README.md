@@ -5833,4 +5833,6 @@ Jack turns, sees Marla with an overnight bag.
 				 JACK
 	 He's not here!  Tyler's not here
 	 anymore!  He's gone away!
+
+Marla stares at Jack, miserable.  A tear runs down her
 </pre>
