@@ -5835,4 +5835,5 @@ Jack turns, sees Marla with an overnight bag.
 	 anymore!  He's gone away!
 
 Marla stares at Jack, miserable.  A tear runs down her
+cheek.  She turns and walks away.  Jack watches her go.
 </pre>
