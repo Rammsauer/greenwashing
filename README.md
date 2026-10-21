@@ -5847,4 +5847,5 @@ the wound.  Other Space Monkeys carry in a DEAD BODY in
 BLACK CLOTHES and SKI MASK, putting it on the table.
 
 				 JACK
+	 What's going on?
 </pre>
