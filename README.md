@@ -5845,4 +5845,6 @@ Jack enters.  Ricky crawls, bleeding from a gunshot wound to
 the LEG.  Space Monkeys begin a rudimentary job of treating
 the wound.  Other Space Monkeys carry in a DEAD BODY in
 BLACK CLOTHES and SKI MASK, putting it on the table.
+
+				 JACK
 </pre>
