@@ -5843,4 +5843,5 @@ INT. KITCHEN - CONTINUOUS
 
 Jack enters.  Ricky crawls, bleeding from a gunshot wound to
 the LEG.  Space Monkeys begin a rudimentary job of treating
+the wound.  Other Space Monkeys carry in a DEAD BODY in
 </pre>
