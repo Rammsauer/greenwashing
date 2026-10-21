@@ -5848,4 +5848,6 @@ BLACK CLOTHES and SKI MASK, putting it on the table.
 
 				 JACK
 	 What's going on?
+
+Space Monkeys stare at the body.  The Mechanic, sweating,
 </pre>
