@@ -5842,4 +5842,5 @@ Jack heads to the back door...
 INT. KITCHEN - CONTINUOUS
 
 Jack enters.  Ricky crawls, bleeding from a gunshot wound to
+the LEG.  Space Monkeys begin a rudimentary job of treating
 </pre>
