@@ -5854,4 +5854,5 @@ gets to his knees and pulls the ski mask off the corpse --
 it's BOB, with a gunshot wound to the HEAD.
 
 				 JACK
+	 Bob... oh, Christ...
 </pre>
