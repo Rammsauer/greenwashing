@@ -5855,4 +5855,6 @@ it's BOB, with a gunshot wound to the HEAD.
 
 				 JACK
 	 Bob... oh, Christ...
+
+Jack pushes past a Space Monkey, stares down, stricken...
 </pre>
