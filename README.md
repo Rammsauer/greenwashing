@@ -5852,4 +5852,6 @@ BLACK CLOTHES and SKI MASK, putting it on the table.
 Space Monkeys stare at the body.  The Mechanic, sweating,
 gets to his knees and pulls the ski mask off the corpse --
 it's BOB, with a gunshot wound to the HEAD.
+
+				 JACK
 </pre>
