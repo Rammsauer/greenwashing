@@ -5850,4 +5850,5 @@ BLACK CLOTHES and SKI MASK, putting it on the table.
 	 What's going on?
 
 Space Monkeys stare at the body.  The Mechanic, sweating,
+gets to his knees and pulls the ski mask off the corpse --
 </pre>
