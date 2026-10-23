@@ -5859,4 +5859,5 @@ it's BOB, with a gunshot wound to the HEAD.
 Jack pushes past a Space Monkey, stares down, stricken...
 
 				 JACK
+	 What... what happened... ?
 </pre>
