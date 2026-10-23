@@ -5860,4 +5860,6 @@ Jack pushes past a Space Monkey, stares down, stricken...
 
 				 JACK
 	 What... what happened... ?
+
+				 MECHANIC
 </pre>
