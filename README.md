@@ -5864,4 +5864,6 @@ Jack pushes past a Space Monkey, stares down, stricken...
 				 MECHANIC
 		   (out of breath)
 	 We were on assignment...
+
+EXT. SCULPTURE PARK - NIGHT (FLASHBACK)
 </pre>
