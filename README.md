@@ -5868,4 +5868,6 @@ Jack pushes past a Space Monkey, stares down, stricken...
 EXT. SCULPTURE PARK - NIGHT (FLASHBACK)
 
 A SCULPTURE adorned with a giant GLOBE on top.
+
+				 MECHANIC (V.O.)
 </pre>
