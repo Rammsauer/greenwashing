@@ -5872,4 +5872,6 @@ A SCULPTURE adorned with a giant GLOBE on top.
 				 MECHANIC (V.O.)
 	 We were supposed to kill two birds
 	 with one stone:
+
+A SERIES of EXPLOSIONS blasts the GLOBE free.  It ROLLS...
 </pre>
