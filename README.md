@@ -5870,4 +5870,5 @@ EXT. SCULPTURE PARK - NIGHT (FLASHBACK)
 A SCULPTURE adorned with a giant GLOBE on top.
 
 				 MECHANIC (V.O.)
+	 We were supposed to kill two birds
 </pre>
