@@ -5866,4 +5866,6 @@ Jack pushes past a Space Monkey, stares down, stricken...
 	 We were on assignment...
 
 EXT. SCULPTURE PARK - NIGHT (FLASHBACK)
+
+A SCULPTURE adorned with a giant GLOBE on top.
 </pre>
