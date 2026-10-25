@@ -5874,4 +5874,6 @@ A SCULPTURE adorned with a giant GLOBE on top.
 	 with one stone:
 
 A SERIES of EXPLOSIONS blasts the GLOBE free.  It ROLLS...
+
+				 MECHANIC (V.O.)
 </pre>
