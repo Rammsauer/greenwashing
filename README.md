@@ -5877,4 +5877,6 @@ A SERIES of EXPLOSIONS blasts the GLOBE free.  It ROLLS...
 
 				 MECHANIC (V.O.)
 	 A piece of corporate art...
+
+The GLOBE ROLLS downhill, to the street -- rolling over one
 </pre>
