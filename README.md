@@ -5884,4 +5884,6 @@ causing windows to explode...
 
 				 MECHANIC (V.O.)
 	 ... and trash a trendy coffee bar.
+
+Then, the GLOBE arrives at the lobby of a HOTEL...
 </pre>
