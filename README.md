@@ -5883,4 +5883,5 @@ parked LUXURY CAR after another, crunching car roofs and
 causing windows to explode...
 
 				 MECHANIC (V.O.)
+	 ... and trash a trendy coffee bar.
 </pre>
