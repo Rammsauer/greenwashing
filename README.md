@@ -5881,4 +5881,6 @@ A SERIES of EXPLOSIONS blasts the GLOBE free.  It ROLLS...
 The GLOBE ROLLS downhill, to the street -- rolling over one
 parked LUXURY CAR after another, crunching car roofs and
 causing windows to explode...
+
+				 MECHANIC (V.O.)
 </pre>
