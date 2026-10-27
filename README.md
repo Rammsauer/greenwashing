@@ -5891,4 +5891,6 @@ front of a closed ARROSTO coffee bar, SMASHING windows...
 DECIMATING coffee push-pats...
 
 EXT. PARK - AERIAL VIEW - (FLASHBACK CONTINUOUS)
+
+Bob, the Mechanic and Ricky FLEE, LAUGHING at their
 </pre>
