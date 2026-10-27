@@ -5894,4 +5894,6 @@ EXT. PARK - AERIAL VIEW - (FLASHBACK CONTINUOUS)
 
 Bob, the Mechanic and Ricky FLEE, LAUGHING at their
 handiwork.  They split up, running O.S.
+
+				 MECHANIC (V.O.)
 </pre>
