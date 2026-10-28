@@ -5901,4 +5901,6 @@ handiwork.  They split up, running O.S.
 
 				 HARSH VOICE
 	 Police!  Freeze!
+
+O.S. SOUNDS of GUNSHOTS and FLASHES of MUZZLE FIRE.
 </pre>
