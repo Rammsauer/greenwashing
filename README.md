@@ -5900,4 +5900,5 @@ handiwork.  They split up, running O.S.
 	 went smooth... until...
 
 				 HARSH VOICE
+	 Police!  Freeze!
 </pre>
