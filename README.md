@@ -5903,4 +5903,6 @@ handiwork.  They split up, running O.S.
 	 Police!  Freeze!
 
 O.S. SOUNDS of GUNSHOTS and FLASHES of MUZZLE FIRE.
+
+INT. KITCHEN - NIGHT - (RESUMING)
 </pre>
