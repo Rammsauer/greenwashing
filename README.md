@@ -5898,4 +5898,6 @@ handiwork.  They split up, running O.S.
 				 MECHANIC (V.O.)
 	 We had it all worked out, man.  It
 	 went smooth... until...
+
+				 HARSH VOICE
 </pre>
