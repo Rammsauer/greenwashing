@@ -5911,4 +5911,6 @@ The Mechanic looks up from Bob's corpse.
 				 MECHANIC
 	 They shot Bob... they shot him in the
 	 head.  Those fuckers...
+
+Jack walks away from Bob's corpse, distraught, holds his
 </pre>
