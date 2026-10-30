@@ -5919,4 +5919,5 @@ head, turns to look back, his eyes filling with tears.
 	 We gotta do something.
 
 				 RICKY
+	 We got to get rid of the evidence.
 </pre>
