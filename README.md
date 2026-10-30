@@ -5916,4 +5916,5 @@ Jack walks away from Bob's corpse, distraught, holds his
 head, turns to look back, his eyes filling with tears.
 
 				 ANOTHER SPACE MONKEY
+	 We gotta do something.
 </pre>
