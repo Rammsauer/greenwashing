@@ -5923,4 +5923,5 @@ head, turns to look back, his eyes filling with tears.
 	 We have to get rid of this body.
 
 				 ANGEL FACE
+	 Bury him...
 </pre>
