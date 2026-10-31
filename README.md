@@ -5924,4 +5924,6 @@ head, turns to look back, his eyes filling with tears.
 
 				 ANGEL FACE
 	 Bury him...
+
+Jack looks around in disbelief.
 </pre>
