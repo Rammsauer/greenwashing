@@ -5926,4 +5926,6 @@ head, turns to look back, his eyes filling with tears.
 	 Bury him...
 
 Jack looks around in disbelief.
+
+				 JACK
 </pre>
