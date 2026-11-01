@@ -5937,4 +5937,5 @@ Jack looks around in disbelief.
 Several Space Monkeys gather around Bob's body.
 
 				 JACK
+	 No... !
 </pre>
