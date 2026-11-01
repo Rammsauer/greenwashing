@@ -5935,4 +5935,6 @@ Jack looks around in disbelief.
 	 people.  Let's do this!
 
 Several Space Monkeys gather around Bob's body.
+
+				 JACK
 </pre>
