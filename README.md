@@ -5932,4 +5932,5 @@ Jack looks around in disbelief.
 
 				 ANGEL FACE
 	 The garden.  Take him there.  Move,
+	 people.  Let's do this!
 </pre>
