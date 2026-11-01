@@ -5929,4 +5929,6 @@ Jack looks around in disbelief.
 
 				 JACK
 	 What... ?
+
+				 ANGEL FACE
 </pre>
