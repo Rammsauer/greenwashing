@@ -5943,4 +5943,5 @@ Space Monkeys stop.  Jack gets between them and Bob, SHOVES
 a few Space Monkeys back...
 
 				 JACK
+	 Get your hands off him!  Get off...!
 </pre>
