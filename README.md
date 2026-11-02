@@ -5944,4 +5944,5 @@ a few Space Monkeys back...
 
 				 JACK
 	 Get your hands off him!  Get off...!
+	 What the hell do you think you're
 </pre>
