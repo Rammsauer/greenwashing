@@ -5940,4 +5940,5 @@ Several Space Monkeys gather around Bob's body.
 	 No... !
 
 Space Monkeys stop.  Jack gets between them and Bob, SHOVES
+a few Space Monkeys back...
 </pre>
