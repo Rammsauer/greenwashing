@@ -5947,4 +5947,6 @@ a few Space Monkeys back...
 	 What the hell do you think you're
 	 doing... ? Evidence?!  This is a
 	 man... !  You killed him!
+
+				 ANGEL FACE
 </pre>
