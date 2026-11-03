@@ -5952,4 +5952,5 @@ a few Space Monkeys back...
 	 He was killed in action.
 
 				 JACK
+	 No!  Look at you!  You're... you're
 </pre>
