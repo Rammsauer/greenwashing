@@ -5950,4 +5950,6 @@ a few Space Monkeys back...
 
 				 ANGEL FACE
 	 He was killed in action.
+
+				 JACK
 </pre>
