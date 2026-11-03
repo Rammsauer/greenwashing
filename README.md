@@ -5953,4 +5953,5 @@ a few Space Monkeys back...
 
 				 JACK
 	 No!  Look at you!  You're... you're
+	 running around in ski masks,
 </pre>
