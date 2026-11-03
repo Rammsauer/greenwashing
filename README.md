@@ -5949,4 +5949,5 @@ a few Space Monkeys back...
 	 man... !  You killed him!
 
 				 ANGEL FACE
+	 He was killed in action.
 </pre>
