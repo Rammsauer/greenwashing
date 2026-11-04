@@ -5960,4 +5960,5 @@ a few Space Monkeys back...
 	 He was killed serving Project Mayhem.
 
 				 RICKY
+	 It's what he would have wanted, sir.
 </pre>
