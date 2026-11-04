@@ -5955,4 +5955,6 @@ a few Space Monkeys back...
 	 No!  Look at you!  You're... you're
 	 running around in ski masks,
 	 exploding things...
+
+				 ANGEL FACE
 </pre>
