@@ -5958,4 +5958,6 @@ a few Space Monkeys back...
 
 				 ANGEL FACE
 	 He was killed serving Project Mayhem.
+
+				 RICKY
 </pre>
