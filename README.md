@@ -5963,4 +5963,5 @@ a few Space Monkeys back...
 	 It's what he would have wanted, sir.
 
 				 JACK
+	 What he wanted?  Look... look at him.
 </pre>
