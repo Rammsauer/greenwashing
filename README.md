@@ -5966,4 +5966,5 @@ a few Space Monkeys back...
 	 What he wanted?  Look... look at him.
 	 Look at him!  What does he want?
 		   (wipes tears,
+			points at Bob)
 </pre>
