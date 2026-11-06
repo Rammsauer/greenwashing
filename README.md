@@ -5974,4 +5974,5 @@ a few Space Monkeys back...
 	 But, this is Project Mayhem.
 
 				 JACK
+	 No, no.  This is a man -- this man
 </pre>
