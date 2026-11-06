@@ -5976,4 +5976,6 @@ a few Space Monkeys back...
 				 JACK
 	 No, no.  This is a man -- this man
 	 has a name...
+
+				 RICKY
 </pre>
