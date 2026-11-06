@@ -5969,4 +5969,6 @@ a few Space Monkeys back...
 			points at Bob)
 	 This is a person.  This is not a cog
 	 in your machine...
+
+				 RICKY
 </pre>
