@@ -5982,4 +5982,5 @@ a few Space Monkeys back...
 	 names.
 
 				 JACK
+	 No!  Wrong!  This man's name is
 </pre>
