@@ -5989,4 +5989,5 @@ a few Space Monkeys back...
 	 Robert Paulson?
 
 				 JACK
+	 Robert Paulson is dead.  He's dead,
 </pre>
