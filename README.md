@@ -5991,4 +5991,6 @@ a few Space Monkeys back...
 				 JACK
 	 Robert Paulson is dead.  He's dead,
 	 because of you...
+
+				 MECHANIC
 </pre>
