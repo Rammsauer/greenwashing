@@ -5998,4 +5998,5 @@ a few Space Monkeys back...
 Everyone just stares at Jack.
 
 				 MECHANIC
+	 In death, a member of Project Mayhem
 </pre>
