@@ -5994,4 +5994,6 @@ a few Space Monkeys back...
 
 				 MECHANIC
 	 I understand.
+
+Everyone just stares at Jack.
 </pre>
