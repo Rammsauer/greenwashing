@@ -5999,4 +5999,5 @@ Everyone just stares at Jack.
 
 				 MECHANIC
 	 In death, a member of Project Mayhem
+	 has a name.
 </pre>
