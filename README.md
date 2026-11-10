@@ -6003,4 +6003,6 @@ Everyone just stares at Jack.
 
 				 JACK
 	 No -- !
+
+				 MECHANIC
 </pre>
