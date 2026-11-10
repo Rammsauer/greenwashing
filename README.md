@@ -6006,4 +6006,6 @@ Everyone just stares at Jack.
 
 				 MECHANIC
 	 His name is Robert Paulson.
+
+				 RICKY
 </pre>
