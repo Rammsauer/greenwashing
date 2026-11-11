@@ -6012,4 +6012,6 @@ Everyone just stares at Jack.
 
 				 JACK
 	 No!
+
+				 ALL SPACE MONKEYS
 </pre>
