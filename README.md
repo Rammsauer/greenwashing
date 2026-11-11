@@ -6009,4 +6009,6 @@ Everyone just stares at Jack.
 
 				 RICKY
 	 His name is Robert Paulson!
+
+				 JACK
 </pre>
