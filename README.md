@@ -6023,4 +6023,6 @@ Everyone just stares at Jack.
 		   (louder)
 	 His name is Robert Paulson!  His name
 	 is Robert Paulson...
+
+Jack backs away, surrounded, PUSHES his way out of the room.
 </pre>
