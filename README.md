@@ -6022,4 +6022,5 @@ Everyone just stares at Jack.
 				 ALL SPACE MONKEYS
 		   (louder)
 	 His name is Robert Paulson!  His name
+	 is Robert Paulson...
 </pre>
