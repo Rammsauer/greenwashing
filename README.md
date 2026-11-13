@@ -6027,4 +6027,6 @@ Everyone just stares at Jack.
 Jack backs away, surrounded, PUSHES his way out of the room.
 
 INT. TYLER'S ROOM - MOMENTS LATER
+
+Jack barges in, goes to the desk, rifling through drawers.
 </pre>
