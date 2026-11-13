@@ -6025,4 +6025,6 @@ Everyone just stares at Jack.
 	 is Robert Paulson...
 
 Jack backs away, surrounded, PUSHES his way out of the room.
+
+INT. TYLER'S ROOM - MOMENTS LATER
 </pre>
