@@ -6030,4 +6030,5 @@ INT. TYLER'S ROOM - MOMENTS LATER
 
 Jack barges in, goes to the desk, rifling through drawers.
 He finds FLIGHT COUPONS, used and unused.  The used coupons.
+have the flight information, including the destination
 </pre>
