@@ -6039,4 +6039,5 @@ cities.  The PHONE RINGS.  Jack answers it...
 				 DETECTIVE STERN'S VOICE
 		   (from phone)
 	 This is Detective Stern of the arson
+	 unit.  I'd like to see you in my
 </pre>
