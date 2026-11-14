@@ -6037,4 +6037,5 @@ cities.  The PHONE RINGS.  Jack answers it...
 	 Tyler?
 
 				 DETECTIVE STERN'S VOICE
+		   (from phone)
 </pre>
