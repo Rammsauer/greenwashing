@@ -6047,4 +6047,6 @@ Jack, in a panic, HANGS UP.
 INSERT - AN AIRPLANE TAKES OFF...
 
 INT. PLANE CABIN - DAY
+
+Jack sits stiffly in a seat.
 </pre>
