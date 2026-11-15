@@ -6041,4 +6041,6 @@ cities.  The PHONE RINGS.  Jack answers it...
 	 This is Detective Stern of the arson
 	 unit.  I'd like to see you in my
 	 office tomorrow morning...
+
+Jack, in a panic, HANGS UP.
 </pre>
