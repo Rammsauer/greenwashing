@@ -6045,4 +6045,6 @@ cities.  The PHONE RINGS.  Jack answers it...
 Jack, in a panic, HANGS UP.
 
 INSERT - AN AIRPLANE TAKES OFF...
+
+INT. PLANE CABIN - DAY
 </pre>
