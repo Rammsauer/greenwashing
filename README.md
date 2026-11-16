@@ -6055,4 +6055,6 @@ Jack sits stiffly in a seat.
 	 tickets stubs.
 
 INSERT - A SIGN: "LA GUARDIA INTERNATIONAL AIRPORT"
+
+EXT. AIRPORT - NIGHT
 </pre>
