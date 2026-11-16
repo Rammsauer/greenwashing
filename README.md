@@ -6053,4 +6053,6 @@ Jack sits stiffly in a seat.
 				 JACK (V.O.)
 	 I went to the cities on Tyler's used
 	 tickets stubs.
+
+INSERT - A SIGN: "LA GUARDIA INTERNATIONAL AIRPORT"
 </pre>
