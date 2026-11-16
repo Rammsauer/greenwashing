@@ -6051,4 +6051,5 @@ INT. PLANE CABIN - DAY
 Jack sits stiffly in a seat.
 
 				 JACK (V.O.)
+	 I went to the cities on Tyler's used
 </pre>
