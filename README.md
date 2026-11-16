@@ -6049,4 +6049,6 @@ INSERT - AN AIRPLANE TAKES OFF...
 INT. PLANE CABIN - DAY
 
 Jack sits stiffly in a seat.
+
+				 JACK (V.O.)
 </pre>
