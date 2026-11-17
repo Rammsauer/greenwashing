@@ -6064,4 +6064,6 @@ Jack hurries from the terminal, runs to a TAXI ...
 	 In every city, I branched out from
 	 the airport to downtown, bar-
 	 hopping...
+
+INT. TAXI - IN MOTION, MID-CITY - NIGHT
 </pre>
