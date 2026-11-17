@@ -6057,4 +6057,6 @@ Jack sits stiffly in a seat.
 INSERT - A SIGN: "LA GUARDIA INTERNATIONAL AIRPORT"
 
 EXT. AIRPORT - NIGHT
+
+Jack hurries from the terminal, runs to a TAXI ...
 </pre>
