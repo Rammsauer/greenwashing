@@ -6061,4 +6061,5 @@ EXT. AIRPORT - NIGHT
 Jack hurries from the terminal, runs to a TAXI ...
 
 				 JACK (V.O.)
+	 In every city, I branched out from
 </pre>
