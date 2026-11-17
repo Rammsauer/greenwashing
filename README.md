@@ -6059,4 +6059,6 @@ INSERT - A SIGN: "LA GUARDIA INTERNATIONAL AIRPORT"
 EXT. AIRPORT - NIGHT
 
 Jack hurries from the terminal, runs to a TAXI ...
+
+				 JACK (V.O.)
 </pre>
