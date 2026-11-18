@@ -6068,4 +6068,6 @@ Jack hurries from the terminal, runs to a TAXI ...
 INT. TAXI - IN MOTION, MID-CITY - NIGHT
 
 Jack's looks out the window, intently watching buildings.
+
+				 JACK (V.0.)
 </pre>
