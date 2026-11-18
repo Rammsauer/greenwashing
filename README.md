@@ -6072,4 +6072,5 @@ Jack's looks out the window, intently watching buildings.
 				 JACK (V.0.)
 	 I didn't know how or why, but I could
 	 look at fifty different bars, and
+	 somehow I just knew...
 </pre>
