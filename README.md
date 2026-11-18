@@ -6070,4 +6070,5 @@ INT. TAXI - IN MOTION, MID-CITY - NIGHT
 Jack's looks out the window, intently watching buildings.
 
 				 JACK (V.0.)
+	 I didn't know how or why, but I could
 </pre>
