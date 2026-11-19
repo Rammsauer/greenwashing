@@ -6079,4 +6079,6 @@ Jack's looks out the window, intently watching buildings.
 	 Here.  Let me out, right here...
 
 INT. BAR - NIGHT
+
+Jack enters.  He sees several MALE PATRONS with FIGHT
 </pre>
