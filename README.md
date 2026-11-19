@@ -6077,4 +6077,6 @@ Jack's looks out the window, intently watching buildings.
 				 JACK
 		   (to driver, points)
 	 Here.  Let me out, right here...
+
+INT. BAR - NIGHT
 </pre>
