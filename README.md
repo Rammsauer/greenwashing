@@ -6086,4 +6086,6 @@ arm and swollen face.
 
 				 JACK
 	 I'm looking for Tyler Durden.
+
+				 BARTENDER
 </pre>
