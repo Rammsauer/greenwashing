@@ -6083,4 +6083,6 @@ INT. BAR - NIGHT
 Jack enters.  He sees several MALE PATRONS with FIGHT
 BRUISES.  Jack moves to the bar.  The BARTENDER has a broken
 arm and swollen face.
+
+				 JACK
 </pre>
