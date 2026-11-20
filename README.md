@@ -6085,4 +6085,5 @@ BRUISES.  Jack moves to the bar.  The BARTENDER has a broken
 arm and swollen face.
 
 				 JACK
+	 I'm looking for Tyler Durden.
 </pre>
