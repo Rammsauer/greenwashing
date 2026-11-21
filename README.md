@@ -6091,4 +6091,5 @@ arm and swollen face.
 	 Never heard of him.
 
 				 JACK
+	 This is an emergency.  It's important
 </pre>
