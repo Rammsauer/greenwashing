@@ -6096,4 +6096,6 @@ arm and swollen face.
 
 				 BARTENDER
 	 I wish I could help you... sir.
+
+The bartender WINKS at Jack.
 </pre>
