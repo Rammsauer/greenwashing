@@ -6095,4 +6095,5 @@ arm and swollen face.
 	 I find him.
 
 				 BARTENDER
+	 I wish I could help you... sir.
 </pre>
