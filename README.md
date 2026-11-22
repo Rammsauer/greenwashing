@@ -6100,4 +6100,6 @@ arm and swollen face.
 The bartender WINKS at Jack.
 
 INSERT - AERIAL VIEW - ATLANTA SKYLINE - NIGHT
+
+				 JACK (V.O.)
 </pre>
