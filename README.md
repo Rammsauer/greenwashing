@@ -6098,4 +6098,6 @@ arm and swollen face.
 	 I wish I could help you... sir.
 
 The bartender WINKS at Jack.
+
+INSERT - AERIAL VIEW - ATLANTA SKYLINE - NIGHT
 </pre>
