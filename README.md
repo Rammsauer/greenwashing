@@ -6103,4 +6103,6 @@ INSERT - AERIAL VIEW - ATLANTA SKYLINE - NIGHT
 
 				 JACK (V.O.)
 	 Every city I went to...
+
+INSERT - AERIAL VIEW - CHICAGO SKYLINE - DAY
 </pre>
