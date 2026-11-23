@@ -6113,4 +6113,5 @@ INSERT - AERIAL VIEW - CHICAGO SKYLINE - DAY
 INSERT - AERIAL VIEW - DALLAS SKYLINE - NIGHT
 
 				 JACK (V.).)
+	 ...I knew fight club was close.
 </pre>
