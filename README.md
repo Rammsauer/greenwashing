@@ -6108,4 +6108,5 @@ INSERT - AERIAL VIEW - CHICAGO SKYLINE - DAY
 
 				 JACK (V.0.)
 	 ...as soon as I set foot off the
+	 plane...
 </pre>
