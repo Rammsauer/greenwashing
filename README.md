@@ -6114,4 +6114,6 @@ INSERT - AERIAL VIEW - DALLAS SKYLINE - NIGHT
 
 				 JACK (V.).)
 	 ...I knew fight club was close.
+
+INT. AIRPORT TERMINAL - NIGHT
 </pre>
