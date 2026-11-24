@@ -6116,4 +6116,6 @@ INSERT - AERIAL VIEW - DALLAS SKYLINE - NIGHT
 	 ...I knew fight club was close.
 
 INT. AIRPORT TERMINAL - NIGHT
+
+Jack RUNS through the airport, lugging his suitcase.
 </pre>
