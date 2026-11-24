@@ -6120,4 +6120,5 @@ INT. AIRPORT TERMINAL - NIGHT
 Jack RUNS through the airport, lugging his suitcase.
 
 				 JACK (V.O.)
+	 Tyler was setting up franchises, all
 </pre>
