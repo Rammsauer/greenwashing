@@ -6118,4 +6118,6 @@ INSERT - AERIAL VIEW - DALLAS SKYLINE - NIGHT
 INT. AIRPORT TERMINAL - NIGHT
 
 Jack RUNS through the airport, lugging his suitcase.
+
+				 JACK (V.O.)
 </pre>
