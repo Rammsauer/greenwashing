@@ -6126,4 +6126,6 @@ Jack RUNS through the airport, lugging his suitcase.
 INT. DRY CLEANERS - DAY
 
 The PROPRIETOR, his head bandaged, is confronted by Jack.
+
+				 JACK
 </pre>
