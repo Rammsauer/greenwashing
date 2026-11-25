@@ -6122,4 +6122,6 @@ Jack RUNS through the airport, lugging his suitcase.
 				 JACK (V.O.)
 	 Tyler was setting up franchises, all
 	 over the country.
+
+INT. DRY CLEANERS - DAY
 </pre>
