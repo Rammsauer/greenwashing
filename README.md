@@ -6130,4 +6130,6 @@ The PROPRIETOR, his head bandaged, is confronted by Jack.
 				 JACK
 	 I need to know where Tyler is.  Can't
 	 you help me?
+
+				 BANDAGED PROPRIETOR
 </pre>
