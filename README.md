@@ -6137,4 +6137,5 @@ The PROPRIETOR, his head bandaged, is confronted by Jack.
 
 				 JACK
 		   (pointing)
+	 There's no one else here.
 </pre>
