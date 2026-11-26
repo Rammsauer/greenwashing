@@ -6132,4 +6132,5 @@ The PROPRIETOR, his head bandaged, is confronted by Jack.
 	 you help me?
 
 				 BANDAGED PROPRIETOR
+	 Sir, you're disturbing the other
 </pre>
