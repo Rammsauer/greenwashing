@@ -6136,4 +6136,5 @@ The PROPRIETOR, his head bandaged, is confronted by Jack.
 	 patrons with your laudish behavior.
 
 				 JACK
+		   (pointing)
 </pre>
