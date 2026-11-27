@@ -6142,4 +6142,6 @@ The PROPRIETOR, his head bandaged, is confronted by Jack.
 				 BANDAGED PROPRIETOR
 	 I'm sorry, I haven't the faintest
 	 idea what you're talking about.
+
+				 JACK
 </pre>
