@@ -6140,4 +6140,5 @@ The PROPRIETOR, his head bandaged, is confronted by Jack.
 	 There's no one else here.
 
 				 BANDAGED PROPRIETOR
+	 I'm sorry, I haven't the faintest
 </pre>
