@@ -6144,4 +6144,5 @@ The PROPRIETOR, his head bandaged, is confronted by Jack.
 	 idea what you're talking about.
 
 				 JACK
+	 Look at my face.  I'm a member.  I
 </pre>
