@@ -6146,4 +6146,5 @@ The PROPRIETOR, his head bandaged, is confronted by Jack.
 				 JACK
 	 Look at my face.  I'm a member.  I
 	 just need to know if you've seen
+	 Tyler Durden.
 </pre>
