@@ -6149,4 +6149,5 @@ The PROPRIETOR, his head bandaged, is confronted by Jack.
 	 Tyler Durden.
 
 				 BANDAGED PROPRIETOR
+	 I'm not disclosed to bespeak any such
 </pre>
